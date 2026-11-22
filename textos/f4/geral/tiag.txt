@@ -54,7 +54,8 @@ o Senhor
 {n4}\*added
  prometeu aos que o amam.
 \v Tg.1.13
-Ninguém, quando for tentado, diga: “Sou tentado por Deus”; porque Deus não é tentado pelo mal, e ele mesmo tenta ninguém;
+{rp|n4}Ninguém, quando for tentado, diga: “Sou tentado por Deus”; porque Deus não é tentado pelo mal, e ele mesmo tenta ninguém;
+{tr}Ninguém, quando for tentado, diga: “Sou tentado por Deus”; porque Deus não é tentado pelo mal, e Ele mesmo tenta ninguém;
 \v Tg.1.14
 Mas cada um é tentado quando é atraído e seduzido pelo seu próprio mau desejo.
 \v Tg.1.15
@@ -143,7 +144,8 @@ Ouvi, meus amados irmãos: acaso Deus não escolheu os pobres
 \added
 serem
 \*added
- ricos na fé, e herdeiros do reino que ele prometeu aos que o amam?
+{rp|n4} ricos na fé, e herdeiros do reino que ele prometeu aos que o amam?
+{tr} ricos na fé, e herdeiros do reino que Ele prometeu aos que o amam?
 \v Tg.2.6
 Vós, porém, desonrastes o pobre. Acaso não são os ricos que vos oprimem e vos arrastam para os tribunais?
 \v Tg.2.7
@@ -371,7 +373,8 @@ Provérbios 3:34
 \v Tg.4.7
 Sujeitai-vos, pois, a Deus; resisti ao diabo, e ele fugirá de vós.
 \v Tg.4.8
-Aproximai-vos de Deus, e ele se aproximará de vós. Limpai as 
+{rp|n4}Aproximai-vos de Deus, e ele se aproximará de vós. Limpai as 
+{tr}Aproximai-vos de Deus, e Ele se aproximará de vós. Limpai as 
 \added
 vossas
 \*added
@@ -387,7 +390,8 @@ vossa
 \*added
  alegria em tristeza.
 \v Tg.4.10
-Humilhai-vos diante do Senhor, e ele vos exaltará.
+{rp|n4}Humilhai-vos diante do Senhor, e ele vos exaltará.
+{tr}Humilhai-vos diante do Senhor, e Ele vos exaltará.
 \v Tg.4.11
 Irmãos, não faleis mal uns dos outros. Quem fala mal de um irmão, 
 {tr|rp}e

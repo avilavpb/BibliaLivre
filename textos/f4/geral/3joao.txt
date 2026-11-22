@@ -33,7 +33,8 @@ da vontade
 \v 3Jo.1.7
 Pois foi por causa do Nome 
 {rp|n4}\added
-dele
+{rp|n4}dele
+{tr}dEle
 {rp|n4}\*added
 {trnc}\fn
 {trnc}RP, N4 não contêm “dele” 

@@ -106,9 +106,11 @@ o
 \*added
  Filho do homem, vestido até os pés de uma roupa comprida, e o tórax envolvido com um cinto de ouro;
 \v Ap.1.14
-E a cabeça e os cabelos dele eram brancos como a lã, brancos como a neve; e seus olhos como chama de fogo;
+{rp|n4}E a cabeça e os cabelos dele eram brancos como a lã, brancos como a neve; e seus olhos como chama de fogo;
+{tr}E a cabeça e os cabelos dEle eram brancos como a lã, brancos como a neve; e Seus olhos como chama de fogo;
 \v Ap.1.15
-E os pés dele semelhantes a um metal valioso e reluzente, e ardentes como em fornalha; e a voz dele, como de muitas águas.
+{rp|n4}E os pés dele semelhantes a um metal valioso e reluzente, e ardentes como em fornalha; e a voz dele, como de muitas águas.
+{tr}E os pés dEle semelhantes a um metal valioso e reluzente, e ardentes como em fornalha; e a voz dEle, como de muitas águas.
 \v Ap.1.16
 E tinha em sua 
 \added
@@ -116,7 +118,8 @@ mão
 \*added
  direita sete estrelas; e de sua boca saía uma espada aguda de dois fios; e seu rosto como o sol brilhando em sua força.
 \v Ap.1.17
-E quando eu o vi, cai aos pés dele como que morto; e ele pôs sua mão direita sobre mim, 
+{rp|n4}E quando eu o vi, cai aos pés dele como que morto; e ele pôs sua mão direita sobre mim, 
+{tr}E quando eu o vi, cai aos pés dEle como que morto; e Ele pôs Sua mão direita sobre mim, 
 \added
 e
 \*added
@@ -140,7 +143,8 @@ Xeol é o lugar dos mortos
 \v Ap.1.19
 Escreve as coisas que tens visto, e as que são, e as que estão para acontecer;
 \v Ap.1.20
-O mistério das sete estrelas, que viste em minha 
+{rp|n4}O mistério das sete estrelas, que viste em minha 
+{tr}O mistério das sete estrelas, que viste em Minha 
 \added
 mão
 \*added
@@ -151,7 +155,8 @@ ou mensageiros
  das sete igrejas; e os sete castiçais que viste, são as sete igrejas.
 \v Ap.2.1
 “Escreve ao anjo da igreja de Éfeso: 
-“Isto diz aquele que tem as sete estrelas em sua 
+{rp|n4}“Isto diz aquele que tem as sete estrelas em sua 
+{tr}“Isto diz aquele que tem as sete estrelas em Sua 
 \added
 mão
 \*added
@@ -168,7 +173,8 @@ E suportaste
 \added
 sofrimentos
 \*added
-, e tens paciência; e trabalhaste pelo meu nome, e não te cansaste.
+{rp|n4}, e tens paciência; e trabalhaste pelo meu nome, e não te cansaste.
+{tr}, e tens paciência; e trabalhaste pelo Meu nome, e não te cansaste.
 \v Ap.2.4
 Mas eu tenho contra ti, que deixaste o teu primeiro amor.
 \v Ap.2.5
@@ -215,7 +221,8 @@ que é
 \added
 está
 \*added
- o trono de Satanás; e tu reténs meu nome, e não negaste minha fé, 
+{rp|n4} o trono de Satanás; e tu reténs meu nome, e não negaste minha fé, 
+{tr} o trono de Satanás; e tu reténs Meu nome, e não negaste Minha fé, 
 \added
 até
 \*added
@@ -223,7 +230,8 @@ até
 \added
 era
 \*added
- minha fiel testemunha, o qual foi morto entre vós, onde Satanás habita.
+{rp|n4} minha fiel testemunha, o qual foi morto entre vós, onde Satanás habita.
+{tr} Minha fiel testemunha, o qual foi morto entre vós, onde Satanás habita.
 \v Ap.2.14
 Mas eu tenho 
 \added
@@ -242,7 +250,8 @@ Assim, também tu tens alguns que guardam
 {trnc}RP, N4: “alguns que guardam, de igual maneira, a doutrina dos nicolaítas”. RP e N4 também não contêm “a qual eu odeio”.
 {trnc}\*fn
 \v Ap.2.16
-Arrepende-te; senão, em breve virei a ti, e batalharei contra eles com a espada de minha boca.
+{rp|n4}Arrepende-te; senão, em breve virei a ti, e batalharei contra eles com a espada de minha boca.
+{tr}Arrepende-te; senão, em breve virei a ti, e batalharei contra eles com a espada de Minha boca.
 \v Ap.2.17
 Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Ao que vencer, eu lhe darei de comer do maná escondido, e lhe 
 darei uma pedrinha branca, e na pedrinha um novo nome escrito, o qual ninguém conhece, a não ser aquele que 
@@ -256,7 +265,8 @@ o
 está
 \*added
  em Tiatira: 
-“Isto diz o Filho de Deus, que tem seus olhos como chama de fogo, e seus pés semelhantes 
+{rp|n4}“Isto diz o Filho de Deus, que tem seus olhos como chama de fogo, e seus pés semelhantes 
+{tr}“Isto diz o Filho de Deus, que tem Seus olhos como chama de fogo, e Seus pés semelhantes 
 a um valioso metal reluzente:
 \v Ap.2.19
 “Eu conheço tuas obras, e amor, e serviço, e fé, e tua paciência, e tuas obras, e 
@@ -296,9 +306,11 @@ Mas eu digo a vós, e aos outros que estão em Tiatira, a todos quantos não tem
 \v Ap.2.25
 Mas o que vós tendes, retende até que eu venha.
 \v Ap.2.26
-E ao que vencer, e guardar minhas obras até o fim, eu lhe darei autoridade sobre as nações;
+{rp|n4}E ao que vencer, e guardar minhas obras até o fim, eu lhe darei autoridade sobre as nações;
+{tr}E ao que vencer, e guardar Minhas obras até o fim, eu lhe darei autoridade sobre as nações;
 \v Ap.2.27
-E as dominará com vara de ferro; como vasos de oleiro serão quebradas em pedaços; assim como eu também recebi do meu Pai;
+{rp|n4}E as dominará com vara de ferro; como vasos de oleiro serão quebradas em pedaços; assim como eu também recebi do meu Pai;
+{tr}E as dominará com vara de ferro; como vasos de oleiro serão quebradas em pedaços; assim como eu também recebi do Meu Pai;
 \v Ap.2.28
 E eu lhe darei a estrela da manhã.
 \v Ap.2.29
@@ -334,13 +346,15 @@ alguns
 \added
 ou seja, pessoas
 \*added
- que não contaminaram suas roupas, e andarão comigo em 
+{rp|n4} que não contaminaram suas roupas, e andarão comigo em 
+{tr} que não contaminaram suas roupas, e andarão Comigo em 
 \added
 roupas
 \*added
  brancas, porque são dignos.
 \v Ap.3.5
-O que vencer, este será vestido de roupas brancas; e seu nome em maneira nenhuma riscarei do livro da vida; e eu declararei seu nome diante do meu Pai, e diante de seus anjos.
+{rp|n4}O que vencer, este será vestido de roupas brancas; e seu nome em maneira nenhuma riscarei do livro da vida; e eu declararei seu nome diante do meu Pai, e diante de seus anjos.
+{tr}O que vencer, este será vestido de roupas brancas; e seu nome em maneira nenhuma riscarei do livro da vida; e eu declararei seu nome diante do Meu Pai, e diante de seus anjos.
 \v Ap.3.6
 Quem tem ouvidos, ouça o que o Espírito diz às igrejas.
 \v Ap.3.7
@@ -356,7 +370,8 @@ que
  fecha e ninguém abre;
 \v Ap.3.8
 “Eu conheço as tuas obras; eis que eu te dei diante de ti uma porta aberta, e ninguém a pode fechar; porque tu tens 
-pouca força, e guardaste minha palavra, e não negaste o meu nome.
+{rp|n4}pouca força, e guardaste minha palavra, e não negaste o meu nome.
+{tr}pouca força, e guardaste Minha palavra, e não negaste o Meu nome.
 \v Ap.3.9
 Eis que eu entrego 
 \added
@@ -364,16 +379,20 @@ alguns
 \*added
  da sinagoga de Satanás, dos que dizem ser judeus, e não são, mas mentem; eis que eu farei com que venham, e fiquem prostrados diante dos teus pés, e saibam que eu te amo;
 \v Ap.3.10
-Porque tu guardaste a palavra da minha paciência, também eu te guardarei da hora da provação que está para vir sobre todo o mundo, para testar aos que habitam sobre a terra.
+{rp|n4}Porque tu guardaste a palavra da minha paciência, também eu te guardarei da hora da provação que está para vir sobre todo o mundo, para testar aos que habitam sobre a terra.
+{tr}Porque tu guardaste a palavra da Minha paciência, também eu te guardarei da hora da provação que está para vir sobre todo o mundo, para testar aos que habitam sobre a terra.
 \v Ap.3.11
 Eis que eu venho em breve; guarda o que tu tens, para que ninguém tome tua coroa.
 \v Ap.3.12
-Ao que vencer, eu o farei coluna no templo do meu Deus; e dele nunca mais sairá; e sobre ele escreverei o nome do meu 
-Deus, e o nome da cidade do meu Deus, Nova Jerusalém, que desce do céu do meu Deus, e 
+{rp|n4}Ao que vencer, eu o farei coluna no templo do meu Deus; e dele nunca mais sairá; e sobre ele escreverei o nome do meu 
+{tr}Ao que vencer, eu o farei coluna no templo do Meu Deus; e dele nunca mais sairá; e sobre ele escreverei o nome do Meu 
+{rp|n4}Deus, e o nome da cidade do meu Deus, Nova Jerusalém, que desce do céu do meu Deus, e 
+{tr}Deus, e o nome da cidade do Meu Deus, Nova Jerusalém, que desce do céu do Meu Deus, e 
 \added
 também
 \*added
- meu novo nome.
+{rp|n4} meu novo nome.
+{tr} Meu novo nome.
 \v Ap.3.13
 Quem tem ouvidos, ouça o que o Espírito diz às igrejas.
 \v Ap.3.14
@@ -382,16 +401,19 @@ Quem tem ouvidos, ouça o que o Espírito diz às igrejas.
 \v Ap.3.15
 “Eu conheço as tuas obras, que tu nem és frio, nem quente; melhor seria que tu fosses frio ou quente!
 \v Ap.3.16
-Portanto porque tu és morno, e nem frio nem quente, eu te vomitarei da minha boca.
+{rp|n4}Portanto porque tu és morno, e nem frio nem quente, eu te vomitarei da minha boca.
+{tr}Portanto porque tu és morno, e nem frio nem quente, eu te vomitarei da Minha boca.
 \v Ap.3.17
 Porque tu dizes: Eu sou rico, e tenho me enriquecido, e de nada tenho falta; E não sabes que estás miserável, coitado, pobre, cego e nu.
 \v Ap.3.18
-Eu te aconselho a comprar de mim ouro provado do fogo, para que te enriqueças; e roupas brancas, para que te vistas; e 
+{rp|n4}Eu te aconselho a comprar de mim ouro provado do fogo, para que te enriqueças; e roupas brancas, para que te vistas; e 
+{tr}Eu te aconselho a comprar de Mim ouro provado do fogo, para que te enriqueças; e roupas brancas, para que te vistas; e 
 a vergonha de tua nudez não apareça; e unge teus olhos com colírio, para que vejas.
 \v Ap.3.19
 Eu repreendo e castigo a todos quantos eu amo; portanto sê zeloso, e te arrepende.
 \v Ap.3.20
-Eis que eu estou à porta, e bato; se alguém ouvir a minha voz, e abrir a porta, entrarei até ele, e cearei com ele, e ele comigo.
+{rp|n4}Eis que eu estou à porta, e bato; se alguém ouvir a minha voz, e abrir a porta, entrarei até ele, e cearei com ele, e ele comigo.
+{tr}Eis que eu estou à porta, e bato; se alguém ouvir a Minha voz, e abrir a porta, entrarei até ele, e cearei com ele, e ele Comigo.
 \v Ap.3.21
 Ao que vencer, eu lhe concederei que se sente comigo em meu trono; assim como eu também venci, e me sentei com meu Pai no trono dele.
 \v Ap.3.22
@@ -463,7 +485,8 @@ Então
 \*added
  os vinte e quatro anciãos se prostram diante do que estava sentado sobre o trono, e adoram ao que vive para todo o sempre, e lançam suas coroas diante do trono, dizendo:
 \v Ap.4.11
-“Digno és tu, Senhor, de receberes glória, honra e poder; porque tu criaste todas as coisas, e por causa da tua vontade elas são e foram criadas!”
+{rp|n4}“Digno és tu, Senhor, de receberes glória, honra e poder; porque tu criaste todas as coisas, e por causa da tua vontade elas são e foram criadas!”
+{tr}“Digno és Tu, Senhor, de receberes glória, honra e poder; porque Tu criaste todas as coisas, e por causa da Tua vontade elas são e foram criadas!”
 \v Ap.5.1
 E eu vi na 
 \added
@@ -491,20 +514,24 @@ soltar seus sete selos.”
 E eu olhei, e eis que no meio do trono, e dos quatro animais, e no meio dos anciãos, um Cordeiro que estava como se 
 tivesse sido morto, e tinha sete chifres, e sete olhos, que são os sete espíritos de Deus enviados para toda a terra.
 \v Ap.5.7
-E ele veio, e tomou o livro da 
+{rp|n4}E ele veio, e tomou o livro da 
+{tr}E Ele veio, e tomou o livro da 
 \added
 mão
 \*added
  direita daquele que estava sentado sobre o trono.
 \v Ap.5.8
-E quando ele tomou o livro, os quatro animais, e os vinte e quatro anciãos se prostraram diante do Cordeiro, 
+{rp|n4}E quando ele tomou o livro, os quatro animais, e os vinte e quatro anciãos se prostraram diante do Cordeiro, 
+{tr}E quando Ele tomou o livro, os quatro animais, e os vinte e quatro anciãos se prostraram diante do Cordeiro, 
 tendo cada um harpas, e recipientes de ouro cheios de perfumes, que são as orações dos santos.
 \v Ap.5.9
 E eles cantavam um novo cântico, dizendo: 
-“Digno és tu de tomar o livro, 
+{rp|n4}“Digno és tu de tomar o livro, 
+{tr}“Digno és Tu de tomar o livro, 
 e de abrir seus selos; 
 porque foste morto, 
-e com o teu sangue para Deus 
+{rp|n4}e com o teu sangue para Deus 
+{tr}e com o Teu sangue para Deus 
 {tr|rp}nos
  compraste 
 {n4}\added
@@ -572,7 +599,8 @@ como
 \*added
  conquistador, e para que conquistasse.
 \v Ap.6.3
-E quando ele abriu o segundo selo, eu ouvi o segundo animal dizendo: “Vem, e vê.”
+{rp|n4}E quando ele abriu o segundo selo, eu ouvi o segundo animal dizendo: “Vem, e vê.”
+{tr}E quando Ele abriu o segundo selo, eu ouvi o segundo animal dizendo: “Vem, e vê.”
 \v Ap.6.4
 E saiu outro cavalo vermelho; e ao que estava sentado sobre ele foi concedido que tirasse a paz da terra, e que uns 
 aos outros se matassem; e uma grande espada lhe foi dada.
@@ -583,7 +611,8 @@ preto, e o que estava sentado sobre ele tinha uma balança na sua mão.
 E ouvi uma voz no meio dos quatro animais, dizendo: “Uma medida de trigo por um dinheiro, e três medidas de cevada 
 por um dinheiro; e não danifiques o azeite e o vinho.”
 \v Ap.6.7
-E quando ele abriu o quarto selo, eu ouvi a voz do quarto animal dizendo: “Vem, e vê.”
+{rp|n4}E quando ele abriu o quarto selo, eu ouvi a voz do quarto animal dizendo: “Vem, e vê.”
+{tr}E quando Ele abriu o quarto selo, eu ouvi a voz do quarto animal dizendo: “Vem, e vê.”
 \v Ap.6.8
 E eu olhei, e eis um cavalo amarelo, e o que estava sentado sobre ele, seu nome 
 \added
@@ -603,7 +632,8 @@ por doença
 \*added
 , e com os animais ferozes da terra.
 \v Ap.6.9
-E quando ele abriu o quinto selo, eu vi debaixo do altar as almas dos que foram mortos por causa da palavra de 
+{rp|n4}E quando ele abriu o quinto selo, eu vi debaixo do altar as almas dos que foram mortos por causa da palavra de 
+{tr}E quando Ele abriu o quinto selo, eu vi debaixo do altar as almas dos que foram mortos por causa da palavra de 
 Deus, e por causa do testemunho que tinham.
 \v Ap.6.10
 E clamavam com grande voz, dizendo: “Até quando, Santo e Verdadeiro Soberano, não julgas e vingas nosso sangue 
@@ -619,7 +649,8 @@ ainda
 \*added
  viriam a ser mortos.
 \v Ap.6.12
-E eu vi quando ele abriu o sexto selo, e eis que houve um grande tremor de terra; e o sol se tornou preto como um 
+{rp|n4}E eu vi quando ele abriu o sexto selo, e eis que houve um grande tremor de terra; e o sol se tornou preto como um 
+{tr}E eu vi quando Ele abriu o sexto selo, e eis que houve um grande tremor de terra; e o sol se tornou preto como um 
 saco feito de pelos de animais, e a lua se tornou como sangue.
 \v Ap.6.13
 E as estrelas do céu caíram sobre a terra como a figueira lança de si seus figos verdes, abalada por um grande vento.
@@ -632,7 +663,8 @@ se esconderam nas cavernas e nas rochas das montanhas.
 E diziam aos montes, e às rochas: “Caí sobre nós, e escondei-nos do rosto daquele que está sentado sobre o trono, 
 e da ira do Cordeiro;
 \v Ap.6.17
-Porque chegou o dia da sua grande ira; e quem poderá ficar de pé?”
+{rp|n4}Porque chegou o dia da sua grande ira; e quem poderá ficar de pé?”
+{tr}Porque chegou o dia da Sua grande ira; e quem poderá ficar de pé?”
 \v Ap.7.1
 E depois destas coisas eu vi quatro anjos que estavam sobre os quatro cantos da terra, retendo os quatro ventos 
 da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem sobre árvore alguma.
@@ -715,15 +747,18 @@ onde eles vieram?”
 E eu lhe disse: “Senhor, tu sabes.” E ele me disse: “Estes são os que vieram da grande tribulação; e lavaram 
 suas roupas compridas e as branquearam no sangue do Cordeiro.
 \v Ap.7.15
-Por isso eles estão diante do trono de Deus, e servem a ele dia e noite no seu templo; e aquele que está 
-sentado sobre o trono armará sua tenda e habitará com eles.
+{rp|n4}Por isso eles estão diante do trono de Deus, e servem a ele dia e noite no seu templo; e aquele que está 
+{tr}Por isso eles estão diante do trono de Deus, e servem a Ele dia e noite no Seu templo; e aquele que está 
+{rp|n4}sentado sobre o trono armará sua tenda e habitará com eles.
+{tr}sentado sobre o trono armará Sua tenda e habitará com eles.
 \v Ap.7.16
 Eles não mais terão fome, nem mais terão sede; nem o sol, nem calor algum cairá sobre eles.
 \v Ap.7.17
 Porque o Cordeiro, que está no meio do trono, os apascentará, e os guiará até fontes vivas de águas; e Deus 
 limpará toda lágrima dos seus olhos.”
 \v Ap.8.1
-E quando ele abriu o sétimo selo, houve silêncio no céu por cerca de meia hora.
+{rp|n4}E quando ele abriu o sétimo selo, houve silêncio no céu por cerca de meia hora.
+{tr}E quando Ele abriu o sétimo selo, houve silêncio no céu por cerca de meia hora.
 \v Ap.8.2
 E eu vi os sete anjos, que estavam diante de Deus; e foram-lhes dadas sete trombetas.
 \v Ap.8.3
@@ -980,7 +1015,8 @@ E eu darei
 \added
 autoridade
 \*added
- às minhas duas testemunhas, e elas profetizarão por mil duzentos e sessenta dias, vestidas de sacos.”
+{rp|n4} às minhas duas testemunhas, e elas profetizarão por mil duzentos e sessenta dias, vestidas de sacos.”
+{tr} às Minhas duas testemunhas, e elas profetizarão por mil duzentos e sessenta dias, vestidas de sacos.”
 \v Ap.11.4
 Estas são as duas oliveiras, e os dois castiçais, que estão diante do 
 {tr}Deus
@@ -1039,12 +1075,14 @@ já
  passou; eis que o terceiro ai logo vem.
 \v Ap.11.15
 E o sétimo anjo tocou a trombeta, e houve grandes vozes no céu, dizendo: “Os reinos do mundo se tornaram do nosso 
-Senhor, e do seu Cristo, e ele reinará para todo o sempre.”
+{rp|n4}Senhor, e do seu Cristo, e ele reinará para todo o sempre.”
+{tr}Senhor, e do Seu Cristo, e Ele reinará para todo o sempre.”
 \v Ap.11.16
 E os vinte e quatro anciãos, que estão sentados diante de Deus em seus tronos, prostraram-se sobre seus rostos, 
 e adoraram a Deus,
 \v Ap.11.17
-dizendo: “Graças te damos, Senhor Deus, o Todo-Poderoso, o que é, e que era
+{rp|n4}dizendo: “Graças te damos, Senhor Deus, o Todo-Poderoso, o que é, e que era
+{tr}dizendo: “Graças Te damos, Senhor Deus, o Todo-Poderoso, o que é, e que era
 {tr}, e que virá
 ;
 {trnc}\fn
@@ -1053,13 +1091,15 @@ dizendo: “Graças te damos, Senhor Deus, o Todo-Poderoso, o que é, e que era
 {rp|n4}\fn
 {rp|n4}TR contém adicionalmente “e que virá” 
 {rp|n4}\*fn
- porque tomaste o teu grande poder, e tens reinado;
+{rp|n4} porque tomaste o teu grande poder, e tens reinado;
+{tr} porque tomaste o Teu grande poder, e tens reinado;
 \v Ap.11.18
 E as nações se iraram, porém veio a tua ira, e o tempo dos mortos, para serem julgados, e para tu dares 
 a recompensa aos teus servos, os profetas, e aos santos, e aos que temem o teu nome, a pequenos e a grandes; e para 
 destruir os que destroem a terra.”
 \v Ap.11.19
-E o templo de Deus se abriu no céu, e a arca de seu pacto foi vista no seu templo; e houve relâmpagos, vozes, 
+{rp|n4}E o templo de Deus se abriu no céu, e a arca de seu pacto foi vista no seu templo; e houve relâmpagos, vozes, 
+{tr}E o templo de Deus se abriu no céu, e a arca de Seu pacto foi vista no Seu templo; e houve relâmpagos, vozes, 
 trovões, terremotos, e grande queda de granizo.
 \v Ap.12.1
 E um grande sinal foi visto no céu: uma mulher vestida do sol, e a lua debaixo dos pés dela, e sobre sua cabeça 
@@ -1109,7 +1149,8 @@ E foi lançado o grande dragão, a serpente antiga, chamada o diabo e Satanás, 
 lançado na terra, e seus anjos foram lançados com ele.
 \v Ap.12.10
 E eu ouvi uma grande voz no céu, dizendo: “Agora veio a salvação, e a força, e o reino de nosso Deus, e o poder de 
-seu Cristo; porque 
+{rp|n4}seu Cristo; porque 
+{tr}Seu Cristo; porque 
 \added
 já
 \*added
@@ -1239,7 +1280,8 @@ E cantavam um cântico novo diante do trono, e diante dos quatro animais, e dos 
 aprender aquele cântico, a não ser os cento e quarenta e quatro mil que tinham sido comprados da terra.
 \v Ap.14.4
 Estes são os que não se contaminaram com mulheres, porque são virgens; estes são os que seguem o Cordeiro onde 
-quer que ele vá; estes foram comprados dentre os homens, 
+{rp|n4}quer que ele vá; estes foram comprados dentre os homens, 
+{tr}quer que Ele vá; estes foram comprados dentre os homens, 
 \added
 sendo
 \*added
@@ -1295,17 +1337,21 @@ Ou: “bem-aventurados”
  são os mortos que morrem no Senhor a partir de agora; sim, diz o Espírito, para que se descansem de 
 seus trabalhos; e suas obras os seguem.”
 \v Ap.14.14
-E eu olhei, e eis uma nuvem branca, e um semelhante a um filho do homem, sentado sobre a nuvem; tendo sobre sua cabeça 
-uma coroa de ouro, e em sua mão uma foice afiada.
+{rp|n4}E eu olhei, e eis uma nuvem branca, e um semelhante a um filho do homem, sentado sobre a nuvem; tendo sobre sua cabeça 
+{tr}E eu olhei, e eis uma nuvem branca, e um semelhante a um filho do homem, sentado sobre a nuvem; tendo sobre Sua cabeça 
+{rp|n4}uma coroa de ouro, e em sua mão uma foice afiada.
+{tr}uma coroa de ouro, e em Sua mão uma foice afiada.
 \v Ap.14.15
-E outro anjo saiu do templo, clamando em alta voz ao que estava sentado sobre a nuvem: “Envia a tua foice, e ceifa; pois chegou a ti 
+{rp|n4}E outro anjo saiu do templo, clamando em alta voz ao que estava sentado sobre a nuvem: “Envia a tua foice, e ceifa; pois chegou a ti 
+{tr}E outro anjo saiu do templo, clamando em alta voz ao que estava sentado sobre a nuvem: “Envia a Tua foice, e ceifa; pois chegou a Ti 
 a hora de ceifar, porque a plantação da terra 
 \added
 já
 \*added
  está madura.”
 \v Ap.14.16
-E aquele que está sentado sobre a nuvem lançou sua foice na terra, e a terra foi ceifada.
+{rp|n4}E aquele que está sentado sobre a nuvem lançou sua foice na terra, e a terra foi ceifada.
+{tr}E aquele que está sentado sobre a nuvem lançou Sua foice na terra, e a terra foi ceifada.
 \v Ap.14.17
 E outro anjo saiu do templo que está no céu, o qual também tinha uma foice afiada.
 \v Ap.14.18
@@ -1341,7 +1387,8 @@ E cantavam o cântico de Moisés, o servo de Deus, e o cântico do Cordeiro, diz
 \added
 são
 \*added
- as tuas obras, 
+{rp|n4} as tuas obras, 
+{tr} as Tuas obras, 
 \added
 ó
 \*added
@@ -1361,15 +1408,20 @@ Teus caminhos são justos e verdadeiros,
 {rp|n4}TR: dos santos 
 {rp|n4}\*fn
 \v Ap.15.4
-Quem não te temeria, 
+{rp|n4}Quem não te temeria, 
+{tr}Quem não Te temeria, 
 \added
 ó
 \*added
  Senhor, 
-e não glorificaria o teu nome? 
-Porque só tu és santo; 
-porque todas as nações virão, e adorarão diante de ti, 
-porque os teus juízos foram manifestos!”
+{rp|n4}e não glorificaria o teu nome? 
+{tr}e não glorificaria o Teu nome? 
+{rp|n4}Porque só tu és santo; 
+{tr}Porque só Tu és santo; 
+{rp|n4}porque todas as nações virão, e adorarão diante de ti, 
+{tr}porque todas as nações virão, e adorarão diante de Ti, 
+{rp|n4}porque os teus juízos foram manifestos!”
+{tr}porque os Teus juízos foram manifestos!”
 \v Ap.15.5
 E depois disto eu olhei, e eis que o templo do tabernáculo do testemunho foi aberto no céu.
 \v Ap.15.6
@@ -1377,7 +1429,8 @@ E os sete anjos, que tinham as sete pragas, saíram do templo, vestidos de linho
 \v Ap.15.7
 E um dos quatro animais deu aos sete anjos sete taças de ouro, cheias da ira de Deus, aquele que vive para todo o sempre.
 \v Ap.15.8
-E o templo se encheu com a fumaça da glória de Deus, e do seu poder; e ninguém podia entrar no templo, enquanto as sete pragas dos sete anjos não estivessem completas.
+{rp|n4}E o templo se encheu com a fumaça da glória de Deus, e do seu poder; e ninguém podia entrar no templo, enquanto as sete pragas dos sete anjos não estivessem completas.
+{tr}E o templo se encheu com a fumaça da glória de Deus, e do Seu poder; e ninguém podia entrar no templo, enquanto as sete pragas dos sete anjos não estivessem completas.
 \v Ap.16.1
 E eu ouvi uma grande voz do templo, dizendo aos sete anjos: “Ide, e derramai as taças da ira de Deus sobre a terra.”
 \v Ap.16.2
@@ -1391,7 +1444,8 @@ este
 \v Ap.16.4
 E o terceiro anjo derramou sua taça sobre os rios, e sobre as fontes de águas, e se tornaram em sangue.
 \v Ap.16.5
-E eu ouvi ao anjo das águas, dizendo: “Justo és tu
+{rp|n4}E eu ouvi ao anjo das águas, dizendo: “Justo és tu
+{tr}E eu ouvi ao anjo das águas, dizendo: “Justo és Tu
 {tr}, Senhor
 ,
 {trnc}\fn
@@ -1406,14 +1460,17 @@ E eu ouvi ao anjo das águas, dizendo: “Justo és tu
 {trnc}\*fn
  porque julgaste estas coisas;
 \v Ap.16.6
-porque eles derramaram o sangue dos santos e dos profetas, também tu lhes deste sangue a beber; porque disto são merecedores.”
+{rp|n4}porque eles derramaram o sangue dos santos e dos profetas, também tu lhes deste sangue a beber; porque disto são merecedores.”
+{tr}porque eles derramaram o sangue dos santos e dos profetas, também Tu lhes deste sangue a beber; porque disto são merecedores.”
 \v Ap.16.7
-E ouvi um outro do altar, dizendo: “Sim, Senhor Deus Todo-Poderoso, verdadeiros e justos são os teus juízos!”
+{rp|n4}E ouvi um outro do altar, dizendo: “Sim, Senhor Deus Todo-Poderoso, verdadeiros e justos são os teus juízos!”
+{tr}E ouvi um outro do altar, dizendo: “Sim, Senhor Deus Todo-Poderoso, verdadeiros e justos são os Teus juízos!”
 \v Ap.16.8
 E o quarto anjo derramou sua taça sobre o sol; e foi-lhe concedido que queimasse os seres humanos com fogo.
 \v Ap.16.9
 E os seres humanos foram queimados com grande calor, e blasfemaram do nome de Deus, que tem poder sobre estas pagas; e eles não se 
-arrependeram, para lhe darem glória.
+{rp|n4}arrependeram, para lhe darem glória.
+{tr}arrependeram, para Lhe darem glória.
 \v Ap.16.10
 E o quinto anjo derramou sua taça sobre o trono da besta, e seu reino se tornou em trevas, e mordiam de dor suas línguas.
 \v Ap.16.11
@@ -1503,8 +1560,10 @@ juntamente
 \v Ap.17.13
 Estes têm uma mesma intenção, e entregarão seu poder e autoridade à besta.
 \v Ap.17.14
-Estes batalharão contra o Cordeiro, e o Cordeiro os vencerá, porque ele é o Senhor dos senhores, e o Rei dos reis; e os 
-que estão com ele 
+{rp|n4}Estes batalharão contra o Cordeiro, e o Cordeiro os vencerá, porque ele é o Senhor dos senhores, e o Rei dos reis; e os 
+{tr}Estes batalharão contra o Cordeiro, e o Cordeiro os vencerá, porque Ele é o Senhor dos senhores, e o Rei dos reis; e os 
+{rp|n4}que estão com ele 
+{tr}que estão com Ele 
 \added
 são
 \*added
@@ -1633,11 +1692,13 @@ E saiu uma voz do trono, dizendo: “Louvai ao nosso Deus, todos vós os servos 
 E eu ouvi como a voz de uma grande multidão, e como a voz de muitas águas, e como a voz de fortes trovões, dizendo: “Aleluia! Porque o 
 Senhor Deus Todo-Poderoso reina!
 \v Ap.19.7
-Alegremos, e fiquemos muito contentes, e demos glória a ele, pois 
+{rp|n4}Alegremos, e fiquemos muito contentes, e demos glória a ele, pois 
+{tr}Alegremos, e fiquemos muito contentes, e demos glória a Ele, pois 
 \added
 já
 \*added
- chegou a festa de casamento do Cordeiro, e a sua esposa já se preparou.
+{rp|n4} chegou a festa de casamento do Cordeiro, e a sua esposa já se preparou.
+{tr} chegou a festa de casamento do Cordeiro, e a Sua esposa já se preparou.
 \v Ap.19.8
 E foi concedido a ela que se vestisse de linho fino puro e brilhante; pois o linho fino são as justiças dos santos.”
 \v Ap.19.9
@@ -1687,7 +1748,8 @@ havia
 {trnc|n4}\*fn
  um nome escrito, que ninguém sabia, a não ser ele mesmo.
 \v Ap.19.13
-E ele estava vestido de uma roupa tingida em sangue, e o nome dele é chamado “Palavra de Deus”.
+{rp|n4}E ele estava vestido de uma roupa tingida em sangue, e o nome dele é chamado “Palavra de Deus”.
+{tr}E Ele estava vestido de uma roupa tingida em sangue, e o nome dEle é chamado “Palavra de Deus”.
 \v Ap.19.14
 E os exércitos no céu o seguiam em cavalos brancos, vestidos de linho fino branco e puro.
 \v Ap.19.15
@@ -1836,7 +1898,8 @@ já
 \*added
  passaram.”
 \v Ap.21.5
-E o que estava sentado sobre o trono disse: “Eis que eu faço novas todas as coisas.” E ele me disse: “Escreve, porque estas palavras 
+{rp|n4}E o que estava sentado sobre o trono disse: “Eis que eu faço novas todas as coisas.” E ele me disse: “Escreve, porque estas palavras 
+{tr}E o que estava sentado sobre o trono disse: “Eis que eu faço novas todas as coisas.” E Ele me disse: “Escreve, porque estas palavras 
 são verdadeiras e fiéis.”
 \v Ap.21.6
 E ele me disse: “
@@ -1851,7 +1914,8 @@ E ele me disse: “
 {rp}\*fn
  o princípio e o fim. Quem tiver sede, de graça eu lhe darei da fonte da água da vida.
 \v Ap.21.7
-Quem vencer herdará todas as coisas; e eu serei Deus dele, e ele será meu filho.
+{rp|n4}Quem vencer herdará todas as coisas; e eu serei Deus dele, e ele será meu filho.
+{tr}Quem vencer herdará todas as coisas; e eu serei Deus dele, e ele será Meu filho.
 \v Ap.21.8
 Mas 
 \added
@@ -2016,12 +2080,14 @@ faças isto
 \*added
 ! Porque eu sou um companheiro de serviço teu, e de teus irmãos, os profetas, e dos que guardam as palavras deste livro. Adora a Deus.”
 \v Ap.22.10
-E ele me disse: “Não seles as palavras da profecia deste livro, porque o tempo está próximo.
+{rp|n4}E ele me disse: “Não seles as palavras da profecia deste livro, porque o tempo está próximo.
+{tr}E Ele me disse: “Não seles as palavras da profecia deste livro, porque o tempo está próximo.
 \v Ap.22.11
 Quem é injusto, faça injustiça ainda; e quem é sujo, suje-se ainda; e quem é justo, seja ainda justificado; e quem é santo, seja 
 ainda santificado.”
 \v Ap.22.12
-“Eis que logo venho, e minha recompensa está comigo, para retribuir a cada um assim como for sua obra.
+{rp|n4}“Eis que logo venho, e minha recompensa está comigo, para retribuir a cada um assim como for sua obra.
+{tr}“Eis que logo venho, e Minha recompensa está Comigo, para retribuir a cada um assim como for sua obra.
 \v Ap.22.13
 Eu sou o Alfa e o Ômega, o principio e o fim, o primeiro e o último.”
 \v Ap.22.14
@@ -2050,7 +2116,8 @@ estarão
 \*added
  os cães, os feiticeiros, os pecadores sexuais, os homicidas, os idólatras, e todo aquele que ama e pratica a mentira.
 \v Ap.22.16
-“Eu, Jesus, enviei o meu anjo, para vos dar testemunho destas coisas nas igrejas. Eu sou a raiz e descendência de Davi; 
+{rp|n4}“Eu, Jesus, enviei o meu anjo, para vos dar testemunho destas coisas nas igrejas. Eu sou a raiz e descendência de Davi; 
+{tr}“Eu, Jesus, enviei o Meu anjo, para vos dar testemunho destas coisas nas igrejas. Eu sou a raiz e descendência de Davi; 
 \added
 sou
 \*added

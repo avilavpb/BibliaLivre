@@ -21,7 +21,8 @@ o que vimos e ouvimos, isso vos anunciamos, para que também vós tenhais comunh
 \added
 é
 \*added
- com o Pai, e com o seu Filho Jesus Cristo.
+{rp|n4} com o Pai, e com o seu Filho Jesus Cristo.
+{tr} com o Pai, e com o Seu Filho Jesus Cristo.
 \v 1Jo.1.4
 Estas coisas
 {tr|rp} vos
@@ -34,17 +35,21 @@ Estas coisas
 {rp|n4}nossa
  alegria seja completa.
 \v 1Jo.1.5
-E esta é a mensagem que dele ouvimos, e vos anunciamos: que Deus é luz, e não há nele nada de trevas.
+{rp|n4}E esta é a mensagem que dele ouvimos, e vos anunciamos: que Deus é luz, e não há nele nada de trevas.
+{tr}E esta é a mensagem que dEle ouvimos, e vos anunciamos: que Deus é luz, e não há nEle nada de trevas.
 \v 1Jo.1.6
-Se dissermos que temos comunhão com ele, e andarmos em trevas, mentimos, e não praticamos a verdade.
+{rp|n4}Se dissermos que temos comunhão com ele, e andarmos em trevas, mentimos, e não praticamos a verdade.
+{tr}Se dissermos que temos comunhão com Ele, e andarmos em trevas, mentimos, e não praticamos a verdade.
 \v 1Jo.1.7
-Porém, se andamos na luz, como ele está na luz, temos comunhão uns com os outros, e o sangue de Jesus
+{rp|n4}Porém, se andamos na luz, como ele está na luz, temos comunhão uns com os outros, e o sangue de Jesus
+{tr}Porém, se andamos na luz, como Ele está na luz, temos comunhão uns com os outros, e o sangue de Jesus
 {tr|rp} Cristo
 ,
 {trnc}\fn
 {trnc}N4 não contém “Cristo”
 {trnc}\*fn
- seu Filho, nos purifica de todo pecado.
+{rp|n4} seu Filho, nos purifica de todo pecado.
+{tr} Seu Filho, nos purifica de todo pecado.
 \v 1Jo.1.8
 Se dissermos que não temos pecado, enganamos a nós mesmos, e a verdade não está em nós.
 \v 1Jo.1.9
@@ -55,7 +60,8 @@ Se dissermos que não pecamos, nós o fazemos de mentiroso, e a palavra dele nã
 Meus filhinhos, vos escrevo estas coisas para que não pequeis; mas se alguém pecar, temos um advogado com o Pai: 
 Jesus Cristo, o justo.
 \v 1Jo.2.2
-E ele é o sacrifício para perdão dos nossos pecados; e não somente dos nossos, mas também dos de todo o mundo.
+{rp|n4}E ele é o sacrifício para perdão dos nossos pecados; e não somente dos nossos, mas também dos de todo o mundo.
+{tr}E Ele é o sacrifício para perdão dos nossos pecados; e não somente dos nossos, mas também dos de todo o mundo.
 \v 1Jo.2.3
 E nisto sabemos que o conhecemos, se guardamos os seus mandamentos.
 \v 1Jo.2.4
@@ -79,7 +85,8 @@ princípio. Este mandamento antigo é a palavra que ouvistes
 {trnc}N4 não contém “desde o princípio” depois de “ouvistes”
 {trnc}\*fn
 \v 1Jo.2.8
-Mas também vos escrevo um mandamento novo, que é verdadeiro nele e em vós; pois as trevas passaram, e a verdadeira luz 
+{rp|n4}Mas também vos escrevo um mandamento novo, que é verdadeiro nele e em vós; pois as trevas passaram, e a verdadeira luz 
+{tr}Mas também vos escrevo um mandamento novo, que é verdadeiro nEle e em vós; pois as trevas passaram, e a verdadeira luz 
 já ilumina.
 \v 1Jo.2.9
 Aquele que diz que está na luz, e odeia seu irmão, até agora está nas trevas.
@@ -89,7 +96,8 @@ Aquele que ama o seu irmão está na luz, e nele não há motivo algum de trope�
 Mas aquele que odeia seu irmão está nas trevas, anda nas trevas, e não sabe para onde vai, pois as trevas lhe cegaram 
 os olhos.
 \v 1Jo.2.12
-Eu vos escrevo, filhinhos, porque pelo nome dele os vossos pecados são perdoados.
+{rp|n4}Eu vos escrevo, filhinhos, porque pelo nome dele os vossos pecados são perdoados.
+{tr}Eu vos escrevo, filhinhos, porque pelo nome dEle os vossos pecados são perdoados.
 \v 1Jo.2.13
 Eu vos escrevo, pais, porque conheceis aquele que é desde o princípio. 
 Eu vos escrevo, jovens, porque vencestes o maligno. 
@@ -153,7 +161,8 @@ Quem nega o Filho também não tem o Pai
  que ouvistes desde o princípio permaneça em vós. Se o que ouvistes desde o princípio permanecer em vós, 
  também permanecereis no Filho e no Pai.
 \v 1Jo.2.25
-E esta é a promessa que ele nos prometeu: a vida eterna.
+{rp|n4}E esta é a promessa que ele nos prometeu: a vida eterna.
+{tr}E esta é a promessa que Ele nos prometeu: a vida eterna.
 \v 1Jo.2.26
 Estas coisas vos escrevi acerca dos que vos tentam vos enganar.
 \v 1Jo.2.27
@@ -178,10 +187,13 @@ assim
 {trnc}N4: permanecei
 {trnc}\*fn
 \v 1Jo.2.28
-E agora, filhinhos, permanecei nele; a fim de que, quando ele se manifestar, tenhamos confiança, e não sejamos 
-envergonhados diante dele na sua vinda.
+{rp|n4}E agora, filhinhos, permanecei nele; a fim de que, quando ele se manifestar, tenhamos confiança, e não sejamos 
+{tr}E agora, filhinhos, permanecei nEle; a fim de que, quando Ele se manifestar, tenhamos confiança, e não sejamos 
+{rp|n4}envergonhados diante dele na sua vinda.
+{tr}envergonhados diante dEle na Sua vinda.
 \v 1Jo.2.29
-Se sabeis que ele é justo, sabeis que todo aquele que pratica a justiça é nascido dele.
+{rp|n4}Se sabeis que ele é justo, sabeis que todo aquele que pratica a justiça é nascido dele.
+{tr}Se sabeis que Ele é justo, sabeis que todo aquele que pratica a justiça é nascido dEle.
 \v 1Jo.3.1
 Vede quão grande amor o Pai tem nos dado, que fôssemos chamados filhos de Deus.
 {n4} E nós somos. 
@@ -206,12 +218,14 @@ E todo aquele que tem nele essa esperança purifica a si mesmo, como também ele
 \v 1Jo.3.4
 Todo aquele que pratica o pecado também pratica injustiça, pois o pecado é injustiça.
 \v 1Jo.3.5
-E sabeis que ele apareceu para tirar os
+{rp|n4}E sabeis que ele apareceu para tirar os
+{tr}E sabeis que Ele apareceu para tirar os
 {tr|rp} nossos
 {trnc}\fn
 {trnc}N4 não contém “nossos”
 {trnc}\*fn
- pecados; e nele não há pecado.
+{rp|n4} pecados; e nele não há pecado.
+{tr} pecados; e nEle não há pecado.
 \v 1Jo.3.6
 Todo aquele que nele permanece não pratica o pecado; todo aquele que costuma pecar não o viu nem o conheceu.
 \v 1Jo.3.7
@@ -263,7 +277,7 @@ Todo aquele que odeia o seu irmão é homicida. E sabeis que nenhum homicida tem
 {tr}\added
 {tr}de Deus
 {tr}\*added
-{tr}: ele deu a sua vida por nós. E nós devemos dar as 
+{tr}: Ele deu a Sua vida por nós. E nós devemos dar as 
 \added
 nossas
 \*added
@@ -285,7 +299,8 @@ E nisto
  que somos da verdade, e teremos segurança 
 {tr|rp}nos nossos corações
 {n4}no nosso coração
- diante dele.
+{rp|n4} diante dele.
+{tr} diante dEle.
 \v 1Jo.3.20
 Pois, se o nosso coração 
 \added
@@ -300,9 +315,11 @@ Amados, se nosso coração não
 {trnc}\*fn
  condena, temos confiança diante de Deus.
 \v 1Jo.3.22
-E qualquer coisa que pedirmos, dele receberemos; porque guardamos os seus mandamentos, e fazemos o que lhe agrada.
+{rp|n4}E qualquer coisa que pedirmos, dele receberemos; porque guardamos os seus mandamentos, e fazemos o que lhe agrada.
+{tr}E qualquer coisa que pedirmos, dEle receberemos; porque guardamos os Seus mandamentos, e fazemos o que Lhe agrada.
 \v 1Jo.3.23
-E este é o seu mandamento: que creiamos no nome do seu Filho Jesus Cristo, e nos amemos uns aos outros, como ele
+{rp|n4}E este é o seu mandamento: que creiamos no nome do seu Filho Jesus Cristo, e nos amemos uns aos outros, como ele
+{tr}E este é o Seu mandamento: que creiamos no nome do Seu Filho Jesus Cristo, e nos amemos uns aos outros, como Ele
 {tr|n4} nos
 {trnc}\fn
 {trnc}RP não contém “nos”
@@ -344,16 +361,20 @@ Nisto se manifestou o amor de Deus por nós:
 \fn
 Ou: entre nós
 \*fn
- que Deus enviou o seu Filho unigênito ao mundo, para que por meio dele vivamos.
+{rp|n4} que Deus enviou o seu Filho unigênito ao mundo, para que por meio dele vivamos.
+{tr} que Deus enviou o Seu Filho unigênito ao mundo, para que por meio dEle vivamos.
 \v 1Jo.4.10
-Nisto está o amor, não que nós tenhamos amado a Deus, mas sim, que ele nos amou, e enviou seu Filho como sacrifício 
+{rp|n4}Nisto está o amor, não que nós tenhamos amado a Deus, mas sim, que ele nos amou, e enviou seu Filho como sacrifício 
+{tr}Nisto está o amor, não que nós tenhamos amado a Deus, mas sim, que Ele nos amou, e enviou Seu Filho como sacrifício 
 para perdão dos nossos pecados.
 \v 1Jo.4.11
 Amados, se Deus assim nos amou, também nós devemos amar uns aos outros.
 \v 1Jo.4.12
-Ninguém jamais viu Deus; se nos amamos uns aos outros, Deus está em nós, e o amor dele em nós é aperfeiçoado.
+{rp|n4}Ninguém jamais viu Deus; se nos amamos uns aos outros, Deus está em nós, e o amor dele em nós é aperfeiçoado.
+{tr}Ninguém jamais viu Deus; se nos amamos uns aos outros, Deus está em nós, e o amor dEle em nós é aperfeiçoado.
 \v 1Jo.4.13
-Nisto sabemos que estamos nele, e ele em nós, porque ele nos deu do seu Espírito.
+{rp|n4}Nisto sabemos que estamos nele, e ele em nós, porque ele nos deu do seu Espírito.
+{tr}Nisto sabemos que estamos nEle, e Ele em nós, porque Ele nos deu do Seu Espírito.
 \v 1Jo.4.14
 E vimos e damos testemunho de que o Pai enviou o Filho 
 \added
@@ -371,7 +392,8 @@ Deus
 {trnc}RP, N4: Deus habita nele
 {trnc}\*fn
 \v 1Jo.4.17
-Nisto o amor é aperfeiçoado em nós, para que no dia do juízo tenhamos confiança, pois, como ele é, assim somos nós 
+{rp|n4}Nisto o amor é aperfeiçoado em nós, para que no dia do juízo tenhamos confiança, pois, como ele é, assim somos nós 
+{tr}Nisto o amor é aperfeiçoado em nós, para que no dia do juízo tenhamos confiança, pois, como Ele é, assim somos nós 
 neste mundo.
 \v 1Jo.4.18
 No amor não há medo; pelo contrário, o perfeito amor expulsa o medo; pois o medo está relacionado ao castigo; e o 
@@ -386,7 +408,8 @@ Nós
 {n4}\fn
 {n4}TR, RP: Nós o amamos
 {n4}\*fn
- porque ele nos amou primeiro.
+{rp|n4} porque ele nos amou primeiro.
+{tr} porque Ele nos amou primeiro.
 \v 1Jo.4.20
 Se alguém diz: “Eu amo a Deus”, e odeia seu irmão, é mentiroso. Pois quem não ama seu irmão, ao qual viu, 
 {tr|rp}como pode amar a Deus, a quem nunca viu?
@@ -409,9 +432,11 @@ Nisto sabemos que amamos os filhos de Deus: quando amamos a Deus, e
 {trnc}\fn
 {trnc}N4: praticamos
 {trnc}\*fn
- os seus mandamentos.
+{rp|n4} os seus mandamentos.
+{tr} os Seus mandamentos.
 \v 1Jo.5.3
-Pois este é o amor de Deus: que guardemos os seus mandamentos. E os seus mandamentos não são pesados.
+{rp|n4}Pois este é o amor de Deus: que guardemos os seus mandamentos. E os seus mandamentos não são pesados.
+{tr}Pois este é o amor de Deus: que guardemos os Seus mandamentos. E os Seus mandamentos não são pesados.
 \v 1Jo.5.4
 Pois todo aquele que é nascido de Deus vence o mundo; e esta é a vitória que vence o mundo: a nossa fé.
 \v 1Jo.5.5
@@ -421,7 +446,8 @@ Este é aquele que veio por água e sangue: Jesus, o Cristo. Não só pela água
 \added
 pelo
 \*added
- sangue. E o Espírito é o que lhe dá testemunho, porque o Espírito é a verdade.
+{rp|n4} sangue. E o Espírito é o que lhe dá testemunho, porque o Espírito é a verdade.
+{tr} sangue. E o Espírito é o que Lhe dá testemunho, porque o Espírito é a verdade.
 \v 1Jo.5.7
 Pois são três os que dão testemunho
 {tr} no céu
@@ -437,11 +463,13 @@ Pois são três os que dão testemunho
 {trnc}\*fn
  o Espírito, a água e o sangue; e estes três estão em unidade.
 \v 1Jo.5.9
-Se recebemos o testemunho humano, o testemunho de Deus é maior; pois este é o testemunho de Deus, que testificou de seu Filho.
+{rp|n4}Se recebemos o testemunho humano, o testemunho de Deus é maior; pois este é o testemunho de Deus, que testificou de seu Filho.
+{tr}Se recebemos o testemunho humano, o testemunho de Deus é maior; pois este é o testemunho de Deus, que testificou de Seu Filho.
 \v 1Jo.5.10
 Quem crê no Filho de Deus tem testemunho em si mesmo; quem não crê em Deus o fez de mentiroso, porque não creu no testemunho que Deus deu acerca do seu Filho.
 \v 1Jo.5.11
-E este é o testemunho: que Deus nos deu a vida eterna; e essa vida está no seu Filho.
+{rp|n4}E este é o testemunho: que Deus nos deu a vida eterna; e essa vida está no seu Filho.
+{tr}E este é o testemunho: que Deus nos deu a vida eterna; e essa vida está no Seu Filho.
 \v 1Jo.5.12
 Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida.
 \v 1Jo.5.13
@@ -458,7 +486,8 @@ vida eterna
 \v 1Jo.5.14
 E esta é a confiança que diante dele: que se pedirmos alguma coisa conforme a sua vontade, ele nos ouve.
 \v 1Jo.5.15
-E se sabemos que nos ouve em tudo o que pedimos, sabemos que alcançamos as coisas que lhe pedimos.
+{rp|n4}E se sabemos que nos ouve em tudo o que pedimos, sabemos que alcançamos as coisas que lhe pedimos.
+{tr}E se sabemos que nos ouve em tudo o que pedimos, sabemos que alcançamos as coisas que Lhe pedimos.
 \v 1Jo.5.16
 Se alguém vê o seu irmão cometer um pecado que não é para a morte, orará, e lhe dará vida, para os que não pecarem 
 para a morte. Há pecado para a morte, pelo qual não digo que ore.

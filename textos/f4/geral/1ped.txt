@@ -330,11 +330,13 @@ Pois para isto fostes chamados, porque também Cristo sofreu por
 {trnc}\fn
 {trnc}RP, N4: deixando-vos
 {trnc}\*fn
- exemplo, para que sigais os seus passos.
+{rp|n4} exemplo, para que sigais os seus passos.
+{tr} exemplo, para que sigais os Seus passos.
 \v 1Pd.2.22
 Ele não cometeu pecado, nem engano foi achado em sua boca.
 \v 1Pd.2.23
-Quando o insultavam, ele não insultava de volta. Quando sofria, ele não ameaçava; em vez disso, entregava-se ao que julga de maneira justa.
+{rp|n4}Quando o insultavam, ele não insultava de volta. Quando sofria, ele não ameaçava; em vez disso, entregava-se ao que julga de maneira justa.
+{tr}Quando o insultavam, Ele não insultava de volta. Quando sofria, Ele não ameaçava; em vez disso, entregava-se ao que julga de maneira justa.
 \v 1Pd.2.24
 Ele levou nossos pecados em seu próprio corpo sobre o madeiro; para que nós, estando mortos para os pecados, vivamos para a justiça. Pela ferida dele fostes sarados.
 \v 1Pd.2.25
@@ -574,7 +576,8 @@ que sirva
 \v 1Pd.4.12
 Amados, não estranheis o fogo ardente que vem sobre vós para vos provar, como se algo estranho estivesse vos acontecendo.
 \v 1Pd.4.13
-Em vez disso, alegrai-vos em serdes participantes das aflições de Cristo; para que, também na revelação de sua glória vos alegreis com júbilo.
+{rp|n4}Em vez disso, alegrai-vos em serdes participantes das aflições de Cristo; para que, também na revelação de sua glória vos alegreis com júbilo.
+{tr}Em vez disso, alegrai-vos em serdes participantes das aflições de Cristo; para que, também na revelação de Sua glória vos alegreis com júbilo.
 \v 1Pd.4.14
 Se vós sois insultados por causa do nome de Cristo, benditos
 \fn
@@ -679,9 +682,11 @@ Semelhantemente vós, jovens, sede sujeitos aos anciãos; e todos vós
 Provérbios 3:34 
 \*ref
 \v 1Pd.5.6
-Humilhai-vos, pois, debaixo da poderosa mão de Deus, para que ele vos exalte no tempo adequado,
+{rp|n4}Humilhai-vos, pois, debaixo da poderosa mão de Deus, para que ele vos exalte no tempo adequado,
+{tr}Humilhai-vos, pois, debaixo da poderosa mão de Deus, para que Ele vos exalte no tempo adequado,
 \v 1Pd.5.7
-lançando sobre ele toda a vossa ansiedade; porque ele tem cuidado de vós.
+{rp|n4}lançando sobre ele toda a vossa ansiedade; porque ele tem cuidado de vós.
+{tr}lançando sobre Ele toda a vossa ansiedade; porque Ele tem cuidado de vós.
 \v 1Pd.5.8
 Sede sóbrios! Vigiai! 
 {tr|rp}Pois
@@ -724,7 +729,8 @@ E o Deus de toda graça, que
 {trnc}\*fn
  fundamento.
 \v 1Pd.5.11
-A ele 
+{rp|n4}A ele 
+{tr}A Ele 
 {tr|rp}sejam a glória e
 {n4}seja
  o poder
