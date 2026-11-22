@@ -116,7 +116,8 @@ Porque o Filho de Deus, Jesus Cristo, o que por nós foi pregado entre vós,
 \added
 isto é
 \*added
-, por mim, e Silvano, e Timóteo, não foi sim e não, mas nele foi o “sim”.
+{rp|n4}, por mim, e Silvano, e Timóteo, não foi sim e não, mas nele foi o “sim”.
+{tr}, por mim, e Silvano, e Timóteo, não foi sim e não, mas nEle foi o “sim”.
 \v 2Co.1.20
 {rp|n4}Porque todas as promessas nele são “sim”, e nele 
 {tr}Porque todas as promessas de Deus nEle são “sim”, e nEle 
@@ -419,7 +420,8 @@ vem
 {rp|n4} de Deus, o qual, por Jesus Cristo, reconciliou-nos consigo, e nos deu o ministério da reconciliação.
 {tr} de Deus, o qual, por Jesus Cristo, reconciliou-nos Consigo, e nos deu o ministério da reconciliação.
 \v 2Co.5.19
-Porque Deus estava em Cristo reconciliando consigo ao mundo, não lhes atribuindo seus pecados; e pôs em nós a palavra 
+{rp|n4}Porque Deus estava em Cristo reconciliando consigo ao mundo, não lhes atribuindo seus pecados; e pôs em nós a palavra 
+{tr}Porque Deus estava em Cristo reconciliando Consigo ao mundo, não lhes atribuindo seus pecados; e pôs em nós a palavra 
 da reconciliação.
 \v 2Co.5.20
 Assim, pois, nós somos embaixadores da parte de Cristo, como se Deus rogasse por nós; 
@@ -428,11 +430,13 @@ por isso
 \*added
 , rogamos em Cristo: Reconciliai-vos com Deus.
 \v 2Co.5.21
-Pois ele fez com que aquele que não conheceu pecado 
+{rp|n4}Pois ele fez com que aquele que não conheceu pecado 
+{tr}Pois Ele fez com que aquele que não conheceu pecado 
 \added
 se tornasse
 \*added
- pecado por nós; para que nós nele fôssemos feitos justiça de Deus.
+{rp|n4} pecado por nós; para que nós nele fôssemos feitos justiça de Deus.
+{tr} pecado por nós; para que nós nEle fôssemos feitos justiça de Deus.
 \v 2Co.6.1
 E nós, como trabalhadores conjuntamente 
 \added
@@ -1004,7 +1008,7 @@ isso
  de afastasse de mim.
 \v 2Co.12.9
 {rp|n4}Mas ele me disse: “Minha graça te basta, porque meu poder se aperfeiçoa na fraqueza”. Por isso, com muito prazer, eu me 
-{tr}Mas Ele me disse: “Minha graça te basta, porque meu poder se aperfeiçoa na fraqueza”. Por isso, com muito prazer, eu me 
+{tr}Mas Ele me disse: “Minha graça te basta, porque Meu poder se aperfeiçoa na fraqueza”. Por isso, com muito prazer, eu me 
 orgulharei nas minhas fraquezas, para que o poder de Cristo habite em mim.
 \v 2Co.12.10
 Por isso tenho prazer nas fraquezas, nos insultos, nas necessidades, nas perseguições, nas angústias por causa de Cristo; porque quando estou fraco, então fico forte.
