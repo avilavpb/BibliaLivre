@@ -126,7 +126,8 @@ para que ninguém
 \fn
 Lit. nenhuma carne
 \*fn
- orgulhe de si mesmo diante dele.
+{rp|n4} orgulhe de si mesmo diante dele.
+{tr} orgulhe de si mesmo diante dEle.
 \v 1Co.1.30
 {rp|n4}Mas vós sois dele em Cristo Jesus, o qual, por parte de Deus, tornou-se para nós sabedoria, justiça, santificação, 
 {tr}Mas vós sois dEle em Cristo Jesus, o qual, por parte de Deus, tornou-se para nós sabedoria, justiça, santificação, 
@@ -166,7 +167,8 @@ Porém, assim como está escrito: “As coisas que o olho não viu, e não subir
 \added
 são
 \*added
- as que Deus preparou para os que o amam”.
+{rp|n4} as que Deus preparou para os que o amam”.
+{tr} as que Deus preparou para os que O amam”.
 \ref
 Isaías 64:4
 \*ref
@@ -194,7 +196,8 @@ Mas o ser humano natural não compreende as coisas que são do Espírito de Deus
 \v 1Co.2.15
 Porém quem é espiritual compreende todas as coisas, mas não é compreendido por ninguém.
 \v 1Co.2.16
-Pois quem conheceu a mente do Senhor, para que o possa instruir? Mas nós temos a mente de Cristo.
+{rp|n4}Pois quem conheceu a mente do Senhor, para que o possa instruir? Mas nós temos a mente de Cristo.
+{tr}Pois quem conheceu a mente do Senhor, para que O possa instruir? Mas nós temos a mente de Cristo.
 \v 1Co.3.1
 E eu, irmãos, não pude vos falar como a espirituais, mas como a carnais, como a meninos em Cristo.
 \v 1Co.3.2
@@ -1496,11 +1499,13 @@ veio
 \v 1Co.15.22
 Porque assim como em Adão todos morrem, assim também em Cristo todos serão vivificados.
 \v 1Co.15.23
-Mas cada um em sua ordem; Cristo, as primícias; depois os que são de Cristo, em sua vinda.
+{rp|n4}Mas cada um em sua ordem; Cristo, as primícias; depois os que são de Cristo, em sua vinda.
+{tr}Mas cada um em sua ordem; Cristo, as primícias; depois os que são de Cristo, em Sua vinda.
 \v 1Co.15.24
 Depois será o fim, quando entregar o Reino de Deus e ao Pai, quando aniquilar todo domínio, e toda autoridade e poder.
 \v 1Co.15.25
-Porque convém que ele reine, até que tenha posto todos os inimigos debaixo de seus pés.
+{rp|n4}Porque convém que ele reine, até que tenha posto todos os inimigos debaixo de seus pés.
+{tr}Porque convém que Ele reine, até que tenha posto todos os inimigos debaixo de Seus pés.
 \v 1Co.15.26
 O último inimigo, que será aniquilado, 
 \added
@@ -1508,13 +1513,17 @@ O último inimigo, que será aniquilado,
 \*added
  a morte.
 \v 1Co.15.27
-Porque ele sujeitou todas as coisas debaixo de seus pés. Porém quando diz que todas as coisas 
+{rp|n4}Porque ele sujeitou todas as coisas debaixo de seus pés. Porém quando diz que todas as coisas 
+{tr}Porque Ele sujeitou todas as coisas debaixo de Seus pés. Porém quando diz que todas as coisas 
 \added
-lhe
+{rp|n4}lhe
+{tr}Lhe
 \*added
- estão sujeitas, está claro que se excetua aquele que todas as coisas lhe sujeitou.
+{rp|n4} estão sujeitas, está claro que se excetua aquele que todas as coisas lhe sujeitou.
+{tr} estão sujeitas, está claro que se excetua aquele que todas as coisas Lhe sujeitou.
 \v 1Co.15.28
-E quando todas as coisas lhe forem sujeitas, então também o mesmo Filho se sujeitará a aquele, que todas as coisas lhe sujeitou, para que Deus seja tudo em todos.
+{rp|n4}E quando todas as coisas lhe forem sujeitas, então também o mesmo Filho se sujeitará a aquele, que todas as coisas lhe sujeitou, para que Deus seja tudo em todos.
+{tr}E quando todas as coisas Lhe forem sujeitas, então também o mesmo Filho se sujeitará a aquele, que todas as coisas Lhe sujeitou, para que Deus seja tudo em todos.
 \v 1Co.15.29
 De outra maneira, que farão os que se batizam pelos mortos, se totalmente os mortos não ressuscitam? Por que, então, se batizam pelos mortos?
 \v 1Co.15.30
