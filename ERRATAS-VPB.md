@@ -500,3 +500,7 @@ Marcação usada: o bloco `\added` … `\*added` do formato f4, com cada marcado
 ### Mq 5.4: concordância (decisão de Marcelo, 22/11/2026)
 
 - **Mq 5.4** – "E eles se levantará" → "E Ele se levantará" (só TR). Os verbos hebraicos estão no singular (וְעָמַד וְרָעָה, qal perf. 3ª masc. sing.). "Ele" vai em maiúscula porque o referente é o governante do v. 2, como "Seu Deus" e "Ele será engrandecido" no mesmo versículo. O resto do versículo foi conferido: "e eles habitarão" está correto (וְיָשָׁבוּ, 3ª masc. pl.) e "governará" concorda com o sujeito singular.
+
+### Jo 16.14: marcação de itálico (só TR)
+
+- **Jo 16.14** – Na fonte, o primeiro `\added` não fechava ("do [que é Meu, e [o]…"), o que deixava a TR com 4.846 aberturas e 4.845 fechamentos de itálico. Corrigido na TR para "do [que é Meu], e [o] anunciará" (TR ἐκ τοῦ ἐμοῦ λήψεται καὶ ἀναγγελεῖ ὑμῖν). O texto não muda, só o itálico.

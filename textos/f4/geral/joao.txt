@@ -2607,8 +2607,11 @@ falará tudo o que ouvir; e vos anunciará as coisas que hão de vir.
 {tr}Ele Me glorificará, porque receberá do 
 \added
 {rp|n4}que é meu, e 
-{tr}que é Meu, e 
-\added 
+{tr}que é Meu
+{tr}\*added
+{tr}, e 
+{rp|n4}\added 
+{tr}\added
  o
 \*added
  anunciará a vós mesmos.

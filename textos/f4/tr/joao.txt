@@ -2177,8 +2177,10 @@ falará tudo o que ouvir; e vos anunciará as coisas que hão de vir.
 \v Joao.16.14
 Ele Me glorificará, porque receberá do 
 \added
-que é Meu, e 
-\added 
+que é Meu
+\*added
+, e 
+\added
  o
 \*added
  anunciará a vós mesmos.
