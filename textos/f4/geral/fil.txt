@@ -199,7 +199,8 @@ ausência, assim operai a vossa salvação com temor e tremor;
 \v Fp.2.13
 pois é Deus quem opera em vós tanto o querer como o agir, conforme a 
 \added
-sua
+{rp|n4}sua
+{tr}Sua
 \*added
  boa vontade.
 \v Fp.2.14
@@ -270,7 +271,8 @@ segundo o zelo, perseguidor da Igreja; segundo a justiça que há na lei, irrepr
 \v Fp.3.7
 Mas o que para mim era ganho considerei como perda, por causa de Cristo.
 \v Fp.3.8
-E, na verdade, considero também todas as coisas como perda, por causa da superioridade de conhecer a Cristo Jesus, meu Senhor. Por ele aceitei perder todas 
+{rp|n4}E, na verdade, considero também todas as coisas como perda, por causa da superioridade de conhecer a Cristo Jesus, meu Senhor. Por ele aceitei perder todas 
+{tr}E, na verdade, considero também todas as coisas como perda, por causa da superioridade de conhecer a Cristo Jesus, meu Senhor. Por Ele aceitei perder todas 
 \added
 essas
 \*added
@@ -391,7 +393,8 @@ me foi enviado
 \*added
 , como cheiro suave, e sacrifício aceitável e agradável a Deus.
 \v Fp.4.19
-E meu Deus suprirá todas a vossas necessidades segundo as suas riquezas em glória em Cristo Jesus.
+{rp|n4}E meu Deus suprirá todas a vossas necessidades segundo as suas riquezas em glória em Cristo Jesus.
+{tr}E meu Deus suprirá todas a vossas necessidades segundo as Suas riquezas em glória em Cristo Jesus.
 \v Fp.4.20
 Ao nosso Deus e Pai seja a glória para todo o sempre, Amém!
 \v Fp.4.21

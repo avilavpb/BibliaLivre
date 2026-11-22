@@ -31,12 +31,15 @@ lugares
 \*added
  celestiais em Cristo;
 \v Ef.1.4
-assim como nos escolheu nele antes da fundação do mundo, para que fôssemos santos e irrepreensíveis diante dele 
+{rp|n4}assim como nos escolheu nele antes da fundação do mundo, para que fôssemos santos e irrepreensíveis diante dele 
+{tr}assim como nos escolheu nEle antes da fundação do mundo, para que fôssemos santos e irrepreensíveis diante dEle 
 em amor.
 \v Ef.1.5
-E nos predestinou como filhos adotados por meio de Jesus Cristo para si mesmo, conforme o bom prazer de sua vontade;
+{rp|n4}E nos predestinou como filhos adotados por meio de Jesus Cristo para si mesmo, conforme o bom prazer de sua vontade;
+{tr}E nos predestinou como filhos adotados por meio de Jesus Cristo para Si mesmo, conforme o bom prazer de Sua vontade;
 \v Ef.1.6
-para louvor da glória de sua graça, 
+{rp|n4}para louvor da glória de sua graça, 
+{tr}para louvor da glória de Sua graça, 
 {tr|rp}pela qual nos tornou aceitos
 {n4}a qual nos concedeu gratuitamente
 {trnc}\fn
@@ -53,9 +56,11 @@ Ou: redenção, i.e. a libertação por meio do pagamento de um resgate
 \*fn
  pelo seu sangue, o perdão dos pecados, conforme as riquezas da sua graça,
 \v Ef.1.8
-que ele fez transbordar sobre nós em toda sabedoria e prudência.
+{rp|n4}que ele fez transbordar sobre nós em toda sabedoria e prudência.
+{tr}que Ele fez transbordar sobre nós em toda sabedoria e prudência.
 \v Ef.1.9
-E nos revelou o mistério da sua vontade, conforme o seu bom prazer, que nele propôs,
+{rp|n4}E nos revelou o mistério da sua vontade, conforme o seu bom prazer, que nele propôs,
+{tr}E nos revelou o mistério da Sua vontade, conforme o Seu bom prazer, que nEle propôs,
 \v Ef.1.10
 para a administração do cumprimento dos tempos: reunir em Cristo todas as coisas, tanto as que 
 \added
@@ -68,9 +73,11 @@ estão
  na terra.
 \v Ef.1.11
 Nele também fomos feitos herança, havendo sido predestinados conforme o propósito daquele que faz todas as coisas 
-segundo o conselho da sua vontade,
+{rp|n4}segundo o conselho da sua vontade,
+{tr}segundo o conselho da Sua vontade,
 \v Ef.1.12
-para que fôssemos para louvor da sua glória, nós os que primeiro esperamos em Cristo.
+{rp|n4}para que fôssemos para louvor da sua glória, nós os que primeiro esperamos em Cristo.
+{tr}para que fôssemos para louvor da Sua glória, nós os que primeiro esperamos em Cristo.
 \v Ef.1.13
 E também vós, depois que ouvistes a palavra da verdade, o evangelho da vossa salvação, e nele crestes, nele fostes 
 selados com o Espírito Santo da promessa,
@@ -83,7 +90,8 @@ Ou: redenção
 \added
 de Deus
 \*added
-, para louvor da sua glória.
+{rp|n4}, para louvor da sua glória.
+{tr}, para louvor da Sua glória.
 \v Ef.1.15
 Por isso eu, desde que ouvi da fé que há entre vós no Senhor Jesus, e do amor a todos os santos,
 \v Ef.1.16
@@ -105,7 +113,8 @@ Oro
 \fn
 Lit. Pai da glória
 \*fn
-, vos dê o Espírito de sabedoria e de revelação no conhecimento dele;
+{rp|n4}, vos dê o Espírito de sabedoria e de revelação no conhecimento dele;
+{tr}, vos dê o Espírito de sabedoria e de revelação no conhecimento dEle;
 \v Ef.1.18
 e que sejam iluminados os olhos do vosso 
 {tr}entendimento
@@ -114,7 +123,8 @@ e que sejam iluminados os olhos do vosso
 {trnc}\fn
 {trnc}RP, N4: coração 
 {trnc}\*fn
- para que conheçais qual é a esperança para a qual ele chamou, quais 
+{rp|n4} para que conheçais qual é a esperança para a qual ele chamou, quais 
+{tr} para que conheçais qual é a esperança para a qual Ele chamou, quais 
 \added
 são
 \*added
@@ -122,15 +132,19 @@ são
 \fn
 Lit. glória da herança
 \*fn
- dele nos santos,
+{rp|n4} dele nos santos,
+{tr} dEle nos santos,
 \v Ef.1.19
-e qual é a superabundante grandeza do seu poder para nós, que cremos, conforme a operação da sua poderosa força,
+{rp|n4}e qual é a superabundante grandeza do seu poder para nós, que cremos, conforme a operação da sua poderosa força,
+{tr}e qual é a superabundante grandeza do Seu poder para nós, que cremos, conforme a operação da Sua poderosa força,
 \v Ef.1.20
-a qual ele operou em Cristo, ressuscitando-o dos mortos; e o colocou à direita dele nos céus,
+{rp|n4}a qual ele operou em Cristo, ressuscitando-o dos mortos; e o colocou à direita dele nos céus,
+{tr}a qual Ele operou em Cristo, ressuscitando-O dos mortos; e o colocou à direita dEle nos céus,
 \v Ef.1.21
 acima de todo governo, autoridade, poder, domínio, e de todo nome que se nomeia, não só nesta era, mas também na futura.
 \v Ef.1.22
-Ele também sujeitou todas as coisas debaixo dos seus pés, e o constituiu por cabeça sobre todas as coisas 
+{rp|n4}Ele também sujeitou todas as coisas debaixo dos seus pés, e o constituiu por cabeça sobre todas as coisas 
+{tr}Ele também sujeitou todas as coisas debaixo dos Seus pés, e o constituiu por cabeça sobre todas as coisas 
 para a Igreja,
 \v Ef.1.23
 que é o seu corpo, a plenitude daquele que enche tudo em todas as coisas.
@@ -149,7 +163,8 @@ opera nos filhos da desobediência.
 Entre esses também todos nós antes andávamos nos desejos da nossa carne, fazendo a vontade da carne e dos pensamentos; 
 e éramos por natureza filhos da ira, como também os outros.
 \v Ef.2.4
-Mas Deus, que é rico em misericórdia, pelo seu muito amor com que nos amou,
+{rp|n4}Mas Deus, que é rico em misericórdia, pelo seu muito amor com que nos amou,
+{tr}Mas Deus, que é rico em misericórdia, pelo Seu muito amor com que nos amou,
 \v Ef.2.5
 estando nós ainda mortos em 
 \added
@@ -170,9 +185,11 @@ nos
 \*added
  fez sentar nos lugares celestiais, em Cristo Jesus;
 \v Ef.2.7
-para mostrar nos tempos futuros as abundantes riquezas da sua graça, pela 
+{rp|n4}para mostrar nos tempos futuros as abundantes riquezas da sua graça, pela 
+{tr}para mostrar nos tempos futuros as abundantes riquezas da Sua graça, pela 
 \added
-sua
+{rp|n4}sua
+{tr}Sua
 \*added
  bondade conosco em Cristo Jesus.
 \v Ef.2.8
@@ -188,7 +205,8 @@ vem
 \v Ef.2.9
 não por obras, para que ninguém tenha orgulho de si mesmo.
 \v Ef.2.10
-Pois nós fomos feitos por ele, criados em Cristo Jesus para as boas obras, que Deus preparou para que nelas andássemos.
+{rp|n4}Pois nós fomos feitos por ele, criados em Cristo Jesus para as boas obras, que Deus preparou para que nelas andássemos.
+{tr}Pois nós fomos feitos por Ele, criados em Cristo Jesus para as boas obras, que Deus preparou para que nelas andássemos.
 \v Ef.2.11
 Portanto, lembrai-vos de que vós, antes, éreis gentios na carne, e chamados de não-circuncidados pelos que se chamam 
 participantes da circuncisão na carne, feita por mãos humanas;
@@ -204,11 +222,13 @@ povos
 \*added
  ele fez um, e derrubou do meio o muro da separação.
 \v Ef.2.15
-Na sua carne ele desfez a inimizade da Lei dos mandamentos 
+{rp|n4}Na sua carne ele desfez a inimizade da Lei dos mandamentos 
+{tr}Na Sua carne Ele desfez a inimizade da Lei dos mandamentos 
 \added
 que consistia
 \*added
- em ordenanças, para criar em si mesmo os dois em um novo homem, fazendo a paz;
+{rp|n4} em ordenanças, para criar em si mesmo os dois em um novo homem, fazendo a paz;
+{tr} em ordenanças, para criar em Si mesmo os dois em um novo homem, fazendo a paz;
 \v Ef.2.16
 e pela cruz reconciliar com Deus a ambos num só corpo, matando nela a inimizade.
 \v Ef.2.17
@@ -223,7 +243,8 @@ estáveis
 {trnc}\*fn
  aos que estavam perto.
 \v Ef.2.18
-Pois por meio dele ambos temos acesso ao Pai por um 
+{rp|n4}Pois por meio dele ambos temos acesso ao Pai por um 
+{tr}Pois por meio dEle ambos temos acesso ao Pai por um 
 \added
 mesmo
 \*added
@@ -279,7 +300,8 @@ Esse mistério
 \fn
 Lit. filhos dos homens
 \*fn
-, como agora foi revelado pelo Espírito aos seus 
+{rp|n4}, como agora foi revelado pelo Espírito aos seus 
+{tr}, como agora foi revelado pelo Espírito aos Seus 
 santos apóstolos e profetas:
 \v Ef.3.6
 \added
@@ -290,7 +312,8 @@ isto é,
 membros
 \*added
  de um mesmo corpo, e participantes da
-{tr|rp} sua
+{rp} sua
+{tr} Sua
 {trnc}\fn
 {trnc}N4 não contém “sua”
 {trnc}\*fn
@@ -305,7 +328,8 @@ Eu fui feito servidor desse
 \added
 evangelho
 \*added
- conforme o dom da graça de Deus, que me foi dada segundo a operação do seu poder.
+{rp|n4} conforme o dom da graça de Deus, que me foi dada segundo a operação do seu poder.
+{tr} conforme o dom da graça de Deus, que me foi dada segundo a operação do Seu poder.
 \v Ef.3.8
 A mim, o menor de todos os santos, foi dada esta graça de anunciar 
 {tr|rp}entre os
@@ -341,13 +365,15 @@ E para esclarecer
 \v Ef.3.10
 para que a multiforme sabedoria de Deus seja agora manifestada pela igreja aos domínios e autoridades nos lugares celestes,
 \v Ef.3.11
-conforme o eterno propósito que ele cumpriu em Cristo Jesus, nosso Senhor,
+{rp|n4}conforme o eterno propósito que ele cumpriu em Cristo Jesus, nosso Senhor,
+{tr}conforme o eterno propósito que Ele cumpriu em Cristo Jesus, nosso Senhor,
 \v Ef.3.12
 no qual temos coragem
 \fn
 Ou: ousadia
 \*fn
- e acesso confiante pela fé nele.
+{rp|n4} e acesso confiante pela fé nele.
+{tr} e acesso confiante pela fé nEle.
 \fn
 Trad. alt.: pela fidelidade dele
 \*fn
@@ -373,11 +399,13 @@ do qual toda a família nos céus e na terra recebe nome.
 \added
 Oro
 \*added
- para que, conforme a sua riquíssima glória, 
+{rp|n4} para que, conforme a sua riquíssima glória, 
+{tr} para que, conforme a Sua riquíssima glória, 
 \fn
 Lit. as riquezas de sua glória
 \*fn
- ele vos conceda que sejais fortalecidos com poder pelo seu Espírito no interior de cada um, 
+{rp|n4} ele vos conceda que sejais fortalecidos com poder pelo seu Espírito no interior de cada um, 
+{tr} Ele vos conceda que sejais fortalecidos com poder pelo Seu Espírito no interior de cada um, 
 \fn
 \key
 no interior de cada um
@@ -397,7 +425,8 @@ e conhecer o amor de Cristo, que excede o entendimento, para que sejais cheios d
 \v Ef.3.20
 E quanto àquele que é poderoso para fazer tudo muito mais abundantemente do que pedimos ou pensamos, segundo o poder que opera em nós,
 \v Ef.3.21
-a ele seja a glória na Igreja,
+{rp|n4}a ele seja a glória na Igreja,
+{tr}a Ele seja a glória na Igreja,
 {n4} e
  em
 {trnc}\fn
@@ -478,7 +507,8 @@ Trad. alt. cumprir
 \*fn
  todas as coisas.
 \v Ef.4.11
-E ele mesmo deu uns como apóstolos, outros como profetas, outros como evangelistas, e outros como pastores 
+{rp|n4}E ele mesmo deu uns como apóstolos, outros como profetas, outros como evangelistas, e outros como pastores 
+{tr}E Ele mesmo deu uns como apóstolos, outros como profetas, outros como evangelistas, e outros como pastores 
 e instrutores.
 \v Ef.4.12
 para o aperfeiçoamento dos santos, para a obra do serviço,
@@ -648,7 +678,8 @@ sujeitai-vos
 {n4}\*added
  aos vossos próprios maridos, assim como ao Senhor;
 \v Ef.5.23
-porque o marido é o cabeça da mulher, como também Cristo é o cabeça da Igreja, e ele é o salvador do corpo.
+{rp|n4}porque o marido é o cabeça da mulher, como também Cristo é o cabeça da Igreja, e ele é o salvador do corpo.
+{tr}porque o marido é o cabeça da mulher, como também Cristo é o cabeça da Igreja, e Ele é o salvador do corpo.
 \v Ef.5.24
 Mas, assim como a Igreja está sujeita a Cristo, assim também as mulheres 
 \added
@@ -683,8 +714,10 @@ pois ninguém jamais odiou a sua própria carne; mas a alimenta e sustenta, assi
 {trnc}\*fn
  à Igreja.
 \v Ef.5.30
-pois somos membros de seu corpo
-{tr|rp}, da sua carne, e dos seus ossos
+{rp|n4}pois somos membros de seu corpo
+{tr}pois somos membros de Seu corpo
+{rp}, da sua carne, e dos seus ossos
+{tr}, da Sua carne, e dos Seus ossos
 .
 {trnc}\fn
 {trnc}N4 não contém “da sua carne, e dos seus ossos” 
@@ -745,14 +778,16 @@ Senhores, fazei o mesmo a eles, abandonando as ameaças, pois sabeis também que
 \added
 que
 \*added
- com ele não há acepção de pessoas.
+{rp|n4} com ele não há acepção de pessoas.
+{tr} com Ele não há acepção de pessoas.
 \v Ef.6.10
 Por fim,
 {tr|rp} meus irmãos,
 {trnc}\fn
 {trnc}N4 não contém “meus irmãos”
 {trnc}\*fn
- fortalecei-vos no Senhor e na força do seu poder.
+{rp|n4} fortalecei-vos no Senhor e na força do seu poder.
+{tr} fortalecei-vos no Senhor e na força do Seu poder.
 \v Ef.6.11
 Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as ciladas do diabo.
 \v Ef.6.12

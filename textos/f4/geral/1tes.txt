@@ -78,7 +78,8 @@ Lit. que recepção tivemos até vós
 {rp|n4} e como vos convertestes, deixando os ídolos, para servir ao Deus vivo e verdadeiro;
 {tr} e como vos convertestes a Deus, deixando os ídolos, para servir ao Deus vivo e verdadeiro;
 \v 1Ts.1.10
-e para esperar dos céus o seu Filho, a quem ele ressuscitou dos mortos: Jesus, que nos livra da ira futura.
+{rp|n4}e para esperar dos céus o seu Filho, a quem ele ressuscitou dos mortos: Jesus, que nos livra da ira futura.
+{tr}e para esperar dos céus o Seu Filho, a quem Ele ressuscitou dos mortos: Jesus, que nos livra da ira futura.
 \v 1Ts.2.1
 Pois vós mesmos, irmãos, sabeis que a nossa passagem por entre vós não foi inútil.
 \v 1Ts.2.2
@@ -119,7 +120,8 @@ sois
 \v 1Ts.2.11
 Assim como sabeis que, como um pai aos seus filhos, exortávamos, consolávamos, e testemunhávamos a cada um de vós, 
 \v 1Ts.2.12
-para que andásseis de maneira digna diante de Deus, que vos chama para o seu reino e glória.
+{rp|n4}para que andásseis de maneira digna diante de Deus, que vos chama para o seu reino e glória.
+{tr}para que andásseis de maneira digna diante de Deus, que vos chama para o Seu reino e glória.
 \v 1Ts.2.13
 Por isso também agradecemos sem cessar a Deus, que, quando recebestes a palavra da Deus pregada por nós, 
 a recebestes, não 
@@ -166,7 +168,8 @@ Pois, qual é nossa esperança, alegria, ou coroa de orgulho, diante do nosso Se
 {trnc}\fn
 {trnc}RP, N4 não contêm “Cristo”
 {trnc}\*fn
- na sua vinda? Acaso 
+{rp|n4} na sua vinda? Acaso 
+{tr} na Sua vinda? Acaso 
 não sois vós?
 \v 1Ts.2.20
 Porque vós sois o nosso orgulho e alegria.
@@ -236,7 +239,8 @@ Senhor Jesus
 {trnc}\fn
 {trnc}N4 não contém “Cristo”
 {trnc}\*fn
- com todos os seus santos.
+{rp|n4} com todos os seus santos.
+{tr} com todos os Seus santos.
 \v 1Ts.4.1
 Portanto, irmãos, no restante, vos rogamos e exortamos no Senhor Jesus, que, assim como recebestes de nós como deveis 
 andar e agradar a Deus
@@ -282,7 +286,8 @@ isso
 {trnc}\fn
 {trnc}RP, N4: “vos”
 {trnc}\*fn
- deu também o seu Espírito Santo.
+{rp|n4} deu também o seu Espírito Santo.
+{tr} deu também o Seu Espírito Santo.
 \v 1Ts.4.9
 Mas quanto ao amor fraternal, não precisais que eu vos escreva, pois vós mesmos estais instruídos por Deus que vos 
 ameis uns aos outros.
@@ -313,7 +318,8 @@ Lit. acerca dos que dormem. também vv. 14, 15
 \*fn
  para que não vos entristeçais como os outros que não têm esperança.
 \v 1Ts.4.14
-Pois, se cremos que Jesus morreu e ressuscitou, assim também aos que morreram em Jesus, Deus os trará de volta com ele.
+{rp|n4}Pois, se cremos que Jesus morreu e ressuscitou, assim também aos que morreram em Jesus, Deus os trará de volta com ele.
+{tr}Pois, se cremos que Jesus morreu e ressuscitou, assim também aos que morreram em Jesus, Deus os trará de volta com Ele.
 \v 1Ts.4.15
 Pois dizemos isto pela palavra do Senhor, que nós, os que ficarmos vivos até a vinda do Senhor, não iremos antes dos 
 que morreram.
@@ -352,7 +358,8 @@ da salvação.
 \v 1Ts.5.9
 Porque Deus não nos destinou para a ira, mas, sim, para obtermos a salvação, por meio do nosso Senhor Jesus Cristo,
 \v 1Ts.5.10
-que morreu por nós, a fim de que, se estivermos vigiando ou dormindo, nós vivamos juntamente com ele.
+{rp|n4}que morreu por nós, a fim de que, se estivermos vigiando ou dormindo, nós vivamos juntamente com ele.
+{tr}que morreu por nós, a fim de que, se estivermos vigiando ou dormindo, nós vivamos juntamente com Ele.
 \v 1Ts.5.11
 Portanto exortai-vos uns aos outros, e edificai-vos uns aos outros, como já fazeis.
 \v 1Ts.5.12

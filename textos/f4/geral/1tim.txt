@@ -521,7 +521,8 @@ boa confissão,
 \v 1Tm.6.14
 que guardes este mandamento sem mancha nem motivo de repreensão, até a aparição do nosso Senhor Jesus Cristo.
 \v 1Tm.6.15
-Essa nos seus tempos mostrará o bendito
+{rp|n4}Essa nos seus tempos mostrará o bendito
+{tr}Essa nos Seus tempos mostrará o bendito
 \fn
 Ou: bem-aventurado
 \*fn

@@ -28,7 +28,8 @@ seja
 \v 1Co.1.4
 Sempre agradeço ao meu Deus por causa de vós, pela graça de Deus, que é dada a vós em Cristo Jesus.
 \v 1Co.1.5
-Que em todas as coisas estais enriquecidos nele, em toda palavra, e em todo conhecimento;
+{rp|n4}Que em todas as coisas estais enriquecidos nele, em toda palavra, e em todo conhecimento;
+{tr}Que em todas as coisas estais enriquecidos nEle, em toda palavra, e em todo conhecimento;
 \v 1Co.1.6
 {rp|n4}Assim como o testemunho de Jesus Cristo foi confirmado entre vós.
 {tr}Assim como o testemunho de 
@@ -41,7 +42,8 @@ De maneira que nenhum dom vos falta, enquanto esperais a manifestação do nosso
 \v 1Co.1.8
 o qual também vos firmará até o fim, irrepreensíveis no dia de nosso Senhor Jesus Cristo.
 \v 1Co.1.9
-Fiel é Deus, por quem fostes chamados para a comunhão do seu Filho Jesus Cristo, nosso Senhor.
+{rp|n4}Fiel é Deus, por quem fostes chamados para a comunhão do seu Filho Jesus Cristo, nosso Senhor.
+{tr}Fiel é Deus, por quem fostes chamados para a comunhão do Seu Filho Jesus Cristo, nosso Senhor.
 \v 1Co.1.10
 Mas eu vos rogo, irmãos, pelo nome do nosso Senhor Jesus Cristo, que todos faleis uma mesma coisa, e não haja divisões entre vós; antes estejais juntos com o mesmo entendimento, e com a mesma opinião.
 \v 1Co.1.11
@@ -126,14 +128,16 @@ Lit. nenhuma carne
 \*fn
  orgulhe de si mesmo diante dele.
 \v 1Co.1.30
-Mas vós sois dele em Cristo Jesus, o qual, por parte de Deus, tornou-se para nós sabedoria, justiça, santificação, 
+{rp|n4}Mas vós sois dele em Cristo Jesus, o qual, por parte de Deus, tornou-se para nós sabedoria, justiça, santificação, 
+{tr}Mas vós sois dEle em Cristo Jesus, o qual, por parte de Deus, tornou-se para nós sabedoria, justiça, santificação, 
 e resgate;
 \v 1Co.1.31
 para que, assim como está escrito: “Aquele que se orgulha, orgulhe-se no Senhor”.
 \v 1Co.2.1
 E eu, irmãos, quando vim até vós, não vim vos anunciar o testemunho de Deus com excelência de palavras, ou sabedoria.
 \v 1Co.2.2
-Porque não quis saber coisa alguma entre vós, a não ser Jesus Cristo, e ele crucificado.
+{rp|n4}Porque não quis saber coisa alguma entre vós, a não ser Jesus Cristo, e ele crucificado.
+{tr}Porque não quis saber coisa alguma entre vós, a não ser Jesus Cristo, e Ele crucificado.
 \v 1Co.2.3
 E eu estive convosco em fraqueza, em temor, e em grande tremor.
 \v 1Co.2.4
@@ -167,7 +171,8 @@ são
 Isaías 64:4
 \*ref
 \v 1Co.2.10
-Mas Deus as revelou para nós pelo seu Espírito. Porque o Espírito investiga todas as coisas, até as profundezas de Deus.
+{rp|n4}Mas Deus as revelou para nós pelo seu Espírito. Porque o Espírito investiga todas as coisas, até as profundezas de Deus.
+{tr}Mas Deus as revelou para nós pelo Seu Espírito. Porque o Espírito investiga todas as coisas, até as profundezas de Deus.
 \v 1Co.2.11
 Pois quem dentre os seres humanos sabe as coisas do ser humano, senão o espírito do ser humano que nele está? Assim 
 também ninguém sabe as coisas de Deus, senão o Espírito de Deus.
@@ -419,7 +424,8 @@ A comida é para o estômago, e o estômago é para a comida; mas Deus os aniqui
 \*added
  para o corpo.
 \v 1Co.6.14
-E Deus ressuscitou ao Senhor, e também por seu poder nos ressuscitará.
+{rp|n4}E Deus ressuscitou ao Senhor, e também por seu poder nos ressuscitará.
+{tr}E Deus ressuscitou ao Senhor, e também por Seu poder nos ressuscitará.
 \v 1Co.6.15
 Não sabeis vós que vossos corpos são membros de Cristo? Tomarei pois os membros de Cristo, e os farei membros de uma prostituta? De maneira nenhuma!
 \v 1Co.6.16
@@ -627,7 +633,8 @@ de orgulho
 \v 1Co.8.2
 E se alguém acha saber alguma coisa, ainda nada conhece como se deve conhecer.
 \v 1Co.8.3
-Mas se alguém ama a Deus, o tal dele é conhecido.
+{rp|n4}Mas se alguém ama a Deus, o tal dele é conhecido.
+{tr}Mas se alguém ama a Deus, o tal dEle é conhecido.
 \v 1Co.8.4
 Portanto, quanto ao comer das coisas sacrificadas aos ídolos: sabemos que o ídolo nada é no mundo, e que não há qualquer outro Deus, a não ser um.
 \v 1Co.8.5
@@ -645,7 +652,8 @@ só
 \added
 são
 \*added
- todas as coisas, e nós para ele; e um 
+{rp|n4} todas as coisas, e nós para ele; e um 
+{tr} todas as coisas, e nós para Ele; e um 
 \added
 só
 \*added
@@ -653,7 +661,8 @@ só
 \added
 são
 \*added
- todas as coisas, e nós por ele.
+{rp|n4} todas as coisas, e nós por ele.
+{tr} todas as coisas, e nós por Ele.
 \v 1Co.8.7
 Mas não há em todos 
 \added
@@ -857,7 +866,8 @@ Por acaso
 \added
 tentamos
 \*added
- provocar ciúmes ao Senhor? Somos nós mais fortes do que ele?
+{rp|n4} provocar ciúmes ao Senhor? Somos nós mais fortes do que ele?
+{tr} provocar ciúmes ao Senhor? Somos nós mais fortes do que Ele?
 \v 1Co.10.23
 Todas as coisas me são lícitas, mas nem todas as coisas convêm; todas as coisas me são licitas, mas nem todas as coisas edificam.
 \v 1Co.10.24
@@ -970,19 +980,23 @@ vos
 \v 1Co.11.23
 Porque eu recebi do Senhor o que também vos entreguei; que o Senhor Jesus, na noite em que foi traído, tomou o pão;
 \v 1Co.11.24
-E tendo dado graças, o partiu, e disse: Tomai, comei; isto é o meu corpo, que é partido por vós; fazei isto em memória de mim.
+{rp|n4}E tendo dado graças, o partiu, e disse: Tomai, comei; isto é o meu corpo, que é partido por vós; fazei isto em memória de mim.
+{tr}E tendo dado graças, o partiu, e disse: Tomai, comei; isto é o Meu corpo, que é partido por vós; fazei isto em memória de Mim.
 \v 1Co.11.25
 Semelhantemente também, depois de cear, 
 \added
 tomou
 \*added
- o copo, dizendo: Este copo é o novo Testamento em meu sangue. Fazei isto todas as vezes que 
+{rp|n4} o copo, dizendo: Este copo é o novo Testamento em meu sangue. Fazei isto todas as vezes que 
+{tr} o copo, dizendo: Este copo é o novo Testamento em Meu sangue. Fazei isto todas as vezes que 
 \added
 o
 \*added
- beberdes, em memória de mim.
+{rp|n4} beberdes, em memória de mim.
+{tr} beberdes, em memória de Mim.
 \v 1Co.11.26
-Porque todas as vezes que comerdes deste pão, e beberdes deste copo, anunciai a morte do Senhor, até que ele venha.
+{rp|n4}Porque todas as vezes que comerdes deste pão, e beberdes deste copo, anunciai a morte do Senhor, até que ele venha.
+{tr}Porque todas as vezes que comerdes deste pão, e beberdes deste copo, anunciai a morte do Senhor, até que Ele venha.
 \v 1Co.11.27
 Portanto quem comer deste pão, ou beber deste copo do Senhor indignamente, será culpado do corpo e do sangue do Senhor.
 \v 1Co.11.28
@@ -1098,7 +1112,8 @@ estaria
 \*added
  o olfato?
 \v 1Co.12.18
-Mas agora Deus pôs os membros no corpo, a cada qual deles como ele quis.
+{rp|n4}Mas agora Deus pôs os membros no corpo, a cada qual deles como ele quis.
+{tr}Mas agora Deus pôs os membros no corpo, a cada qual deles como Ele quis.
 \v 1Co.12.19
 Porque se todos fossem um 
 \added
@@ -1316,7 +1331,8 @@ estranha
 \v 1Co.14.20
 Irmãos, não sejais meninos no entendimento, mas sede meninos na malícia, e adultos no entendimento.
 \v 1Co.14.21
-Na Lei está escrito: A este povo falarei por gente de outras línguas, e por outros lábios; e ainda assim não me ouvirão, diz o Senhor.
+{rp|n4}Na Lei está escrito: A este povo falarei por gente de outras línguas, e por outros lábios; e ainda assim não me ouvirão, diz o Senhor.
+{tr}Na Lei está escrito: A este povo falarei por gente de outras línguas, e por outros lábios; e ainda assim não Me ouvirão, diz o Senhor.
 \v 1Co.14.22
 Então as línguas 
 \added
@@ -1421,7 +1437,8 @@ E por último de todos também foi visto por mim, como que a um nascido fora do 
 \v 1Co.15.9
 Porque eu sou o menor dos apóstolos, que não sou digno de ser chamado apóstolo, porque persegui a Igreja de Deus.
 \v 1Co.15.10
-Mas pela graça de Deus sou o que sou; e sua graça 
+{rp|n4}Mas pela graça de Deus sou o que sou; e sua graça 
+{tr}Mas pela graça de Deus sou o que sou; e Sua graça 
 \added
 concedida
 \*added

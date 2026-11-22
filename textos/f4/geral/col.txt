@@ -69,7 +69,8 @@ Por isso também, desde o dia que
 \added
 o
 \*added
- ouvimos, não paramos de orar por vós, e de pedir que sejais cheios do conhecimento da sua vontade, em toda sabedoria 
+{rp|n4} ouvimos, não paramos de orar por vós, e de pedir que sejais cheios do conhecimento da sua vontade, em toda sabedoria 
+{tr} ouvimos, não paramos de orar por vós, e de pedir que sejais cheios do conhecimento da Sua vontade, em toda sabedoria 
 e entendimento espiritual;
 \v Cl.1.10
 para que possais andar dignamente 
@@ -78,7 +79,8 @@ diante
 \*added
  do Senhor, agradando-lhe em tudo, frutificando em toda boa obra, e crescendo no conhecimento de Deus;
 \v Cl.1.11
-capacitados em todo fortalecimento, segundo o poder da sua glória, em toda perseverança e paciência com alegria,
+{rp|n4}capacitados em todo fortalecimento, segundo o poder da sua glória, em toda perseverança e paciência com alegria,
+{tr}capacitados em todo fortalecimento, segundo o poder da Sua glória, em toda perseverança e paciência com alegria,
 \v Cl.1.12
 agradecendo ao Pai, que 
 {tr|rp}nos
@@ -91,7 +93,7 @@ agradecendo ao Pai, que
 Ele nos tirou do domínio das trevas, e nos transportou para o reino do seu amado Filho,
 \v Cl.1.14
 em quem temos a redenção
-{tr} pelo seu sangue
+{tr} pelo Seu sangue
 :
 {trnc}\fn
 {trnc}TR, RP não contêm: “pelo seu sangue”
@@ -103,12 +105,16 @@ em quem temos a redenção
 \v Cl.1.15
 Ele é a imagem do Deus invisível, o primogênito de toda a criação;
 \v Cl.1.16
-porque nele foram criadas todas as coisas que há nos céus e na terra, visíveis e invisíveis, sejam tronos, sejam 
-domínios, sejam principados, sejam autoridades; todas as coisas foram criadas por ele e para ele.
+{rp|n4}porque nele foram criadas todas as coisas que há nos céus e na terra, visíveis e invisíveis, sejam tronos, sejam 
+{tr}porque nEle foram criadas todas as coisas que há nos céus e na terra, visíveis e invisíveis, sejam tronos, sejam 
+{rp|n4}domínios, sejam principados, sejam autoridades; todas as coisas foram criadas por ele e para ele.
+{tr}domínios, sejam principados, sejam autoridades; todas as coisas foram criadas por Ele e para Ele.
 \v Cl.1.17
-Ele existe antes de todas as coisas, e nele todas as coisas se mantêm.
+{rp|n4}Ele existe antes de todas as coisas, e nele todas as coisas se mantêm.
+{tr}Ele existe antes de todas as coisas, e nEle todas as coisas se mantêm.
 \v Cl.1.18
-E ele é a cabeça do corpo, da Igreja; ele é o princípio 
+{rp|n4}E ele é a cabeça do corpo, da Igreja; ele é o princípio 
+{tr}E Ele é a cabeça do corpo, da Igreja; Ele é o princípio 
 \added
 e
 \*added
@@ -118,9 +124,11 @@ Pois foi do agrado
 \added
 do Pai
 \*added
- que toda a plenitude habitasse nele;
+{rp|n4} que toda a plenitude habitasse nele;
+{tr} que toda a plenitude habitasse nEle;
 \v Cl.1.20
-e, havendo por ele feito a paz pelo sangue da sua cruz, por meio dele reconciliasse consigo mesmo todas as coisas, 
+{rp|n4}e, havendo por ele feito a paz pelo sangue da sua cruz, por meio dele reconciliasse consigo mesmo todas as coisas, 
+{tr}e, havendo por Ele feito a paz pelo sangue da Sua cruz, por meio dEle reconciliasse Consigo mesmo todas as coisas, 
 tanto as que estão na terra, como as que estão nos céus.
 \v Cl.1.21
 Vós éreis separados 
@@ -129,16 +137,19 @@ dele
 \*added
 , e inimigos no entendimento, em más obras. Porém agora ele vos reconciliou,
 \v Cl.1.22
-no seu corpo de carne, pela morte, para vos apresentar diante dele santos, irrepreensíveis e inculpáveis;
+{rp|n4}no seu corpo de carne, pela morte, para vos apresentar diante dele santos, irrepreensíveis e inculpáveis;
+{tr}no Seu corpo de carne, pela morte, para vos apresentar diante dEle santos, irrepreensíveis e inculpáveis;
 \v Cl.1.23
 se, de fato, permaneceis fundados e firmes na fé, e não vos afastais da esperança do evangelho que ouvistes, que é 
 pregado a toda criatura que há abaixo do céu, e do qual eu, Paulo, fui feito servidor.
 \v Cl.1.24
-Agora me alegro nos meus sofrimentos por vós, e cumpro na minha carne o restante das aflições de Cristo, em benefício do seu corpo, que é a Igreja.
+{rp|n4}Agora me alegro nos meus sofrimentos por vós, e cumpro na minha carne o restante das aflições de Cristo, em benefício do seu corpo, que é a Igreja.
+{tr}Agora me alegro nos meus sofrimentos por vós, e cumpro na minha carne o restante das aflições de Cristo, em benefício do Seu corpo, que é a Igreja.
 \v Cl.1.25
 Dela eu fui feito servidor segundo a responsabilidade da parte de Deus que me foi dada para o vosso benefício, a fim de cumprir a palavra de Deus,
 \v Cl.1.26
-o mistério que estava oculto desde os princípios dos tempos e das gerações; mas agora foi manifesto aos seus santos.
+{rp|n4}o mistério que estava oculto desde os princípios dos tempos e das gerações; mas agora foi manifesto aos seus santos.
+{tr}o mistério que estava oculto desde os princípios dos tempos e das gerações; mas agora foi manifesto aos Seus santos.
 \v Cl.1.27
 A eles Deus quis fazer que conhecessem as riquezas da glória deste mistério entre os gentios, que é Cristo em vós, a esperança da glória.
 \v Cl.1.28
@@ -153,7 +164,8 @@ como
 {trnc}N4 não contém “Jesus”
 {trnc}\*fn
 \v Cl.1.29
-Para isso eu também trabalho, lutando conforme a eficácia dele, que age em mim com poder.
+{rp|n4}Para isso eu também trabalho, lutando conforme a eficácia dele, que age em mim com poder.
+{tr}Para isso eu também trabalho, lutando conforme a eficácia dEle, que age em mim com poder.
 \fn
 eficácia (atuação, poder, habilidade) e age, no grego, são palavras semelhantes
 \*fn
@@ -187,7 +199,8 @@ Digo isso para que ninguém vos engane com palavras persuasivas.
 \v Cl.2.5
 Pois ainda que esteja ausente em corpo, todavia em espírito estou convosco, alegrando-me, e vendo a vossa ordem e a firmeza de vossa fé em Cristo.
 \v Cl.2.6
-Portanto, assim como recebestes Cristo Jesus, o Senhor, assim também andai nele;
+{rp|n4}Portanto, assim como recebestes Cristo Jesus, o Senhor, assim também andai nele;
+{tr}Portanto, assim como recebestes Cristo Jesus, o Senhor, assim também andai nEle;
 \v Cl.2.7
 com raízes firmes e edificados nele, e confirmados na fé, como fostes ensinados, abundando
 {tr|rp} nela
@@ -198,9 +211,11 @@ com raízes firmes e edificados nele, e confirmados na fé, como fostes ensinado
 \v Cl.2.8
 Cuidado que ninguém vos tome cativos por meio de filosofias e de enganos vãos, conforme a tradição humana, conforme os elementos do mundo, e não conforme Cristo.
 \v Cl.2.9
-Pois nele habita corporalmente toda a plenitude da divindade.
+{rp|n4}Pois nele habita corporalmente toda a plenitude da divindade.
+{tr}Pois nEle habita corporalmente toda a plenitude da divindade.
 \v Cl.2.10
-E vós vos tornais plenos nele, que é o cabeça de todo governo e autoridade.
+{rp|n4}E vós vos tornais plenos nele, que é o cabeça de todo governo e autoridade.
+{tr}E vós vos tornais plenos nEle, que é o cabeça de todo governo e autoridade.
 \v Cl.2.11
 Nele também fostes circuncidados com uma circuncisão não feita por mãos, 
 \added
@@ -293,7 +308,8 @@ Quando Cristo,
 \added
 que é
 \*added
- a nossa vida, se manifestar, então também vós vos manifestareis com ele em glória.
+{rp|n4} a nossa vida, se manifestar, então também vós vos manifestareis com ele em glória.
+{tr} a nossa vida, se manifestar, então também vós vos manifestareis com Ele em glória.
 \v Cl.3.5
 Portanto, mortificai as partes carnais que há em vós que são terrenas; 
 \added
@@ -375,7 +391,8 @@ E tudo quanto fizerdes, por palavras ou por obras,
 \added
 fazei
 \*added
- tudo no nome do Senhor Jesus, dando por meio dele graças ao Deus e Pai.
+{rp|n4} tudo no nome do Senhor Jesus, dando por meio dele graças ao Deus e Pai.
+{tr} tudo no nome do Senhor Jesus, dando por meio dEle graças ao Deus e Pai.
 \v Cl.3.18
 Mulheres, sede submissas aos vossos
 {tr|rp} próprios
