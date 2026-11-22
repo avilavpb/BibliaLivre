@@ -54,7 +54,8 @@ Nele temos a libertação
 \fn
 Ou: redenção, i.e. a libertação por meio do pagamento de um resgate
 \*fn
- pelo seu sangue, o perdão dos pecados, conforme as riquezas da sua graça,
+{rp|n4} pelo seu sangue, o perdão dos pecados, conforme as riquezas da sua graça,
+{tr} pelo Seu sangue, o perdão dos pecados, conforme as riquezas da Sua graça,
 \v Ef.1.8
 {rp|n4}que ele fez transbordar sobre nós em toda sabedoria e prudência.
 {tr}que Ele fez transbordar sobre nós em toda sabedoria e prudência.
@@ -147,7 +148,8 @@ acima de todo governo, autoridade, poder, domínio, e de todo nome que se nomeia
 {tr}Ele também sujeitou todas as coisas debaixo dos Seus pés, e O constituiu por cabeça sobre todas as coisas 
 para a Igreja,
 \v Ef.1.23
-que é o seu corpo, a plenitude daquele que enche tudo em todas as coisas.
+{rp|n4}que é o seu corpo, a plenitude daquele que enche tudo em todas as coisas.
+{tr}que é o Seu corpo, a plenitude daquele que enche tudo em todas as coisas.
 \v Ef.2.1
 E vós estáveis mortos em
 {n4} vossas
@@ -216,11 +218,13 @@ tendo esperança, e sem Deus no mundo.
 \v Ef.2.13
 Mas agora em Cristo Jesus, vós que antes estáveis longe, chegastes para perto pelo sangue de Cristo,
 \v Ef.2.14
-pois ele é a nossa paz. Dos dois 
+{rp|n4}pois ele é a nossa paz. Dos dois 
+{tr}pois Ele é a nossa paz. Dos dois 
 \added
 povos
 \*added
- ele fez um, e derrubou do meio o muro da separação.
+{rp|n4} ele fez um, e derrubou do meio o muro da separação.
+{tr} Ele fez um, e derrubou do meio o muro da separação.
 \v Ef.2.15
 {rp|n4}Na sua carne ele desfez a inimizade da Lei dos mandamentos 
 {tr}Na Sua carne Ele desfez a inimizade da Lei dos mandamentos 
@@ -485,7 +489,8 @@ só
 \v Ef.4.7
 Mas a graça foi dada a cada um de nós conforme a medida do dom de Cristo.
 \v Ef.4.8
-Por isso diz: Quando ele subiu ao alto, levou cativo o cativeiro,
+{rp|n4}Por isso diz: Quando ele subiu ao alto, levou cativo o cativeiro,
+{tr}Por isso diz: Quando Ele subiu ao alto, levou cativo o cativeiro,
 \fn
 Ou: levou os cativos
 \*fn
@@ -494,7 +499,8 @@ Ou: levou os cativos
 Salmos 68:18
 \*ref
 \v Ef.4.9
-(O que significa este “ele subiu”, senão que ele também
+{rp|n4}(O que significa este “ele subiu”, senão que ele também
+{tr}(O que significa este “Ele subiu”, senão que Ele também
 {tr|rp} antes
 {trnc}\fn
 {trnc}N4 não contém “antes”
@@ -547,7 +553,8 @@ Como se tornaram insensíveis, eles se entregaram à sensualidade, para cometere
 \v Ef.4.20
 Mas não foi assim que vós aprendestes de Cristo;
 \v Ef.4.21
-se é que o ouvistes, e fostes ensinados nele, como a verdade está em Jesus;
+{rp|n4}se é que o ouvistes, e fostes ensinados nele, como a verdade está em Jesus;
+{tr}se é que O ouvistes, e fostes ensinados nEle, como a verdade está em Jesus;
 \v Ef.4.22
 quanto ao comportamento passado, que deveis abandonar o velho ser humano, que se corrompe pelos maus desejos de engano;
 \v Ef.4.23
@@ -697,7 +704,8 @@ a
 \*added
  purificado com a lavagem com água, pela palavra,
 \v Ef.5.27
-a fim de apresentar a si mesmo uma igreja gloriosa, sem mancha, nem ruga, nem algo semelhante; mas sim, santa 
+{rp|n4}a fim de apresentar a si mesmo uma igreja gloriosa, sem mancha, nem ruga, nem algo semelhante; mas sim, santa 
+{tr}a fim de apresentar a Si mesmo uma igreja gloriosa, sem mancha, nem ruga, nem algo semelhante; mas sim, santa 
 e irrepreensível.
 \v Ef.5.28
 Assim os maridos devem amar as suas próprias esposas como os seus próprios corpos. Quem ama a sua esposa, ama a 
