@@ -136,6 +136,14 @@ function convertToUSFM(inputFile, outputFile, translationFile = null) {
         }
     });
 
+    // VPB: no Antigo Testamento, SENHOR e DEUS (Tetragrama YHWH) recebem o marcador de
+    // nome divino do USFM (\nd ...\nd*), exibido em versalete pelos leitores.
+    const NT_CODES = ['MAT','MRK','LUK','JHN','ACT','ROM','1CO','2CO','GAL','EPH','PHP','COL','1TH','2TH',
+                      '1TI','2TI','TIT','PHM','HEB','JAS','1PE','2PE','1JN','2JN','3JN','JUD','REV'];
+    if (!NT_CODES.includes(ubsCode)) {
+        usfmContent = usfmContent.map(l => l.replace(/(?<![\p{L}\\])(SENHOR|DEUS)(?![\p{L}])/gu, '\\nd $1\\nd*'));
+    }
+
     // Adiciona metadados no início do arquivo
     const idLine = translationName 
         ? `\\id ${ubsCode} ${translationName}`
