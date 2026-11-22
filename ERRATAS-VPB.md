@@ -508,3 +508,10 @@ Marcação usada: o bloco `\added` … `\*added` do formato f4, com cada marcado
 ### Fim de itálico com pontuação na mesma linha (só TR)
 
 - **Mc 14.29** e **Lc 11.48** – A linha `\*added` trazia junto a pontuação final ("”." e "."). O conversor USFM fecha o itálico e descarta o resto da linha, então a pontuação sumia na saída. A pontuação passou para uma linha própria na TR. O texto não muda.
+
+### Revisão manual dos pendentes (22/11/2026)
+
+Pedido de Marcelo: revisão versículo a versículo, com julgamento. Para cada pronome candidato, o referente é decidido no contexto, com a LSV como referência (maiúscula = divino). Só se aplica quando o referente é certo, com as convenções aprovadas. Durante a revisão também foram corrigidos erros da passada automática (ex.: "entre Si" de referentes humanos). Os arquivos `pronomes-divinos/revisao-<livro>.tsv` e `revisao-<livro>-duvidosos.md` substituem, para cada livro revisto, a lista `*-pendentes.md` correspondente.
+
+- **Mateus**: 132 versículos, 222 pronomes alterados na revisão manual; 6 casos anotados (`pronomes-divinos/revisao-mat-duvidosos.md`).
+- **Correções da passada automática** (referentes humanos que tinham ficado em maiúscula): Mt 4.8 "levou consigo" (o diabo); Mt 22.15 "entre si" (os fariseus); Mc 4.36 "O levaram consigo" (os discípulos; também "o" → "O", que é Jesus); Lc 7.49 "entre si"; 2Co 5.15 "para si"; Jó 30.11 "de si".
