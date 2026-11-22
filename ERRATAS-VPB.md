@@ -444,3 +444,5 @@ Marcação usada: o bloco `\added` … `\*added` do formato f4, com cada marcado
 - **Pv 8.15–16** – sem mudança: os dois versículos já começam com "Por meio de mim". A variante final continua como "juízes justos" (Leningrado, צֶדֶק) e fica pendente de decisão (Ben Chayyim/KJV: "juízes da terra", אֶרֶץ).
 - **At 7.45; Hb 4.8** – mantém "Josué", sem nota (decisão de Marcelo).
 - **Nome divino (conversor)** – `conversores/convert_to_usfm.js`: nos livros do AT, SENHOR e DEUS (Tetragrama) saem como `\nd SENHOR\nd*` / `\nd DEUS\nd*`, que os leitores USFM exibem em versalete. O texto f4 não muda. No NT não se aplica, e a inscrição "AO DEUS DESCONHECIDO" (At 17.23) fica fora. Saída TR conferida: 6.543 SENHOR e 311 DEUS marcados, 0 no NT. "EU-SOU" (20 ocorrências, também YHWH) ficou sem marcação, aguardando decisão.
+
+- Dn 9.26: "destruirá à cidade" → "destruirá a cidade" (crase indevida; objeto direto).
