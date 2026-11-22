@@ -80,7 +80,8 @@ Mas quando
 {n4},
  se agradou
 \v Gl.1.16
-de revelar o seu Filho em mim, para eu evangelizar os gentios, de imediato, não fui pedir conselho com pessoa alguma;
+{rp|n4}de revelar o seu Filho em mim, para eu evangelizar os gentios, de imediato, não fui pedir conselho com pessoa alguma;
+{tr}de revelar o Seu Filho em mim, para eu evangelizar os gentios, de imediato, não fui pedir conselho com pessoa alguma;
 \fn
 \key
 pessoa alguma

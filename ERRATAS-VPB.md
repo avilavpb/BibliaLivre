@@ -522,3 +522,4 @@ Pedido de Marcelo: revisão versículo a versículo, com julgamento. Para cada p
 - **Romanos**: 18 versículos, 29 pronomes alterados na revisão manual; 0 casos anotados (`pronomes-divinos/revisao-rom-duvidosos.md`).
 - **1Coríntios**: 7 versículos, 12 pronomes alterados na revisão manual; 0 casos anotados (`pronomes-divinos/revisao-1co-duvidosos.md`).
 - **2Coríntios**: 4 versículos, 5 pronomes alterados na revisão manual; 1 casos anotados (`pronomes-divinos/revisao-2co-duvidosos.md`).
+- **Gálatas**: 1 versículos, 1 pronomes alterados na revisão manual; 1 casos anotados (`pronomes-divinos/revisao-gal-duvidosos.md`).
