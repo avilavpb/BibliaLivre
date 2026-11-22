@@ -532,3 +532,4 @@ Pedido de Marcelo: revisão versículo a versículo, com julgamento. Para cada p
 - **2Timóteo**: 5 versículos, 10 pronomes alterados na revisão manual; 0 casos anotados (`pronomes-divinos/revisao-2ti-duvidosos.md`).
 - **Tito**: 1 versículos, 2 pronomes alterados na revisão manual; 0 casos anotados (`pronomes-divinos/revisao-tit-duvidosos.md`).
 - **Hebreus**: 47 versículos, 82 pronomes alterados na revisão manual; 5 casos anotados (`pronomes-divinos/revisao-heb-duvidosos.md`).
+- **Tiago**: 3 versículos, 5 pronomes alterados na revisão manual; 0 casos anotados (`pronomes-divinos/revisao-jas-duvidosos.md`).

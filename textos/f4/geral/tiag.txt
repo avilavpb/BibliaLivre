@@ -52,7 +52,8 @@ o Senhor
 {trnc}N4 não contém “o Senhor”
 {trnc}\*fn
 {n4}\*added
- prometeu aos que o amam.
+{rp|n4} prometeu aos que o amam.
+{tr} prometeu aos que O amam.
 \v Tg.1.13
 {rp|n4}Ninguém, quando for tentado, diga: “Sou tentado por Deus”; porque Deus não é tentado pelo mal, e ele mesmo tenta ninguém;
 {tr}Ninguém, quando for tentado, diga: “Sou tentado por Deus”; porque Deus não é tentado pelo mal, e ele mesmo tenta ninguém;
@@ -65,7 +66,8 @@ Não vos enganeis, meus amados irmãos.
 \v Tg.1.17
 Toda boa dádiva e todo dom perfeito vem do alto, e desce do Pai das luzes, em quem não há mudança nem sombra de variação.
 \v Tg.1.18
-Conforme a sua própria vontade, ele nos gerou pela palavra da verdade, para que fôssemos os primeiros frutos dentre as suas criaturas.
+{rp|n4}Conforme a sua própria vontade, ele nos gerou pela palavra da verdade, para que fôssemos os primeiros frutos dentre as suas criaturas.
+{tr}Conforme a Sua própria vontade, Ele nos gerou pela palavra da verdade, para que fôssemos os primeiros frutos dentre as Suas criaturas.
 \v Tg.1.19
 {tr|rp}Portanto
 {n4}Entendei 
@@ -366,7 +368,8 @@ Ou pensais ser em vão que a Escritura diz: “O Espírito que
 {n4}\*fn
  em nós anseia com ciúmes?”
 \v Tg.4.6
-Porém ele concede uma graça maior. Por isso diz: Deus resiste aos soberbos, mas concede graça aos humildes.
+{rp|n4}Porém ele concede uma graça maior. Por isso diz: Deus resiste aos soberbos, mas concede graça aos humildes.
+{tr}Porém Ele concede uma graça maior. Por isso diz: Deus resiste aos soberbos, mas concede graça aos humildes.
 \ref
 Provérbios 3:34
 \*ref
