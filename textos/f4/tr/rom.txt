@@ -33,11 +33,11 @@ lit. semente
 \v Rm.1.4
 e declarado Filho de Deus em poder, segundo o Espírito de santidade, pela ressurreição dos mortos): Jesus Cristo, nosso Senhor.
 \v Rm.1.5
-Por ele recebemos graça e apostolado, para a obediência da fé entre todas as nações,
+Por Ele recebemos graça e apostolado, para a obediência da fé entre todas as nações,
 \fn
 ou: “todos os gentios ”
 \*fn
- por causa do seu nome.
+ por causa do Seu nome.
 \v Rm.1.6
 Entre elas sois também vós, chamados 
 \added
@@ -93,10 +93,10 @@ pela injustiça;
 \v Rm.1.19
 pois o que se pode conhecer de Deus é evidente a eles, porque Deus lhes manifestou.
 \v Rm.1.20
-Pois as suas características invisíveis, inclusive o seu eterno poder e divindade, desde a criação do mundo são 
+Pois as Suas características invisíveis, inclusive o Seu eterno poder e divindade, desde a criação do mundo são 
 entendidas e claramente vistas por meio das coisas criadas, para que não tenham desculpa;
 \v Rm.1.21
-Porque, ainda que tenham conhecido Deus, não o glorificaram como Deus, nem foram gratos; em vez disso, perderam o bom senso em seus pensamentos,
+Porque, ainda que tenham conhecido Deus, não O glorificaram como Deus, nem foram gratos; em vez disso, perderam o bom senso em seus pensamentos,
 \fn
 lit. tornaram-se vãos (ou fúteis) em seus pensamentos
 \*fn
@@ -380,10 +380,10 @@ Deus propôs Jesus
 \fn
 Lit. “Cristo Jesus, a quem Deus propôs”. A longa frase no original foi dividida para facilitar a leitura
 \*fn
- por sacrifício de reconciliação, pela fé em seu sangue, para demonstrar a sua justiça. Ele deixou de considerar os 
+ por sacrifício de reconciliação, pela fé em Seu sangue, para demonstrar a Sua justiça. Ele deixou de considerar os 
 pecados antes cometidos, sob a paciência de Deus,
 \v Rm.3.26
-para demonstrar a sua justiça neste presente tempo, a fim de que ele seja justo, e justificador daquele que tem fé em Jesus.
+para demonstrar a Sua justiça neste presente tempo, a fim de que Ele seja justo, e justificador daquele que tem fé em Jesus.
 \v Rm.3.27
 Onde, pois, está o orgulho? Este é excluído. Por qual lei? A das obras? Não, mas sim, pela Lei da fé.
 \v Rm.3.28
@@ -610,11 +610,11 @@ glória do Pai, assim também nós andemos em novidade de vida.
 \v Rm.6.5
 Pois, se fomos unidos 
 \added
-a ele
+a Ele
 \*added
- na semelhança de sua morte, também o seremos na da 
+ na semelhança de Sua morte, também o seremos na da 
 \added
-sua
+Sua
 \*added
  ressurreição.
 \v Rm.6.6
@@ -638,7 +638,7 @@ Ora, se já morremos com Cristo, cremos que também com Ele viveremos.
 \v Rm.6.9
 Porque sabemos que, depois que Cristo foi ressuscitado dos mortos, já não morre mais; a morte já não mais O domina.
 \v Rm.6.10
-Pois, ao morrer, ele morreu para o pecado de uma vez por todas; mas, ao viver, vive para Deus.
+Pois, ao morrer, Ele morreu para o pecado de uma vez por todas; mas, ao viver, vive para Deus.
 \v Rm.6.11
 Assim também vós, considerai que estais mortos para o pecado, mas vivendo para Deus, em Cristo Jesus, nosso Senhor.
 \v Rm.6.12
@@ -775,7 +775,7 @@ N4: te
 \*fn
  livrou da lei do pecado e da morte.
 \v Rm.8.3
-Pois o que era impossível para a lei, porque estava enferma pela carne, Deus, ao enviar o seu próprio Filho em 
+Pois o que era impossível para a lei, porque estava enferma pela carne, Deus, ao enviar o Seu próprio Filho em 
 semelhança da carne pecadora, e por causa do pecado, condenou o pecado na carne,
 \v Rm.8.4
 para que a justa exigência da lei se cumprisse em nós, que andamos, não segundo a carne, mas segundo o Espírito.
@@ -803,7 +803,7 @@ ressuscitou Cristo
 \fn
 N4 contém adicionalmente “Jesus”
 \*fn
- também dará vida aos vossos corpos mortais por meio do seu Espírito, que habita em vós.
+ também dará vida aos vossos corpos mortais por meio do Seu Espírito, que habita em vós.
 \v Rm.8.12
 Por isso, irmãos, somos devedores, não à carne, para vivermos segundo a carne;
 \v Rm.8.13
@@ -874,13 +874,13 @@ a vontade
 \v Rm.8.28
 E sabemos que todas as coisas juntamente contribuem para o bem daqueles que amam a Deus, dos que são chamados segundo o seu propósito.
 \v Rm.8.29
-Pois aos que desde antes conheceu, também os predestinou para serem conformes à imagem do seu Filho, para que ele seja o primogênito entre muitos irmãos.
+Pois aos que desde antes conheceu, também os predestinou para serem conformes à imagem do Seu Filho, para que Ele seja o primogênito entre muitos irmãos.
 \v Rm.8.30
 E aos que predestinou, a esses também chamou; e aos que chamou, a esses também justificou; e aos que justificou, a esses também glorificou.
 \v Rm.8.31
 Então, que diremos acerca dessas coisas? Se Deus é por nós, quem será contra nós?
 \v Rm.8.32
-Aquele que nem mesmo ao seu próprio Filho poupou, como não nos dará também com ele todas as coisas?
+Aquele que nem mesmo ao Seu próprio Filho poupou, como não nos dará também com Ele todas as coisas?
 \v Rm.8.33
 Quem fará acusação contra os escolhidos de Deus? Deus é quem justifica.
 \v Rm.8.34
@@ -986,7 +986,7 @@ anunciado em toda a terra”.
 Êxodo 9:16 
 \*ref
 \v Rm.9.18
-Portanto, ele tem misericórdia de quem quer, e endurece a quem quer.
+Portanto, Ele tem misericórdia de quem quer, e endurece a quem quer.
 \v Rm.9.19
 Tu, então, me dirás: “Por que Ele ainda se queixa? Pois quem resiste à Sua vontade?”
 \v Rm.9.20
@@ -999,9 +999,9 @@ Ou não tem o oleiro poder sobre o barro, para da mesma massa fazer um vaso para
 \v Rm.9.22
 E se Deus, querendo mostrar a 
 \added
-sua
+Sua
 \*added
- ira, e dar a conhecer o seu poder, suportou com muita paciência os vasos da ira, preparados para a perdição,
+ ira, e dar a conhecer o Seu poder, suportou com muita paciência os vasos da ira, preparados para a perdição,
 \v Rm.9.23
 a fim de fazer conhecidas as riquezas da Sua glória nos vasos da misericórdia, que preparou com antecedência para a glória,
 \v Rm.9.24
@@ -1205,7 +1205,7 @@ Lit. semente
 \*fn
  de Abraão, da tribo de Benjamim.
 \v Rm.11.2
-Deus não rejeitou seu povo, o qual desde antes conhecia. Ou não sabeis o que a Escritura diz de Elias? Como ele fala a Deus, contra Israel
+Deus não rejeitou Seu povo, o qual desde antes conhecia. Ou não sabeis o que a Escritura diz de Elias? Como ele fala a Deus, contra Israel
 , dizendo
 :
 \fn
@@ -1355,7 +1355,7 @@ porque Deus pôs todos debaixo da desobediência, a fim de ter misericórdia par
 \v Rm.11.34
 Pois quem entendeu a mentalidade do Senhor? Ou quem foi o Seu conselheiro?
 \v Rm.11.35
-Ou quem lhe deu primeiro, para ser por ele recompensado?
+Ou quem Lhe deu primeiro, para ser por Ele recompensado?
 \v Rm.11.36
 Porque dEle, por Ele, e para Ele, 
 \added
@@ -1665,7 +1665,7 @@ Mas nós, que somos fortes, devemos suportar as fraquezas dos fracos, e não agr
 \v Rm.15.2
 Portanto, cada um de nós agrade ao próximo no que é bom para a edificação.
 \v Rm.15.3
-Pois também Cristo não agradou a si mesmo; mas, como está escrito: “Os insultos dos que Te insultavam caíram sobre Mim”.
+Pois também Cristo não agradou a Si mesmo; mas, como está escrito: “Os insultos dos que Te insultavam caíram sobre Mim”.
 \ref
 Salmos 69:9 
 \*ref
@@ -1711,7 +1711,7 @@ sua
 2 Samuel 22:50; Salmos 18:49 
 \*ref
 \v Rm.15.10
-E outra vez diz: “Alegrai-vos, gentios, com o povo dele.”
+E outra vez diz: “Alegrai-vos, gentios, com o povo dEle.”
 \ref
 Deuteronômio 32:43 
 \*ref
@@ -1766,9 +1766,9 @@ N4: Espírito Santo
 \v Rm.15.20
 E assim quis muito anunciar o Evangelho onde Cristo não houvesse sido pregado, para que eu não construísse sobre fundamento alheio;
 \v Rm.15.21
-ao contrário, como está escrito: “Aqueles a quem dele não foi anunciado 
+ao contrário, como está escrito: “Aqueles a quem dEle não foi anunciado 
 \added
-o
+O
 \*added
  verão; e os que não ouviram entenderão.” 
 \ref
