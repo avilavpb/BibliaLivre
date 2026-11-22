@@ -518,3 +518,4 @@ Pedido de Marcelo: revisão versículo a versículo, com julgamento. Para cada p
 - **Marcos**: 126 versículos, 205 pronomes alterados na revisão manual; 4 casos anotados (`pronomes-divinos/revisao-mrk-duvidosos.md`).
 - **Lucas**: 183 versículos, 278 pronomes alterados na revisão manual; 4 casos anotados (`pronomes-divinos/revisao-luk-duvidosos.md`).
 - **João**: 158 versículos, 265 pronomes alterados na revisão manual; 7 casos anotados (`pronomes-divinos/revisao-jhn-duvidosos.md`).
+- **Atos**: 39 versículos, 59 pronomes alterados na revisão manual; 6 casos anotados (`pronomes-divinos/revisao-act-duvidosos.md`).

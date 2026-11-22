@@ -13,15 +13,18 @@ ACT
 \v At.1.1
 Eu fiz o primeiro livro, ó Teófilo, acerca de todas as coisas que Jesus começou, tanto a fazer, como a ensinar;
 \v At.1.2
-até o dia em que ele foi recebido acima, depois de, por meio do Espírito Santo, ter dado mandamentos aos apóstolos que 
+{rp|n4}até o dia em que ele foi recebido acima, depois de, por meio do Espírito Santo, ter dado mandamentos aos apóstolos que 
+{tr}até o dia em que Ele foi recebido acima, depois de, por meio do Espírito Santo, ter dado mandamentos aos apóstolos que 
 havia escolhido.
 \v At.1.3
-Depois de ele ter sofrido, também apresentou-se vivo diante deles com muitas provas incontestáveis, sendo visto por 
+{rp|n4}Depois de ele ter sofrido, também apresentou-se vivo diante deles com muitas provas incontestáveis, sendo visto por 
+{tr}Depois de Ele ter sofrido, também apresentou-se vivo diante deles com muitas provas incontestáveis, sendo visto por 
 eles durante quarenta dias, e falando das coisas relativas ao reino de Deus.
 \v At.1.4
 E, reunindo-os, mandou-lhes que não se afastassem de Jerusalém, mas que esperassem a promessa do Pai que 
 \added
-(disse ele)
+{rp|n4}(disse ele)
+{tr}(disse Ele)
 \*added
 {rp|n4} “vós ouvistes de mim.
 {tr} “vós ouvistes de Mim.
@@ -32,13 +35,15 @@ Pois João, em verdade, batizou com água, mas vós sereis batizados com o Espí
 {tr}Quando, pois, aqueles estavam reunidos, perguntaram-Lhe, dizendo: “Senhor, será neste tempo que Tu restaurarás o 
 Reino a Israel?”
 \v At.1.7
-E ele lhes disse: “Não pertence a vós saber os tempos ou estações que o Pai pôs em sua própria autoridade.
+{rp|n4}E ele lhes disse: “Não pertence a vós saber os tempos ou estações que o Pai pôs em sua própria autoridade.
+{tr}E Ele lhes disse: “Não pertence a vós saber os tempos ou estações que o Pai pôs em Sua própria autoridade.
 \v At.1.8
 {rp|n4}Mas vós recebereis poder do Espírito Santo, que virá sobre vós; e sereis minhas testemunhas, tanto em Jerusalém como 
 {tr}Mas vós recebereis poder do Espírito Santo, que virá sobre vós; e sereis Minhas testemunhas, tanto em Jerusalém como 
 em toda a Judeia, e Samaria, e até os confins da terra”.
 \v At.1.9
-E havendo ele dito essas coisas, enquanto eles o viam, ele foi elevado às alturas, e uma nuvem o ocultou das 
+{rp|n4}E havendo ele dito essas coisas, enquanto eles o viam, ele foi elevado às alturas, e uma nuvem o ocultou das 
+{tr}E havendo Ele dito essas coisas, enquanto eles O viam, Ele foi elevado às alturas, e uma nuvem O ocultou das 
 vistas deles.
 \v At.1.10
 {rp|n4}E estando eles com os olhos fixos ao céu, enquanto ele ia, eis que junto deles se puseram dois homens vestidos de branco,
@@ -191,7 +196,8 @@ Este, que foi entregue pelo determinado propósito e presciência de Deus,
 {tr|rp} vós prendestes, e
  pelas mãos de injustos vós crucificastes e matastes.
 \v At.2.24
-Deus o ressuscitou, tendo o livrado das dores da morte; porque não era possível que ele fosse detido por ela.
+{rp|n4}Deus o ressuscitou, tendo o livrado das dores da morte; porque não era possível que ele fosse detido por ela.
+{tr}Deus O ressuscitou, tendo O livrado das dores da morte; porque não era possível que Ele fosse detido por ela.
 \v At.2.25
 {rp|n4}Pois Davi diz acerca dele: ‘Eu sempre via ao Senhor diante de mim, porque ele está à minha direita, para que eu não 
 {tr}Pois Davi diz acerca dEle: ‘Eu sempre via ao Senhor diante de mim, porque Ele está à minha direita, para que eu não 
@@ -210,7 +216,8 @@ Xeol é o lugar dos mortos. Grego: Hades. Também no v. 31
 Tradicionalmente: corrupção
 \*fn
 \v At.2.28
-Fizeste-me conhecer os caminhos da vida; me encherás de júbilo com a tua presença’.
+{rp|n4}Fizeste-me conhecer os caminhos da vida; me encherás de júbilo com a tua presença’.
+{tr}Fizeste-me conhecer os caminhos da vida; me encherás de júbilo com a Tua presença’.
 \fn
 Lit. face
 \*fn
@@ -242,15 +249,18 @@ Davi,
 \fn
 Lit. ele
 \*fn
- prevendo, falou da ressurreição do Cristo, que a alma dele não havia de ser abandonada no Xeol, nem a carne dele 
+{rp|n4} prevendo, falou da ressurreição do Cristo, que a alma dele não havia de ser abandonada no Xeol, nem a carne dele 
+{tr} prevendo, falou da ressurreição do Cristo, que a alma dEle não havia de ser abandonada no Xeol, nem a carne dEle 
 ver decomposição.
 \v At.2.32
 Foi este Jesus que Deus ressuscitou; todos nós somos testemunhas disso.
 \v At.2.33
-Portanto ele, exaltado à direita de Deus, e tendo recebido do Pai a promessa do Espírito Santo, derramou isto que 
+{rp|n4}Portanto ele, exaltado à direita de Deus, e tendo recebido do Pai a promessa do Espírito Santo, derramou isto que 
+{tr}Portanto Ele, exaltado à direita de Deus, e tendo recebido do Pai a promessa do Espírito Santo, derramou isto que 
 agora vós estais vendo e ouvindo.
 \v At.2.34
-Pois Davi não subiu aos céus; mas ele diz: ‘O Senhor disse ao meu Senhor: Assenta-te à minha direita,
+{rp|n4}Pois Davi não subiu aos céus; mas ele diz: ‘O Senhor disse ao meu Senhor: Assenta-te à minha direita,
+{tr}Pois Davi não subiu aos céus; mas ele diz: ‘O Senhor disse ao meu Senhor: Assenta-Te à Minha direita,
 \v At.2.35
 {rp|n4}até que eu ponha teus inimigos por estrado de teus pés’.
 {tr}até que eu ponha Teus inimigos por estrado de Teus pés’.
@@ -351,7 +361,8 @@ isso
 , respondeu ao povo: “Homens israelitas, por que vós estais maravilhados disto? Ou por que vós olhais tão 
 atentamente para nós, como se pelo nosso próprio poder ou devoção divina o tivéssemos feito andar?
 \v At.3.13
-O Deus de Abraão, de Isaque, e de Jacó, o Deus de nossos pais, glorificou o seu filho
+{rp|n4}O Deus de Abraão, de Isaque, e de Jacó, o Deus de nossos pais, glorificou o seu filho
+{tr}O Deus de Abraão, de Isaque, e de Jacó, o Deus de nossos pais, glorificou o Seu filho
 \fn
 Trad. alt. Servo. Também no v. 26
 \*fn
@@ -361,7 +372,8 @@ Mas vós negastes o Santo e Justo, e pedistes que vos fosse liberado um homem as
 \v At.3.15
 E matastes o Príncipe da vida, a quem Deus ressuscitou dos mortos, do que nós somos testemunhas.
 \v At.3.16
-E foi pela fé no nome dele que o mesmo nome dele deu firmeza a este que vós vedes e conheceis; e a fé que vem por 
+{rp|n4}E foi pela fé no nome dele que o mesmo nome dele deu firmeza a este que vós vedes e conheceis; e a fé que vem por 
+{tr}E foi pela fé no nome dEle que o mesmo nome dEle deu firmeza a este que vós vedes e conheceis; e a fé que vem por 
 {rp|n4}meio de Jesus
 {tr}meio de 
 {tr}\added
@@ -374,7 +386,8 @@ Lit. fé que é por meio dele
 \v At.3.17
 E agora, irmãos, eu sei que vós fizestes isso por ignorância, como também os vossos líderes.
 \v At.3.18
-Mas Deus cumpriu assim o que já antes, pela boca de todos os seus profetas, ele tinha anunciado, que o Cristo havia 
+{rp|n4}Mas Deus cumpriu assim o que já antes, pela boca de todos os seus profetas, ele tinha anunciado, que o Cristo havia 
+{tr}Mas Deus cumpriu assim o que já antes, pela boca de todos os Seus profetas, Ele tinha anunciado, que o Cristo havia 
 de sofrer.
 \v At.3.19
 Portanto, arrependei-vos e convertei-vos, para que vossos pecados sejam apagados, e que venham os tempos do refrigério 
@@ -392,7 +405,8 @@ pela presença do Senhor,
 {n4}\*fn
 , Jesus Cristo.
 \v At.3.21
-É necessário que o céu o tenha até os tempos da restauração de todas as coisas, de que Deus falou pela boca de 
+{rp|n4}É necessário que o céu o tenha até os tempos da restauração de todas as coisas, de que Deus falou pela boca de 
+{tr}É necessário que o céu O tenha até os tempos da restauração de todas as coisas, de que Deus falou pela boca de 
 {rp|n4}todos os seus santos profetas, desde a antiguidade.
 {tr}todos os Seus santos profetas, desde a antiguidade.
 \fn
@@ -525,7 +539,8 @@ E quando eles ouviram
 \added
 isso
 \*added
-, levantaram concordantes a voz a Deus, e disseram: “Senhor, tu és o Deus que fizeste o céu, a terra, o mar, e todas 
+{rp|n4}, levantaram concordantes a voz a Deus, e disseram: “Senhor, tu és o Deus que fizeste o céu, a terra, o mar, e todas 
+{tr}, levantaram concordantes a voz a Deus, e disseram: “Senhor, Tu és o Deus que fizeste o céu, a terra, o mar, e todas 
 as coisas que neles há;
 \v At.4.25
 {rp}que pela boca do teu servo Davi,
@@ -983,7 +998,7 @@ quarenta anos.
 \v At.7.37
 Este é o Moisés que disse aos filhos de Israel: ‘O Senhor, vosso Deus, vos levantará dentre vossos irmãos um profeta 
 como eu
-{tr}; a ele vós ouvireis
+{tr}; a Ele vós ouvireis
 ’.
 {trnc}\fn
 {trnc}RP, N4 não contém “a ele vós ouvireis”
@@ -1184,7 +1199,8 @@ E Filipe, correndo, ouviu que ele lia o profeta Isaías, e disse: “Entendes o 
 E ele disse: “Como eu poderia, se alguém não me ensinar?” E pediu a Filipe que subisse e se assentasse junto a ele.
 \v At.8.32
 E o lugar da Escritura que lia era este: “Como ovelha foi levado ao matadouro, e como um cordeiro fica mudo diante do 
-que o tosquia, assim ele não abriu a sua boca.
+{rp|n4}que o tosquia, assim ele não abriu a sua boca.
+{tr}que o tosquia, assim Ele não abriu a Sua boca.
 \v At.8.33
 {rp|n4}Em sua humilhação o justo julgamento lhe foi negado; e quem anunciará sua geração? Pois sua vida é tirada da terra”.
 {tr}Em Sua humilhação o justo julgamento Lhe foi negado; e quem anunciará Sua geração? Pois Sua vida é tirada da terra”.
@@ -1318,7 +1334,8 @@ E, quando comeu, ficou fortalecido. E Saulo permaneceu alguns dias com os discí
 E logo nas sinagogas pregava 
 {tr|rp}Cristo
 {n4}Jesus
-, que ele é o Filho de Deus.
+{rp|n4}, que ele é o Filho de Deus.
+{tr}, que Ele é o Filho de Deus.
 \v At.9.21
 E todos os que o ouviam ficavam atônitos, e diziam: “Não é este aquele que em Jerusalém tentava destruir os que 
 invocavam esse nome, e para isso ele veio aqui, para os levar presos aos chefes dos sacerdotes?”
@@ -1560,11 +1577,13 @@ tudo quanto te foi ordenado
 \v At.10.34
 E Pedro, abrindo a boca, disse: “Reconheço em verdade que Deus não faz acepção de pessoas.
 \v At.10.35
-Em vez disso, em toda nação, aquele que o teme, e que pratica a justiça, 
+{rp|n4}Em vez disso, em toda nação, aquele que o teme, e que pratica a justiça, 
+{tr}Em vez disso, em toda nação, aquele que O teme, e que pratica a justiça, 
 \added
 esse
 \*added
- lhe é agradável.
+{rp|n4} lhe é agradável.
+{tr} Lhe é agradável.
 \v At.10.36
 A palavra que 
 \added
@@ -1583,18 +1602,21 @@ acerca de
 {tr} oprimidos pelo diabo, porque Deus era com ele.
 \v At.10.39
 {rp|n4}E nós somos testemunhas de tudo o que ele fez, tanto na terra dos judeus, como em Jerusalém; porém o mataram, 
-{tr}E nós somos testemunhas de tudo o que Ele fez, tanto na terra dos judeus, como em Jerusalém; porém o mataram, 
+{tr}E nós somos testemunhas de tudo o que Ele fez, tanto na terra dos judeus, como em Jerusalém; porém O mataram, 
 {rp|n4}pendurando-o num madeiro.
 {tr}pendurando-O num madeiro.
 \v At.10.40
 A este Deus ressuscitou ao terceiro dia, e fez com que fosse visto;
 \v At.10.41
 não a todo o povo, mas sim, a testemunhas que Deus escolheu desde antes, a nós, que comemos e bebemos juntamente com 
-ele, depois que ressuscitou dos mortos.
+{rp|n4}ele, depois que ressuscitou dos mortos.
+{tr}Ele, depois que ressuscitou dos mortos.
 \v At.10.42
-E ele nos mandou pregar ao povo, e testemunhar que ele é o que por Deus foi constituído Juiz dos vivos e dos mortos.
+{rp|n4}E ele nos mandou pregar ao povo, e testemunhar que ele é o que por Deus foi constituído Juiz dos vivos e dos mortos.
+{tr}E Ele nos mandou pregar ao povo, e testemunhar que Ele é o que por Deus foi constituído Juiz dos vivos e dos mortos.
 \v At.10.43
-Todos os profetas dão testemunho dele, de que, pelo seu nome, todos os que nele crerem receberão perdão dos pecados”.
+{rp|n4}Todos os profetas dão testemunho dele, de que, pelo seu nome, todos os que nele crerem receberão perdão dos pecados”.
+{tr}Todos os profetas dão testemunho dEle, de que, pelo Seu nome, todos os que nEle crerem receberão perdão dos pecados”.
 \v At.10.44
 E, enquanto Pedro ainda falava essas palavras, o Espírito Santo caiu sobre todos os que ouviam a palavra.
 \v At.10.45
@@ -1738,7 +1760,8 @@ Pedro
 E, quando passaram a primeira e a segunda guarda, chegaram ao portão de ferro, que dá para a cidade, que se abriu por 
 si mesmo; e tendo eles saído, andaram uma rua, e logo o anjo partiu-se dele.
 \v At.12.11
-E Pedro, voltando a si, disse: “Agora verdadeiramente sei que o Senhor enviou o seu anjo, e me livrou da mão de 
+{rp|n4}E Pedro, voltando a si, disse: “Agora verdadeiramente sei que o Senhor enviou o seu anjo, e me livrou da mão de 
+{tr}E Pedro, voltando a si, disse: “Agora verdadeiramente sei que o Senhor enviou o Seu anjo, e me livrou da mão de 
 Herodes e de toda a expectativa do povo dos judeus”.
 \v At.12.12
 E ele, após refletir, foi à casa de Maria, mãe de João, que tinha por sobrenome Marcos, onde muitos estavam 
@@ -1843,7 +1866,8 @@ E, havendo destruído sete nações na terra de Canaã, repartiu-lhes terra em h
 Isto é, “terra deles” ou “terra delas”. No grego existe ambiguidade.
 \*fn
 \v At.13.20
-E depois disto, cerca de quatrocentos e cinquenta anos, ele 
+{rp|n4}E depois disto, cerca de quatrocentos e cinquenta anos, ele 
+{tr}E depois disto, cerca de quatrocentos e cinquenta anos, Ele 
 \added
 lhes
 \*added
@@ -1896,7 +1920,8 @@ Homens irmãos, filhos da descendência de Abraão, e os que dentre vós temem a
 \v At.13.27
 Porque os que habitavam em Jerusalém, e seus líderes, não conhecendo a este, ao condenarem 
 \added
--no
+{rp|n4}-no
+{tr}-No
 \*added
 , cumpriram as vozes dos profetas, que são lidas todos os sábados.
 \v At.13.28
@@ -1906,13 +1931,16 @@ mesmo
 \*added
  achando nenhum motivo para morte, pediram a Pilatos que fosse morto.
 \v At.13.29
-E tendo eles cumprido todas as coisas que estavam escritas sobre ele, tirando 
+{rp|n4}E tendo eles cumprido todas as coisas que estavam escritas sobre ele, tirando 
+{tr}E tendo eles cumprido todas as coisas que estavam escritas sobre Ele, tirando 
 \added
--o
+{rp|n4}-o
+{tr}-O
 \*added
  do madeiro, puseram 
 \added
--no
+{rp|n4}-no
+{tr}-No
 \*added
  na sepultura.
 \v At.13.30
@@ -1925,13 +1953,14 @@ E tendo eles cumprido todas as coisas que estavam escritas sobre ele, tirando
 E nós vos anunciamos o Evangelho da promessa que foi feita aos pais; ao qual Deus já nos cumpriu a nós, filhos deles, ressuscitando a Jesus.
 \v At.13.33
 {rp|n4}Assim como está escrito no salmo segundo: Tu és meu Filho, hoje eu te gerei.
-{tr}Assim como está escrito no salmo segundo: Tu és Meu Filho, hoje eu te gerei.
+{tr}Assim como está escrito no salmo segundo: Tu és Meu Filho, hoje eu Te gerei.
 \v At.13.34
 E 
 \added
 quanto a
 \*added
- que o ressuscitasse dos mortos, para nunca mais voltar à degradação,
+{rp|n4} que o ressuscitasse dos mortos, para nunca mais voltar à degradação,
+{tr} que O ressuscitasse dos mortos, para nunca mais voltar à degradação,
 \fn
 Ou: deterioração, putrefação. Também nos versículos seguintes.
 \*fn
@@ -1942,7 +1971,7 @@ Por isso que também em outro
 salmo
 \*added
 {rp|n4} ele diz: Não permitirás que teu Santo veja degradação.
-{tr} Ele diz: Não permitirás que teu Santo veja degradação.
+{tr} Ele diz: Não permitirás que Teu Santo veja degradação.
 \v At.13.36
 Porque, na verdade, tendo Davi servido ao conselho de Deus, morreu, 
 \fn
@@ -2036,7 +2065,8 @@ Então eles ficaram
 \added
 ali
 \*added
- por muito tempo, falando ousadamente no Senhor, o qual dava testemunho à palavra de sua graça, concedendo 
+{rp|n4} por muito tempo, falando ousadamente no Senhor, o qual dava testemunho à palavra de sua graça, concedendo 
+{tr} por muito tempo, falando ousadamente no Senhor, o qual dava testemunho à palavra de Sua graça, concedendo 
 \added
 que
 \*added
@@ -2092,7 +2122,8 @@ próprios
 \*added
  caminhos.
 \v At.14.17
-Ainda que, contudo, não tenha deixado a si mesmo sem testemunho, fazendo o bem desde o céu, dando-nos chuvas, e tempos frutíferos, 
+{rp|n4}Ainda que, contudo, não tenha deixado a si mesmo sem testemunho, fazendo o bem desde o céu, dando-nos chuvas, e tempos frutíferos, 
+{tr}Ainda que, contudo, não tenha deixado a Si mesmo sem testemunho, fazendo o bem desde o céu, dando-nos chuvas, e tempos frutíferos, 
 \added
 e
 \*added
@@ -2633,19 +2664,22 @@ como que
 \added
 porque
 \*added
- ele 
+{rp|n4} ele 
+{tr} Ele 
 \added
 é que
 \*added
  dá a todos vida, respiração, e todas as coisas;
 \v At.17.26
-E de um sangue ele fez toda nação humana, para habitarem sobre a face da terra, determinando os tempos desde antes ordenados, e o limites da morada 
+{rp|n4}E de um sangue ele fez toda nação humana, para habitarem sobre a face da terra, determinando os tempos desde antes ordenados, e o limites da morada 
+{tr}E de um sangue Ele fez toda nação humana, para habitarem sobre a face da terra, determinando os tempos desde antes ordenados, e o limites da morada 
 \added
 deles
 \*added
 ;
 \v At.17.27
-Para que buscassem ao Senhor, se talvez pudessem apalpá-lo e encontrá-lo, apesar dele não estar longe de cada um de nós.
+{rp|n4}Para que buscassem ao Senhor, se talvez pudessem apalpá-lo e encontrá-lo, apesar dele não estar longe de cada um de nós.
+{tr}Para que buscassem ao Senhor, se talvez pudessem apalpá-Lo e encontrá-Lo, apesar dEle não estar longe de cada um de nós.
 \v At.17.28
 {rp|n4}Porque nele vivemos, e nos movemos, e somos; assim como também alguns de vossos poetas disseram; porque também nós somos descendência dele.
 {tr}Porque nEle vivemos, e nos movemos, e somos; assim como também alguns de vossos poetas disseram; porque também nós somos descendência dEle.
@@ -3398,7 +3432,8 @@ Assim como também o sumo sacerdote me é testemunha, e todo o conselho dos anci
 \v At.22.6
 Mas aconteceu que, estando eu no caminho, e chegando perto de Damasco, quase ao meio dia, de repente uma grande luz do céu brilhou ao redor de mim.
 \v At.22.7
-Eu cai ao chão, e ouvi uma voz, que me dizia: Saulo, Saulo, por que me persegues?
+{rp|n4}Eu cai ao chão, e ouvi uma voz, que me dizia: Saulo, Saulo, por que me persegues?
+{tr}Eu cai ao chão, e ouvi uma voz, que me dizia: Saulo, Saulo, por que Me persegues?
 \v At.22.8
 {rp|n4}E eu respondi: Quem és, Senhor? E ele me disse: Eu sou Jesus, o nazareno, a quem tu persegues.
 {tr}E eu respondi: Quem és, Senhor? E Ele me disse: Eu sou Jesus, o nazareno, a quem tu persegues.
@@ -3437,7 +3472,8 @@ pude
 \*added
  vê-lo.
 \v At.22.14
-E ele disse: O Deus de nossos pais te predeterminou para que tu conheças a vontade dele, e vejas aquele justo, e tu ouças a voz de sua boca.
+{rp|n4}E ele disse: O Deus de nossos pais te predeterminou para que tu conheças a vontade dele, e vejas aquele justo, e tu ouças a voz de sua boca.
+{tr}E ele disse: O Deus de nossos pais te predeterminou para que tu conheças a vontade dEle, e vejas aquele justo, e tu ouças a voz de Sua boca.
 \v At.22.15
 {rp|n4}Porque tu serás testemunha dele para com todos as pessoas, daquilo que tens visto e ouvido.
 {tr}Porque tu serás testemunha dEle para com todos as pessoas, daquilo que tens visto e ouvido.
@@ -3446,7 +3482,8 @@ E agora, por que estás parado? Levanta-te, e sê batizado, e lava teus pecados,
 \v At.22.17
 E aconteceu a mim, tendo eu voltado a Jerusalém, e estando orando no Templo, veio-me um êxtase;
 \v At.22.18
-E eu vi aquele que me dizia: Apressa-te, e sai logo de Jerusalém, porque não aceitarão teu testemunho sobre mim.
+{rp|n4}E eu vi aquele que me dizia: Apressa-te, e sai logo de Jerusalém, porque não aceitarão teu testemunho sobre mim.
+{tr}E eu vi aquele que me dizia: Apressa-te, e sai logo de Jerusalém, porque não aceitarão teu testemunho sobre Mim.
 \v At.22.19
 {rp|n4}E eu disse: Senhor, eles sabem que eu prendia e açoitava nas sinagogas aqueles que criam em ti.
 {tr}E eu disse: Senhor, eles sabem que eu prendia e açoitava nas sinagogas aqueles que criam em Ti.
@@ -3956,7 +3993,8 @@ Nas quais, indo eu até Damasco, com autoridade e comissão dos chefes dos sacer
 \v At.26.13
 Ao meio dia, vi no caminho, rei, uma luz do céu, que brilhava muito mais que o sol, e que encheu de claridade ao redor de mim e dos que iam comigo.
 \v At.26.14
-E todos nós, tendo caído ao chão, eu ouvi uma voz que falava a mim, e dizia em língua hebraica: Saulo, Saulo, por que me persegues? Duro é para ti dar coices contra os aguilhões.
+{rp|n4}E todos nós, tendo caído ao chão, eu ouvi uma voz que falava a mim, e dizia em língua hebraica: Saulo, Saulo, por que me persegues? Duro é para ti dar coices contra os aguilhões.
+{tr}E todos nós, tendo caído ao chão, eu ouvi uma voz que falava a mim, e dizia em língua hebraica: Saulo, Saulo, por que Me persegues? Duro é para ti dar coices contra os aguilhões.
 \v At.26.15
 {rp|n4}E eu disse: Quem és, Senhor? E ele disse: Eu sou Jesus, a quem tu persegues.
 {tr}E eu disse: Quem és, Senhor? E Ele disse: Eu sou Jesus, a quem tu persegues.
