@@ -487,3 +487,8 @@ Marcação usada: o bloco `\added` … `\*added` do formato f4, com cada marcado
 ### Mq 5.2: "saídas" mantido
 
 - **Mq 5.2** – Decisão de Marcelo: mantém "suas saídas" (hebr. וּמוֹצָאֹתָיו), sem nota.
+
+### Antigo Testamento (22/11/2026)
+
+- Mesmo método e mesmas convenções da segunda passada no NT. Também no AT as linhas alteradas viram `{rp|n4}`(original) + `{tr}`(nova), então a saída N4/RP não muda e a marcação `\nd` de SENHOR/DEUS continua no conversor.
+- **Pentateuco** (AT): 332 versículos, 499 pronomes. Ficam 385 versículos para revisão (`pronomes-divinos/pentateuco-pendentes.md`).

@@ -67,7 +67,8 @@ SENHOR, nosso Deus, nos dá, é boa.’
 \v Dt.1.26
 Porém não quisestes subir, mas fostes rebeldes à ordem do SENHOR, vosso Deus;
 \v Dt.1.27
-E murmurastes em vossas tendas, dizendo: ‘É porque o SENHOR nos odeia que ele nos tirou da terra do Egito, para 
+{rp|n4}E murmurastes em vossas tendas, dizendo: ‘É porque o SENHOR nos odeia que ele nos tirou da terra do Egito, para 
+{tr}E murmurastes em vossas tendas, dizendo: ‘É porque o SENHOR nos odeia que Ele nos tirou da terra do Egito, para 
 nos entregar nas mãos dos amorreus, para nos destruir.
 \v Dt.1.28
 Para onde subiremos? Nossos irmãos fizeram derreter o nosso coração, dizendo: Este povo é maior e mais alto que nós, 
@@ -265,7 +266,8 @@ E vos aproximastes, e vos pusestes ao pé do monte; e o monte ardia em fogo até
 \v Dt.4.12
 E falou o SENHOR convosco do meio do fogo: ouvistes a voz de suas palavras, mas a exceção de ouvir a voz, nenhuma forma vistes:
 \v Dt.4.13
-E ele vos anunciou seu pacto, o qual vos mandou pôr por obra, os dez mandamentos; e escreveu-os em duas tábuas de pedra.
+{rp|n4}E ele vos anunciou seu pacto, o qual vos mandou pôr por obra, os dez mandamentos; e escreveu-os em duas tábuas de pedra.
+{tr}E Ele vos anunciou Seu pacto, o qual vos mandou pôr por obra, os dez mandamentos; e escreveu-os em duas tábuas de pedra.
 \v Dt.4.14
 A mim também me mandou o SENHOR então ensinar-vos os estatutos e regulamentos, para que os pusestes por obra na terra à qual passais para possuí-la.
 \v Dt.4.15
@@ -279,17 +281,20 @@ Figura de nenhum animal que vá arrastando pela terra, forma de peixe algum que 
 \v Dt.4.19
 E para que levantando teus olhos ao céu, e vendo o sol e a lua e as estrelas, e todo o exército do céu, não sejas incitado, e te inclines a eles, e lhes sirvas; que o SENHOR teu Deus os concedeu a todos os povos debaixo de todos os céus.
 \v Dt.4.20
-Porém a vós o SENHOR vos tomou, e vos tirou do forno de ferro, do Egito, para que lhe sejais por povo de herança como neste dia.
+{rp|n4}Porém a vós o SENHOR vos tomou, e vos tirou do forno de ferro, do Egito, para que lhe sejais por povo de herança como neste dia.
+{tr}Porém a vós o SENHOR vos tomou, e vos tirou do forno de ferro, do Egito, para que Lhe sejais por povo de herança como neste dia.
 \v Dt.4.21
 E o SENHOR se irou contra mim sobre vossos negócios, e jurou que eu não passaria o Jordão, nem entraria na boa terra, que o SENHOR teu Deus te dá por herança.
 \v Dt.4.22
 Assim eu vou a morrer nesta terra; e não passo o Jordão: mas vós passareis, e possuireis aquela boa terra.
 \v Dt.4.23
-Guardai-vos que não vos esqueçais do pacto do SENHOR vosso Deus, que ele estabeleceu convosco, e vos façais escultura ou imagem de qualquer coisa, que o SENHOR teu Deus te proibiu.
+{rp|n4}Guardai-vos que não vos esqueçais do pacto do SENHOR vosso Deus, que ele estabeleceu convosco, e vos façais escultura ou imagem de qualquer coisa, que o SENHOR teu Deus te proibiu.
+{tr}Guardai-vos que não vos esqueçais do pacto do SENHOR vosso Deus, que Ele estabeleceu convosco, e vos façais escultura ou imagem de qualquer coisa, que o SENHOR teu Deus te proibiu.
 \v Dt.4.24
 Porque o SENHOR teu Deus é fogo que consome, Deus zeloso.
 \v Dt.4.25
-Quando houverdes gerado filhos e netos, e houverdes envelhecido na terra, e vos corromperdes, e fizerdes escultura ou imagem de qualquer coisa, e fizerdes mal aos olhos do SENHOR vosso Deus, para irá-lo;
+{rp|n4}Quando houverdes gerado filhos e netos, e houverdes envelhecido na terra, e vos corromperdes, e fizerdes escultura ou imagem de qualquer coisa, e fizerdes mal aos olhos do SENHOR vosso Deus, para irá-lo;
+{tr}Quando houverdes gerado filhos e netos, e houverdes envelhecido na terra, e vos corromperdes, e fizerdes escultura ou imagem de qualquer coisa, e fizerdes mal aos olhos do SENHOR vosso Deus, para irá-Lo;
 \v Dt.4.26
 Eu ponho hoje por testemunhas ao céu e à terra, que logo perecereis totalmente da terra até a qual passais o Jordão para possuí-la: não estareis nela longos dias sem que sejais destruídos.
 \v Dt.4.27
@@ -299,7 +304,8 @@ E servireis ali a deuses feitos das mãos de homens, a madeira e a pedra, que n�
 \v Dt.4.29
 Mas se desde ali buscares ao SENHOR teu Deus, o acharás, se o buscares de todo teu coração e de toda tua alma.
 \v Dt.4.30
-Quando estiveres em angústia, e te alcançarem todas estas coisas, se nos últimos dias te voltares ao SENHOR teu Deus, e ouvires sua voz;
+{rp|n4}Quando estiveres em angústia, e te alcançarem todas estas coisas, se nos últimos dias te voltares ao SENHOR teu Deus, e ouvires sua voz;
+{tr}Quando estiveres em angústia, e te alcançarem todas estas coisas, se nos últimos dias te voltares ao SENHOR teu Deus, e ouvires Sua voz;
 \v Dt.4.31
 Porque Deus misericordioso é o SENHOR teu Deus; não te deixará, nem te destruirá, nem se esquecerá do pacto de teus pais que lhes jurou.
 \v Dt.4.32
@@ -307,11 +313,13 @@ Porque pergunta agora dos tempos passados, que foram antes de ti, desde o dia qu
 \v Dt.4.33
 Ouviu povo a voz de Deus, que falasse do meio do fogo, como tu a ouviste, e viveste?
 \v Dt.4.34
-Ou experimentou Deus a vir a tomar para si nação do meio de outra nação, com provas, com sinais, com milagres, e com guerra, e mão forte, e braço estendido, e grandes espantos, segundo todas as coisas que fez convosco o SENHOR vosso Deus no Egito diante de teus olhos?
+{rp|n4}Ou experimentou Deus a vir a tomar para si nação do meio de outra nação, com provas, com sinais, com milagres, e com guerra, e mão forte, e braço estendido, e grandes espantos, segundo todas as coisas que fez convosco o SENHOR vosso Deus no Egito diante de teus olhos?
+{tr}Ou experimentou Deus a vir a tomar para Si nação do meio de outra nação, com provas, com sinais, com milagres, e com guerra, e mão forte, e braço estendido, e grandes espantos, segundo todas as coisas que fez convosco o SENHOR vosso Deus no Egito diante de teus olhos?
 \v Dt.4.35
 A ti te foi mostrado, para que soubesses que o SENHOR ele é Deus; não há mais além dele.
 \v Dt.4.36
-Dos céus te fez ouvir sua voz, para ensinar-te: e sobre a terra te mostrou seu grande fogo: e ouviste suas palavras do meio do fogo.
+{rp|n4}Dos céus te fez ouvir sua voz, para ensinar-te: e sobre a terra te mostrou seu grande fogo: e ouviste suas palavras do meio do fogo.
+{tr}Dos céus te fez ouvir Sua voz, para ensinar-te: e sobre a terra te mostrou Seu grande fogo: e ouviste Suas palavras do meio do fogo.
 \v Dt.4.37
 E porquanto ele amou a teus pais, escolheu sua descendência depois deles, e te tirou diante de si do Egito com seu grande poder;
 \v Dt.4.38
@@ -319,7 +327,8 @@ Para lançar de diante de ti nações grandes e mais fortes que tu, e para te in
 \v Dt.4.39
 Aprende pois hoje, e medita em teu coração que o SENHOR ele é o Deus acima no céu, e abaixo sobre a terra; não há outro.
 \v Dt.4.40
-E guarda seus estatutos e seus mandamentos, que eu te mando hoje, para que te vá bem a ti e a teus filhos depois de ti, e prolongues teus dias sobre a terra que o SENHOR teu Deus te dá para sempre.
+{rp|n4}E guarda seus estatutos e seus mandamentos, que eu te mando hoje, para que te vá bem a ti e a teus filhos depois de ti, e prolongues teus dias sobre a terra que o SENHOR teu Deus te dá para sempre.
+{tr}E guarda Seus estatutos e Seus mandamentos, que eu te mando hoje, para que te vá bem a ti e a teus filhos depois de ti, e prolongues teus dias sobre a terra que o SENHOR teu Deus te dá para sempre.
 \v Dt.4.41
 Então separou Moisés três cidades desta parte do Jordão ao oriente,
 \v Dt.4.42
@@ -351,13 +360,16 @@ Face a face falou o SENHOR convosco no monte do meio do fogo,
 \v Dt.5.6
 Eu sou o SENHOR teu Deus, que te tirei da terra do Egito, de casa de servos.
 \v Dt.5.7
-Não terás deuses estranhos diante de mim.
+{rp|n4}Não terás deuses estranhos diante de mim.
+{tr}Não terás deuses estranhos diante de Mim.
 \v Dt.5.8
 Não farás para ti escultura, nem imagem alguma de coisa que está acima nos céus, ou abaixo na terra, ou nas águas debaixo da terra:
 \v Dt.5.9
-Não te inclinarás a elas nem lhes servirás: porque eu sou o SENHOR teu Deus, forte, zeloso, que visito a iniquidade dos pais sobre os filhos, e sobre a terceira geração, e sobre a quarta, aos que me aborrecem,
+{rp|n4}Não te inclinarás a elas nem lhes servirás: porque eu sou o SENHOR teu Deus, forte, zeloso, que visito a iniquidade dos pais sobre os filhos, e sobre a terceira geração, e sobre a quarta, aos que me aborrecem,
+{tr}Não te inclinarás a elas nem lhes servirás: porque eu sou o SENHOR teu Deus, forte, zeloso, que visito a iniquidade dos pais sobre os filhos, e sobre a terceira geração, e sobre a quarta, aos que Me aborrecem,
 \v Dt.5.10
-E que faço misericórdia a milhares aos que me amam, e guardam meus mandamentos.
+{rp|n4}E que faço misericórdia a milhares aos que me amam, e guardam meus mandamentos.
+{tr}E que faço misericórdia a milhares aos que Me amam, e guardam Meus mandamentos.
 \v Dt.5.11
 Não tomarás em vão o nome do SENHOR teu Deus; porque o SENHOR não dará por inocente ao que tomar em vão seu nome.
 \v Dt.5.12
@@ -395,11 +407,13 @@ Chega tu, e ouve todas as coisas que disser o SENHOR nosso Deus; e tu nos dirás
 \v Dt.5.28
 E ouviu o SENHOR a voz de vossas palavras, quando me faláveis; e disse-me o SENHOR: Ouvi a voz das palavras deste povo, que eles te falaram: bem está tudo o que disseram.
 \v Dt.5.29
-Quem dera que tivessem tal coração, que me temessem, e guardassem todos os dias todos meus mandamentos, para que a eles e a seus filhos lhes fosse bem para sempre!
+{rp|n4}Quem dera que tivessem tal coração, que me temessem, e guardassem todos os dias todos meus mandamentos, para que a eles e a seus filhos lhes fosse bem para sempre!
+{tr}Quem dera que tivessem tal coração, que Me temessem, e guardassem todos os dias todos Meus mandamentos, para que a eles e a seus filhos lhes fosse bem para sempre!
 \v Dt.5.30
 Vai, dize-lhes: Voltai-vos a vossas tendas.
 \v Dt.5.31
-E tu fica aqui comigo, e te direi todos os mandamentos, e estatutos, e regulamentos que lhes hás de ensinar, a fim que os ponham agora por obra na terra que eu lhes dou para possuí-la.
+{rp|n4}E tu fica aqui comigo, e te direi todos os mandamentos, e estatutos, e regulamentos que lhes hás de ensinar, a fim que os ponham agora por obra na terra que eu lhes dou para possuí-la.
+{tr}E tu fica aqui Comigo, e te direi todos os mandamentos, e estatutos, e regulamentos que lhes hás de ensinar, a fim que os ponham agora por obra na terra que eu lhes dou para possuí-la.
 \v Dt.5.32
 Olhai, pois, que façais como o SENHOR vosso Deus vos mandou: não vos desvieis à direita nem à esquerda;
 \v Dt.5.33
@@ -407,7 +421,8 @@ Andai em todo caminho que o SENHOR vosso Deus vos mandou, para que vivais, e vos
 \v Dt.6.1
 Estes, pois são os mandamentos, estatutos, e regulamentos que o SENHOR vosso Deus mandou que vos ensinasse, para que os ponhais por obra na terra à qual passais vós para possuí-la:
 \v Dt.6.2
-Para que temas ao SENHOR teu Deus, guardando todos os seus estatutos e seus mandamentos que eu te mando, tu, e teu filho, e o filho de teu filho, todos os dias de tua vida, e que teus dias sejam prolongados.
+{rp|n4}Para que temas ao SENHOR teu Deus, guardando todos os seus estatutos e seus mandamentos que eu te mando, tu, e teu filho, e o filho de teu filho, todos os dias de tua vida, e que teus dias sejam prolongados.
+{tr}Para que temas ao SENHOR teu Deus, guardando todos os Seus estatutos e Seus mandamentos que eu te mando, tu, e teu filho, e o filho de teu filho, todos os dias de tua vida, e que teus dias sejam prolongados.
 \v Dt.6.3
 Ouve, pois, ó Israel, e cuida de praticá-los, para que te vá bem, e sejais multiplicados, como te disse o SENHOR o Deus de teus pais, na terra que destila leite e mel.
 \v Dt.6.4
@@ -437,7 +452,8 @@ e casas cheias de todos os bens que tu não encheste, e cisternas cavadas, que t
 \v Dt.6.12
 guarda-te que não te esqueças do SENHOR, que te tirou da terra do Egito, de casa de escravidão.
 \v Dt.6.13
-Ao SENHOR, teu Deus, temerás, e a ele servirás, e pelo seu nome jurarás.
+{rp|n4}Ao SENHOR, teu Deus, temerás, e a ele servirás, e pelo seu nome jurarás.
+{tr}Ao SENHOR, teu Deus, temerás, e a Ele servirás, e pelo Seu nome jurarás.
 \v Dt.6.14
 Não seguireis outros deuses, dos deuses dos povos que estão ao vosso redor,
 \v Dt.6.15
@@ -445,7 +461,8 @@ porque o Deus zeloso, o SENHOR teu Deus, está no meio de ti; para que o furor d
 \v Dt.6.16
 Não tentareis ao SENHOR vosso Deus, como o tentastes em Massá.
 \v Dt.6.17
-Guardai cuidadosamente os mandamentos do SENHOR vosso Deus, e seus testemunhos, e seus estatutos, que te mandou.
+{rp|n4}Guardai cuidadosamente os mandamentos do SENHOR vosso Deus, e seus testemunhos, e seus estatutos, que te mandou.
+{tr}Guardai cuidadosamente os mandamentos do SENHOR vosso Deus, e Seus testemunhos, e Seus estatutos, que te mandou.
 \v Dt.6.18
 E farás o correto e bom aos olhos do SENHOR, para que te vá bem, e entres e possuas a boa terra que o SENHOR jurou a teus pais;
 \v Dt.6.19
@@ -469,18 +486,21 @@ E o SENHOR teu Deus as houver entregue diante de ti, e as ferires, por completo 
 \v Dt.7.3
 E não aparentarás com eles: não darás tua filha a seu filho, nem tomarás a sua filha para teu filho.
 \v Dt.7.4
-Porque desviará a teu filho de me seguir, e servirão a deuses alheios; e o furor do SENHOR se acenderá sobre vós, e te destruirá logo.
+{rp|n4}Porque desviará a teu filho de me seguir, e servirão a deuses alheios; e o furor do SENHOR se acenderá sobre vós, e te destruirá logo.
+{tr}Porque desviará a teu filho de Me seguir, e servirão a deuses alheios; e o furor do SENHOR se acenderá sobre vós, e te destruirá logo.
 \v Dt.7.5
 Mas assim haveis de fazer com eles: destruireis seus altares, e quebrareis suas colunas sagradas, cortareis seus 
 mastros de idolatria, e queimareis suas esculturas a fogo.
 \v Dt.7.6
-Porque tu és povo santo ao SENHOR teu Deus: o SENHOR teu Deus te escolheu para ser-lhe um povo especial, mais que todos os povos que estão sobre a face da terra.
+{rp|n4}Porque tu és povo santo ao SENHOR teu Deus: o SENHOR teu Deus te escolheu para ser-lhe um povo especial, mais que todos os povos que estão sobre a face da terra.
+{tr}Porque tu és povo santo ao SENHOR teu Deus: o SENHOR teu Deus te escolheu para ser-Lhe um povo especial, mais que todos os povos que estão sobre a face da terra.
 \v Dt.7.7
 Não por ser vós mais que todos os povos vos quis o SENHOR, e vos escolheu; porque vós éreis os menores de todos os povos:
 \v Dt.7.8
 Mas sim porque o SENHOR vos amou, e quis guardar o juramento que jurou a vossos pais, vos tirou o SENHOR com mão forte, e vos resgatou de casa de servos, da mão de Faraó, rei do Egito.
 \v Dt.7.9
-Conhece, pois, que o SENHOR teu Deus é Deus, Deus fiel, que guarda o pacto e a misericórdia aos que lhe amam e guardam seus mandamentos, até as mil gerações;
+{rp|n4}Conhece, pois, que o SENHOR teu Deus é Deus, Deus fiel, que guarda o pacto e a misericórdia aos que lhe amam e guardam seus mandamentos, até as mil gerações;
+{tr}Conhece, pois, que o SENHOR teu Deus é Deus, Deus fiel, que guarda o pacto e a misericórdia aos que Lhe amam e guardam Seus mandamentos, até as mil gerações;
 \v Dt.7.10
 E que retribui em sua face ao que lhe aborrece, destruindo-o: nem o dilatará ao que lhe odeia, em sua face lhe retribuirá.
 \v Dt.7.11
@@ -518,7 +538,8 @@ E não meterás abominação em tua casa, para que não sejas anátema como isso
 \v Dt.8.1
 Cuidareis de pôr por obra todo mandamento que eu vos ordeno hoje, para que vivais, e sejais multiplicados, e entreis, e possuais a terra, da qual jurou o SENHOR a vossos pais.
 \v Dt.8.2
-E te lembrarás de todo o caminho por onde te trouxe o SENHOR teu Deus estes quarenta anos no deserto, para afligir-te, para provar-te, para saber o que estava em teu coração, se havias de guardar ou não seus mandamentos.
+{rp|n4}E te lembrarás de todo o caminho por onde te trouxe o SENHOR teu Deus estes quarenta anos no deserto, para afligir-te, para provar-te, para saber o que estava em teu coração, se havias de guardar ou não seus mandamentos.
+{tr}E te lembrarás de todo o caminho por onde te trouxe o SENHOR teu Deus estes quarenta anos no deserto, para afligir-te, para provar-te, para saber o que estava em teu coração, se havias de guardar ou não Seus mandamentos.
 \v Dt.8.3
 E te afligiu, e te fez ter fome, e te sustentou com maná, comida que não conhecias tu, nem teus pais a conheciam; para fazer-te saber que o homem não viverá de só pão, mas de tudo o que sai da boca do SENHOR viverá o homem.
 \v Dt.8.4
@@ -526,7 +547,8 @@ Tua roupa nunca se envelheceu sobre ti, nem o pé se te inchou por estes quarent
 \v Dt.8.5
 Reconhece assim em teu coração, que como castiga o homem a seu filho, assim o SENHOR teu Deus te castiga.
 \v Dt.8.6
-Guardarás, pois, os mandamentos do SENHOR teu Deus, andando em seus caminhos, e temendo-o.
+{rp|n4}Guardarás, pois, os mandamentos do SENHOR teu Deus, andando em seus caminhos, e temendo-o.
+{tr}Guardarás, pois, os mandamentos do SENHOR teu Deus, andando em Seus caminhos, e temendo-O.
 \v Dt.8.7
 Porque o SENHOR teu Deus te introduz na boa terra, terra de ribeiros, de águas, de fontes, de mananciais que brotam por planícies e montes;
 \v Dt.8.8
@@ -536,7 +558,8 @@ Terra na qual não comerás o pão com escassez, não te faltará nada nela; ter
 \v Dt.8.10
 E comerás e te fartarás, e bendirás ao SENHOR teu Deus pela boa terra que te haverá dado.
 \v Dt.8.11
-Guarda-te, que não te esqueças do SENHOR teu Deus, para não observar seus mandamentos, e seus regulamentos, e seus estatutos, que eu te ordeno hoje:
+{rp|n4}Guarda-te, que não te esqueças do SENHOR teu Deus, para não observar seus mandamentos, e seus regulamentos, e seus estatutos, que eu te ordeno hoje:
+{tr}Guarda-te, que não te esqueças do SENHOR teu Deus, para não observar Seus mandamentos, e Seus regulamentos, e Seus estatutos, que eu te ordeno hoje:
 \v Dt.8.12
 Para que não aconteça talvez que comas e te fartes, e edifiques boas casas em que mores,
 \v Dt.8.13
@@ -582,7 +605,8 @@ E disse-me o SENHOR: Levanta-te, desce logo daqui; que teu povo que tiraste do E
 \v Dt.9.13
 E falou-me o SENHOR, dizendo: Vi esse povo, e eis que ele é povo duro de cerviz:
 \v Dt.9.14
-Deixa-me que os destrua, e apague seu nome de debaixo do céu; que eu te porei sobre gente forte e muito mais que eles.
+{rp|n4}Deixa-me que os destrua, e apague seu nome de debaixo do céu; que eu te porei sobre gente forte e muito mais que eles.
+{tr}Deixa-Me que os destrua, e apague seu nome de debaixo do céu; que eu te porei sobre gente forte e muito mais que eles.
 \v Dt.9.15
 E voltei e desci do monte, o qual ardia em fogo, com as tábuas do pacto em minhas duas mãos.
 \v Dt.9.16
@@ -590,7 +614,8 @@ E olhei, e eis que havíeis pecado contra o SENHOR vosso Deus: Havíeis feito pa
 \v Dt.9.17
 Então tomei as duas tábuas, e lancei-as de minhas duas mãos, e quebrei-as diante vossos olhos.
 \v Dt.9.18
-E prostrei-me diante do SENHOR, como antes, quarenta dias e quarenta noites: não comi pão nem bebi água, por causa de todo vosso pecado que havíeis cometido fazendo mal aos olhos do SENHOR para irá-lo.
+{rp|n4}E prostrei-me diante do SENHOR, como antes, quarenta dias e quarenta noites: não comi pão nem bebi água, por causa de todo vosso pecado que havíeis cometido fazendo mal aos olhos do SENHOR para irá-lo.
+{tr}E prostrei-me diante do SENHOR, como antes, quarenta dias e quarenta noites: não comi pão nem bebi água, por causa de todo vosso pecado que havíeis cometido fazendo mal aos olhos do SENHOR para irá-Lo.
 \v Dt.9.19
 Porque temi por causa do furor e da ira com que o SENHOR estava irritado contra vós para destruir-vos. Porém o SENHOR me ouviu ainda esta vez.
 \v Dt.9.20
@@ -600,19 +625,22 @@ E tomei vosso pecado, o bezerro que havíeis feito, e queimei no fogo, e o esmig
 \v Dt.9.22
 Também em Taberá, e em Massá, e em Quibrote-Hataavá, irritastes ao SENHOR.
 \v Dt.9.23
-E quando o SENHOR vos enviou desde Cades-Barneia, dizendo: Subi e possuí a terra que eu vos dei; também fostes rebeldes ao dito do SENHOR vosso Deus, e não o crestes, nem obedecestes à sua voz.
+{rp|n4}E quando o SENHOR vos enviou desde Cades-Barneia, dizendo: Subi e possuí a terra que eu vos dei; também fostes rebeldes ao dito do SENHOR vosso Deus, e não o crestes, nem obedecestes à sua voz.
+{tr}E quando o SENHOR vos enviou desde Cades-Barneia, dizendo: Subi e possuí a terra que eu vos dei; também fostes rebeldes ao dito do SENHOR vosso Deus, e não O crestes, nem obedecestes à Sua voz.
 \v Dt.9.24
 Rebeldes fostes ao SENHOR desde o dia que eu vos conheço.
 \v Dt.9.25
 Prostrei-me, pois, diante do SENHOR quarenta dias e quarenta noites que estive prostrado; porque o SENHOR disse que vos havia de destruir.
 \v Dt.9.26
-E orei ao SENHOR, dizendo: Ó Senhor DEUS, não destruas teu povo e tua herança que resgataste com tua grandeza, ao qual tiraste do Egito com mão forte.
+{rp|n4}E orei ao SENHOR, dizendo: Ó Senhor DEUS, não destruas teu povo e tua herança que resgataste com tua grandeza, ao qual tiraste do Egito com mão forte.
+{tr}E orei ao SENHOR, dizendo: Ó Senhor DEUS, não destruas Teu povo e Tua herança que resgataste com Tua grandeza, ao qual tiraste do Egito com mão forte.
 \v Dt.9.27
 Lembra-te de teus servos Abraão, Isaque, e Jacó; não olhes à dureza deste povo, nem a sua impiedade, nem a seu pecado:
 \v Dt.9.28
 Porque não digam os da terra de onde nos tiraste: Porquanto não pôde o SENHOR introduzi-los na terra que lhes havia dito, ou porque os aborrecia, os tirou para matá-los no deserto.
 \v Dt.9.29
-E eles são teu povo e tua herança, que tiraste com tua grande força e com teu braço estendido.
+{rp|n4}E eles são teu povo e tua herança, que tiraste com tua grande força e com teu braço estendido.
+{tr}E eles são Teu povo e Tua herança, que tiraste com Tua grande força e com Teu braço estendido.
 \v Dt.10.1
 Naquele tempo o SENHOR me disse: Lavra para ti duas tábuas de pedra como as primeiras, e sobe a mim ao monte, e faze para ti uma arca de madeira:
 \v Dt.10.2
@@ -628,7 +656,8 @@ E voltei e desci do monte, e pus as tábuas na arca que havia feito; e ali estã
 \v Dt.10.7
 De ali partiram a Gudgodá, e de Gudgodá a Jotbatá, terra de ribeiros de águas.
 \v Dt.10.8
-Naquele tempo separou o SENHOR a tribo de Levi, para que levasse a arca do pacto do SENHOR, para que estivesse diante do SENHOR para servir-lhe, e para abençoar em seu nome, até hoje.
+{rp|n4}Naquele tempo separou o SENHOR a tribo de Levi, para que levasse a arca do pacto do SENHOR, para que estivesse diante do SENHOR para servir-lhe, e para abençoar em seu nome, até hoje.
+{tr}Naquele tempo separou o SENHOR a tribo de Levi, para que levasse a arca do pacto do SENHOR, para que estivesse diante do SENHOR para servir-Lhe, e para abençoar em Seu nome, até hoje.
 \v Dt.10.9
 Pelo qual Levi não teve parte nem herança com seus irmãos: o SENHOR é sua herança, como o SENHOR teu Deus lhe disse.)
 \v Dt.10.10
@@ -638,7 +667,8 @@ E disse-me o SENHOR: Levanta-te, anda, para que partas diante do povo, para que 
 \v Dt.10.12
 Agora, pois, Israel, que pede o SENHOR teu Deus de ti, a não ser que temas ao SENHOR teu Deus, que andes em todos os seus caminhos, e que o ames, e sirvas ao SENHOR teu Deus contudo teu coração, e com toda tua alma;
 \v Dt.10.13
-Que guardes os mandamentos do SENHOR e seus estatutos, que eu te prescrevo hoje, para que tenhas bem?
+{rp|n4}Que guardes os mandamentos do SENHOR e seus estatutos, que eu te prescrevo hoje, para que tenhas bem?
+{tr}Que guardes os mandamentos do SENHOR e Seus estatutos, que eu te prescrevo hoje, para que tenhas bem?
 \v Dt.10.14
 Eis que, do SENHOR teu Deus são os céus, e os céus dos céus: a terra, e todas as coisas que há nela.
 \v Dt.10.15
@@ -652,13 +682,15 @@ Que faz justiça ao órfão e à viúva; que ama também ao estrangeiro dando-lh
 \v Dt.10.19
 Amareis pois ao estrangeiro: porque estrangeiros fostes vós em terra do Egito.
 \v Dt.10.20
-Ao SENHOR teu Deus temerás, a ele servirás, a ele te achegarás, e por seu nome jurarás.
+{rp|n4}Ao SENHOR teu Deus temerás, a ele servirás, a ele te achegarás, e por seu nome jurarás.
+{tr}Ao SENHOR teu Deus temerás, a Ele servirás, a Ele te achegarás, e por Seu nome jurarás.
 \v Dt.10.21
 Ele é teu louvor, e ele é teu Deus, que fez contigo estas grandes e terríveis coisas que teus olhos viram.
 \v Dt.10.22
 Com setenta almas desceram teus pais ao Egito; e agora o SENHOR te fez como as estrelas do céu em multidão.
 \v Dt.11.1
-Amarás, pois, ao SENHOR teu Deus, e guardarás sua ordenança, e seus estatutos e seus regulamentos e seus mandamentos, todos os dias.
+{rp|n4}Amarás, pois, ao SENHOR teu Deus, e guardarás sua ordenança, e seus estatutos e seus regulamentos e seus mandamentos, todos os dias.
+{tr}Amarás, pois, ao SENHOR teu Deus, e guardarás Sua ordenança, e Seus estatutos e Seus regulamentos e Seus mandamentos, todos os dias.
 \v Dt.11.2
 E compreendei hoje: porque não falo com vossos filhos que não souberam nem viram o castigo do SENHOR vosso Deus, sua grandeza, sua mão forte, e seu braço estendido,
 \v Dt.11.3
@@ -683,7 +715,8 @@ A terra à qual passais para possuí-la é terra de montes e de planícies; da c
 terra da qual o SENHOR, teu Deus, cuida; os olhos do SENHOR, teu Deus, sempre estão sobre ela, do princípio do ano até 
 o fim do ano.
 \v Dt.11.13
-E será que, se obedecerdes cuidadosamente meus mandamentos que eu vos prescrevo hoje, amando ao SENHOR vosso Deus, 
+{rp|n4}E será que, se obedecerdes cuidadosamente meus mandamentos que eu vos prescrevo hoje, amando ao SENHOR vosso Deus, 
+{tr}E será que, se obedecerdes cuidadosamente Meus mandamentos que eu vos prescrevo hoje, amando ao SENHOR vosso Deus, 
 e servindo-o com todo o vosso coração, e com toda vossa alma,
 \v Dt.11.14
 eu darei a chuva da vossa terra em seu tempo, a inicial e a tardia; e colherás teu grão, teu vinho, e teu azeite.
@@ -702,7 +735,8 @@ E as escreverás nos umbrais de tua casa, e em tuas entradas:
 \v Dt.11.21
 Para que sejam aumentados vossos dias, e os dias de vossos filhos, sobre a terra que jurou o SENHOR a vossos pais que lhes havia de dar, como os dias dos céus sobre a terra.
 \v Dt.11.22
-Porque se guardardes cuidadosamente todos estes mandamentos que eu vos prescrevo, para que os cumprais; como ameis ao SENHOR vosso Deus andando em todos os seus caminhos, e a ele vos achegardes,
+{rp|n4}Porque se guardardes cuidadosamente todos estes mandamentos que eu vos prescrevo, para que os cumprais; como ameis ao SENHOR vosso Deus andando em todos os seus caminhos, e a ele vos achegardes,
+{tr}Porque se guardardes cuidadosamente todos estes mandamentos que eu vos prescrevo, para que os cumprais; como ameis ao SENHOR vosso Deus andando em todos os Seus caminhos, e a Ele vos achegardes,
 \v Dt.11.23
 O SENHOR também expulsará todas estas nações de diante de vós e possuireis nações grandes e mais fortes que vós.
 \v Dt.11.24
@@ -732,7 +766,8 @@ E derrubareis seus altares, e quebrareis suas imagens, e seus bosques consumirei
 \v Dt.12.4
 Não fareis assim ao SENHOR vosso Deus.
 \v Dt.12.5
-Mas o lugar que o SENHOR vosso Deus escolher de todas as vossas tribos, para pôr ali seu nome para sua habitação, esse buscareis, e ali ireis:
+{rp|n4}Mas o lugar que o SENHOR vosso Deus escolher de todas as vossas tribos, para pôr ali seu nome para sua habitação, esse buscareis, e ali ireis:
+{tr}Mas o lugar que o SENHOR vosso Deus escolher de todas as vossas tribos, para pôr ali Seu nome para Sua habitação, esse buscareis, e ali ireis:
 \v Dt.12.6
 E ali levareis vossos holocaustos, e vossos sacrifícios, e vossos dízimos, e a oferta elevada de vossas mãos, e vossos votos, e vossas ofertas voluntárias, e os primogênitos de vossas vacas e de vossas ovelhas:
 \v Dt.12.7
@@ -742,7 +777,8 @@ Não fareis como tudo o que nós fazemos aqui agora, cada um o que lhe parece,
 \v Dt.12.9
 Porque ainda até agora não entrastes ao repouso e à herança que vos dá o SENHOR vosso Deus.
 \v Dt.12.10
-Mas passareis o Jordão, e habitareis na terra que o SENHOR vosso Deus vos faz herdar, e ele vos dará repouso de todos vossos inimigos ao redor, e habitareis seguros.
+{rp|n4}Mas passareis o Jordão, e habitareis na terra que o SENHOR vosso Deus vos faz herdar, e ele vos dará repouso de todos vossos inimigos ao redor, e habitareis seguros.
+{tr}Mas passareis o Jordão, e habitareis na terra que o SENHOR vosso Deus vos faz herdar, e Ele vos dará repouso de todos vossos inimigos ao redor, e habitareis seguros.
 \v Dt.12.11
 E ao lugar que o SENHOR vosso Deus escolher para fazer habitar nele seu nome, ali levareis todas as coisas que eu vos mando: vossos holocaustos, e vossos sacrifícios, vossos dízimos, e as ofertas elevadas de vossas mãos, e todo o escolhido de vossos votos que houveres prometido ao SENHOR;
 \v Dt.12.12
@@ -762,9 +798,11 @@ Mas diante do SENHOR teu Deus as comerás, no lugar que o SENHOR teu Deus houver
 \v Dt.12.19
 Tem cuidado de não desamparar ao levita em todos os teus dias sobre tua terra.
 \v Dt.12.20
-Quando o SENHOR teu Deus alargar teu termo, como ele te disse, e tu disseres: Comerei carne, porque desejou tua alma comê-la, conforme todo o desejo de tua alma comerás carne.
+{rp|n4}Quando o SENHOR teu Deus alargar teu termo, como ele te disse, e tu disseres: Comerei carne, porque desejou tua alma comê-la, conforme todo o desejo de tua alma comerás carne.
+{tr}Quando o SENHOR teu Deus alargar teu termo, como Ele te disse, e tu disseres: Comerei carne, porque desejou tua alma comê-la, conforme todo o desejo de tua alma comerás carne.
 \v Dt.12.21
-Quando estiver longe de ti o lugar que o SENHOR teu Deus houver escolhido, para pôr ali seu nome, matarás de tuas vacas e de tuas ovelhas, que o SENHOR te houver dado, como te mandei eu, e comerás em tuas portas segundo tudo o que desejar tua alma.
+{rp|n4}Quando estiver longe de ti o lugar que o SENHOR teu Deus houver escolhido, para pôr ali seu nome, matarás de tuas vacas e de tuas ovelhas, que o SENHOR te houver dado, como te mandei eu, e comerás em tuas portas segundo tudo o que desejar tua alma.
+{tr}Quando estiver longe de ti o lugar que o SENHOR teu Deus houver escolhido, para pôr ali Seu nome, matarás de tuas vacas e de tuas ovelhas, que o SENHOR te houver dado, como te mandei eu, e comerás em tuas portas segundo tudo o que desejar tua alma.
 \v Dt.12.22
 O mesmo que se come o corço e o cervo, assim as comerás: o impuro e o limpo comerão também delas.
 \v Dt.12.23
@@ -794,7 +832,8 @@ E acontecer o sinal ou prodígio que ele te disse, dizendo: Vamos seguir deuses 
 \v Dt.13.3
 Não darás ouvido às palavras de tal profeta, nem ao tal sonhador de sonhos: porque o SENHOR vosso Deus vos prova, para saber se amais ao SENHOR vosso Deus com todo o vosso coração, e com toda vossa alma.
 \v Dt.13.4
-Atrás do SENHOR vosso Deus andareis, e a ele temereis, e guardareis seus mandamentos, e escutareis sua voz, e a ele servireis, e a ele vos achegareis.
+{rp|n4}Atrás do SENHOR vosso Deus andareis, e a ele temereis, e guardareis seus mandamentos, e escutareis sua voz, e a ele servireis, e a ele vos achegareis.
+{tr}Atrás do SENHOR vosso Deus andareis, e a Ele temereis, e guardareis Seus mandamentos, e escutareis Sua voz, e a Ele servireis, e a Ele vos achegareis.
 \v Dt.13.5
 E o tal profeta ou sonhador de sonhos, será morto; porquanto tratou de rebelião contra o SENHOR vosso Deus, que te tirou da terra do Egito, e te resgatou de casa de servos, e de tirar-te do caminho pelo que o SENHOR teu Deus te mandou que andasses; e assim tirarás o mal do meio de ti.
 \v Dt.13.6
@@ -826,7 +865,8 @@ Quando obedeceres à voz do SENHOR teu Deus, guardando todos os seus mandamentos
 \v Dt.14.1
 Filhos sois do SENHOR vosso Deus: não vos cortareis, nem poreis calva sobre vossos olhos por morto;
 \v Dt.14.2
-Porque és povo santo ao SENHOR teu Deus, e o SENHOR te escolheu para que lhe sejas um povo singular dentre todos os povos que estão sobre a face da terra.
+{rp|n4}Porque és povo santo ao SENHOR teu Deus, e o SENHOR te escolheu para que lhe sejas um povo singular dentre todos os povos que estão sobre a face da terra.
+{tr}Porque és povo santo ao SENHOR teu Deus, e o SENHOR te escolheu para que Lhe sejas um povo singular dentre todos os povos que estão sobre a face da terra.
 \v Dt.14.3
 Nada abominável comerás.
 \v Dt.14.4
@@ -868,7 +908,8 @@ Nenhuma coisa morta comereis: ao estrangeiro que está em tuas povoações a dar
 \v Dt.14.22
 Indispensavelmente dizimarás todo o produto de tua semente, que render o campo cada ano.
 \v Dt.14.23
-E comerás diante do SENHOR teu Deus no lugar que ele escolher para fazer habitar ali seu nome, o dízimo de teu grão, de teu vinho, e de teu azeite, e os primogênitos de tuas manadas, e de tuas gados, para que aprendas a temer ao SENHOR teu Deus todos os dias.
+{rp|n4}E comerás diante do SENHOR teu Deus no lugar que ele escolher para fazer habitar ali seu nome, o dízimo de teu grão, de teu vinho, e de teu azeite, e os primogênitos de tuas manadas, e de tuas gados, para que aprendas a temer ao SENHOR teu Deus todos os dias.
+{tr}E comerás diante do SENHOR teu Deus no lugar que Ele escolher para fazer habitar ali Seu nome, o dízimo de teu grão, de teu vinho, e de teu azeite, e os primogênitos de tuas manadas, e de tuas gados, para que aprendas a temer ao SENHOR teu Deus todos os dias.
 \v Dt.14.24
 E se o caminho for tão longo que tu não possas levá-lo por ele, por estar longe de ti o lugar que o SENHOR teu Deus houver escolhido para pôr nele seu nome, quando o SENHOR teu Deus te abençoar,
 \v Dt.14.25
@@ -930,7 +971,8 @@ Somente que não comas seu sangue: sobre a terra a derramarás como água.
 \v Dt.16.1
 Guardarás o mês de Abibe, e farás páscoa ao SENHOR teu Deus: porque no mês de Abibe te tirou o SENHOR teu Deus do Egito de noite.
 \v Dt.16.2
-E sacrificarás a páscoa ao SENHOR teu Deus, das ovelhas e das vacas, no lugar que o SENHOR escolher para fazer habitar ali seu nome.
+{rp|n4}E sacrificarás a páscoa ao SENHOR teu Deus, das ovelhas e das vacas, no lugar que o SENHOR escolher para fazer habitar ali seu nome.
+{tr}E sacrificarás a páscoa ao SENHOR teu Deus, das ovelhas e das vacas, no lugar que o SENHOR escolher para fazer habitar ali Seu nome.
 \v Dt.16.3
 Não comerás com ela levedado; sete dias comerás com ela pão sem levedar, pão de aflição, porque apressadamente saíste da terra do Egito: para que te lembres do dia em que saíste da terra do Egito todos os dias de tua vida.
 \v Dt.16.4
@@ -938,7 +980,8 @@ E não se deixará ver levedura contigo em todo teu termo por sete dias; e da ca
 \v Dt.16.5
 Não poderás sacrificar a páscoa em nenhuma de tuas cidades, que o SENHOR teu Deus te dá;
 \v Dt.16.6
-Mas sim no lugar que o SENHOR teu Deus escolher para fazer habitar ali seu nome, sacrificarás a páscoa pela tarde ao pôr do sol, ao tempo que saíste do Egito:
+{rp|n4}Mas sim no lugar que o SENHOR teu Deus escolher para fazer habitar ali seu nome, sacrificarás a páscoa pela tarde ao pôr do sol, ao tempo que saíste do Egito:
+{tr}Mas sim no lugar que o SENHOR teu Deus escolher para fazer habitar ali Seu nome, sacrificarás a páscoa pela tarde ao pôr do sol, ao tempo que saíste do Egito:
 \v Dt.16.7
 E a assarás e comerás no lugar que o SENHOR teu Deus houver escolhido; e pela manhã te voltarás e irás à tua morada.
 \v Dt.16.8
@@ -948,7 +991,8 @@ Sete semanas te contarás: desde que começar a foice nas plantações de grãos
 \v Dt.16.10
 E farás a solenidade das semanas ao SENHOR teu Deus: da suficiência voluntária de tua mão será o que deres, segundo o SENHOR teu Deus te houver abençoado.
 \v Dt.16.11
-E te alegrarás diante do SENHOR teu Deus, tu, e teu filho, e tua filha, e teu servo, e tua serva, e o levita que estiver em tuas cidades, e o estrangeiro, e o órfão, e a viúva, que estiverem em meio de ti, no lugar que o SENHOR teu Deus houver escolhido para fazer habitar ali o seu nome.
+{rp|n4}E te alegrarás diante do SENHOR teu Deus, tu, e teu filho, e tua filha, e teu servo, e tua serva, e o levita que estiver em tuas cidades, e o estrangeiro, e o órfão, e a viúva, que estiverem em meio de ti, no lugar que o SENHOR teu Deus houver escolhido para fazer habitar ali o seu nome.
+{tr}E te alegrarás diante do SENHOR teu Deus, tu, e teu filho, e tua filha, e teu servo, e tua serva, e o levita que estiver em tuas cidades, e o estrangeiro, e o órfão, e a viúva, que estiverem em meio de ti, no lugar que o SENHOR teu Deus houver escolhido para fazer habitar ali o Seu nome.
 \v Dt.16.12
 E lembra-te que foste servo no Egito; portanto guardarás e cumprirás estes estatutos.
 \v Dt.16.13
@@ -958,7 +1002,8 @@ E te alegrarás em tuas solenidades, tu, e teu filho, e tua filha, e teu servo, 
 \v Dt.16.15
 Sete dias celebrarás solenidade ao SENHOR teu Deus no lugar que o SENHOR escolher; porque te haverá abençoado o SENHOR teu Deus em todos os teus frutos, e em toda obra de tuas mãos, e estarás certamente alegre.
 \v Dt.16.16
-Três vezes cada ano comparecerá todo homem teu diante do SENHOR teu Deus no lugar que ele escolher: na solenidade dos pães ázimos, e na solenidade das semanas, e na solenidade das cabanas. E não comparecerá vazio diante do SENHOR:
+{rp|n4}Três vezes cada ano comparecerá todo homem teu diante do SENHOR teu Deus no lugar que ele escolher: na solenidade dos pães ázimos, e na solenidade das semanas, e na solenidade das cabanas. E não comparecerá vazio diante do SENHOR:
+{tr}Três vezes cada ano comparecerá todo homem teu diante do SENHOR teu Deus no lugar que Ele escolher: na solenidade dos pães ázimos, e na solenidade das semanas, e na solenidade das cabanas. E não comparecerá vazio diante do SENHOR:
 \v Dt.16.17
 Cada um com a doação de sua mão, conforme a bênção do SENHOR teu Deus, que te houver dado.
 \v Dt.16.18
@@ -974,7 +1019,8 @@ Nem levantarás para ti coluna sagrada de pedra, a qual o SENHOR, teu Deus, odei
 \v Dt.17.1
 Não sacrificarás ao SENHOR teu Deus boi, ou cordeiro, no qual haja falta ou alguma coisa má: porque é abominação ao SENHOR teu Deus.
 \v Dt.17.2
-Quando se achar entre ti, em alguma de tuas cidades que o SENHOR teu Deus te dá, homem, ou mulher, que tenha feito mal aos olhos do SENHOR teu Deus transgredido seu pacto,
+{rp|n4}Quando se achar entre ti, em alguma de tuas cidades que o SENHOR teu Deus te dá, homem, ou mulher, que tenha feito mal aos olhos do SENHOR teu Deus transgredido seu pacto,
+{tr}Quando se achar entre ti, em alguma de tuas cidades que o SENHOR teu Deus te dá, homem, ou mulher, que tenha feito mal aos olhos do SENHOR teu Deus transgredido Seu pacto,
 \v Dt.17.3
 Que houver ido e servido a deuses alheios, e se houver inclinado a eles, ora ao sol, ou à lua, ou a todo o exército do céu, o qual eu não mandei;
 \v Dt.17.4
@@ -1012,7 +1058,8 @@ E o terá consigo, e lerá nele todos os dias de sua vida, para que aprenda a te
 \v Dt.17.20
 Para que não se eleve seu coração sobre seus irmãos, nem se desvie do mandamento à direita nem à esquerda; a fim que prolongue seus dias em seu reino, ele e seus filhos, em meio de Israel.
 \v Dt.18.1
-Os sacerdotes levitas, toda a tribo de Levi, não terão parte nem herança com Israel; das ofertas acendidas ao SENHOR, e da herança dele comerão.
+{rp|n4}Os sacerdotes levitas, toda a tribo de Levi, não terão parte nem herança com Israel; das ofertas acendidas ao SENHOR, e da herança dele comerão.
+{tr}Os sacerdotes levitas, toda a tribo de Levi, não terão parte nem herança com Israel; das ofertas acendidas ao SENHOR, e da herança dEle comerão.
 \v Dt.18.2
 Não terão, pois, herança entre seus irmãos: o SENHOR é a sua herança, como ele lhes disse.
 \v Dt.18.3
@@ -1040,18 +1087,22 @@ Serás íntegro com o SENHOR teu Deus.
 \v Dt.18.14
 Pois essas nações que herdarás ouviam encantadores e feiticeiros. A ti, porém, o SENHOR teu Deus não te permitiu isso.
 \v Dt.18.15
-O SENHOR teu Deus suscitará para ti um Profeta do meio de ti, de teus irmãos, como eu; a ele deverás ouvir.
+{rp|n4}O SENHOR teu Deus suscitará para ti um Profeta do meio de ti, de teus irmãos, como eu; a ele deverás ouvir.
+{tr}O SENHOR teu Deus suscitará para ti um Profeta do meio de ti, de teus irmãos, como eu; a Ele deverás ouvir.
 \v Dt.18.16
 Conforme tudo o que pediste ao SENHOR teu Deus em Horebe no dia da assembleia, dizendo: Não volte eu a ouvir a voz do 
 SENHOR meu Deus, nem veja eu mais este grande fogo, para que não morra;
 \v Dt.18.17
 e o SENHOR me disse: Bem disseram.
 \v Dt.18.18
-Profeta lhes suscitarei do meio de seus irmãos, como tu; e porei minhas palavras em sua boca, e ele lhes falará tudo o que eu lhe mandar.
+{rp|n4}Profeta lhes suscitarei do meio de seus irmãos, como tu; e porei minhas palavras em sua boca, e ele lhes falará tudo o que eu lhe mandar.
+{tr}Profeta lhes suscitarei do meio de seus irmãos, como tu; e porei Minhas palavras em sua boca, e ele lhes falará tudo o que eu lhe mandar.
 \v Dt.18.19
-Mas será, que qualquer um que não ouvir minhas palavras que ele falar em meu nome, eu lhe exigirei prestar contas.
+{rp|n4}Mas será, que qualquer um que não ouvir minhas palavras que ele falar em meu nome, eu lhe exigirei prestar contas.
+{tr}Mas será, que qualquer um que não ouvir Minhas palavras que ele falar em Meu nome, eu lhe exigirei prestar contas.
 \v Dt.18.20
-Porém o profeta que presumir falar palavra em meu nome, que eu não lhe tenha mandado falar, ou que falar em nome de deuses alheios, o tal profeta morrerá.
+{rp|n4}Porém o profeta que presumir falar palavra em meu nome, que eu não lhe tenha mandado falar, ou que falar em nome de deuses alheios, o tal profeta morrerá.
+{tr}Porém o profeta que presumir falar palavra em Meu nome, que eu não lhe tenha mandado falar, ou que falar em nome de deuses alheios, o tal profeta morrerá.
 \v Dt.18.21
 E se disseres em teu coração: Como conheceremos a palavra que o SENHOR não houver falado?
 \v Dt.18.22
@@ -1073,7 +1124,8 @@ Portanto eu te mando, dizendo: Três cidades separarás.
 \v Dt.19.8
 E se o SENHOR teu Deus alargar teu termo, como o jurou a teus pais, e te der toda a terra que disse a teus pais que havia de dar;
 \v Dt.19.9
-Quando guardasses todos estes mandamentos, que eu te prescrevo hoje, para praticá-los, que ames ao SENHOR teu Deus e andes em seus caminhos todos os dias, então acrescentarás três cidades a mais destas três;
+{rp|n4}Quando guardasses todos estes mandamentos, que eu te prescrevo hoje, para praticá-los, que ames ao SENHOR teu Deus e andes em seus caminhos todos os dias, então acrescentarás três cidades a mais destas três;
+{tr}Quando guardasses todos estes mandamentos, que eu te prescrevo hoje, para praticá-los, que ames ao SENHOR teu Deus e andes em Seus caminhos todos os dias, então acrescentarás três cidades a mais destas três;
 \v Dt.19.10
 Para que não seja derramado sangue inocente em meio de tua terra, que o SENHOR teu Deus te dá por herança, e seja sobre ti sangue.
 \v Dt.19.11
@@ -1147,13 +1199,15 @@ E será que os anciãos daquela cidade, da cidade mais próxima ao morto, tomar�
 \v Dt.21.4
 E os anciãos daquela cidade trarão a bezerra a um vale por onde fluam águas, que nunca tenha sido arado nem semeado, e cortarão o pescoço à bezerra ali no vale.
 \v Dt.21.5
-Então virão os sacerdotes filhos de Levi, porque o SENHOR, teu Deus, os escolheu para que o sirvam, e para abençoar em nome do SENHOR; e pelo dito deles se determinará toda disputa judicial e toda violência física.
+{rp|n4}Então virão os sacerdotes filhos de Levi, porque o SENHOR, teu Deus, os escolheu para que o sirvam, e para abençoar em nome do SENHOR; e pelo dito deles se determinará toda disputa judicial e toda violência física.
+{tr}Então virão os sacerdotes filhos de Levi, porque o SENHOR, teu Deus, os escolheu para que O sirvam, e para abençoar em nome do SENHOR; e pelo dito deles se determinará toda disputa judicial e toda violência física.
 \v Dt.21.6
 E todos os anciãos daquela cidade mais próxima ao morto lavarão suas mãos sobre a bezerra degolada no vale.
 \v Dt.21.7
 E protestarão, e dirão: Nossas mãos não derramaram este sangue, nem nossos olhos o viram.
 \v Dt.21.8
-Expia a teu povo Israel, ao qual redimiste, ó SENHOR; e não imputes o sangue inocente derramado em meio de teu povo Israel. E o sangue lhes será perdoado.
+{rp|n4}Expia a teu povo Israel, ao qual redimiste, ó SENHOR; e não imputes o sangue inocente derramado em meio de teu povo Israel. E o sangue lhes será perdoado.
+{tr}Expia a Teu povo Israel, ao qual redimiste, ó SENHOR; e não imputes o sangue inocente derramado em meio de Teu povo Israel. E o sangue lhes será perdoado.
 \v Dt.21.9
 E tu tirarás a culpa de sangue inocente do meio de ti, quando fizeres o que é correto aos olhos do SENHOR.
 \v Dt.21.10
@@ -1271,7 +1325,8 @@ E terás um lugar fora do acampamento, e sairás ali fora;
 \v Dt.23.13
 Terás também uma estaca entre tuas armas; e será que, quando estiveres ali fora, cavarás com ela, e logo ao voltar cobrirás teu excremento:
 \v Dt.23.14
-Porque o SENHOR teu Deus anda por meio de teu acampamento, para livrar-te e entregar teus inimigos diante de ti; portanto será teu acampamento santo: para que ele não veja em ti coisa imunda, e se volte de trás de ti.
+{rp|n4}Porque o SENHOR teu Deus anda por meio de teu acampamento, para livrar-te e entregar teus inimigos diante de ti; portanto será teu acampamento santo: para que ele não veja em ti coisa imunda, e se volte de trás de ti.
+{tr}Porque o SENHOR teu Deus anda por meio de teu acampamento, para livrar-te e entregar teus inimigos diante de ti; portanto será teu acampamento santo: para que Ele não veja em ti coisa imunda, e se volte de trás de ti.
 \v Dt.23.15
 Não entregarás a seu senhor o servo que se fugir a ti de seu amo:
 \v Dt.23.16
@@ -1379,7 +1434,8 @@ Será, pois, quando o SENHOR teu Deus te houver dado repouso de teus inimigos ao
 \v Dt.26.1
 E será que, quando houveres entrado na terra que o SENHOR teu Deus te dá por herança, e a possuíres, e habitares nela;
 \v Dt.26.2
-Então tomarás das primícias de todos os frutos da terra, que tirares de tua terra que o SENHOR teu Deus te dá, e o porás em um cesto, e irás ao lugar que o SENHOR teu Deus escolher para fazer habitar ali seu nome.
+{rp|n4}Então tomarás das primícias de todos os frutos da terra, que tirares de tua terra que o SENHOR teu Deus te dá, e o porás em um cesto, e irás ao lugar que o SENHOR teu Deus escolher para fazer habitar ali seu nome.
+{tr}Então tomarás das primícias de todos os frutos da terra, que tirares de tua terra que o SENHOR teu Deus te dá, e o porás em um cesto, e irás ao lugar que o SENHOR teu Deus escolher para fazer habitar ali Seu nome.
 \v Dt.26.3
 E chegarás ao sacerdote que for naqueles dias, e lhe dirás: Reconheço hoje ao SENHOR teu Deus que ei entrado na terra que jurou o SENHOR a nossos pais que nos havia de dar.
 \v Dt.26.4
@@ -1405,15 +1461,18 @@ E dirás diante do SENHOR teu Deus: Eu tirei o consagrado de minha casa, e tamb�
 \v Dt.26.14
 Não comi disso em meu luto, nem tirei disso em impureza, nem disso dei para o morto: obedeci à voz do SENHOR meu Deus, fiz conforme tudo o que me mandaste.
 \v Dt.26.15
-Olha desde a morada de tua santidade, desde o céu, e abençoa a teu povo Israel, e à terra que nos deste, como juraste a nossos pais, terra que flui leite e mel.
+{rp|n4}Olha desde a morada de tua santidade, desde o céu, e abençoa a teu povo Israel, e à terra que nos deste, como juraste a nossos pais, terra que flui leite e mel.
+{tr}Olha desde a morada de Tua santidade, desde o céu, e abençoa a Teu povo Israel, e à terra que nos deste, como juraste a nossos pais, terra que flui leite e mel.
 \v Dt.26.16
 O SENHOR teu Deus te manda hoje que cumpras estes estatutos e regulamentos; cuida, pois, de praticá-los com todo teu coração, e com toda tua alma.
 \v Dt.26.17
-Ao SENHOR exaltou hoje para que te seja por Deus, e para andar em seus caminhos, e para guardar seus estatutos e seus mandamentos e seus regulamentos, e para ouvir sua voz:
+{rp|n4}Ao SENHOR exaltou hoje para que te seja por Deus, e para andar em seus caminhos, e para guardar seus estatutos e seus mandamentos e seus regulamentos, e para ouvir sua voz:
+{tr}Ao SENHOR exaltou hoje para que te seja por Deus, e para andar em Seus caminhos, e para guardar Seus estatutos e Seus mandamentos e Seus regulamentos, e para ouvir Sua voz:
 \v Dt.26.18
 E o SENHOR te exaltou hoje para que lhe sejas seu privativo povo, como ele te disse, e para que guardes todos os seus mandamentos;
 \v Dt.26.19
-E para te pôr alto sobre todas as nações que fez, para louvor, e fama, e glória; e para que sejas povo santo ao SENHOR teu Deus, como ele disse.
+{rp|n4}E para te pôr alto sobre todas as nações que fez, para louvor, e fama, e glória; e para que sejas povo santo ao SENHOR teu Deus, como ele disse.
+{tr}E para te pôr alto sobre todas as nações que fez, para louvor, e fama, e glória; e para que sejas povo santo ao SENHOR teu Deus, como Ele disse.
 \v Dt.27.1
 E mandou Moisés, com os anciãos de Israel, ao povo, dizendo: Guardareis todos os mandamentos que eu prescrevo hoje.
 \v Dt.27.2
@@ -1433,7 +1492,8 @@ E escreverás nas pedras todas as palavras desta lei muito claramente.
 \v Dt.27.9
 E Moisés, com os sacerdotes levitas, falou a todo Israel, dizendo: Atende e escuta, Israel: hoje és feito povo do SENHOR teu Deus.
 \v Dt.27.10
-Ouvirás, pois, a voz do SENHOR teu Deus, e cumprirás seus mandamentos e seus estatutos, que eu te ordeno hoje.
+{rp|n4}Ouvirás, pois, a voz do SENHOR teu Deus, e cumprirás seus mandamentos e seus estatutos, que eu te ordeno hoje.
+{tr}Ouvirás, pois, a voz do SENHOR teu Deus, e cumprirás Seus mandamentos e Seus estatutos, que eu te ordeno hoje.
 \v Dt.27.11
 E mandou Moisés ao povo naquele dia, dizendo:
 \v Dt.27.12
@@ -1467,7 +1527,8 @@ Maldito o que receber um presente para ferir de morte ao inocente. E dirá todo 
 \v Dt.27.26
 Maldito o que não confirmar as palavras desta lei para as cumprir. E dirá todo o povo: Amém.
 \v Dt.28.1
-E será que, se ouvires com empenho a voz do SENHOR teu Deus, para ter o cuidado de praticar todos os seus 
+{rp|n4}E será que, se ouvires com empenho a voz do SENHOR teu Deus, para ter o cuidado de praticar todos os seus 
+{tr}E será que, se ouvires com empenho a voz do SENHOR teu Deus, para ter o cuidado de praticar todos os Seus 
 mandamentos que eu te ordeno hoje, o SENHOR, teu Deus, te levantará acima de todas as nações da terra;
 \v Dt.28.2
 e todas estas bênçãos virão sobre ti, e te alcançarão, quando ouvires a voz do SENHOR teu Deus:
@@ -1486,8 +1547,10 @@ sairão contra ti, mas por sete caminhos fugirão diante de ti.
 O SENHOR enviará sobre ti a bênção nos teus celeiros, e em tudo onde puseres a tua mão; e te abençoará na terra 
 que o SENHOR, teu Deus, te dá.
 \v Dt.28.9
-O SENHOR te confirmará como povo santo a si mesmo, como te jurou, quando guardares os mandamentos do SENHOR, teu Deus, 
-e andares nos seus caminhos.
+{rp|n4}O SENHOR te confirmará como povo santo a si mesmo, como te jurou, quando guardares os mandamentos do SENHOR, teu Deus, 
+{tr}O SENHOR te confirmará como povo santo a Si mesmo, como te jurou, quando guardares os mandamentos do SENHOR, teu Deus, 
+{rp|n4}e andares nos seus caminhos.
+{tr}e andares nos Seus caminhos.
 \v Dt.28.10
 E todos os povos da terra verão que o nome do SENHOR é chamado sobre ti, e te temerão.
 \v Dt.28.11
@@ -1503,8 +1566,10 @@ do SENHOR, teu Deus, que eu te ordeno hoje, para os guardar e praticar.
 Não te desvies de todas as palavras que eu vos mando hoje, nem para a direita nem para a esquerda, para seguires 
 outros deuses, a fim de os servires.
 \v Dt.28.15
-Será, porém, que se não deres ouvidos à voz do SENHOR teu Deus, para teres o cuidado de praticar todos os seus 
-mandamentos e seus estatutos, que eu te ordeno hoje, então virão sobre ti todas estas maldições, e te alcançarão:
+{rp|n4}Será, porém, que se não deres ouvidos à voz do SENHOR teu Deus, para teres o cuidado de praticar todos os seus 
+{tr}Será, porém, que se não deres ouvidos à voz do SENHOR teu Deus, para teres o cuidado de praticar todos os Seus 
+{rp|n4}mandamentos e seus estatutos, que eu te ordeno hoje, então virão sobre ti todas estas maldições, e te alcançarão:
+{tr}mandamentos e Seus estatutos, que eu te ordeno hoje, então virão sobre ti todas estas maldições, e te alcançarão:
 \v Dt.28.16
 Maldito serás tu na cidade, e maldito serás no campo.
 \v Dt.28.17
@@ -1519,7 +1584,8 @@ E o SENHOR enviará contra ti a maldição, a perturbação, e a ameaça
 Trad. alt. frustração
 \*fn
  em tudo onde puseres a tua mão para fazer, até que sejas destruído, e até que pereças repentinamente, por causa 
-da maldade das tuas obras, com as quais me abandonaste.
+{rp|n4}da maldade das tuas obras, com as quais me abandonaste.
+{tr}da maldade das tuas obras, com as quais Me abandonaste.
 \v Dt.28.21
 O SENHOR fará a pestilência se apegar a ti, até que te consuma da terra à qual entras a possuir.
 \v Dt.28.22
@@ -1600,7 +1666,8 @@ E serão sobre ti por sinal e por maravilha, e sobre a tua descendência para se
 Porque não serviste ao SENHOR, teu Deus com alegria e com alegria de coração, pela abundância de todas as coisas;
 \v Dt.28.48
 assim servirás aos teus inimigos que o SENHOR enviar contra ti, com fome, com sede, com nudez, e com falta de 
-tudo; e ele porá um jugo de ferro sobre o teu pescoço, até te destruir.
+{rp|n4}tudo; e ele porá um jugo de ferro sobre o teu pescoço, até te destruir.
+{tr}tudo; e Ele porá um jugo de ferro sobre o teu pescoço, até te destruir.
 \v Dt.28.49
 O SENHOR trará contra ti uma nação de longe, da extremidade da terra, que voa como águia, uma nação cuja língua 
 não entenderás;
@@ -1701,9 +1768,11 @@ Vós todos estais hoje diante do SENHOR vosso Deus; vossos príncipes de vossas 
 \v Dt.29.11
 Vossas crianças, vossas mulheres, e teus estrangeiros que habitam em meio de teu campo, desde o que corta tua lenha até o que tira tuas águas:
 \v Dt.29.12
-Para que entres no pacto do SENHOR teu Deus, e em seu juramento, que o SENHOR teu Deus estabelece hoje contigo:
+{rp|n4}Para que entres no pacto do SENHOR teu Deus, e em seu juramento, que o SENHOR teu Deus estabelece hoje contigo:
+{tr}Para que entres no pacto do SENHOR teu Deus, e em Seu juramento, que o SENHOR teu Deus estabelece hoje contigo:
 \v Dt.29.13
-Para te confirmar hoje por seu povo, e que ele seja a ti por Deus, da maneira que ele te disse, e como ele jurou a teus pais Abraão, Isaque, e Jacó.
+{rp|n4}Para te confirmar hoje por seu povo, e que ele seja a ti por Deus, da maneira que ele te disse, e como ele jurou a teus pais Abraão, Isaque, e Jacó.
+{tr}Para te confirmar hoje por Seu povo, e que Ele seja a ti por Deus, da maneira que Ele te disse, e como Ele jurou a teus pais Abraão, Isaque, e Jacó.
 \v Dt.29.14
 E não somente convosco estabeleço eu este pacto e este juramento,
 \v Dt.29.15
@@ -1740,7 +1809,8 @@ As coisas secretas pertencem ao SENHOR nosso Deus: mas as reveladas são para n�
 \v Dt.30.1
 E será que, quando te sobrevierem todas estas coisas, a bênção e a maldição que pus diante de ti, e te conscientizares em teu coração em meio de todas as nações às quais o SENHOR teu Deus te houver expulsado,
 \v Dt.30.2
-E te converteres ao SENHOR teu Deus, e obedeceres à sua voz conforme tudo o que eu te mando hoje, tu e teus filhos, com todo teu coração e com toda tua alma,
+{rp|n4}E te converteres ao SENHOR teu Deus, e obedeceres à sua voz conforme tudo o que eu te mando hoje, tu e teus filhos, com todo teu coração e com toda tua alma,
+{tr}E te converteres ao SENHOR teu Deus, e obedeceres à Sua voz conforme tudo o que eu te mando hoje, tu e teus filhos, com todo teu coração e com toda tua alma,
 \v Dt.30.3
 O SENHOR te restaurará de teu infortúnio, terá misericórdia de ti, e voltará a recolher-te de todos os povos aos quais o SENHOR, teu Deus, te houver disperso.
 \v Dt.30.4
@@ -1752,11 +1822,13 @@ E circuncidará o SENHOR teu Deus teu coração, e o coração de tua descendên
 \v Dt.30.7
 E porá o SENHOR teu Deus todas estas maldições sobre teus inimigos, e sobre teus aborrecedores que te perseguiram.
 \v Dt.30.8
-E tu voltarás, e ouvirás a voz do SENHOR, e porás por obra todos os seus mandamentos, que eu te intimo hoje.
+{rp|n4}E tu voltarás, e ouvirás a voz do SENHOR, e porás por obra todos os seus mandamentos, que eu te intimo hoje.
+{tr}E tu voltarás, e ouvirás a voz do SENHOR, e porás por obra todos os Seus mandamentos, que eu te intimo hoje.
 \v Dt.30.9
 E te fará o SENHOR teu Deus abundar em toda obra de tuas mãos, no fruto de teu ventre, no fruto de teu animal, e no fruto de tua terra, para o bem: porque o SENHOR voltará a se alegrar sobre ti para o bem, da maneira que se alegrou sobre teus pais;
 \v Dt.30.10
-Quando ouvires a voz do SENHOR teu Deus, para guardar seus mandamentos e seus estatutos escritos neste livro da lei; quando te converteres ao SENHOR teu Deus com todo teu coração e com toda tua alma.
+{rp|n4}Quando ouvires a voz do SENHOR teu Deus, para guardar seus mandamentos e seus estatutos escritos neste livro da lei; quando te converteres ao SENHOR teu Deus com todo teu coração e com toda tua alma.
+{tr}Quando ouvires a voz do SENHOR teu Deus, para guardar Seus mandamentos e Seus estatutos escritos neste livro da lei; quando te converteres ao SENHOR teu Deus com todo teu coração e com toda tua alma.
 \v Dt.30.11
 Porque este mandamento que eu te intimo hoje, não te é encoberto, nem está longe:
 \v Dt.30.12
@@ -1768,7 +1840,8 @@ Porque muito próxima de ti está a palavra, em tua boca e em teu coração, par
 \v Dt.30.15
 Olha, eu pus diante de ti hoje a vida e o bem, a morte e o mal:
 \v Dt.30.16
-Porque eu te mando hoje que ames ao SENHOR teu Deus, que andes em seus caminhos, e guardes seus mandamentos e seus estatutos e seus regulamentos, para que vivas e sejas multiplicado, e o SENHOR teu Deus te abençoe na terra à qual entras para possuí-la.
+{rp|n4}Porque eu te mando hoje que ames ao SENHOR teu Deus, que andes em seus caminhos, e guardes seus mandamentos e seus estatutos e seus regulamentos, para que vivas e sejas multiplicado, e o SENHOR teu Deus te abençoe na terra à qual entras para possuí-la.
+{tr}Porque eu te mando hoje que ames ao SENHOR teu Deus, que andes em Seus caminhos, e guardes Seus mandamentos e Seus estatutos e Seus regulamentos, para que vivas e sejas multiplicado, e o SENHOR teu Deus te abençoe na terra à qual entras para possuí-la.
 \v Dt.30.17
 Mas se teu coração se desviar, e não ouvires, e fores incitado, e te inclinares a deuses alheios, e os servires;
 \v Dt.30.18
@@ -1776,7 +1849,8 @@ Declaro-vos hoje que certamente perecereis: não tereis longos dias sobre a terr
 \v Dt.30.19
 Aos céus e a terra chamo por testemunhas hoje contra vós, que pus diante de vós a vida e a morte, a bênção e a maldição: escolhe, pois, a vida, para que vivas tu e tua descendência:
 \v Dt.30.20
-Que ames ao SENHOR teu Deus, que ouças sua voz, e te achegues a ele; porque ele é tua vida, e o comprimento de teus dias; a fim de que habites sobre a terra que jurou o SENHOR a teus pais Abraão, Isaque, e Jacó, que lhes havia de dar.
+{rp|n4}Que ames ao SENHOR teu Deus, que ouças sua voz, e te achegues a ele; porque ele é tua vida, e o comprimento de teus dias; a fim de que habites sobre a terra que jurou o SENHOR a teus pais Abraão, Isaque, e Jacó, que lhes havia de dar.
+{tr}Que ames ao SENHOR teu Deus, que ouças Sua voz, e te achegues a Ele; porque Ele é tua vida, e o comprimento de teus dias; a fim de que habites sobre a terra que jurou o SENHOR a teus pais Abraão, Isaque, e Jacó, que lhes havia de dar.
 \v Dt.31.1
 E foi Moisés, e falou estas palavras a todo Israel,
 \v Dt.31.2
@@ -1800,7 +1874,8 @@ E escreveu Moisés esta lei, e deu-a aos sacerdotes, filhos de Levi, que levavam
 \v Dt.31.10
 E mandou-lhes Moisés, dizendo: Ao fim do sétimo ano, no ano da remissão, na festa das cabanas,
 \v Dt.31.11
-Quando vier todo Israel a apresentar-se diante do SENHOR teu Deus no lugar que ele escolher, lerás esta lei diante de todo Israel aos ouvidos deles.
+{rp|n4}Quando vier todo Israel a apresentar-se diante do SENHOR teu Deus no lugar que ele escolher, lerás esta lei diante de todo Israel aos ouvidos deles.
+{tr}Quando vier todo Israel a apresentar-se diante do SENHOR teu Deus no lugar que Ele escolher, lerás esta lei diante de todo Israel aos ouvidos deles.
 \v Dt.31.12
 Farás congregar o povo, homens e mulheres e crianças, e teus estrangeiros que estiverem em tuas cidades, para que ouçam e aprendam, e temam ao SENHOR vosso Deus, e cuidem de praticar todas as palavras desta lei:
 \v Dt.31.13
@@ -1810,15 +1885,19 @@ E o SENHOR disse a Moisés: Eis que se aproximam teus dias para que morras: cham
 \v Dt.31.15
 E apareceu-se o SENHOR no tabernáculo, na coluna de nuvem; e a coluna de nuvem se pôs sobre a porta do tabernáculo.
 \v Dt.31.16
-E o SENHOR disse a Moisés: Eis que tu vais descansar com teus pais, e este povo se levantará e se prostituirá atrás dos deuses alheios da terra aonde vai, em estando em meio dela; e me deixará, e invalidará meu pacto que estabeleci com ele:
+{rp|n4}E o SENHOR disse a Moisés: Eis que tu vais descansar com teus pais, e este povo se levantará e se prostituirá atrás dos deuses alheios da terra aonde vai, em estando em meio dela; e me deixará, e invalidará meu pacto que estabeleci com ele:
+{tr}E o SENHOR disse a Moisés: Eis que tu vais descansar com teus pais, e este povo se levantará e se prostituirá atrás dos deuses alheios da terra aonde vai, em estando em meio dela; e Me deixará, e invalidará Meu pacto que estabeleci com ele:
 \v Dt.31.17
 E meu furor se acenderá contra ele naquele dia; e os abandonarei, e esconderei deles meu rosto, e serão consumidos; e o acharão muitos males e angústias, e dirá naquele dia: Não me acharam estes males porque não está meu Deus em meio de mim?
 \v Dt.31.18
-Porém eu esconderei certamente meu rosto naquele dia, por todo o mal que eles houverem feito, por haver-se voltado a deuses alheios.
+{rp|n4}Porém eu esconderei certamente meu rosto naquele dia, por todo o mal que eles houverem feito, por haver-se voltado a deuses alheios.
+{tr}Porém eu esconderei certamente Meu rosto naquele dia, por todo o mal que eles houverem feito, por haver-se voltado a deuses alheios.
 \v Dt.31.19
-Agora, pois, escrevei-vos este cântico, e ensina-o aos filhos de Israel: põe-o em boca deles, para que este cântico me seja por testemunha contra os filhos de Israel.
+{rp|n4}Agora, pois, escrevei-vos este cântico, e ensina-o aos filhos de Israel: põe-o em boca deles, para que este cântico me seja por testemunha contra os filhos de Israel.
+{tr}Agora, pois, escrevei-vos este cântico, e ensina-o aos filhos de Israel: põe-o em boca deles, para que este cântico Me seja por testemunha contra os filhos de Israel.
 \v Dt.31.20
-Porque eu lhe introduzirei na terra que jurei a seus pais, a qual flui leite e mel; e comerá, e se fartará, e se engordará: e se voltarão a deuses alheios, e lhes servirão, e me provocarão à ira, e invalidarão meu pacto.
+{rp|n4}Porque eu lhe introduzirei na terra que jurei a seus pais, a qual flui leite e mel; e comerá, e se fartará, e se engordará: e se voltarão a deuses alheios, e lhes servirão, e me provocarão à ira, e invalidarão meu pacto.
+{tr}Porque eu lhe introduzirei na terra que jurei a seus pais, a qual flui leite e mel; e comerá, e se fartará, e se engordará: e se voltarão a deuses alheios, e lhes servirão, e Me provocarão à ira, e invalidarão Meu pacto.
 \v Dt.31.21
 E será que quando lhe vierem muitos males e angústias, então responderá em sua face este cântico como testemunha, pois não cairá em esquecimento da boca de sua linhagem: porque eu conheço seu intento, e o que faz hoje antes que lhe introduza na terra que jurei.
 \v Dt.31.22
@@ -1836,7 +1915,8 @@ Porque eu conheço tua rebelião, e tua dura cerviz: eis que ainda vivendo eu ho
 \v Dt.31.28
 Congregai a mim todos os anciãos de vossas tribos, e a vossos oficiais, e falarei em seus ouvidos estas palavras, e chamarei por testemunhas contra eles os céus e a terra.
 \v Dt.31.29
-Porque eu sei que depois de minha morte, certamente vos corrompereis e vos desviareis do caminho que vos mandei; e que vos há de vir mal nos últimos dias, por haver feito mal aos olhos do SENHOR, provocando-lhe à ira com a obra de vossas mãos.
+{rp|n4}Porque eu sei que depois de minha morte, certamente vos corrompereis e vos desviareis do caminho que vos mandei; e que vos há de vir mal nos últimos dias, por haver feito mal aos olhos do SENHOR, provocando-lhe à ira com a obra de vossas mãos.
+{tr}Porque eu sei que depois de minha morte, certamente vos corrompereis e vos desviareis do caminho que vos mandei; e que vos há de vir mal nos últimos dias, por haver feito mal aos olhos do SENHOR, provocando-Lhe à ira com a obra de vossas mãos.
 \v Dt.31.30
 Então falou Moisés aos ouvidos de toda a congregação de Israel as palavras deste cântico até acabá-lo.
 \v Dt.32.1
@@ -1873,7 +1953,8 @@ pergunta
 Quando o Altíssimo deu heranças às nações, quando separou os filhos dos homens, estabeleceu os limites dos povos 
 conforme o número dos filhos de Israel.
 \v Dt.32.9
-Porque a porção do SENHOR é o seu povo; Jacó é a parte de sua herança.
+{rp|n4}Porque a porção do SENHOR é o seu povo; Jacó é a parte de sua herança.
+{tr}Porque a porção do SENHOR é o Seu povo; Jacó é a parte de Sua herança.
 \v Dt.32.10
 Ele o achou na terra de deserto, em um ermo solitário e cheio de uivos; ele o rodeou, instruiu-o, guardou-o como 
 a menina do seu olho.
@@ -1895,11 +1976,13 @@ de gordura
 \*added
  te cobriste; e deixou ao Deus que o fez, e desprezou a Rocha da sua salvação.
 \v Dt.32.16
-Provocaram-lhe ciúmes com 
+{rp|n4}Provocaram-lhe ciúmes com 
+{tr}Provocaram-Lhe ciúmes com 
 \added
 deuses
 \*added
- estranhos; irritaram-no com abominações.
+{rp|n4} estranhos; irritaram-no com abominações.
+{tr} estranhos; irritaram-No com abominações.
 \v Dt.32.17
 Sacrificaram aos demônios, não a Deus; a deuses que não conheciam, a novos 
 \added
@@ -1915,19 +1998,23 @@ Quando SENHOR o viu, desprezou
 \*added
 , por causa da provocação de seus filhos e de suas filhas.
 \v Dt.32.20
-E disse: esconderei deles o meu rosto, verei qual será o seu fim; pois são geração perversa, filhos sem fidelidade.
+{rp|n4}E disse: esconderei deles o meu rosto, verei qual será o seu fim; pois são geração perversa, filhos sem fidelidade.
+{tr}E disse: esconderei deles o Meu rosto, verei qual será o seu fim; pois são geração perversa, filhos sem fidelidade.
 \v Dt.32.21
-Eles me provocaram ciúmes com o que não é Deus; com suas futilidades provocaram-me à ira; eu também lhes provocarei 
+{rp|n4}Eles me provocaram ciúmes com o que não é Deus; com suas futilidades provocaram-me à ira; eu também lhes provocarei 
+{tr}Eles Me provocaram ciúmes com o que não é Deus; com suas futilidades provocaram-Me à ira; eu também lhes provocarei 
 ciúmes com aqueles que não são povo, com uma nação insensata eu os provocarei à ira.
 \v Dt.32.22
-Porque um fogo se acendeu em meu furor, e arderá até as profundezas do Xeol;
+{rp|n4}Porque um fogo se acendeu em meu furor, e arderá até as profundezas do Xeol;
+{tr}Porque um fogo se acendeu em Meu furor, e arderá até as profundezas do Xeol;
 \fn
 Xeol é o lugar dos mortos
 \*fn
  e consumirá a terra e seus 
 frutos, e abrasará os fundamentos dos montes.
 \v Dt.32.23
-Amontoarei desastres sobre eles; gastarei minhas flechas contra eles.
+{rp|n4}Amontoarei desastres sobre eles; gastarei minhas flechas contra eles.
+{tr}Amontoarei desastres sobre eles; gastarei Minhas flechas contra eles.
 \v Dt.32.24
 Serão consumidos de fome, e devorados de febre ardente e de amarga pestilência; enviarei contra eles dentes de feras, 
 com veneno de serpentes do pó da terra.
@@ -1959,12 +2046,14 @@ Porque a vinha deles é da vinha de Sodoma, e dos campos de Gomorra; suas uvas s
 \v Dt.32.33
 Seu vinho é veneno de serpentes, e peçonha cruel de cobras.
 \v Dt.32.34
-Não tenho eu isto guardado comigo, selado em meus tesouros?
+{rp|n4}Não tenho eu isto guardado comigo, selado em meus tesouros?
+{tr}Não tenho eu isto guardado Comigo, selado em Meus tesouros?
 \v Dt.32.35
 Minha é a vingança e a recompensa, quando o pé deles escorregar; porque o dia de sua calamidade está próximo, e as 
 coisas que vão lhes suceder se apressam.
 \v Dt.32.36
-Porque o SENHOR fará justiça ao seu povo, e se compadecerá de seus servos, quando vir que a força deles se foi, e que 
+{rp|n4}Porque o SENHOR fará justiça ao seu povo, e se compadecerá de seus servos, quando vir que a força deles se foi, e que 
+{tr}Porque o SENHOR fará justiça ao Seu povo, e se compadecerá de Seus servos, quando vir que a força deles se foi, e que 
 não resta prisioneiro nem livre.
 \v Dt.32.37
 Então dirá: "Onde estão seus deuses, a rocha em que confiavam;
@@ -1972,22 +2061,30 @@ Então dirá: "Onde estão seus deuses, a rocha em que confiavam;
 que comiam a gordura dos seus sacrifícios, bebiam o vinho de suas ofertas de bebida? Levantem-se, e vos ajudem, que 
 eles sejam o vosso refúgio.
 \v Dt.32.39
-Vede agora que Eu, Eu Sou, e não há deus além de mim; eu trago a morte, e eu faço viver; eu firo, e eu curo; e não há 
-quem possa escapar da minha mão.
+{rp|n4}Vede agora que Eu, Eu Sou, e não há deus além de mim; eu trago a morte, e eu faço viver; eu firo, e eu curo; e não há 
+{tr}Vede agora que Eu, Eu Sou, e não há deus além de Mim; eu trago a morte, e eu faço viver; eu firo, e eu curo; e não há 
+{rp|n4}quem possa escapar da minha mão.
+{tr}quem possa escapar da Minha mão.
 \v Dt.32.40
-Quando eu erguer a minha mão aos céus, e disser: 'Tão certo como eu vivo para sempre',
+{rp|n4}Quando eu erguer a minha mão aos céus, e disser: 'Tão certo como eu vivo para sempre',
+{tr}Quando eu erguer a Minha mão aos céus, e disser: 'Tão certo como eu vivo para sempre',
 \v Dt.32.41
-Se eu afiar a minha espada reluzente, e minha mão agarrar o julgamento, devolverei a vingança sobre os meus 
-adversários, e retribuirei aos que me odeiam.
+{rp|n4}Se eu afiar a minha espada reluzente, e minha mão agarrar o julgamento, devolverei a vingança sobre os meus 
+{tr}Se eu afiar a Minha espada reluzente, e Minha mão agarrar o julgamento, devolverei a vingança sobre os Meus 
+{rp|n4}adversários, e retribuirei aos que me odeiam.
+{tr}adversários, e retribuirei aos que Me odeiam.
 \v Dt.32.42
-Embriagarei as minhas flechas de sangue, e minha espada devorará carne, do sangue dos mortos e dos cativos, das cabeças 
+{rp|n4}Embriagarei as minhas flechas de sangue, e minha espada devorará carne, do sangue dos mortos e dos cativos, das cabeças 
+{tr}Embriagarei as Minhas flechas de sangue, e Minha espada devorará carne, do sangue dos mortos e dos cativos, das cabeças 
 dos líderes inimigos."
 \fn
 Obscuro. Ou: das longas cabeleiras dos inimigos
 \*fn
 \v Dt.32.43
-Jubilai, ó nações, com o povo dele, porque ele vingará o sangue dos seus servos, e devolverá a vingança sobre os seus 
-inimigos, e purificará a sua terra em favor de seu povo.
+{rp|n4}Jubilai, ó nações, com o povo dele, porque ele vingará o sangue dos seus servos, e devolverá a vingança sobre os seus 
+{tr}Jubilai, ó nações, com o povo dEle, porque Ele vingará o sangue dos Seus servos, e devolverá a vingança sobre os Seus 
+{rp|n4}inimigos, e purificará a sua terra em favor de seu povo.
+{tr}inimigos, e purificará a Sua terra em favor de Seu povo.
 \v Dt.32.44
 E Moisés veio, e recitou todas as palavras deste cântico aos ouvidos do povo, ele, e Oseias,
 \fn
@@ -2011,8 +2108,10 @@ que eu dou por herança aos filhos de Israel;
 e morrerás no monte ao qual subirás, e serás reunido aos teus povos; como Arão, teu irmão, morreu no monte de Hor, 
 e foi reunido aos seus povos;
 \v Dt.32.51
-porque transgredistes contra mim no meio dos filhos de Israel, junto às águas de Meribá, em Cades, no deserto de Zim; 
-pois não me santificastes no meio dos filhos de Israel.
+{rp|n4}porque transgredistes contra mim no meio dos filhos de Israel, junto às águas de Meribá, em Cades, no deserto de Zim; 
+{tr}porque transgredistes contra Mim no meio dos filhos de Israel, junto às águas de Meribá, em Cades, no deserto de Zim; 
+{rp|n4}pois não me santificastes no meio dos filhos de Israel.
+{tr}pois não Me santificastes no meio dos filhos de Israel.
 \v Dt.32.52
 Por isso verás a terra diante de ti; porém não entrarás nela, na terra que dou aos filhos de Israel.
 \v Dt.33.1
@@ -2020,7 +2119,8 @@ E esta é a bênção com a qual Moisés, homem de Deus, abençoou aos filhos de
 \v Dt.33.2
 E disse: O SENHOR veio de Sinai, E de Seir lhes iluminou; Resplandeceu do monte de Parã, E veio com dez mil santos: À sua direita a lei de fogo para eles.
 \v Dt.33.3
-Ainda amou os povos; Todos seus santos em tua mão: Eles também se chegaram a teus pés: Receberam de teus ditos.
+{rp|n4}Ainda amou os povos; Todos seus santos em tua mão: Eles também se chegaram a teus pés: Receberam de teus ditos.
+{tr}Ainda amou os povos; Todos Seus santos em Tua mão: Eles também se chegaram a Teus pés: Receberam de Teus ditos.
 \v Dt.33.4
 Lei nos mandou Moisés, Herança à congregação de Jacó.
 \v Dt.33.5
@@ -2028,14 +2128,17 @@ E foi rei em Jesurum, quando se congregaram os chefes do povo com as tribos de I
 \v Dt.33.6
 Viva Rúben, e não morra; sejam seus homens em número.
 \v Dt.33.7
-E esta bênção para Judá. Disse assim: Ouve, ó SENHOR, a voz de Judá, e leva-o ao seu povo; suas mãos lhe bastem, e tu sejas ajuda contra seus inimigos.
+{rp|n4}E esta bênção para Judá. Disse assim: Ouve, ó SENHOR, a voz de Judá, e leva-o ao seu povo; suas mãos lhe bastem, e tu sejas ajuda contra seus inimigos.
+{tr}E esta bênção para Judá. Disse assim: Ouve, ó SENHOR, a voz de Judá, e leva-o ao seu povo; suas mãos lhe bastem, e Tu sejas ajuda contra seus inimigos.
 \v Dt.33.8
 E a Levi disse: Teu Tumim e teu Urim, com teu bom homem ao qual tentaste em Massá, e lhe fizeste brigar nas águas da briga;
 \v Dt.33.9
 O que disse a seu pai e a sua mãe: Nunca os vi: nem conheceu a seus irmãos, nem conheceu a seus filhos; por isso eles 
-guardarão as tuas palavras, e observarão o teu pacto.
+{rp|n4}guardarão as tuas palavras, e observarão o teu pacto.
+{tr}guardarão as Tuas palavras, e observarão o Teu pacto.
 \v Dt.33.10
-Eles ensinarão teus juízos a Jacó, e tua lei a Israel; porão o incenso diante de ti, e holocaustos sobre o teu altar.
+{rp|n4}Eles ensinarão teus juízos a Jacó, e tua lei a Israel; porão o incenso diante de ti, e holocaustos sobre o teu altar.
+{tr}Eles ensinarão Teus juízos a Jacó, e Tua lei a Israel; porão o incenso diante de Ti, e holocaustos sobre o Teu altar.
 \v Dt.33.11
 Abençoa, ó SENHOR, o que fizerem, e recebe com agrado a obra de suas mãos; fere os lombos de seus inimigos, e dos que lhe odiarem; para que nunca se levantem.
 \v Dt.33.12
@@ -2098,11 +2201,14 @@ será
 \*added
  como os teus dias.
 \v Dt.33.26
-Não há como o Deus de Jesurum, montado sobre os céus para tua ajuda, e sobre as nuvens com sua grandeza.
+{rp|n4}Não há como o Deus de Jesurum, montado sobre os céus para tua ajuda, e sobre as nuvens com sua grandeza.
+{tr}Não há como o Deus de Jesurum, montado sobre os céus para tua ajuda, e sobre as nuvens com Sua grandeza.
 \v Dt.33.27
-O eterno Deus é o teu refúgio, e abaixo os braços eternos; ele expulsará de diante de ti o inimigo, e dirá: Destrói.
+{rp|n4}O eterno Deus é o teu refúgio, e abaixo os braços eternos; ele expulsará de diante de ti o inimigo, e dirá: Destrói.
+{tr}O eterno Deus é o teu refúgio, e abaixo os braços eternos; Ele expulsará de diante de ti o inimigo, e dirá: Destrói.
 \v Dt.33.28
-E Israel, fonte de Jacó, habitará confiante sozinho na terra do grão e do vinho; também seus céus destilarão orvalho.
+{rp|n4}E Israel, fonte de Jacó, habitará confiante sozinho na terra do grão e do vinho; também seus céus destilarão orvalho.
+{tr}E Israel, fonte de Jacó, habitará confiante sozinho na terra do grão e do vinho; também Seus céus destilarão orvalho.
 \v Dt.33.29
 Bem-aventurado és tu, ó Israel! Quem é como tu, povo salvo pelo SENHOR, o escudo de teu socorro, e a espada da tua 
 excelência? Por isso os teus inimigos serão subjugados, e tu pisarás sobre as suas 

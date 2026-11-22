@@ -273,7 +273,8 @@ alimentos, e o fará arder sobre o altar por memória, em aroma suavíssimo ao S
 E o excedente dela, Arão e seus filhos o comerão; sem levedura se comerá no lugar santo; no átrio do tabernáculo 
 do testemunho o comerão.
 \v Lv.6.17
-Não se cozerá com levedura: dei-o a eles por sua porção de minhas ofertas acendidas; é coisa santíssima, como a expiação pelo pecado, e como a expiação pela culpa.
+{rp|n4}Não se cozerá com levedura: dei-o a eles por sua porção de minhas ofertas acendidas; é coisa santíssima, como a expiação pelo pecado, e como a expiação pela culpa.
+{tr}Não se cozerá com levedura: dei-o a eles por sua porção de Minhas ofertas acendidas; é coisa santíssima, como a expiação pelo pecado, e como a expiação pela culpa.
 \v Lv.6.18
 Todos os homens dos filhos de Arão comerão dela. Estatuto perpétuo será para vossas gerações acerca das ofertas acendidas do SENHOR: toda coisa que tocar nelas será santificada.
 \v Lv.6.19
@@ -978,7 +979,8 @@ E o oitavo dia tomará consigo duas rolinhas, ou dois pombinhos, e os trará ao 
 \v Lv.15.30
 E o sacerdote fará um oferta pelo pecado, e o outro holocausto; e a purificará o sacerdote diante do SENHOR do fluxo de sua impureza.
 \v Lv.15.31
-Assim separareis os filhos de Israel de suas imundícias, a fim de que não morram por suas imundícias, contaminando meu tabernáculo que está entre eles.
+{rp|n4}Assim separareis os filhos de Israel de suas imundícias, a fim de que não morram por suas imundícias, contaminando meu tabernáculo que está entre eles.
+{tr}Assim separareis os filhos de Israel de suas imundícias, a fim de que não morram por suas imundícias, contaminando Meu tabernáculo que está entre eles.
 \v Lv.15.32
 Esta é a lei do que tem fluxo, e do que sai derramamento seminal, vindo a ser impuro por causa disso;
 \v Lv.15.33
@@ -1070,7 +1072,8 @@ Tu Lhes dirás também: Qualquer homem da casa de Israel, ou dos estrangeiros qu
 \v Lv.17.9
 E não o trouxer à porta do tabernáculo do testemunho, para fazê-lo ao SENHOR, o tal homem será igualmente eliminado de seus povos.
 \v Lv.17.10
-E qualquer homem da casa de Israel, ou dos estrangeiros que peregrinam entre eles, que comer algum sangue, eu porei meu rosto contra a pessoa que comer sangue, e lhe cortarei dentre seu povo.
+{rp|n4}E qualquer homem da casa de Israel, ou dos estrangeiros que peregrinam entre eles, que comer algum sangue, eu porei meu rosto contra a pessoa que comer sangue, e lhe cortarei dentre seu povo.
+{tr}E qualquer homem da casa de Israel, ou dos estrangeiros que peregrinam entre eles, que comer algum sangue, eu porei Meu rosto contra a pessoa que comer sangue, e lhe cortarei dentre seu povo.
 \v Lv.17.11
 Porque a vida da carne no sangue está: e eu vos a dei para expiar vossas pessoas sobre o altar: pelo qual o mesmo sangue expiará a pessoa.
 \v Lv.17.12
@@ -1090,9 +1093,11 @@ Fala aos filhos de Israel, e dize-lhes: Eu sou o SENHOR vosso Deus.
 \v Lv.18.3
 Não fareis como fazem na terra do Egito, na qual morastes; nem fareis como fazem na terra de Canaã, à qual eu vos conduzo; nem andareis em seus estatutos.
 \v Lv.18.4
-Meus regulamentos poreis por obra, e meus estatutos guardareis, andando neles: Eu sou o SENHOR vosso Deus.
+{rp|n4}Meus regulamentos poreis por obra, e meus estatutos guardareis, andando neles: Eu sou o SENHOR vosso Deus.
+{tr}Meus regulamentos poreis por obra, e Meus estatutos guardareis, andando neles: Eu sou o SENHOR vosso Deus.
 \v Lv.18.5
-Portanto meus estatutos e meus regulamentos guardareis, os quais fazendo o homem, viverá neles: Eu sou o SENHOR.
+{rp|n4}Portanto meus estatutos e meus regulamentos guardareis, os quais fazendo o homem, viverá neles: Eu sou o SENHOR.
+{tr}Portanto Meus estatutos e Meus regulamentos guardareis, os quais fazendo o homem, viverá neles: Eu sou o SENHOR.
 \v Lv.18.6
 Nenhum homem se achegue a nenhuma próxima de sua carne, para descobrir sua nudez: Eu sou o SENHOR.
 \v Lv.18.7
@@ -1134,7 +1139,8 @@ Em nenhuma destas coisas vos contaminareis; porque em todas estas coisas se polu
 \v Lv.18.25
 E a terra foi contaminada; e eu visitei sua maldade sobre ela, e a terra vomitou seus moradores.
 \v Lv.18.26
-Guardai, pois, vós meus estatutos e meus regulamentos, e não façais nenhuma de todas estas abominações: nem o natural nem o estrangeiro que peregrina entre vós.
+{rp|n4}Guardai, pois, vós meus estatutos e meus regulamentos, e não façais nenhuma de todas estas abominações: nem o natural nem o estrangeiro que peregrina entre vós.
+{tr}Guardai, pois, vós Meus estatutos e Meus regulamentos, e não façais nenhuma de todas estas abominações: nem o natural nem o estrangeiro que peregrina entre vós.
 \v Lv.18.27
 (Porque todas estas abominações fizeram os homens da terra, que foram antes de vós, e a terra foi contaminada:)
 \v Lv.18.28
@@ -1142,13 +1148,15 @@ E a terra não vos vomitará, por havê-la contaminado, como vomitou à gente qu
 \v Lv.18.29
 Porque qualquer um que fizer alguma de todas estas abominações, as pessoas que as fizerem, serão eliminadas dentre seu povo.
 \v Lv.18.30
-Guardai, pois, minha ordenança, não fazendo das práticas abomináveis que tiveram lugar antes de vós, e não vos torneis abomináveis nelas: Eu sou o SENHOR vosso Deus.
+{rp|n4}Guardai, pois, minha ordenança, não fazendo das práticas abomináveis que tiveram lugar antes de vós, e não vos torneis abomináveis nelas: Eu sou o SENHOR vosso Deus.
+{tr}Guardai, pois, Minha ordenança, não fazendo das práticas abomináveis que tiveram lugar antes de vós, e não vos torneis abomináveis nelas: Eu sou o SENHOR vosso Deus.
 \v Lv.19.1
 E falou o SENHOR a Moisés, dizendo:
 \v Lv.19.2
 Fala a toda a congregação dos filhos de Israel, e dize-lhes: Santos sereis, porque santo sou eu o SENHOR vosso Deus.
 \v Lv.19.3
-Cada um temerá a sua mãe e a seu pai, e meus sábados guardareis: Eu sou o SENHOR vosso Deus.
+{rp|n4}Cada um temerá a sua mãe e a seu pai, e meus sábados guardareis: Eu sou o SENHOR vosso Deus.
+{tr}Cada um temerá a sua mãe e a seu pai, e Meus sábados guardareis: Eu sou o SENHOR vosso Deus.
 \v Lv.19.4
 Não vos voltareis aos ídolos, nem fareis para vós deuses de fundição: Eu sou o SENHOR vosso Deus.
 \v Lv.19.5
@@ -1166,7 +1174,8 @@ E não coletarás os restos de tua vinha, nem recolherás as uvas caídas de tua
 \v Lv.19.11
 Não furtareis, e não enganareis, nem mentireis ninguém a seu próximo.
 \v Lv.19.12
-E não jurareis em meu nome com mentira, nem profanarás o nome de teu Deus: Eu sou o SENHOR.
+{rp|n4}E não jurareis em meu nome com mentira, nem profanarás o nome de teu Deus: Eu sou o SENHOR.
+{tr}E não jurareis em Meu nome com mentira, nem profanarás o nome de teu Deus: Eu sou o SENHOR.
 \v Lv.19.13
 Não oprimirás a teu próximo, nem lhe roubarás. Não se deterá o trabalho do assalariado em tua casa até a manhã.
 \v Lv.19.14
@@ -1202,7 +1211,8 @@ E não fareis cortes em vossa carne por um morto, nem imprimireis em vós sinal 
 \v Lv.19.29
 Não contaminarás tua filha fazendo-a se prostituir: para não se prostitua a terra, e se encha de maldade.
 \v Lv.19.30
-Meus sábados guardareis, e meu santuário tereis em reverência: Eu sou o SENHOR.
+{rp|n4}Meus sábados guardareis, e meu santuário tereis em reverência: Eu sou o SENHOR.
+{tr}Meus sábados guardareis, e Meu santuário tereis em reverência: Eu sou o SENHOR.
 \v Lv.19.31
 Não vos volteis aos encantadores e aos adivinhos: não os consulteis contaminando-vos com eles: Eu sou o SENHOR vosso Deus.
 \v Lv.19.32
@@ -1223,21 +1233,26 @@ E o SENHOR falou a Moisés, dizendo:
 Dirás também aos filhos de Israel: Qualquer homem dos filhos de Israel, ou dos estrangeiros que peregrinam em Israel, 
 que oferecer de sua descendência a Moloque, certamente morrerá; o povo da terra o apedrejará.
 \v Lv.20.3
-Eu porei o meu rosto contra esse homem, e o eliminarei do meio do seu povo; porque deu de sua descendência a Moloque, 
-contaminando o meu santuário, e profanando o meu santo nome.
+{rp|n4}Eu porei o meu rosto contra esse homem, e o eliminarei do meio do seu povo; porque deu de sua descendência a Moloque, 
+{tr}Eu porei o Meu rosto contra esse homem, e o eliminarei do meio do seu povo; porque deu de sua descendência a Moloque, 
+{rp|n4}contaminando o meu santuário, e profanando o meu santo nome.
+{tr}contaminando o Meu santuário, e profanando o Meu santo nome.
 \v Lv.20.4
 E, se o povo daquela terra esconder os seus olhos daquele homem que houver dado de sua descendência a Moloque, para 
 não o matar,
 \v Lv.20.5
-então eu porei o meu rosto contra aquele homem, e contra a sua família, e o eliminarei do meio do seu povo, com todos 
+{rp|n4}então eu porei o meu rosto contra aquele homem, e contra a sua família, e o eliminarei do meio do seu povo, com todos 
+{tr}então eu porei o Meu rosto contra aquele homem, e contra a sua família, e o eliminarei do meio do seu povo, com todos 
 os que se prostituem seguindo-o, prostituindo-se com Moloque.
 \v Lv.20.6
-Se uma pessoa se voltar aos que consultam os mortos ou aos adivinhos, para se prostituir seguindo-os, eu porei o meu 
+{rp|n4}Se uma pessoa se voltar aos que consultam os mortos ou aos adivinhos, para se prostituir seguindo-os, eu porei o meu 
+{tr}Se uma pessoa se voltar aos que consultam os mortos ou aos adivinhos, para se prostituir seguindo-os, eu porei o Meu 
 rosto contra aquela pessoa, e a eliminarei do meio do seu povo.
 \v Lv.20.7
 Santificai-vos, pois, e sede santos, porque eu o SENHOR sou vosso Deus.
 \v Lv.20.8
-E guardai meus estatutos, e os praticai. Eu sou o SENHOR que vos santifico.
+{rp|n4}E guardai meus estatutos, e os praticai. Eu sou o SENHOR que vos santifico.
+{tr}E guardai Meus estatutos, e os praticai. Eu sou o SENHOR que vos santifico.
 \v Lv.20.9
 Aquele que amaldiçoar seu pai ou sua mãe certamente morrerá; a seu pai ou a sua mãe amaldiçoou; seu sangue será 
 sobre ele.
@@ -1275,7 +1290,8 @@ E qualquer um que dormir com a mulher do irmão de seu pai, a nudez do irmão de
 \v Lv.20.21
 E o que tomar a mulher de seu irmão, é imundícia; a nudez de seu irmão descobriu; sem filhos serão.
 \v Lv.20.22
-Guardai, pois, todos meus estatutos e todos meus regulamentos, e ponde-os por obra: e não vos vomitará a terra, na qual eu vos introduzo para que habiteis nela.
+{rp|n4}Guardai, pois, todos meus estatutos e todos meus regulamentos, e ponde-os por obra: e não vos vomitará a terra, na qual eu vos introduzo para que habiteis nela.
+{tr}Guardai, pois, todos Meus estatutos e todos Meus regulamentos, e ponde-os por obra: e não vos vomitará a terra, na qual eu vos introduzo para que habiteis nela.
 \v Lv.20.23
 E não andeis nas práticas da gente que eu lançarei de diante de vós: porque eles fizeram todas estas coisas, e os tive em abominação.
 \v Lv.20.24
@@ -1283,7 +1299,8 @@ Porém a vós vos disse: Vós possuireis a terra deles, e eu a darei a vós para
 \v Lv.20.25
 Portanto, vós fareis diferença entre animal limpo e impuro, e entre ave impura e limpa: e não torneis abomináveis vossas pessoas nos animais, nem nas aves, nem em nenhuma coisa que vai arrastando pela terra, as quais vos separei por impuras.
 \v Lv.20.26
-Haveis, pois, de ser para mim santos, porque eu o SENHOR sou santo, e vos separei dos povos, para que sejais meus.
+{rp|n4}Haveis, pois, de ser para mim santos, porque eu o SENHOR sou santo, e vos separei dos povos, para que sejais meus.
+{tr}Haveis, pois, de ser para Mim santos, porque eu o SENHOR sou santo, e vos separei dos povos, para que sejais Meus.
 \v Lv.20.27
 E o homem ou a mulher em que houver espírito mediúnico ou de adivinhação, terão de ser mortos; os apedrejarão com pedras; seu próprio sangue 
 \added
@@ -1340,15 +1357,18 @@ Nenhum homem da descendência de Arão sacerdote, no qual houver falta, se acheg
 \v Lv.21.22
 O pão de seu Deus, do muito santo e as coisas santificadas, comerá.
 \v Lv.21.23
-Porém não entrará do véu dentro, nem se achegará ao altar, porquanto há falta nele: e não profanará meu santuário, porque eu o SENHOR sou o que os santifico.
+{rp|n4}Porém não entrará do véu dentro, nem se achegará ao altar, porquanto há falta nele: e não profanará meu santuário, porque eu o SENHOR sou o que os santifico.
+{tr}Porém não entrará do véu dentro, nem se achegará ao altar, porquanto há falta nele: e não profanará Meu santuário, porque eu o SENHOR sou o que os santifico.
 \v Lv.21.24
 E Moisés falou isto a Arão, e a seus filhos, e a todos os filhos de Israel.
 \v Lv.22.1
 E falou o SENHOR a Moisés, dizendo:
 \v Lv.22.2
-Dize a Arão e a seus filhos, que se abstenham das coisas santas dos filhos de Israel, e que não profanem meu santo nome no que eles me santificam: Eu sou o SENHOR.
+{rp|n4}Dize a Arão e a seus filhos, que se abstenham das coisas santas dos filhos de Israel, e que não profanem meu santo nome no que eles me santificam: Eu sou o SENHOR.
+{tr}Dize a Arão e a seus filhos, que se abstenham das coisas santas dos filhos de Israel, e que não profanem Meu santo nome no que eles Me santificam: Eu sou o SENHOR.
 \v Lv.22.3
-Dize-lhes: Todo homem de toda vossa descendência em vossas gerações que chegar às coisas sagradas, que os filhos de Israel consagram ao SENHOR, tendo imundícia sobre si, de diante de mim será eliminada sua alma: Eu sou o SENHOR.
+{rp|n4}Dize-lhes: Todo homem de toda vossa descendência em vossas gerações que chegar às coisas sagradas, que os filhos de Israel consagram ao SENHOR, tendo imundícia sobre si, de diante de mim será eliminada sua alma: Eu sou o SENHOR.
+{tr}Dize-lhes: Todo homem de toda vossa descendência em vossas gerações que chegar às coisas sagradas, que os filhos de Israel consagram ao SENHOR, tendo imundícia sobre si, de diante de Mim será eliminada sua alma: Eu sou o SENHOR.
 \v Lv.22.4
 Qualquer homem da semente de Arão que for leproso, ou padecer fluxo, não comerá das coisas sagradas até que esteja limpo: e o que tocar qualquer coisa impura de cadáver, ou o homem do qual houver saído derramamento de sêmen;
 \v Lv.22.5
@@ -1360,7 +1380,8 @@ E quando o sol se puser, será limpo; e depois comerá as coisas sagradas, porqu
 \v Lv.22.8
 O morto naturalmente nem despedaçado por fera não comerá, para contaminar-se em ele: Eu sou o SENHOR.
 \v Lv.22.9
-Guardem, pois, minha ordenança, e não levem pecado por ele, não seja que assim morram quando a profanarem: Eu sou o SENHOR que os santifico.
+{rp|n4}Guardem, pois, minha ordenança, e não levem pecado por ele, não seja que assim morram quando a profanarem: Eu sou o SENHOR que os santifico.
+{tr}Guardem, pois, Minha ordenança, e não levem pecado por ele, não seja que assim morram quando a profanarem: Eu sou o SENHOR que os santifico.
 \v Lv.22.10
 Nenhum estranho comerá coisa sagrada; o hóspede do sacerdote, nem o empregado, não comerá coisa sagrada.
 \v Lv.22.11
@@ -1413,7 +1434,8 @@ Que vos tirei da terra do Egito, para ser vosso Deus: Eu sou o SENHOR.
 \v Lv.23.1
 E falou o SENHOR a Moisés, dizendo:
 \v Lv.23.2
-Fala aos filhos de Israel, e dize-lhes: As solenidades do SENHOR, as quais proclamareis santas convocações, aquelas serão minhas solenidades.
+{rp|n4}Fala aos filhos de Israel, e dize-lhes: As solenidades do SENHOR, as quais proclamareis santas convocações, aquelas serão minhas solenidades.
+{tr}Fala aos filhos de Israel, e dize-lhes: As solenidades do SENHOR, as quais proclamareis santas convocações, aquelas serão Minhas solenidades.
 \v Lv.23.3
 Seis dias se trabalhará, e no sétimo dia sábado de repouso será, convocação santa: nenhuma obra fareis; sábado é do SENHOR em todas as vossas habitações.
 \v Lv.23.4
@@ -1594,17 +1616,20 @@ Conforme a abundância dos anos aumentarás o preço, e conforme a diminuição 
 \v Lv.25.17
 E não engane ninguém a seu próximo; mas terás temor de teu Deus: porque eu sou o SENHOR vosso Deus.
 \v Lv.25.18
-Executai, pois, meus estatutos, e guardai meus regulamentos, e ponde-os por obra, e habitareis na terra seguros;
+{rp|n4}Executai, pois, meus estatutos, e guardai meus regulamentos, e ponde-os por obra, e habitareis na terra seguros;
+{tr}Executai, pois, Meus estatutos, e guardai Meus regulamentos, e ponde-os por obra, e habitareis na terra seguros;
 \v Lv.25.19
 E a terra dará seu fruto, e comereis até fartura, e habitareis nela com segurança.
 \v Lv.25.20
 E se disserdes: Que comeremos no sétimo ano? eis que não temos de semear, nem temos de colher nossos frutos:
 \v Lv.25.21
-Então eu vos enviarei minha bênção no sexto ano, e fará fruto por três anos.
+{rp|n4}Então eu vos enviarei minha bênção no sexto ano, e fará fruto por três anos.
+{tr}Então eu vos enviarei Minha bênção no sexto ano, e fará fruto por três anos.
 \v Lv.25.22
 E semeareis no ano oitavo, e comereis do fruto alheio; até o ano nono, até que venha seu fruto comereis do alheio.
 \v Lv.25.23
-E a terra não se venderá definitivamente, porque a terra minha é; que vós peregrinos e estrangeiros sois para comigo.
+{rp|n4}E a terra não se venderá definitivamente, porque a terra minha é; que vós peregrinos e estrangeiros sois para comigo.
+{tr}E a terra não se venderá definitivamente, porque a terra Minha é; que vós peregrinos e estrangeiros sois para Comigo.
 \v Lv.25.24
 Portanto, em toda a terra de vossa possessão, outorgareis remissão à terra.
 \v Lv.25.25
@@ -1642,7 +1667,8 @@ Como criado, como estrangeiro estará contigo; até o ano do jubileu te servirá
 \v Lv.25.41
 Então sairá de tua presença, ele e seus filhos consigo, e voltará à sua família, e à possessão de seus pais se restituirá.
 \v Lv.25.42
-Porque são meus servos, os quais tirei eu da terra do Egito: não serão vendidos à maneira de servos.
+{rp|n4}Porque são meus servos, os quais tirei eu da terra do Egito: não serão vendidos à maneira de servos.
+{tr}Porque são Meus servos, os quais tirei eu da terra do Egito: não serão vendidos à maneira de servos.
 \v Lv.25.43
 Não serás senhor dele com dureza, mas terás temor de teu Deus.
 \v Lv.25.44
@@ -1668,13 +1694,16 @@ Como com tomado a salário anualmente fará com ele: não será senhor dele com 
 \v Lv.25.54
 Mas se não se resgatar em esses anos, no ano do jubileu sairá, ele, e seus filhos com ele.
 \v Lv.25.55
-Porque meus servos são os filhos de Israel; são servos meus, aos quais tirei da terra do Egito: Eu sou o SENHOR vosso Deus.
+{rp|n4}Porque meus servos são os filhos de Israel; são servos meus, aos quais tirei da terra do Egito: Eu sou o SENHOR vosso Deus.
+{tr}Porque Meus servos são os filhos de Israel; são servos Meus, aos quais tirei da terra do Egito: Eu sou o SENHOR vosso Deus.
 \v Lv.26.1
 Não fareis para vós ídolos, nem escultura, nem levantareis para vós estátua, nem poreis em vossa terra pedra pintada para inclinar-vos a ela: porque eu sou o SENHOR vosso Deus.
 \v Lv.26.2
-Guardai meus sábados, e tende em reverência meu santuário: Eu sou o SENHOR.
+{rp|n4}Guardai meus sábados, e tende em reverência meu santuário: Eu sou o SENHOR.
+{tr}Guardai Meus sábados, e tende em reverência Meu santuário: Eu sou o SENHOR.
 \v Lv.26.3
-Se andardes em meus decretos, e guardardes meus mandamentos, e os puserdes por obra;
+{rp|n4}Se andardes em meus decretos, e guardardes meus mandamentos, e os puserdes por obra;
+{tr}Se andardes em Meus decretos, e guardardes Meus mandamentos, e os puserdes por obra;
 \v Lv.26.4
 Eu darei vossa chuva em seu tempo, e a terra produzirá, e a árvore do campo dará seu fruto;
 \v Lv.26.5
@@ -1691,32 +1720,39 @@ Porque eu me voltarei a vós, e vos farei crescer, e vos multiplicarei, e afirma
 \v Lv.26.10
 E comereis o antigo de muito tempo, e tirareis fora o antigo por causa do novo:
 \v Lv.26.11
-E porei minha morada em meio de vós, e minha alma não vos abominará:
+{rp|n4}E porei minha morada em meio de vós, e minha alma não vos abominará:
+{tr}E porei Minha morada em meio de vós, e Minha alma não vos abominará:
 \v Lv.26.12
-E andarei entre vós, e eu serei vosso Deus, e vós sereis meu povo.
+{rp|n4}E andarei entre vós, e eu serei vosso Deus, e vós sereis meu povo.
+{tr}E andarei entre vós, e eu serei vosso Deus, e vós sereis Meu povo.
 \v Lv.26.13
 Eu sou o SENHOR vosso Deus, que vos tirei da terra do Egito, para que não fôsseis seus servos; e rompi as barras de vosso jugo, e vos fiz andar com o rosto alto.
 \v Lv.26.14
 Porém se não me ouvirdes, nem fizerdes todos estes meus mandamentos,
 \v Lv.26.15
-E se abominardes meus decretos, e vossa alma menosprezar meus regulamentos, não executando todos meus mandamentos, e invalidando meu pacto;
+{rp|n4}E se abominardes meus decretos, e vossa alma menosprezar meus regulamentos, não executando todos meus mandamentos, e invalidando meu pacto;
+{tr}E se abominardes Meus decretos, e vossa alma menosprezar Meus regulamentos, não executando todos Meus mandamentos, e invalidando Meu pacto;
 \v Lv.26.16
 Eu também farei convosco isto: enviarei sobre vós terror, enfermidade e febre, que consumam os olhos e atormentem a alma: e semeareis em vão vossa semente, porque vossos inimigos a comerão:
 \v Lv.26.17
-E porei minha ira sobre vós, e sereis feridos diante de vossos inimigos; e os que vos aborrecem vos dominarão, e fugireis sem que haja quem vos persiga.
+{rp|n4}E porei minha ira sobre vós, e sereis feridos diante de vossos inimigos; e os que vos aborrecem vos dominarão, e fugireis sem que haja quem vos persiga.
+{tr}E porei Minha ira sobre vós, e sereis feridos diante de vossos inimigos; e os que vos aborrecem vos dominarão, e fugireis sem que haja quem vos persiga.
 \v Lv.26.18
-E se ainda com estas coisas não me ouvirdes, eu voltarei a castigar-vos sete vezes mais por vossos pecados.
+{rp|n4}E se ainda com estas coisas não me ouvirdes, eu voltarei a castigar-vos sete vezes mais por vossos pecados.
+{tr}E se ainda com estas coisas não Me ouvirdes, eu voltarei a castigar-vos sete vezes mais por vossos pecados.
 \v Lv.26.19
 E quebrarei a soberba de vossa força, e voltarei vosso céu como ferro, e vossa terra como bronze:
 \v Lv.26.20
 E vossa força se consumirá em vão; que vossa terra não dará seu produto, e as árvores da terra não darão seu fruto.
 \v Lv.26.21
-E se andardes comigo em oposição, e não me quiserdes ouvir, eu acrescentarei sobre vós sete vezes mais 
+{rp|n4}E se andardes comigo em oposição, e não me quiserdes ouvir, eu acrescentarei sobre vós sete vezes mais 
+{tr}E se andardes Comigo em oposição, e não Me quiserdes ouvir, eu acrescentarei sobre vós sete vezes mais 
 pragas segundo os vossos pecados.
 \v Lv.26.22
 Enviarei também contra vós animais feras que vos arrebatem os filhos, e destruam vossos animais, e vos reduzam a poucos, e vossos caminhos sejam desertos.
 \v Lv.26.23
-E se com estas coisas não fordes corrigidos, mas que andardes comigo em oposição,
+{rp|n4}E se com estas coisas não fordes corrigidos, mas que andardes comigo em oposição,
+{tr}E se com estas coisas não fordes corrigidos, mas que andardes Comigo em oposição,
 \v Lv.26.24
 Eu também procederei convosco, em oposição e vos ferirei ainda sete vezes por vossos pecados:
 \v Lv.26.25
@@ -1724,13 +1760,15 @@ E trarei sobre vós espada vingadora, em castigo do pacto; e vos recolhereis a v
 \v Lv.26.26
 Quando eu vos quebrantar o sustento de pão, cozerão dez mulheres vosso pão em um forno, e vos devolverão vosso pão por peso; e comereis, e não vos fartareis.
 \v Lv.26.27
-E se com isto não me ouvirdes, mas procederdes comigo em oposição,
+{rp|n4}E se com isto não me ouvirdes, mas procederdes comigo em oposição,
+{tr}E se com isto não Me ouvirdes, mas procederdes Comigo em oposição,
 \v Lv.26.28
 Eu procederei convosco em contra e com ira, e vos castigarei ainda sete vezes por vossos pecados.
 \v Lv.26.29
 E comereis as carnes de vossos filhos, e comereis as carnes de vossas filhas:
 \v Lv.26.30
-E destruirei vossos altos, e exterminarei vossas imagens, e porei vossos corpos mortos sobre os corpos mortos de vossos ídolos, e minha alma vos abominará:
+{rp|n4}E destruirei vossos altos, e exterminarei vossas imagens, e porei vossos corpos mortos sobre os corpos mortos de vossos ídolos, e minha alma vos abominará:
+{tr}E destruirei vossos altos, e exterminarei vossas imagens, e porei vossos corpos mortos sobre os corpos mortos de vossos ídolos, e Minha alma vos abominará:
 \v Lv.26.31
 E porei vossas cidades em deserto, e assolarei vossos santuários, e não cheirarei a fragrância de vosso suave incenso.
 \v Lv.26.32
@@ -1750,19 +1788,23 @@ E perecereis entre as nações, e a terra de vossos inimigos vos consumirá.
 \v Lv.26.39
 E os que restarem de vós perecerão nas terras de vossos inimigos por sua iniquidade; e pela iniquidade de seus pais perecerão com eles:
 \v Lv.26.40
-E confessarão sua iniquidade, e a iniquidade de seus pais, por sua transgressão com que transgrediram contra mim: e também porque andaram comigo em oposição,
+{rp|n4}E confessarão sua iniquidade, e a iniquidade de seus pais, por sua transgressão com que transgrediram contra mim: e também porque andaram comigo em oposição,
+{tr}E confessarão sua iniquidade, e a iniquidade de seus pais, por sua transgressão com que transgrediram contra Mim: e também porque andaram Comigo em oposição,
 \v Lv.26.41
 Eu também houver andado contrário a eles, e os houver metido na terra de seus inimigos: e então se humilhará seu coração incircunciso, e reconhecerão seu pecado;
 \v Lv.26.42
 E eu me lembrarei de meu pacto com Jacó, e também de meu pacto com Isaque, e também de meu pacto com Abraão me lembrarei; e farei memória da terra.
 \v Lv.26.43
-Que a terra estará desamparada deles, e folgará seus sábados, estando deserta por causa deles; mas entretanto se submeterão ao castigo de suas iniquidades: porquanto menosprezaram meus regulamentos, e teve a alma deles ódio de meus estatutos.
+{rp|n4}Que a terra estará desamparada deles, e folgará seus sábados, estando deserta por causa deles; mas entretanto se submeterão ao castigo de suas iniquidades: porquanto menosprezaram meus regulamentos, e teve a alma deles ódio de meus estatutos.
+{tr}Que a terra estará desamparada deles, e folgará seus sábados, estando deserta por causa deles; mas entretanto se submeterão ao castigo de suas iniquidades: porquanto menosprezaram Meus regulamentos, e teve a alma deles ódio de Meus estatutos.
 \v Lv.26.44
-E ainda com tudo isto, estando eles em terra de seus inimigos, eu não os rejeitarei, nem os abominarei para consumi-los, invalidando meu pacto com eles: porque eu o SENHOR sou seu Deus:
+{rp|n4}E ainda com tudo isto, estando eles em terra de seus inimigos, eu não os rejeitarei, nem os abominarei para consumi-los, invalidando meu pacto com eles: porque eu o SENHOR sou seu Deus:
+{tr}E ainda com tudo isto, estando eles em terra de seus inimigos, eu não os rejeitarei, nem os abominarei para consumi-los, invalidando Meu pacto com eles: porque eu o SENHOR sou seu Deus:
 \v Lv.26.45
 Antes me lembrarei deles pelo pacto antigo, quando os tirei da terra do Egito aos olhos das nações, para ser seu Deus: Eu sou o SENHOR.
 \v Lv.26.46
-Estes são os decretos, regulamentos e leis que estabeleceu o SENHOR entre si e os filhos de Israel no monte Sinai por meio de Moisés.
+{rp|n4}Estes são os decretos, regulamentos e leis que estabeleceu o SENHOR entre si e os filhos de Israel no monte Sinai por meio de Moisés.
+{tr}Estes são os decretos, regulamentos e leis que estabeleceu o SENHOR entre Si e os filhos de Israel no monte Sinai por meio de Moisés.
 \v Lv.27.1
 E falou o SENHOR a Moisés, dizendo:
 \v Lv.27.2

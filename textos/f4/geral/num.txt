@@ -209,9 +209,11 @@ E constituirás a Arão e a seus filhos, para que exerçam seu sacerdócio: e o 
 \v Nm.3.11
 E falou o SENHOR a Moisés, dizendo:
 \v Nm.3.12
-E eis que eu tomei os levitas dentre os filhos de Israel em lugar de todos os primogênitos que abrem a madre entre os filhos de Israel; serão, pois, meus os levitas:
+{rp|n4}E eis que eu tomei os levitas dentre os filhos de Israel em lugar de todos os primogênitos que abrem a madre entre os filhos de Israel; serão, pois, meus os levitas:
+{tr}E eis que eu tomei os levitas dentre os filhos de Israel em lugar de todos os primogênitos que abrem a madre entre os filhos de Israel; serão, pois, Meus os levitas:
 \v Nm.3.13
-Porque meu é todo primogênito; desde o dia que eu matei todos os primogênitos na terra do Egito, eu santifiquei a mim todos os primogênitos em Israel, tanto de homens como de animais; meus serão; Eu sou o SENHOR.
+{rp|n4}Porque meu é todo primogênito; desde o dia que eu matei todos os primogênitos na terra do Egito, eu santifiquei a mim todos os primogênitos em Israel, tanto de homens como de animais; meus serão; Eu sou o SENHOR.
+{tr}Porque Meu é todo primogênito; desde o dia que eu matei todos os primogênitos na terra do Egito, eu santifiquei a Mim todos os primogênitos em Israel, tanto de homens como de animais; Meus serão; Eu sou o SENHOR.
 \v Nm.3.14
 E o SENHOR falou a Moisés no deserto de Sinai, dizendo:
 \v Nm.3.15
@@ -267,7 +269,8 @@ Todos os contados dos levitas, que Moisés e Arão conforme a palavra do SENHOR 
 \v Nm.3.40
 E o SENHOR disse a Moisés: Conta todos os primogênitos homens dos filhos de Israel de um mês acima, e toma a conta dos nomes deles.
 \v Nm.3.41
-E tomarás os levitas para mim, eu o SENHOR, em lugar de todos os primogênitos dos filhos de Israel: e os animais dos levitas em lugar de todos os primogênitos dos animais dos filhos de Israel.
+{rp|n4}E tomarás os levitas para mim, eu o SENHOR, em lugar de todos os primogênitos dos filhos de Israel: e os animais dos levitas em lugar de todos os primogênitos dos animais dos filhos de Israel.
+{tr}E tomarás os levitas para Mim, eu o SENHOR, em lugar de todos os primogênitos dos filhos de Israel: e os animais dos levitas em lugar de todos os primogênitos dos animais dos filhos de Israel.
 \v Nm.3.42
 E contou Moisés, como o SENHOR lhe mandou, todos os primogênitos dos filhos de Israel.
 \v Nm.3.43
@@ -275,7 +278,8 @@ E todos os primogênitos homens, conforme a conta dos nomes, de um mês acima, o
 \v Nm.3.44
 E falou o SENHOR a Moisés, dizendo:
 \v Nm.3.45
-Toma os levitas em lugar de todos os primogênitos dos filhos de Israel, e os animais dos levitas em lugar de seus animais; e os levitas serão meus: Eu sou o SENHOR.
+{rp|n4}Toma os levitas em lugar de todos os primogênitos dos filhos de Israel, e os animais dos levitas em lugar de seus animais; e os levitas serão meus: Eu sou o SENHOR.
+{tr}Toma os levitas em lugar de todos os primogênitos dos filhos de Israel, e os animais dos levitas em lugar de seus animais; e os levitas serão Meus: Eu sou o SENHOR.
 \v Nm.3.46
 E pelos resgates dos duzentos e setenta e três, que excedem aos levitas os primogênitos dos filhos de Israel;
 \v Nm.3.47
@@ -504,11 +508,14 @@ Fala a Arão e a seus filhos, e dize-lhes: Assim abençoareis aos filhos de Isra
 \v Nm.6.24
 O SENHOR te abençoe, e te guarde:
 \v Nm.6.25
-Faça resplandecer o SENHOR seu rosto sobre ti, e tenha de ti misericórdia:
+{rp|n4}Faça resplandecer o SENHOR seu rosto sobre ti, e tenha de ti misericórdia:
+{tr}Faça resplandecer o SENHOR Seu rosto sobre ti, e tenha de ti misericórdia:
 \v Nm.6.26
-O SENHOR levante a ti seu rosto, e ponha em ti paz.
+{rp|n4}O SENHOR levante a ti seu rosto, e ponha em ti paz.
+{tr}O SENHOR levante a ti Seu rosto, e ponha em ti paz.
 \v Nm.6.27
-E porão meu nome sobre os filhos de Israel, e eu os abençoarei.
+{rp|n4}E porão meu nome sobre os filhos de Israel, e eu os abençoarei.
+{tr}E porão Meu nome sobre os filhos de Israel, e eu os abençoarei.
 \v Nm.7.1
 E aconteceu, que quando Moisés acabou de levantar o tabernáculo, e o ungido, e o santificado, com todos os seus utensílios; e também ungido e santificado o altar, com todos os seus utensílios;
 \v Nm.7.2
@@ -729,13 +736,16 @@ ao SENHOR, para expiar os levitas.
 E farás os levitas se apresentarem diante de Arão, e diante de seus filhos, e os oferecerás em oferta de movimento 
 ao SENHOR.
 \v Nm.8.14
-Assim separarás os levitas dentre os filhos de Israel; e serão meus os levitas.
+{rp|n4}Assim separarás os levitas dentre os filhos de Israel; e serão meus os levitas.
+{tr}Assim separarás os levitas dentre os filhos de Israel; e serão Meus os levitas.
 \v Nm.8.15
 E depois disso virão os levitas a ministrar no tabernáculo do testemunho: os expiarás pois, e os oferecerás em oferta.
 \v Nm.8.16
-Porque inteiramente são a mim dados os levitas dentre os filhos de Israel, em lugar de todo aquele que abre madre; ei-los tomado para mim em lugar dos primogênitos de todos os filhos de Israel.
+{rp|n4}Porque inteiramente são a mim dados os levitas dentre os filhos de Israel, em lugar de todo aquele que abre madre; ei-los tomado para mim em lugar dos primogênitos de todos os filhos de Israel.
+{tr}Porque inteiramente são a Mim dados os levitas dentre os filhos de Israel, em lugar de todo aquele que abre madre; ei-los tomado para Mim em lugar dos primogênitos de todos os filhos de Israel.
 \v Nm.8.17
-Porque meu é todo primogênito nos filhos de Israel, tanto de homens como de animais; desde o dia que eu feri todo primogênito na terra do Egito, os santifiquei para mim.
+{rp|n4}Porque meu é todo primogênito nos filhos de Israel, tanto de homens como de animais; desde o dia que eu feri todo primogênito na terra do Egito, os santifiquei para mim.
+{tr}Porque Meu é todo primogênito nos filhos de Israel, tanto de homens como de animais; desde o dia que eu feri todo primogênito na terra do Egito, os santifiquei para Mim.
 \v Nm.8.18
 E tomei os levitas em lugar de todos os primogênitos nos filhos de Israel.
 \v Nm.8.19
@@ -904,7 +914,8 @@ E quando o orvalho descia sobre o acampamento de noite, o maná descia sobre ele
 E Moisés ouviu o povo chorar por suas famílias, cada um à porta de sua tenda; e o furor do SENHOR se acendeu 
 grandemente; também pareceu mal a Moisés.
 \v Nm.11.11
-E Moisés disse ao SENHOR: Por que fizeste mal a teu servo? E por que não achei favor aos teus olhos, que puseste sobre 
+{rp|n4}E Moisés disse ao SENHOR: Por que fizeste mal a teu servo? E por que não achei favor aos teus olhos, que puseste sobre 
+{tr}E Moisés disse ao SENHOR: Por que fizeste mal a Teu servo? E por que não achei favor aos Teus olhos, que puseste sobre 
 mim a carga de todo este povo?
 \v Nm.11.12
 Por acaso fui eu que concebi todo este povo? Fui o que o dei à luz, para que me digas: Leva-o em teu colo, como 
@@ -917,7 +928,8 @@ Não posso suportar sozinho todo este povo, porque é pesado demais para mim.
 E se assim fazes tu comigo, eu te rogo que me mates, se achei favor aos teus olhos; e que não me deixes ver a 
 minha calamidade.
 \v Nm.11.16
-Então o SENHOR disse a Moisés: Ajunta-me setenta homens dos anciãos de Israel, de quem sabes que são anciãos do povo, 
+{rp|n4}Então o SENHOR disse a Moisés: Ajunta-me setenta homens dos anciãos de Israel, de quem sabes que são anciãos do povo, 
+{tr}Então o SENHOR disse a Moisés: Ajunta-Me setenta homens dos anciãos de Israel, de quem sabes que são anciãos do povo, 
 e seus oficiais; e traze-os à porta do tabernáculo do testemunho, e esperem ali contigo.
 \v Nm.11.17
 E eu descerei e falarei ali contigo; e tomarei do espírito que está sobre ti, e 
@@ -948,7 +960,8 @@ Porém o SENHOR respondeu a Moisés: Por acaso o poder
 \fn
 Lit. a mão
 \*fn
- do SENHOR é curto? Agora verás se a minha palavra te acontecerá ou não.
+{rp|n4} do SENHOR é curto? Agora verás se a minha palavra te acontecerá ou não.
+{tr} do SENHOR é curto? Agora verás se a Minha palavra te acontecerá ou não.
 \v Nm.11.24
 E Moisés saiu, e disse ao povo as palavras do SENHOR; e ajuntou setenta homens dos anciãos do povo, e os pôs 
 ao redor da tenda.
@@ -992,14 +1005,18 @@ E logo disse o SENHOR a Moisés, a Arão, e a Miriã: Saí vós três à tenda d
 \v Nm.12.5
 Então o SENHOR desceu na coluna da nuvem, e pôs-se à entrada da tenda, e chamou a Arão e a Miriã; e saíram eles ambos.
 \v Nm.12.6
-E ele lhes disse: Ouvi agora minhas palavras: se tiverdes profeta do SENHOR, lhe aparecerei em visão, em sonhos 
+{rp|n4}E ele lhes disse: Ouvi agora minhas palavras: se tiverdes profeta do SENHOR, lhe aparecerei em visão, em sonhos 
+{tr}E ele lhes disse: Ouvi agora Minhas palavras: se tiverdes profeta do SENHOR, lhe aparecerei em visão, em sonhos 
 falarei com ele.
 \v Nm.12.7
-Não assim a meu servo Moisés, que é fiel em toda minha casa:
+{rp|n4}Não assim a meu servo Moisés, que é fiel em toda minha casa:
+{tr}Não assim a Meu servo Moisés, que é fiel em toda Minha casa:
 \v Nm.12.8
-Face a face falarei com ele, e às claras, e não por figuras; e verá a aparência do SENHOR: por que pois não tivestes temor de falar contra meu servo Moisés?
+{rp|n4}Face a face falarei com ele, e às claras, e não por figuras; e verá a aparência do SENHOR: por que pois não tivestes temor de falar contra meu servo Moisés?
+{tr}Face a face falarei com ele, e às claras, e não por figuras; e verá a aparência do SENHOR: por que pois não tivestes temor de falar contra Meu servo Moisés?
 \v Nm.12.9
-Então o furor do SENHOR se acendeu neles; e ele se foi.
+{rp|n4}Então o furor do SENHOR se acendeu neles; e ele se foi.
+{tr}Então o furor do SENHOR se acendeu neles; e Ele se foi.
 \v Nm.12.10
 E a nuvem se afastou da tenda; e eis que Miriã era leprosa como a neve; e Arão olhou para Miriã, e eis que 
 estava leprosa.
@@ -1132,23 +1149,29 @@ sua proteção se retirou deles, e o SENHOR está conosco; não os temais.”
 Então toda a congregação falou de apedrejá-los. Mas a glória do SENHOR apareceu no tabernáculo do testemunho a 
 todos os filhos de Israel.
 \v Nm.14.11
-E o SENHOR disse a Moisés: “Até quando este povo me desprezará? Até quando não crerão em mim, apesar de todos os 
+{rp|n4}E o SENHOR disse a Moisés: “Até quando este povo me desprezará? Até quando não crerão em mim, apesar de todos os 
+{tr}E o SENHOR disse a Moisés: “Até quando este povo Me desprezará? Até quando não crerão em Mim, apesar de todos os 
 sinais que fiz no meio deles?
 \v Nm.14.12
 Eu o ferirei com pestilência, e o deserdarei, e farei de ti um povo maior e mais forte do que ele.”
 \v Nm.14.13
-E Moisés respondeu ao SENHOR: “Então os egípcios ouvirão isso, porque foi com a tua força que tiraste este povo 
+{rp|n4}E Moisés respondeu ao SENHOR: “Então os egípcios ouvirão isso, porque foi com a tua força que tiraste este povo 
+{tr}E Moisés respondeu ao SENHOR: “Então os egípcios ouvirão isso, porque foi com a Tua força que tiraste este povo 
 do meio deles.
 \v Nm.14.14
-E dirão isso aos habitantes desta terra; os quais ouviram que tu, ó SENHOR, estavas no meio deste povo, 
-que tu, ó SENHOR, lhes apareces face a face, e que tua nuvem está sobre eles, e que de dia vais diante deles em 
+{rp|n4}E dirão isso aos habitantes desta terra; os quais ouviram que tu, ó SENHOR, estavas no meio deste povo, 
+{tr}E dirão isso aos habitantes desta terra; os quais ouviram que Tu, ó SENHOR, estavas no meio deste povo, 
+{rp|n4}que tu, ó SENHOR, lhes apareces face a face, e que tua nuvem está sobre eles, e que de dia vais diante deles em 
+{tr}que Tu, ó SENHOR, lhes apareces face a face, e que Tua nuvem está sobre eles, e que de dia vais diante deles em 
 uma coluna de nuvem, e de noite em uma coluna de fogo.
 \v Nm.14.15
-Mas, se fizeres morrer a este povo como a um homem, então as nações que ouviram da tua fama falarão, dizendo:
+{rp|n4}Mas, se fizeres morrer a este povo como a um homem, então as nações que ouviram da tua fama falarão, dizendo:
+{tr}Mas, se fizeres morrer a este povo como a um homem, então as nações que ouviram da Tua fama falarão, dizendo:
 \v Nm.14.16
 ‘O SENHOR não pôde fazer este povo entrar na terra da qual lhes havia jurado, por isso os matou no deserto.’
 \v Nm.14.17
-Agora, pois, rogo-te que a força do Senhor se engrandeça, como o falaste, dizendo:
+{rp|n4}Agora, pois, rogo-te que a força do Senhor se engrandeça, como o falaste, dizendo:
+{tr}Agora, pois, rogo-Te que a força do Senhor se engrandeça, como o falaste, dizendo:
 \v Nm.14.18
 ‘O SENHOR é tardio para se irar e tem grande misericórdia; ele perdoa a iniquidade e a transgressão, 
 porém não considera ao culpado como inocente; ele visita a maldade dos pais sobre os filhos, 
@@ -1158,19 +1181,24 @@ geração
 \*added
 .’
 \v Nm.14.19
-Perdoa, pois, a iniquidade deste povo, segundo a grandeza de tua misericórdia, e como perdoaste a este povo 
+{rp|n4}Perdoa, pois, a iniquidade deste povo, segundo a grandeza de tua misericórdia, e como perdoaste a este povo 
+{tr}Perdoa, pois, a iniquidade deste povo, segundo a grandeza de Tua misericórdia, e como perdoaste a este povo 
 desde o Egito até aqui.”
 \v Nm.14.20
 Então o SENHOR disse: “Eu o perdoei conforme a tua palavra;
 \v Nm.14.21
 Porém, tão certamente como eu vivo, e a glória do SENHOR enche toda a terra,
 \v Nm.14.22
-que todos os que viram a minha glória e os meus sinais que fiz no Egito e no deserto, e me tentaram já dez vezes, 
-e não obedeceram à minha voz,
+{rp|n4}que todos os que viram a minha glória e os meus sinais que fiz no Egito e no deserto, e me tentaram já dez vezes, 
+{tr}que todos os que viram a Minha glória e os Meus sinais que fiz no Egito e no deserto, e Me tentaram já dez vezes, 
+{rp|n4}e não obedeceram à minha voz,
+{tr}e não obedeceram à Minha voz,
 \v Nm.14.23
-não verão a terra da qual jurei a seus pais; não, nenhum dos que me irritaram a verá.
+{rp|n4}não verão a terra da qual jurei a seus pais; não, nenhum dos que me irritaram a verá.
+{tr}não verão a terra da qual jurei a seus pais; não, nenhum dos que Me irritaram a verá.
 \v Nm.14.24
-Porém meu servo Calebe, porque houve nele outro espírito, e me seguiu completamente, eu o levarei à terra em que 
+{rp|n4}Porém meu servo Calebe, porque houve nele outro espírito, e me seguiu completamente, eu o levarei à terra em que 
+{tr}Porém Meu servo Calebe, porque houve nele outro espírito, e Me seguiu completamente, eu o levarei à terra em que 
 entrou, e sua descendência
 \fn
 Lit. semente
@@ -1182,13 +1210,17 @@ mar vermelho.”
 \v Nm.14.26
 E o SENHOR falou a Moisés e a Arão, dizendo:
 \v Nm.14.27
-“Até quando ouvirei esta multidão má, que murmura contra mim? Tenho ouvido as queixas dos filhos de Israel, que 
-se queixam de mim.
+{rp|n4}“Até quando ouvirei esta multidão má, que murmura contra mim? Tenho ouvido as queixas dos filhos de Israel, que 
+{tr}“Até quando ouvirei esta multidão má, que murmura contra Mim? Tenho ouvido as queixas dos filhos de Israel, que 
+{rp|n4}se queixam de mim.
+{tr}se queixam de Mim.
 \v Nm.14.28
-Dize-lhes: ‘Tão certo como eu vivo, diz o SENHOR, que segundo falastes a meus ouvidos, assim eu farei convosco;
+{rp|n4}Dize-lhes: ‘Tão certo como eu vivo, diz o SENHOR, que segundo falastes a meus ouvidos, assim eu farei convosco;
+{tr}Dize-lhes: ‘Tão certo como eu vivo, diz o SENHOR, que segundo falastes a Meus ouvidos, assim eu farei convosco;
 \v Nm.14.29
 Neste deserto cairão vossos corpos; todos os vossos, contados segundo toda a vossa contagem, de vinte anos acima, 
-os quais murmurastes contra mim;
+{rp|n4}os quais murmurastes contra mim;
+{tr}os quais murmurastes contra Mim;
 \v Nm.14.30
 certamente não entrareis na terra pela qual jurei
 \fn
@@ -1208,9 +1240,11 @@ Lit. “vossas fornicações” ou “vossas prostituições”
  até que vossos corpos sejam consumidos no deserto.
 \v Nm.14.34
 Conforme o número dos dias, dos quarenta dias em que reconhecestes a terra, levareis vossas iniquidades por 
-quarenta anos, um ano para cada dia; e conhecereis meu castigo.’
+{rp|n4}quarenta anos, um ano para cada dia; e conhecereis meu castigo.’
+{tr}quarenta anos, um ano para cada dia; e conhecereis Meu castigo.’
 \v Nm.14.35
-Eu, o SENHOR, falei; assim farei a toda esta multidão perversa que se juntou contra mim; neste deserto serão 
+{rp|n4}Eu, o SENHOR, falei; assim farei a toda esta multidão perversa que se juntou contra mim; neste deserto serão 
+{tr}Eu, o SENHOR, falei; assim farei a toda esta multidão perversa que se juntou contra Mim; neste deserto serão 
 consumidos, e ali morrerão.”
 \v Nm.14.36
 E os homens que Moisés enviou para reconhecer a terra, e depois de voltarem, fizeram toda a congregação murmurar 
@@ -1331,7 +1365,8 @@ Fala aos filhos de Israel, e dize-lhes que se façam franjas) nos arremates de s
 \v Nm.15.39
 E vos servirá de franja, para que quando o virdes, vos lembreis de todos os mandamentos do SENHOR, para praticá-los; e não olheis segundo vosso coração e vossos olhos, atrás dos quais prostituís:
 \v Nm.15.40
-Para que vos lembreis, e façais todos meus mandamentos, e sejais santos a vosso Deus.
+{rp|n4}Para que vos lembreis, e façais todos meus mandamentos, e sejais santos a vosso Deus.
+{tr}Para que vos lembreis, e façais todos Meus mandamentos, e sejais santos a vosso Deus.
 \v Nm.15.41
 Eu sou o SENHOR vosso Deus, que vos tirei da terra do Egito, para ser vosso Deus: Eu sou o SENHOR vosso Deus.
 \v Nm.16.1
@@ -1448,7 +1483,8 @@ E escreverás o nome de Arão sobre a vara de Levi; porque cada cabeça de famí
 \v Nm.17.4
 E as porás no tabernáculo do testemunho diante do testemunho, onde eu me declararei a vós.
 \v Nm.17.5
-E será, que o homem que eu escolher, sua vara florescerá: e farei cessar de sobre mim as queixas dos filhos de Israel, com que murmuram contra vós.
+{rp|n4}E será, que o homem que eu escolher, sua vara florescerá: e farei cessar de sobre mim as queixas dos filhos de Israel, com que murmuram contra vós.
+{tr}E será, que o homem que eu escolher, sua vara florescerá: e farei cessar de sobre Mim as queixas dos filhos de Israel, com que murmuram contra vós.
 \v Nm.17.6
 E Moisés falou aos filhos de Israel, e todos os príncipes deles lhe deram varas; cada príncipe pelas casas de seus pais uma vara, em todas doze varas; e a vara de Arão estava entre as varas deles.
 \v Nm.17.7
@@ -1458,7 +1494,8 @@ E aconteceu que no dia seguinte veio Moisés ao tabernáculo do testemunho; e ei
 \v Nm.17.9
 Então tirou Moisés todas as varas de diante do SENHOR a todos os filhos de Israel; e eles o viram, e tomaram cada um sua vara.
 \v Nm.17.10
-E o SENHOR disse a Moisés: Volta a vara de Arão diante do testemunho, para que se guarde por sinal aos filhos rebeldes; e farás cessar suas queixas de sobre mim, para que não morram.
+{rp|n4}E o SENHOR disse a Moisés: Volta a vara de Arão diante do testemunho, para que se guarde por sinal aos filhos rebeldes; e farás cessar suas queixas de sobre mim, para que não morram.
+{tr}E o SENHOR disse a Moisés: Volta a vara de Arão diante do testemunho, para que se guarde por sinal aos filhos rebeldes; e farás cessar suas queixas de sobre Mim, para que não morram.
 \v Nm.17.11
 E o fez Moisés: como lhe mandou o SENHOR, assim fez.
 \v Nm.17.12
@@ -1482,10 +1519,12 @@ da parte do SENHOR, para que sirvam no ministério do tabernáculo do testemunho
 Porém tu e teus filhos contigo guardareis vosso sacerdócio em todo negócio do altar, e do véu dentro, e ministrareis. 
 Eu vos dei como presente o serviço de vosso sacerdócio; e o estranho que se aproximar morrerá.
 \v Nm.18.8
-Disse mais o SENHOR a Arão: Eis que eu te dei também a guarda de minhas ofertas: todas as coisas consagradas dos filhos de Israel te dei por razão da unção, e a teus filhos, por estatuto perpétuo.
+{rp|n4}Disse mais o SENHOR a Arão: Eis que eu te dei também a guarda de minhas ofertas: todas as coisas consagradas dos filhos de Israel te dei por razão da unção, e a teus filhos, por estatuto perpétuo.
+{tr}Disse mais o SENHOR a Arão: Eis que eu te dei também a guarda de Minhas ofertas: todas as coisas consagradas dos filhos de Israel te dei por razão da unção, e a teus filhos, por estatuto perpétuo.
 \v Nm.18.9
 Isto será teu da oferta das coisas santas separadas do fogo: toda oferta deles, toda oferta de alimentos deles, e 
-toda expiação pelo pecado deles, que me restituirão, será coisa santíssima para ti e para os teus filhos.
+{rp|n4}toda expiação pelo pecado deles, que me restituirão, será coisa santíssima para ti e para os teus filhos.
+{tr}toda expiação pelo pecado deles, que Me restituirão, será coisa santíssima para ti e para os teus filhos.
 \v Nm.18.10
 No santuário a comerás; todo homem comerá dela: coisa santa será para ti.
 \v Nm.18.11
@@ -1607,9 +1646,11 @@ E juntaram Moisés e Arão a congregação diante da rocha, e disse-lhes: Ouvi a
 \v Nm.20.11
 Então levantou Moisés sua mão, e feriu a rocha com sua vara duas vezes: e saíram muitas águas, e bebeu a congregação, e seus animais.
 \v Nm.20.12
-E o SENHOR disse a Moisés e a Arão: Porquanto não crestes em mim, para santificar-me aos olhos dos filhos de Israel, portanto, não poreis esta congregação na terra que lhes dei.
+{rp|n4}E o SENHOR disse a Moisés e a Arão: Porquanto não crestes em mim, para santificar-me aos olhos dos filhos de Israel, portanto, não poreis esta congregação na terra que lhes dei.
+{tr}E o SENHOR disse a Moisés e a Arão: Porquanto não crestes em Mim, para santificar-Me aos olhos dos filhos de Israel, portanto, não poreis esta congregação na terra que lhes dei.
 \v Nm.20.13
-Estas são as águas da briga, pelas quais contenderam os filhos de Israel com o SENHOR, e ele se santificou neles.
+{rp|n4}Estas são as águas da briga, pelas quais contenderam os filhos de Israel com o SENHOR, e ele se santificou neles.
+{tr}Estas são as águas da briga, pelas quais contenderam os filhos de Israel com o SENHOR, e Ele se santificou neles.
 \v Nm.20.14
 E enviou Moisés embaixadores ao rei de Edom desde Cades: Assim diz Israel teu irmão: Tu soubeste todo o trabalho que nos veio:
 \v Nm.20.15
@@ -1631,7 +1672,8 @@ E partidos de Cades os filhos de Israel, toda aquela congregação, vieram ao mo
 \v Nm.20.23
 E o SENHOR falou a Moisés e Arão no monte de Hor, nos confins da terra de Edom, dizendo:
 \v Nm.20.24
-Arão será reunido a seus povos; pois não entrará na terra que eu dize aos filhos de Israel, porquanto fostes rebeldes a meu mandamento nas águas da briga.
+{rp|n4}Arão será reunido a seus povos; pois não entrará na terra que eu dize aos filhos de Israel, porquanto fostes rebeldes a meu mandamento nas águas da briga.
+{tr}Arão será reunido a seus povos; pois não entrará na terra que eu dize aos filhos de Israel, porquanto fostes rebeldes a Meu mandamento nas águas da briga.
 \v Nm.20.25
 Toma a Arão e a Eleazar seu filho, e faze-os subir ao monte de Hor;
 \v Nm.20.26
@@ -1769,7 +1811,8 @@ Assim Balaão se levantou pela manhã, e preparou sua jumenta, e foi com os prí
 \v Nm.22.22
 E o furor de Deus se acendeu porque ele ia; e o anjo do SENHOR se pôs no caminho por adversário seu. Ia, pois, ele montado sobre sua jumenta, e com ele dois servos seus.
 \v Nm.22.23
-E a jumenta viu o anjo do SENHOR, que estava no caminho com sua espada exposta em sua mão; então a jumenta desviou-se do caminho, e foi pelo campo. Em seguida, Balaão espancou a jumenta para fazê-la voltar ao caminho.
+{rp|n4}E a jumenta viu o anjo do SENHOR, que estava no caminho com sua espada exposta em sua mão; então a jumenta desviou-se do caminho, e foi pelo campo. Em seguida, Balaão espancou a jumenta para fazê-la voltar ao caminho.
+{tr}E a jumenta viu o anjo do SENHOR, que estava no caminho com Sua espada exposta em Sua mão; então a jumenta desviou-se do caminho, e foi pelo campo. Em seguida, Balaão espancou a jumenta para fazê-la voltar ao caminho.
 \v Nm.22.24
 Mas o anjo do SENHOR se pôs em uma vereda de vinhas que tinha parede de uma parte e parede de outra.
 \v Nm.22.25
@@ -1789,7 +1832,8 @@ Então o SENHOR abriu os olhos a Balaão, e viu ao anjo do SENHOR que estava no 
 \v Nm.22.32
 E o anjo do SENHOR lhe disse: Por que feriste tua jumenta estas três vezes? eis que eu saí para me opor a ti, porque teu caminho é perverso diante de mim:
 \v Nm.22.33
-A jumenta me viu, e afastou-se logo de diante de mim estas três vezes: e se de mim não se houvesse afastado, eu também agora mataria a ti, e a ela deixaria viva.
+{rp|n4}A jumenta me viu, e afastou-se logo de diante de mim estas três vezes: e se de mim não se houvesse afastado, eu também agora mataria a ti, e a ela deixaria viva.
+{tr}A jumenta Me viu, e afastou-se logo de diante de Mim estas três vezes: e se de Mim não se houvesse afastado, eu também agora mataria a ti, e a ela deixaria viva.
 \v Nm.22.34
 Então Balaão disse ao anjo do SENHOR: Pequei, que não sabia que tu te punhas diante de mim no caminho: mas agora, se te parece mal, eu me voltarei.
 \v Nm.22.35
@@ -1937,9 +1981,11 @@ E morreram daquela mortandade vinte e quatro mil.
 \v Nm.25.10
 Então o SENHOR falou a Moisés, dizendo:
 \v Nm.25.11
-Fineias, filho de Eleazar, filho de Arão o sacerdote, fez afastar meu furor dos filhos de Israel, levado de zelo entre eles: pelo qual eu não consumi em meu zelo aos filhos de Israel.
+{rp|n4}Fineias, filho de Eleazar, filho de Arão o sacerdote, fez afastar meu furor dos filhos de Israel, levado de zelo entre eles: pelo qual eu não consumi em meu zelo aos filhos de Israel.
+{tr}Fineias, filho de Eleazar, filho de Arão o sacerdote, fez afastar Meu furor dos filhos de Israel, levado de zelo entre eles: pelo qual eu não consumi em Meu zelo aos filhos de Israel.
 \v Nm.25.12
-Portanto dize lhes: Eis que eu estabeleço meu pacto de paz com ele;
+{rp|n4}Portanto dize lhes: Eis que eu estabeleço meu pacto de paz com ele;
+{tr}Portanto dize lhes: Eis que eu estabeleço Meu pacto de paz com ele;
 \v Nm.25.13
 E terá ele, e sua descendência depois dele, o pacto do sacerdócio perpétuo; porquanto teve zelo por seu Deus, e fez expiação pelos filhos de Israel.
 \v Nm.25.14
@@ -2109,7 +2155,8 @@ E o SENHOR disse a Moisés: Sobe a este monte Abarim, e verás a terra que dei a
 \v Nm.27.13
 E depois que a houverdes visto, tu também serás recolhido ao teus povo, como foi reunido o teu irmão Arão;
 \v Nm.27.14
-pois fostes rebeldes no deserto de Zim, no conflito da congregação, ao meu mandado de me santificar nas águas à vista 
+{rp|n4}pois fostes rebeldes no deserto de Zim, no conflito da congregação, ao meu mandado de me santificar nas águas à vista 
+{tr}pois fostes rebeldes no deserto de Zim, no conflito da congregação, ao Meu mandado de Me santificar nas águas à vista 
 deles. Essas são as águas do conflito de Cades no deserto de Zim.
 \v Nm.27.15
 Então Moisés respondeu ao SENHOR:
@@ -2484,7 +2531,8 @@ Que subiram até o vale de Escol, e depois que viram a terra, preocuparam o âni
 \v Nm.32.10
 E o furor do SENHOR se acendeu então, e jurou dizendo:
 \v Nm.32.11
-Os homens que subiram do Egito de vinte anos acima não verão a terra pela qual jurei a Abraão, Isaque, e Jacó, pois não me seguiram por completo;
+{rp|n4}Os homens que subiram do Egito de vinte anos acima não verão a terra pela qual jurei a Abraão, Isaque, e Jacó, pois não me seguiram por completo;
+{tr}Os homens que subiram do Egito de vinte anos acima não verão a terra pela qual jurei a Abraão, Isaque, e Jacó, pois não Me seguiram por completo;
 \v Nm.32.12
 exceto Calebe, filho do quenezeu Jefoné, e Josué filho de Num, que seguiram por completo ao SENHOR.
 \v Nm.32.13
