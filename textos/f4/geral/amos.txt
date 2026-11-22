@@ -33,7 +33,8 @@ seu castigo
 \v Am.1.7
 Por isso meterei fogo no muro de Gaza, que consumirá seus palácios.
 \v Am.1.8
-E exterminarei o morador de Asdode, e o dono do cetro de Asquelom; e tornarei minha mão contra Ecrom, e o resto dos filisteus perecerá, diz o Senhor DEUS.
+{rp|n4}E exterminarei o morador de Asdode, e o dono do cetro de Asquelom; e tornarei minha mão contra Ecrom, e o resto dos filisteus perecerá, diz o Senhor DEUS.
+{tr}E exterminarei o morador de Asdode, e o dono do cetro de Asquelom; e tornarei Minha mão contra Ecrom, e o resto dos filisteus perecerá, diz o Senhor DEUS.
 \v Am.1.9
 Assim diz o SENHOR: Por três transgressões de Tiro, e pela quarta, não desviarei 
 \added
@@ -99,7 +100,8 @@ Eles pisam a cabeça dos pobres no pó da terra, e distorcem o caminho dos humil
 \added
 mesma
 \*added
- moça, para profanarem o meu santo nome.
+{rp|n4} moça, para profanarem o meu santo nome.
+{tr} moça, para profanarem o Meu santo nome.
 \v Am.2.8
 E se deitam junto a qualquer altar com roupas tomadas em penhor, e bebem vinho tomado como multa
 \fn
@@ -162,7 +164,8 @@ lit. mal
 \*fn
  na cidade que o SENHOR não tenha feito?
 \v Am.3.7
-Certamente o Senhor DEUS não fará coisa alguma sem ter revelado seu segredo a seus servos os profetas.
+{rp|n4}Certamente o Senhor DEUS não fará coisa alguma sem ter revelado seu segredo a seus servos os profetas.
+{tr}Certamente o Senhor DEUS não fará coisa alguma sem ter revelado Seu segredo a Seus servos os profetas.
 \v Am.3.8
 Quando o leão ruge, quem não temerá? Quando o Senhor DEUS fala, quem não profetizará?
 \v Am.3.9
@@ -193,7 +196,8 @@ E ferirei a casa do inverno com a casa do verão, e as casas de marfim se acabar
 \v Am.4.1
 Ouvi esta palavra, vós vacas de Basã, que estais no monte de Samaria; que oprimis os pobres, que quebrantais os necessitados, que dizeis a seus senhores: Trazei nossa bebida.
 \v Am.4.2
-O Senhor DEUS jurou por sua santidade: Eis que vêm dias sobre vós em que vos levarão em ganchos, e a vossos descendentes em anzóis de pesca.
+{rp|n4}O Senhor DEUS jurou por sua santidade: Eis que vêm dias sobre vós em que vos levarão em ganchos, e a vossos descendentes em anzóis de pesca.
+{tr}O Senhor DEUS jurou por Sua santidade: Eis que vêm dias sobre vós em que vos levarão em ganchos, e a vossos descendentes em anzóis de pesca.
 \v Am.4.3
 E saireis pelas brechas cada uma atrás da outra, e sereis lançadas para Harmom,
 \fn
@@ -215,7 +219,8 @@ bocas vazias = lit. dentes limpos
 \*key
 i.e. fome
 \*fn
- em todas vossas cidades, e falta de pão em todos os vossos lugares, contudo não vos convertestes a mim, diz o SENHOR.
+{rp|n4} em todas vossas cidades, e falta de pão em todos os vossos lugares, contudo não vos convertestes a mim, diz o SENHOR.
+{tr} em todas vossas cidades, e falta de pão em todos os vossos lugares, contudo não vos convertestes a Mim, diz o SENHOR.
 \v Am.4.7
 Além disso eu vos retive a chuva três meses antes da colheita; e fiz chover sobre uma cidade, e sobre outra cidade não fiz chover; sobre um campo choveu; mas o outro campo sobre o qual não choveu, se secou;
 \v Am.4.8
@@ -223,13 +228,17 @@ De modo que
 \added
 os moradores de
 \*added
- duas ou três cidades perambulavam até uma cidade para beberem água, mas não se saciavam; contudo não vos convertestes a mim, diz o SENHOR.
+{rp|n4} duas ou três cidades perambulavam até uma cidade para beberem água, mas não se saciavam; contudo não vos convertestes a mim, diz o SENHOR.
+{tr} duas ou três cidades perambulavam até uma cidade para beberem água, mas não se saciavam; contudo não vos convertestes a Mim, diz o SENHOR.
 \v Am.4.9
-Eu vos feri com ferrugem e doenças nas plantas; a multidão de vossos jardins e vossas vinhas, vossas figueiras e vossas oliveiras o gafanhoto comeu; contudo não vos convertestes a mim, diz o SENHOR.
+{rp|n4}Eu vos feri com ferrugem e doenças nas plantas; a multidão de vossos jardins e vossas vinhas, vossas figueiras e vossas oliveiras o gafanhoto comeu; contudo não vos convertestes a mim, diz o SENHOR.
+{tr}Eu vos feri com ferrugem e doenças nas plantas; a multidão de vossos jardins e vossas vinhas, vossas figueiras e vossas oliveiras o gafanhoto comeu; contudo não vos convertestes a Mim, diz o SENHOR.
 \v Am.4.10
-Enviei entre vós a pestilência, à maneira do Egito; matei à espada vossos rapazes, e deixei que capturassem vossos cavalos; e fiz subir o mau cheiro de vossos exércitos até vossas narinas; contudo não vos convertestes a mim, diz o SENHOR.
+{rp|n4}Enviei entre vós a pestilência, à maneira do Egito; matei à espada vossos rapazes, e deixei que capturassem vossos cavalos; e fiz subir o mau cheiro de vossos exércitos até vossas narinas; contudo não vos convertestes a mim, diz o SENHOR.
+{tr}Enviei entre vós a pestilência, à maneira do Egito; matei à espada vossos rapazes, e deixei que capturassem vossos cavalos; e fiz subir o mau cheiro de vossos exércitos até vossas narinas; contudo não vos convertestes a Mim, diz o SENHOR.
 \v Am.4.11
-Transtornei a alguns dentre vós, como quando Deus transtornou a Sodoma e a Gomorra, e fostes como tição escapado do fogo; contudo não vos convertestes a mim, diz o SENHOR.
+{rp|n4}Transtornei a alguns dentre vós, como quando Deus transtornou a Sodoma e a Gomorra, e fostes como tição escapado do fogo; contudo não vos convertestes a mim, diz o SENHOR.
+{tr}Transtornei a alguns dentre vós, como quando Deus transtornou a Sodoma e a Gomorra, e fostes como tição escapado do fogo; contudo não vos convertestes a Mim, diz o SENHOR.
 \v Am.4.12
 Portanto assim farei a ti, ó Israel; e visto que te farei isto, ó Israel, prepara-te para te encontrares com teu Deus.
 \v Am.4.13
@@ -246,7 +255,8 @@ soldados
 \*added
  sobrará com cem; e a que enviou cem sobrará com dez, na casa de Israel.
 \v Am.5.4
-Porque assim diz o SENHOR à casa de Israel: Buscai-me, e vivereis;
+{rp|n4}Porque assim diz o SENHOR à casa de Israel: Buscai-me, e vivereis;
+{tr}Porque assim diz o SENHOR à casa de Israel: Buscai-Me, e vivereis;
 \v Am.5.5
 Porém não busqueis a Betel nem venhais a Gilgal, nem passeis a Berseba; porque Gilgal será levada em cativeiro, e Betel será reduzida a nada.
 \v Am.5.6
@@ -254,8 +264,10 @@ Buscai ao SENHOR, e vivereis; para que não aconteça que surja como fogo à cas
 \v Am.5.7
 Vós perverteis o juízo em absinto, e abandonam a justiça no chão.
 \v Am.5.8
-Ele é o que fez as Plêiades e o Órion, e torna as trevas em manhã, e faz escurecer o dia em noite; ele chama as águas 
-do mar, e as derrama sobre a face da terra; EU-SOU é o seu nome.
+{rp|n4}Ele é o que fez as Plêiades e o Órion, e torna as trevas em manhã, e faz escurecer o dia em noite; ele chama as águas 
+{tr}Ele é o que fez as Plêiades e o Órion, e torna as trevas em manhã, e faz escurecer o dia em noite; Ele chama as águas 
+{rp|n4}do mar, e as derrama sobre a face da terra; EU-SOU é o seu nome.
+{tr}do mar, e as derrama sobre a face da terra; EU-SOU é o Seu nome.
 \v Am.5.9
 Ele causa súbita destruição
 \fn
@@ -297,13 +309,16 @@ Por acaso não será o dia do SENHOR trevas e não luz, uma escuridão sem clari
 \v Am.5.21
 Eu odeio, desprezo vossas solenidades, e não aguento vossas reuniões religiosas.
 \v Am.5.22
-Ainda que me ofereçais holocaustos e vossas ofertas de alimentos, não os aceitarei; nem darei atenção a vossas ofertas de gratidão de vossos animais cevados.
+{rp|n4}Ainda que me ofereçais holocaustos e vossas ofertas de alimentos, não os aceitarei; nem darei atenção a vossas ofertas de gratidão de vossos animais cevados.
+{tr}Ainda que Me ofereçais holocaustos e vossas ofertas de alimentos, não os aceitarei; nem darei atenção a vossas ofertas de gratidão de vossos animais cevados.
 \v Am.5.23
-Afasta de mim os teus muitos cânticos; também não ouvirei as melodias de teus instrumentos.
+{rp|n4}Afasta de mim os teus muitos cânticos; também não ouvirei as melodias de teus instrumentos.
+{tr}Afasta de Mim os teus muitos cânticos; também não ouvirei as melodias de teus instrumentos.
 \v Am.5.24
 Em vez disso, corra o juízo como as águas, e a justiça como um ribeiro impetuoso.
 \v Am.5.25
-Por acaso vós oferecestes a mim sacrifícios e ofertas de alimento no deserto durante os quarenta anos, ó casa de Israel?
+{rp|n4}Por acaso vós oferecestes a mim sacrifícios e ofertas de alimento no deserto durante os quarenta anos, ó casa de Israel?
+{tr}Por acaso vós oferecestes a Mim sacrifícios e ofertas de alimento no deserto durante os quarenta anos, ó casa de Israel?
 \v Am.5.26
 Em vez disso, levastes as imagens de vosso rei Sicute, e de Quium, a estrela de vossos deus, que fizestes para vós mesmos.
 \v Am.5.27
@@ -395,7 +410,8 @@ E
 \*added
  o SENHOR se arrependeu disso: Isto também não acontecerá, disse o Senhor DEUS.
 \v Am.7.7
-Assim ele me fez ver: Eis que o Senhor estava sobre um muro que havia sido feito conforme o prumo, e havia um prumo em sua mão.
+{rp|n4}Assim ele me fez ver: Eis que o Senhor estava sobre um muro que havia sido feito conforme o prumo, e havia um prumo em sua mão.
+{tr}Assim Ele me fez ver: Eis que o Senhor estava sobre um muro que havia sido feito conforme o prumo, e havia um prumo em Sua mão.
 \v Am.7.8
 E o SENHOR me disse: O que vês, Amós? E eu disse: Um prumo. Então o Senhor disse: Eis que eu porei um prumo no meio de meu povo Israel; não mais o tolerarei.
 \v Am.7.9
@@ -458,11 +474,14 @@ Ainda que cavassem até o Xeol,
 \fn
 Xeol é o lugar dos mortos
 \*fn
- dali minha mão os tirará; e se subissem até o céu, dali os farei descer.
+{rp|n4} dali minha mão os tirará; e se subissem até o céu, dali os farei descer.
+{tr} dali Minha mão os tirará; e se subissem até o céu, dali os farei descer.
 \v Am.9.3
-E se se escondessem no topo do Carmelo, ali eu os buscaria e os tomaria; e ainda que se escondessem de diante de meus olhos no fundo do mar, até ali mandia uma serpente para os morder.
+{rp|n4}E se se escondessem no topo do Carmelo, ali eu os buscaria e os tomaria; e ainda que se escondessem de diante de meus olhos no fundo do mar, até ali mandia uma serpente para os morder.
+{tr}E se se escondessem no topo do Carmelo, ali eu os buscaria e os tomaria; e ainda que se escondessem de diante de Meus olhos no fundo do mar, até ali mandia uma serpente para os morder.
 \v Am.9.4
-E se forem levados em cativeiro diante de seus inimigos, ali mandarei a espada que os matará; e porei meus olhos sobre eles para o mal, e não para o bem.
+{rp|n4}E se forem levados em cativeiro diante de seus inimigos, ali mandarei a espada que os matará; e porei meus olhos sobre eles para o mal, e não para o bem.
+{tr}E se forem levados em cativeiro diante de seus inimigos, ali mandarei a espada que os matará; e porei Meus olhos sobre eles para o mal, e não para o bem.
 \v Am.9.5
 Pois o Senhor DEUS dos exércitos é o que toca a terra, e ela se derrete, e choram todos os que nela moram; ela toda subirá como um rio, e se afundará como o rio do Egito.
 \v Am.9.6
@@ -475,7 +494,8 @@ obscuro
 \*fn
  sobre a terra; ele chama as águas do mar e as derrama sobre a terra. EU-SOU é o seu nome.
 \v Am.9.7
-Vós, filhos de Israel, por acaso não sois para mim como os filhos de Etíopes? Diz o SENHOR. Por acaso eu não fiz subir a Israel desde a terra do Egito, assim como os filisteus desde Caftor, e os sírios desde Quir?
+{rp|n4}Vós, filhos de Israel, por acaso não sois para mim como os filhos de Etíopes? Diz o SENHOR. Por acaso eu não fiz subir a Israel desde a terra do Egito, assim como os filisteus desde Caftor, e os sírios desde Quir?
+{tr}Vós, filhos de Israel, por acaso não sois para Mim como os filhos de Etíopes? Diz o SENHOR. Por acaso eu não fiz subir a Israel desde a terra do Egito, assim como os filisteus desde Caftor, e os sírios desde Quir?
 \v Am.9.8
 Eis que os olhos do Senhor DEUS estão contra este reino pecador, e eu o exterminarei da face da terra; mas não exterminarei por completo a casa de Jacó, diz o SENHOR.
 \v Am.9.9
@@ -485,14 +505,17 @@ o grão
 \*added
  é cirandado na peneira, e nenhum grão cairá na terra.
 \v Am.9.10
-Morrerão à espada todos os pecadores de meu povo, que dizem: O mal não chegará a nós, nem nos encontrará.
+{rp|n4}Morrerão à espada todos os pecadores de meu povo, que dizem: O mal não chegará a nós, nem nos encontrará.
+{tr}Morrerão à espada todos os pecadores de Meu povo, que dizem: O mal não chegará a nós, nem nos encontrará.
 \v Am.9.11
 Naquele dia voltarei a levantar a caída tenda de Davi; fecharei suas brechas, repararei suas ruínas, e a reconstruirei como nos dias antigos,
 \v Am.9.12
-Para que tomem posse do restante de Edom, e todas as nações que se chamam pelo meu nome, diz o SENHOR, que faz isto.
+{rp|n4}Para que tomem posse do restante de Edom, e todas as nações que se chamam pelo meu nome, diz o SENHOR, que faz isto.
+{tr}Para que tomem posse do restante de Edom, e todas as nações que se chamam pelo Meu nome, diz o SENHOR, que faz isto.
 \v Am.9.13
 Eis que vêm dias, diz o SENHOR, em que o que ara alcançará ao que colhe, e o que pisa as uvas ao que leva a semente; e os montes destilarão suco de uva, e todos os morros se derreterão.
 \v Am.9.14
-E restaurarei meu povo Israel de seu infortúnio; então reconstruirão as cidades assoladas, e nelas habitarão; e plantarão vinhas, e beberão o vinho delas; e farão jardins, e comerão o fruto deles.
+{rp|n4}E restaurarei meu povo Israel de seu infortúnio; então reconstruirão as cidades assoladas, e nelas habitarão; e plantarão vinhas, e beberão o vinho delas; e farão jardins, e comerão o fruto deles.
+{tr}E restaurarei Meu povo Israel de seu infortúnio; então reconstruirão as cidades assoladas, e nelas habitarão; e plantarão vinhas, e beberão o vinho delas; e farão jardins, e comerão o fruto deles.
 \v Am.9.15
 Pois eu os plantarei em sua terra, e nunca mais serão arrancados de sua terra, que eu lhes dei, diz o SENHOR, teu Deus.

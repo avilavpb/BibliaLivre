@@ -27,9 +27,11 @@ os significados dos insetos é obscuro
 Despertai, vós bêbados, e chorem; gemei todos vós que bebeis vinho, por causa do vinho novo, que foi tirado de 
 vossa boca.
 \v Joel.1.6
-Porque uma nação poderosa e inumerável subiu contra minha terra; seus dentes são dentes de leão, e tem presas de leoa.
+{rp|n4}Porque uma nação poderosa e inumerável subiu contra minha terra; seus dentes são dentes de leão, e tem presas de leoa.
+{tr}Porque uma nação poderosa e inumerável subiu contra Minha terra; seus dentes são dentes de leão, e tem presas de leoa.
 \v Joel.1.7
-Assolou minha vinha e descortiçou minha figueira; desnudou-a toda e a derrubou; seus ramos ficaram brancos.
+{rp|n4}Assolou minha vinha e descortiçou minha figueira; desnudou-a toda e a derrubou; seus ramos ficaram brancos.
+{tr}Assolou Minha vinha e descortiçou Minha figueira; desnudou-a toda e a derrubou; seus ramos ficaram brancos.
 \v Joel.1.8
 Lamenta como uma virgem, vestida de saco, pelo marido de sua juventude.
 \v Joel.1.9
@@ -60,11 +62,14 @@ As sementes apodreceram sob seus torrões, os celeiros foram assolados, os armaz
 \v Joel.1.18
 Como geme o gado! As manadas de vacas estão confusas, porque não têm pasto; também os rebanhos das ovelhas sofrem.
 \v Joel.1.19
-A ti, ó SENHOR, eu clamo; porque o fogo consumiu os pastos do deserto, e a chama incendiou todas as árvores do campo.
+{rp|n4}A ti, ó SENHOR, eu clamo; porque o fogo consumiu os pastos do deserto, e a chama incendiou todas as árvores do campo.
+{tr}A Ti, ó SENHOR, eu clamo; porque o fogo consumiu os pastos do deserto, e a chama incendiou todas as árvores do campo.
 \v Joel.1.20
-Até os animais do campo clamam a ti, porque os ribeiros de águas se secaram, e o fogo consumiu os pastos do deserto.
+{rp|n4}Até os animais do campo clamam a ti, porque os ribeiros de águas se secaram, e o fogo consumiu os pastos do deserto.
+{tr}Até os animais do campo clamam a Ti, porque os ribeiros de águas se secaram, e o fogo consumiu os pastos do deserto.
 \v Joel.2.1
-Tocai a trombeta em Sião, e fazei ressoar alarme em meu santo monte; tremam todos os moradores desta terra, 
+{rp|n4}Tocai a trombeta em Sião, e fazei ressoar alarme em meu santo monte; tremam todos os moradores desta terra, 
+{tr}Tocai a trombeta em Sião, e fazei ressoar alarme em Meu santo monte; tremam todos os moradores desta terra, 
 porque o dia do SENHOR vem, porque perto está.
 \v Joel.2.2
 Dia de trevas e de escuridão, dia de nuvens e densas trevas, como o amanhecer espalhado sobre os montes; um povo 
@@ -93,9 +98,11 @@ A terra se abala diante dele, os céus tremem; o sol e a lua se escurecem, e as 
 E o SENHOR levanta sua voz diante de seu exército; porque seu exército é muito grande; pois é poderoso para fazer 
 cumprir sua palavra; porque o dia do SENHOR é grande e muito terrível; quem o poderá suportar?
 \v Joel.2.12
-Agora, portanto, o SENHOR diz: “Convertei-vos a mim com todo o vosso coração, com jejum, choro e pranto. 
+{rp|n4}Agora, portanto, o SENHOR diz: “Convertei-vos a mim com todo o vosso coração, com jejum, choro e pranto. 
+{tr}Agora, portanto, o SENHOR diz: “Convertei-vos a Mim com todo o vosso coração, com jejum, choro e pranto. 
 \v Joel.2.13
-Rasgai vosso coração, e não vossas vestes”. Convertei-vos ao SENHOR vosso Deus, porque ele é piedoso e 
+{rp|n4}Rasgai vosso coração, e não vossas vestes”. Convertei-vos ao SENHOR vosso Deus, porque ele é piedoso e 
+{tr}Rasgai vosso coração, e não vossas vestes”. Convertei-vos ao SENHOR vosso Deus, porque Ele é piedoso e 
 misericordioso, tardio em irar-se, e é grande em beneficência, e se arrepende do castigo.
 \v Joel.2.14
 Quem sabe ele volte atrás e se arrependa, e deixe após si uma bênção, uma oferta de alimento e de bebida ao SENHOR, 
@@ -106,13 +113,17 @@ Tocai trombeta em Sião, santificai um jejum, proclamai uma reunião solene.
 Reuni vós o povo, santificai a congregação, ajuntai os anciãos, reuni as crianças e os que mamam; o noivo saia de seu 
 cômodo, e a noiva de seu quarto.
 \v Joel.2.17
-Os sacerdotes, trabalhadores do SENHOR, chorem entre o pórtico e o altar, e digam: “Poupa teu povo, SENHOR, e não 
-entregues tua herança à humilhação, para que as nações a dominem. Por que diriam entre os povos: ‘Onde está 
+{rp|n4}Os sacerdotes, trabalhadores do SENHOR, chorem entre o pórtico e o altar, e digam: “Poupa teu povo, SENHOR, e não 
+{tr}Os sacerdotes, trabalhadores do SENHOR, chorem entre o pórtico e o altar, e digam: “Poupa Teu povo, SENHOR, e não 
+{rp|n4}entregues tua herança à humilhação, para que as nações a dominem. Por que diriam entre os povos: ‘Onde está 
+{tr}entregues Tua herança à humilhação, para que as nações a dominem. Por que diriam entre os povos: ‘Onde está 
 o Deus deles?’”
 \v Joel.2.18
-Então o SENHOR teve zelo de sua terra, e se compadeceu de seu povo.
+{rp|n4}Então o SENHOR teve zelo de sua terra, e se compadeceu de seu povo.
+{tr}Então o SENHOR teve zelo de Sua terra, e se compadeceu de Seu povo.
 \v Joel.2.19
-E o SENHOR respondeu e disse a seu povo: “Eis que eu vos enviarei trigo, sumo de uva, e azeite, e deles vós sereis 
+{rp|n4}E o SENHOR respondeu e disse a seu povo: “Eis que eu vos enviarei trigo, sumo de uva, e azeite, e deles vós sereis 
+{tr}E o SENHOR respondeu e disse a Seu povo: “Eis que eu vos enviarei trigo, sumo de uva, e azeite, e deles vós sereis 
 saciados; e não mais vos entregarei à humilhação entre as nações.
 \v Joel.2.20
 E o que vem do norte farei partir para longe de vós, e o lançarei numa terra seca e deserta; sua frente para o mar 
@@ -124,7 +135,8 @@ Não temas, ó terra; jubila e alegra-te, porque o SENHOR fez grandes coisas.
 Não temais, animais do campo; porque os pastos do deserto voltarão a ficar verdes, porque as árvores darão seu 
 fruto, a figueira e a videira produzirão seu vigor.
 \v Joel.2.23
-E vós, filhos de Sião, jubilai e alegrai-vos no SENHOR vosso Deus; porque ele vos dará a primeira chuva em justiça, e 
+{rp|n4}E vós, filhos de Sião, jubilai e alegrai-vos no SENHOR vosso Deus; porque ele vos dará a primeira chuva em justiça, e 
+{tr}E vós, filhos de Sião, jubilai e alegrai-vos no SENHOR vosso Deus; porque Ele vos dará a primeira chuva em justiça, e 
 fará descer sobre vós a chuva, a primeira e a posterior, como era antes.
 \v Joel.2.24
 E as eiras se encherão de trigo, e as prensas transbordarão de vinho novo e de azeite.
@@ -133,12 +145,15 @@ E as eiras se encherão de trigo, e as prensas transbordarão de vinho novo e de
 grande exército que enviei contra vós.
 \v Joel.2.26
 E vós comereis abundantemente até a saciedade; e louvareis o nome do SENHOR vosso Deus, que vos tratou 
-maravilhosamente; e meu povo nunca mais será envergonhado.
+{rp|n4}maravilhosamente; e meu povo nunca mais será envergonhado.
+{tr}maravilhosamente; e Meu povo nunca mais será envergonhado.
 \v Joel.2.27
-E vós sabereis que eu estou no meio de Israel, e que eu sou o SENHOR vosso Deus, e nenhum outro; e meu povo nunca 
+{rp|n4}E vós sabereis que eu estou no meio de Israel, e que eu sou o SENHOR vosso Deus, e nenhum outro; e meu povo nunca 
+{tr}E vós sabereis que eu estou no meio de Israel, e que eu sou o SENHOR vosso Deus, e nenhum outro; e Meu povo nunca 
 mais será envergonhado.
 \v Joel.2.28
-E será depois que derramarei meu Espírito sobre toda a gente; 
+{rp|n4}E será depois que derramarei meu Espírito sobre toda a gente; 
+{tr}E será depois que derramarei Meu Espírito sobre toda a gente; 
 \fn
 \key
 gente
@@ -147,7 +162,8 @@ Lit. carne
 \*fn
 e vossos filhos e vossas filhas profetizarão; vossos idosos terão sonhos, e vossos jovens terão visões.
 \v Joel.2.29
-E também sobre os servos e sobre as servas, naqueles dias, derramarei meu Espírito.
+{rp|n4}E também sobre os servos e sobre as servas, naqueles dias, derramarei meu Espírito.
+{tr}E também sobre os servos e sobre as servas, naqueles dias, derramarei Meu Espírito.
 \v Joel.2.30
 E mostrarei maravilhas no céu e na terra; sangue, fogo, e colunas de fumaça.
 \v Joel.2.31
@@ -159,15 +175,20 @@ livramento, assim como o SENHOR tem dito, entre os que restarem, aos quais o SEN
 Porque eis que, naqueles dias e naquele tempo, em que restaurarei o destino de Judá e de Jerusalém,
 \v Joel.3.2
 então reunirei todas as nações, e as farei descer ao vale de Josafá. E ali entrarei em juízo contra elas por causa de 
-meu povo e de minha herança, Israel, ao qual dispersaram entre as nações, e repartiram minha terra.
+{rp|n4}meu povo e de minha herança, Israel, ao qual dispersaram entre as nações, e repartiram minha terra.
+{tr}Meu povo e de Minha herança, Israel, ao qual dispersaram entre as nações, e repartiram Minha terra.
 \v Joel.3.3
-E lançaram sortes sobre meu povo, e trocaram cada jovem por uma prostituta, e venderam as moças por vinho, 
+{rp|n4}E lançaram sortes sobre meu povo, e trocaram cada jovem por uma prostituta, e venderam as moças por vinho, 
+{tr}E lançaram sortes sobre Meu povo, e trocaram cada jovem por uma prostituta, e venderam as moças por vinho, 
 para beberem.
 \v Joel.3.4
-E, também, que vós tendes a ver comigo, Tiro e Sidom, e todas as regiões da Filístia? Tentareis vos vingar de mim? Mas, 
-se quereis vos vingar de mim, depressa eu vos darei a retribuição sobre vossa cabeça.
+{rp|n4}E, também, que vós tendes a ver comigo, Tiro e Sidom, e todas as regiões da Filístia? Tentareis vos vingar de mim? Mas, 
+{tr}E, também, que vós tendes a ver Comigo, Tiro e Sidom, e todas as regiões da Filístia? Tentareis vos vingar de Mim? Mas, 
+{rp|n4}se quereis vos vingar de mim, depressa eu vos darei a retribuição sobre vossa cabeça.
+{tr}se quereis vos vingar de Mim, depressa eu vos darei a retribuição sobre vossa cabeça.
 \v Joel.3.5
-Porque vós levastes minha prata e meu ouro, e pusestes meus tesouros preciosos em vossos templos,
+{rp|n4}Porque vós levastes minha prata e meu ouro, e pusestes meus tesouros preciosos em vossos templos,
+{tr}Porque vós levastes Minha prata e Meu ouro, e pusestes Meus tesouros preciosos em vossos templos,
 \v Joel.3.6
 E vendestes os filhos de Judá e os filhos de Jerusalém aos filhos dos gregos, para os afastar de seu território.
 \v Joel.3.7
@@ -192,8 +213,10 @@ Multidões, multidões no vale da decisão! Porque perto está o dia do SENHOR n
 \v Joel.3.15
 O sol e a lua se escurecem, e as estrelas tiram seu brilho.
 \v Joel.3.16
-E o SENHOR rugirá de Sião e dará sua voz de Jerusalém, e os céus e a terra tremerão; mas o SENHOR será o refúgio de 
-seu povo, e a fortaleza dos filhos de Israel.
+{rp|n4}E o SENHOR rugirá de Sião e dará sua voz de Jerusalém, e os céus e a terra tremerão; mas o SENHOR será o refúgio de 
+{tr}E o SENHOR rugirá de Sião e dará Sua voz de Jerusalém, e os céus e a terra tremerão; mas o SENHOR será o refúgio de 
+{rp|n4}seu povo, e a fortaleza dos filhos de Israel.
+{tr}Seu povo, e a fortaleza dos filhos de Israel.
 \v Joel.3.17
 “E vós sabereis que eu sou o SENHOR vosso Deus, que habito em Sião, meu santo monte; e Jerusalém será santa, e 
 estrangeiros não mais passarão por ela.

@@ -495,3 +495,4 @@ Marcação usada: o bloco `\added` … `\*added` do formato f4, com cada marcado
 - **Livros históricos (Josué–Ester)** (AT): 305 versículos, 582 pronomes. Ficam 440 versículos para revisão (`pronomes-divinos/historicos-pendentes.md`).
 - **Livros poéticos (Jó–Cantares)** (AT): 907 versículos, 1420 pronomes. Ficam 1098 versículos para revisão (`pronomes-divinos/poeticos-pendentes.md`).
 - **Profetas maiores (Isaías–Daniel)** (AT): 704 versículos, 1145 pronomes. Ficam 694 versículos para revisão (`pronomes-divinos/maiores-pendentes.md`).
+- **Profetas menores (Oseias–Malaquias)** (AT): 190 versículos, 268 pronomes. Ficam 161 versículos para revisão (`pronomes-divinos/menores-pendentes.md`).

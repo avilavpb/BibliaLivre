@@ -13,11 +13,13 @@ HAB
 \v Hab.1.1
 Revelação que o profeta Habacuque viu.
 \v Hab.1.2
-Até quando, SENHOR, eu clamarei, e tu não ouvirás? 
+{rp|n4}Até quando, SENHOR, eu clamarei, e tu não ouvirás? 
+{tr}Até quando, SENHOR, eu clamarei, e Tu não ouvirás? 
 \added
 Até quando
 \*added
- gritarei a ti: Violência!, e tu não salvarás?
+{rp|n4} gritarei a ti: Violência!, e tu não salvarás?
+{tr} gritarei a Ti: Violência!, e Tu não salvarás?
 \v Hab.1.3
 Por que me fazes ver a injustiça, e vês a opressão? Pois assolação e violência estão em frente de mim, há brigas, e disputas se levantam.
 \v Hab.1.4
@@ -71,7 +73,8 @@ Por isso ele faz sacrifícios à sua malha, e oferece incensos à sua rede; porq
 \v Hab.1.17
 Continuará ele, pois, a esvaziar a sua malha, e a matar as nações continuamente sem ter compaixão?
 \v Hab.2.1
-Sobre o meu posto de guarda estarei, e sobre a fortaleza ficarei e vigiarei, para ver o que ele me falará, e o que 
+{rp|n4}Sobre o meu posto de guarda estarei, e sobre a fortaleza ficarei e vigiarei, para ver o que ele me falará, e o que 
+{tr}Sobre o meu posto de guarda estarei, e sobre a fortaleza ficarei e vigiarei, para ver o que Ele me falará, e o que 
 eu responderei à minha queixa.
 \v Hab.2.2
 Então o SENHOR me respondeu, e disse: Escreve a visão, e a põe claramente em tábuas, para que mesmo quem esteja 
@@ -131,7 +134,8 @@ Que proveito há na imagem de escultura, que seu formador a esculpiu? E na image
 \v Hab.2.19
 Ai daquele que diz ao pedaço de madeira: Desperta-te; e à pedra muda: Levanta-te! Poderá essa coisa ensinar? Eis que está coberta de ouro e prata, mas não há dentro dela espírito algum.
 \v Hab.2.20
-Porém o SENHOR está em seu santo templo; que toda a terra se cale diante dele.
+{rp|n4}Porém o SENHOR está em seu santo templo; que toda a terra se cale diante dele.
+{tr}Porém o SENHOR está em Seu santo templo; que toda a terra se cale diante dEle.
 \v Hab.3.1
 Oração do profeta Habacuque, conforme “Siguionote”.
 \v Hab.3.2
@@ -139,9 +143,11 @@ Oração do profeta Habacuque, conforme “Siguionote”.
 \v Hab.3.3
 Deus veio de Temã, o Santo do monte de Parã (Selá). Sua glória cobriu os céus, e a terra se encheu de seu louvor.
 \v Hab.3.4
-E houve resplendor como o da luz; raios brilhantes saíam de sua mão; e ali sua força estava escondida.
+{rp|n4}E houve resplendor como o da luz; raios brilhantes saíam de sua mão; e ali sua força estava escondida.
+{tr}E houve resplendor como o da luz; raios brilhantes saíam de Sua mão; e ali Sua força estava escondida.
 \v Hab.3.5
-A praga ia adiante dele, e a pestilência seguia seus pés.
+{rp|n4}A praga ia adiante dele, e a pestilência seguia seus pés.
+{tr}A praga ia adiante dEle, e a pestilência seguia Seus pés.
 \v Hab.3.6
 Ele parou, e sacudiu a terra; ele olhou, e abalou as nações; e os montes antigos foram despedaçados, os morros antigos caíram. Seus caminhos são eternos.
 \v Hab.3.7
@@ -159,7 +165,8 @@ Obscuro. Trad. alt. "juramentos foram feitos às tribos pela palavra"
 \*fn
  (Selá). Fendeste a terra com rios.
 \v Hab.3.10
-Os montes te viram, e tiveram dores; a inundação das águas passou. O abismo deu sua voz, e levantou suas mãos ao alto.
+{rp|n4}Os montes te viram, e tiveram dores; a inundação das águas passou. O abismo deu sua voz, e levantou suas mãos ao alto.
+{tr}Os montes Te viram, e tiveram dores; a inundação das águas passou. O abismo deu sua voz, e levantou suas mãos ao alto.
 \v Hab.3.11
 O sol e a lua pararam em suas moradas; à luz de tuas flechas passaram, com o resplendor de tua lança relampejante.
 \v Hab.3.12
@@ -180,4 +187,5 @@ Ainda que a figueira não floresça, nem haja fruto nas vides, e falte o produto
 \v Hab.3.18
 Mesmo assim eu me alegrarei no SENHOR, terei prazer no Deus de minha salvação.
 \v Hab.3.19
-DEUS, o Senhor, é minha fortaleza; ele fará meus pés como os das corças, e me fará andar sobre meus lugares altos.(Para o regente, com instrumentos de cordas).
+{rp|n4}DEUS, o Senhor, é minha fortaleza; ele fará meus pés como os das corças, e me fará andar sobre meus lugares altos.(Para o regente, com instrumentos de cordas).
+{tr}DEUS, o Senhor, é minha fortaleza; Ele fará meus pés como os das corças, e me fará andar sobre meus lugares altos.(Para o regente, com instrumentos de cordas).
