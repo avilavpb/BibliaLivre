@@ -2388,7 +2388,8 @@ de Jesus
 {rp|n4}todo o povo a causa por que o havia tocado, e como imediatamente havia sido curada.
 {tr}todo o povo a causa por que O havia tocado, e como imediatamente havia sido curada.
 \v Lc.8.48
-E ele lhe disse: 
+{rp|n4}E ele lhe disse: 
+{tr}E Ele lhe disse: 
 {tr|rp}“Tem bom ânimo,
 {trnc}\fn
 {trnc}N4 não contém “Tem bom ânimo”
@@ -3147,7 +3148,8 @@ Lit. ele
 \added
 ainda
 \*added
- falando, um fariseu rogou-lhe que viesse jantar com ele; e ele, entrando, assentou-se à mesa;
+{rp|n4} falando, um fariseu rogou-lhe que viesse jantar com ele; e ele, entrando, assentou-se à mesa;
+{tr} falando, um fariseu rogou-Lhe que viesse jantar com ele; e Ele, entrando, assentou-se à mesa;
 \v Lc.11.38
 Mas o fariseu ficou surpreso de ver que 
 \added

@@ -516,4 +516,4 @@ Pedido de Marcelo: revisão versículo a versículo, com julgamento. Para cada p
 - **Mateus**: 132 versículos, 222 pronomes alterados na revisão manual; 6 casos anotados (`pronomes-divinos/revisao-mat-duvidosos.md`).
 - **Correções da passada automática** (referentes humanos que tinham ficado em maiúscula): Mt 4.8 "levou consigo" (o diabo); Mt 22.15 "entre si" (os fariseus); Mc 4.36 "O levaram consigo" (os discípulos; também "o" → "O", que é Jesus); Lc 7.49 "entre si"; 2Co 5.15 "para si"; Jó 30.11 "de si".
 - **Marcos**: 126 versículos, 205 pronomes alterados na revisão manual; 4 casos anotados (`pronomes-divinos/revisao-mrk-duvidosos.md`).
-- **Lucas**: 181 versículos, 275 pronomes alterados na revisão manual; 4 casos anotados (`pronomes-divinos/revisao-luk-duvidosos.md`).
+- **Lucas**: 183 versículos, 278 pronomes alterados na revisão manual; 4 casos anotados (`pronomes-divinos/revisao-luk-duvidosos.md`).
