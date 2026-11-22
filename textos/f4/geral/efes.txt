@@ -125,7 +125,7 @@ e que sejam iluminados os olhos do vosso
 {trnc}RP, N4: coração 
 {trnc}\*fn
 {rp|n4} para que conheçais qual é a esperança para a qual ele chamou, quais 
-{tr} para que conheçais qual é a esperança para a qual ele chamou, quais 
+{tr} para que conheçais qual é a esperança para a qual Ele chamou, quais 
 \added
 são
 \*added
@@ -134,7 +134,7 @@ são
 Lit. glória da herança
 \*fn
 {rp|n4} dele nos santos,
-{tr} dele nos santos,
+{tr} dEle nos santos,
 \v Ef.1.19
 {rp|n4}e qual é a superabundante grandeza do seu poder para nós, que cremos, conforme a operação da sua poderosa força,
 {tr}e qual é a superabundante grandeza do Seu poder para nós, que cremos, conforme a operação da Sua poderosa força,
@@ -188,10 +188,10 @@ nos
  fez sentar nos lugares celestiais, em Cristo Jesus;
 \v Ef.2.7
 {rp|n4}para mostrar nos tempos futuros as abundantes riquezas da sua graça, pela 
-{tr}para mostrar nos tempos futuros as abundantes riquezas da sua graça, pela 
+{tr}para mostrar nos tempos futuros as abundantes riquezas da Sua graça, pela 
 \added
 {rp|n4}sua
-{tr}sua
+{tr}Sua
 \*added
  bondade conosco em Cristo Jesus.
 \v Ef.2.8

@@ -393,7 +393,7 @@ E como Moisés levantou a serpente no deserto, assim é necessário que Filho do
  tenha a vida eterna.
 \v Joao.3.16
 {rp|n4}Porque Deus amou o mundo de tal maneira, que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, 
-{tr}Porque Deus amou o mundo de tal maneira, que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, 
+{tr}Porque Deus amou o mundo de tal maneira, que deu o Seu Filho unigênito, para que todo aquele que nEle crê não pereça, 
 mas tenha a vida eterna.
 \v Joao.3.17
 {rp|n4}Porque Deus enviou seu Filho ao mundo, não para que condenasse o mundo; mas sim, para que o mundo fosse salvo por ele.
@@ -813,7 +813,7 @@ Ele era uma lâmpada ardente e brilhante; e vós, por um pouco de tempo, quisest
 {tr}faço, testemunham de Mim que o Pai Me enviou.
 \v Joao.5.37
 {rp|n4}E o Pai que me enviou, ele mesmo testemunhou de mim. Vós nunca ouvistes a voz dele, nem vistes sua aparência;
-{tr}E o Pai que Me enviou, ele mesmo testemunhou de Mim. Vós nunca ouvistes a voz dele, nem vistes sua aparência;
+{tr}E o Pai que Me enviou, Ele mesmo testemunhou de Mim. Vós nunca ouvistes a voz dEle, nem vistes Sua aparência;
 \v Joao.5.38
 {rp|n4}e não tendes a palavra dele permanecendo em vós; porque vós não credes naquele que ele enviou.
 {tr}e não tendes a palavra dEle permanecendo em vós; porque vós não credes naquele que Ele enviou.
@@ -1166,7 +1166,7 @@ Subi vós para
 {tr}Mas, tendo Seus irmãos já subido, então Ele subiu também à festa, não publicamente, mas como em oculto.
 \v Joao.7.11
 {rp|n4}Assim, os judeus o buscavam na festa, e diziam: “Onde ele está?”
-{tr}Assim, os judeus o buscavam na festa, e diziam: “Onde ele está?”
+{tr}Assim, os judeus O buscavam na festa, e diziam: “Onde ele está?”
 \v Joao.7.12
 {rp|n4}E havia grande murmuração nas multidões acerca dele. Alguns diziam: “Ele é bom”; e outros diziam: “Não, mas ele engana 
 {tr}E havia grande murmuração nas multidões acerca dEle. Alguns diziam: “Ele é bom”; e outros diziam: “Não, mas Ele engana 
@@ -2155,7 +2155,7 @@ que
 {tr}E a multidão que estava com Ele quando chamou Lázaro da sepultura e o ressuscitou dos mortos, dava testemunho.
 \v Joao.12.18
 {rp|n4}Por isso também a multidão saiu ao encontro dele, porque ouviram que ele havia feito esse sinal.
-{tr}Por isso também a multidão saiu ao encontro dele, porque ouviram que ele havia feito esse sinal.
+{tr}Por isso também a multidão saiu ao encontro dEle, porque ouviram que Ele havia feito esse sinal.
 \v Joao.12.19
 {rp|n4}Então os fariseus disseram entre si: “Vós vedes que não estais conseguindo nada? Eis que o mundo vai atrás dele”.
 {tr}Então os fariseus disseram entre si: “Vós vedes que não estais conseguindo nada? Eis que o mundo vai atrás dEle”.

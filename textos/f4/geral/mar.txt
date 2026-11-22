@@ -396,10 +396,10 @@ de Jerusalém, da Idumeia, dalém do Jordão; e das proximidades de Tiro e de Si
 {tr}E os espíritos imundos, vendo-O, prostravam-se diante dEle, e exclamavam: “Tu és o Filho de Deus”.
 \v Mc.3.12
 {rp|n4}E ele os repreendia muito, para que não manifestassem quem ele era.
-{tr}E ele os repreendia muito, para que não manifestassem quem ele era.
+{tr}E Ele os repreendia muito, para que não manifestassem quem Ele era.
 \v Mc.3.13
 {rp|n4}E ele subiu ao monte, e chamou para si os que quis; e vieram a ele.
-{tr}E ele subiu ao monte, e chamou para si os que quis; e vieram a ele.
+{tr}E Ele subiu ao monte, e chamou para Si os que quis; e vieram a Ele.
 \v Mc.3.14
 {rp|n4}E constituiu os doze, para que estivessem com ele, e para enviá-los a pregar,
 {tr}E constituiu os doze, para que estivessem com Ele, e para enviá-los a pregar,
@@ -837,7 +837,7 @@ E
 {tr}E Ele, entrando, disse-lhes: “Por que vós estais fazendo alvoroço e chorando? A menina não está morta, mas dorme”.
 \v Mc.5.40
 {rp|n4}E riram dele. Mas Jesus,
-{tr}E riram dele. Mas 
+{tr}E riram dEle. Mas 
 {tr}\added
 {tr}Jesus
 {tr}\*added
@@ -846,9 +846,9 @@ E
 Lit. ele
 \*fn
 {rp|n4} havendo-os posto todos fora, tomou consigo o pai e a mãe da menina, e os que 
-{tr} havendo-os posto todos fora, tomou consigo o pai e a mãe da menina, e os que 
+{tr} havendo-os posto todos fora, tomou Consigo o pai e a mãe da menina, e os que 
 {rp|n4}estavam com ele; e entrou onde a menina estava
-{tr}estavam com ele; e entrou onde a menina estava
+{tr}estavam com Ele; e entrou onde a menina estava
 {tr|rp} deitada
 .
 {trnc}\fn
@@ -883,7 +883,7 @@ E Jesus lhes dizia: “Não há profeta que não tenha honra, senão em sua terr
 E estava admirado da incredulidade deles. E percorreu as aldeias vizinhas, ensinando.
 \v Mc.6.7
 {rp|n4}E chamou a si os doze, e começou a enviá-los de dois em dois; e deu-lhes poder sobre os espíritos imundos.
-{tr}E chamou a si os doze, e começou a enviá-los de dois em dois; e deu-lhes poder sobre os espíritos imundos.
+{tr}E chamou a Si os doze, e começou a enviá-los de dois em dois; e deu-lhes poder sobre os espíritos imundos.
 \v Mc.6.8
 E mandou-lhes que não levassem nada para o caminho, senão somente um cajado; nem bolsa, nem pão, nem dinheiro no cinto;
 \v Mc.6.9
@@ -1418,7 +1418,8 @@ vejam o reino de Deus vindo com poder”.
 \v Mc.9.2
 {rp|n4}E seis dias depois, Jesus tomou consigo Pedro, Tiago, e João, e os levou à parte, em particular, para um alto monte; e 
 {tr}E seis dias depois, Jesus tomou consigo Pedro, Tiago, e João, e os levou à parte, em particular, para um alto monte; e 
-transfigurou-se diante deles.
+{rp|n4}transfigurou-se diante deles.
+{tr}transfigurou-Se diante deles.
 \v Mc.9.3
 {rp|n4}E as roupas dele ficaram resplandescentes, muito brancas 
 {tr}E as roupas dEle ficaram resplandescentes, muito brancas 
@@ -1719,7 +1720,7 @@ E se
 .
 \v Mc.10.14
 {rp|n4}Porém Jesus, vendo, indignou-se, e disse-lhe: “Deixai vir as crianças a mim, e não as impeçais; porque delas é o Reino 
-{tr}Porém Jesus, vendo, indignou-se, e disse-lhe: “Deixai vir as crianças a Mim, e não as impeçais; porque delas é o Reino 
+{tr}Porém Jesus, vendo, indignou-Se, e disse-lhes: “Deixai vir as crianças a Mim, e não as impeçais; porque delas é o Reino 
 de Deus.
 \v Mc.10.15
 Em verdade vos digo que quem não receber o reino de Deus como criança, de maneira nenhuma nele entrará”.
@@ -2188,11 +2189,11 @@ Levítico 19:18
  Não há outro mandamento maior do que estes”.
 \v Mc.12.32
 {rp|n4}E o escriba lhe disse: “Muito bem, Mestre, com verdade disseste que 
-{tr}E o escriba lhe disse: “Muito bem, Mestre, com verdade disseste que 
+{tr}E o escriba Lhe disse: “Muito bem, Mestre, com verdade disseste que 
 {tr}há um só Deus
 {rp|n4}ele é um só
 {rp|n4}, e não há outro além dele.
-{tr}, e não há outro além dele.
+{tr}, e não há outro além dEle.
 \v Mc.12.33
 {rp|n4}E que amá-lo de todo o coração, de todo o entendimento,
 {tr}E que amá-Lo de todo o coração, de todo o entendimento,

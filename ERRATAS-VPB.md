@@ -539,3 +539,57 @@ Pedido de Marcelo: revisão versículo a versículo, com julgamento. Para cada p
 - **2João**: 1 versículos, 1 pronomes alterados na revisão manual; 1 casos anotados (`pronomes-divinos/revisao-2jn-duvidosos.md`).
 - **Judas**: 3 versículos, 3 pronomes alterados na revisão manual; 0 casos anotados (`pronomes-divinos/revisao-jud-duvidosos.md`).
 - **Apocalipse**: 33 versículos, 65 pronomes alterados na revisão manual; 3 casos anotados (`pronomes-divinos/revisao-rev-duvidosos.md`).
+
+### Decisões de Marcelo sobre os 34 versículos revertidos (22/11/2026)
+
+Marcelo decidiu um a um os 34 versículos de `revertidos34.md`. Tudo foi aplicado só no TR; n4 ficou intocado e as versões rp/n4 não mudaram.
+
+**Novas convenções:**
+- O pronome reflexivo "se" referido a Deus vai com maiúscula: "transfigurou-Se", "indignou-Se", "entregava-Se", "Se fez pobre". Por enquanto só foi aplicado nestes versículos. Um levantamento automático no NT encontrou cerca de 29 versículos com candidatos fortes e mais 144 prováveis, que ainda precisam de revisão (lista em `pronomes-divinos/convencoes-se-aquele-candidatos.md`).
+- "Aquele"/"dAquele", quando o referente é divino, vai com maiúscula (2Pd 1.3, Ap 7.15). Também só foi aplicado aqui. O levantamento encontrou cerca de 104 versículos candidatos.
+- Fala de adversários: quando quem fala trata Jesus como simples homem, o pronome fica em minúscula (Jo 7.11 "Onde ele está?"; Jo 7.35; Lc 23.2 "dizendo ser ele mesmo o Cristo"). Quando é o narrador que fala, vai maiúscula (Jo 7.11 "O buscavam"; Lc 23.2 "acusá-Lo").
+
+**Correções de texto decididas por Marcelo:**
+- Mc 10.14: "disse-lhe" passa a "disse-lhes". O grego TR tem εἶπεν αὐτοῖς, e Jesus fala aos discípulos.
+- Mt 6.4: tirado o "ele" de "ele te recompensará". Observação: o grego TR (Scrivener) tem αὐτὸς ἀποδώσει σοι ("Ele mesmo te recompensará"). A retirada é decisão de estilo de Marcelo, e o TR não a pede.
+- 1Jo 5.6: tirado o "lhe" ("o Espírito é o que dá testemunho"). O grego TR (τὸ πνεῦμά ἐστιν τὸ μαρτυροῦν) não tem esse pronome.
+- Tg 1.13: "e ele mesmo tenta ninguém" passa a "e Ele mesmo a ninguém tenta". Além do pronome, isso restaura a negação do grego TR (πειράζει δὲ αὐτὸς οὐδένα, "e Ele mesmo não tenta ninguém"). Sem "não" antes do verbo, "tenta ninguém" fica gramaticalmente errado em português.
+
+**Texto final, versículo a versículo:**
+
+1. **Joao.3.16** — Porque Deus amou o mundo de tal maneira, que deu o Seu Filho unigênito, para que todo aquele que nEle crê não pereça, mas tenha a vida eterna.
+2. **Joao.5.37** — E o Pai que Me enviou, Ele mesmo testemunhou de Mim. Vós nunca ouvistes a voz dEle, nem vistes Sua aparência;
+3. **Joao.7.11** — Assim, os judeus O buscavam na festa, e diziam: “Onde ele está?”
+4. **Joao.7.35** — Então os judeus disseram uns aos outros: “Para onde ele irá, que não o acharemos? Acaso ele irá aos dispersos entre os gregos, e ensinará os gregos?
+5. **Joao.12.18** — Por isso também a multidão saiu ao encontro dEle, porque ouviram que Ele havia feito esse sinal.
+6. **Lc.3.17** — Sua pá está em Sua mão, e limpará a Sua eira, e juntará o trigo no Seu celeiro; porém queimará a palha com fogo que nunca se apaga”.
+7. **Lc.9.26** — Pois quem se envergonhar de Mim e das Minhas palavras, dele o Filho do homem se envergonhará, quando vier na Sua glória, e na do Pai, e dos santos anjos.
+8. **Lc.18.9** — E disse também esta parábola a uns que confiavam de si mesmos de que eram justos, e desprezavam os outros:
+9. **Lc.18.15** — E alguns traziam-Lhe também criancinhas, para que as tocasse; e os discípulos, vendo, os repreendiam.
+10. **Lc.23.2** — E começaram a acusá-Lo, dizendo: “Encontramos este homem, que perverte a nação, e proíbe dar tributo a César, dizendo ser ele mesmo o Cristo, o Rei”.
+11. **Mc.3.12** — E Ele os repreendia muito, para que não manifestassem quem Ele era.
+12. **Mc.3.13** — E Ele subiu ao monte, e chamou para Si os que quis; e vieram a Ele.
+13. **Mc.5.40** — E riram dEle. Mas Jesus, havendo-os posto todos fora, tomou Consigo o pai e a mãe da menina, e os que estavam com Ele; e entrou onde a menina estava deitada.
+14. **Mc.6.7** — E chamou a Si os doze, e começou a enviá-los de dois em dois; e deu-lhes poder sobre os espíritos imundos.
+15. **Mc.6.51** — E subiu no barco para estar com eles, e o vento se aquietou; e entre si ficaram muito espantados e maravilhados,
+16. **Mc.9.2** — E seis dias depois, Jesus tomou consigo Pedro, Tiago, e João, e os levou à parte, em particular, para um alto monte; e transfigurou-Se diante deles.
+17. **Mc.10.14** — Porém Jesus, vendo, indignou-Se, e disse-lhes: “Deixai vir as crianças a Mim, e não as impeçais; porque delas é o Reino de Deus.
+18. **Mc.12.32** — E o escriba Lhe disse: “Muito bem, Mestre, com verdade disseste que há um só Deus, e não há outro além dEle.
+19. **Mt.6.4** — para que tua esmola seja em segredo, e teu Pai, que vê em segredo, te recompensará em público.
+20. **Mt.26.40** — E voltou a Seus discípulos, e os achou dormindo; e disse a Pedro: “Então, nem uma hora pudestes vigiar Comigo?
+21. **At.1.10** — E estando eles com os olhos fixos ao céu, enquanto Ele ia, eis que junto deles se puseram dois homens vestidos de branco,
+22. **At.1.11** — que também disseram: “Homens galileus, por que vós estais olhando para o céu? Este Jesus, que do meio de vós foi recebido acima no céu, assim Ele virá, da maneira como vós O vistes ir ao céu”.
+23. **At.10.38** — acerca de Jesus de Nazaré, como Deus O ungiu com o Espírito Santo e com poder; Ele andou fazendo o bem, e curando todos os  oprimidos pelo diabo, porque Deus era com Ele.
+24. **1Co.2.2** — Porque não quis saber coisa alguma entre vós, a não ser Jesus Cristo, e Ele crucificado.
+25. **2Co.1.10** — O qual nos livrou de tamanha morte, e ainda nos livra; nEle esperamos que também ainda nos livrará;
+26. **2Co.8.9** — Porque já conheceis a graça de nosso Senhor Jesus Cristo, que, sendo rico, por causa de vós Se fez pobre; para que com a pobreza dEle, vós enriquecêsseis.
+27. **2Ts.2.16** — E Ele mesmo, o nosso Senhor Jesus Cristo, e nosso Deus e Pai, que nos amou e em graça nos deu uma eterna consolação e boa esperança;
+28. **Ef.1.18** — e que sejam iluminados os olhos do vosso entendimento, para que conheçais qual é a esperança para a qual Ele chamou, quais são as riquezas da gloriosa herança dEle nos santos,
+29. **Ef.2.7** — para mostrar nos tempos futuros as abundantes riquezas da Sua graça, pela Sua bondade conosco em Cristo Jesus.
+30. **1Jo.5.6** — Este é aquele que veio por água e sangue: Jesus, o Cristo. Não só pela água, mas pela água e pelo sangue. E o Espírito é o que dá testemunho, porque o Espírito é a verdade.
+31. **1Pd.2.23** — Quando O insultavam, Ele não insultava de volta. Quando sofria, Ele não ameaçava; em vez disso, entregava-Se ao que julga de maneira justa.
+32. **2Pd.1.3** — Como Seu divino poder Ele tem nos dado tudo o que pertence à vida e à devoção divina, por meio do conhecimento dAquele que nos chamou à glória e virtude;
+33. **Ap.7.15** — Por isso eles estão diante do trono de Deus, e servem a Ele dia e noite no Seu templo; e Aquele que está sentado sobre o trono armará Sua tenda e habitará com eles.
+34. **Tg.1.13** — Ninguém, quando for tentado, diga: “Sou tentado por Deus”; porque Deus não é tentado pelo mal, e Ele mesmo a ninguém tenta;
+
+Sem mudança, por decisão dele: 4 (Jo 7.35), 8 (Lc 18.9), 15 (Mc 6.51). No item 16 (Mc 9.2), Marcelo indicou só "-Se". O "consigo" de "tomou consigo" (antes proposto como "Consigo") ficou como estava, à espera de confirmação.

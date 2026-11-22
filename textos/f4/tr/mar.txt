@@ -316,9 +316,9 @@ Pois havia curado muitos, de maneira que todos quantos tinham alguma doença lan
 \v Mc.3.11
 E os espíritos imundos, vendo-O, prostravam-se diante dEle, e exclamavam: “Tu és o Filho de Deus”.
 \v Mc.3.12
-E ele os repreendia muito, para que não manifestassem quem ele era.
+E Ele os repreendia muito, para que não manifestassem quem Ele era.
 \v Mc.3.13
-E ele subiu ao monte, e chamou para si os que quis; e vieram a ele.
+E Ele subiu ao monte, e chamou para Si os que quis; e vieram a Ele.
 \v Mc.3.14
 E constituiu os doze, para que estivessem com Ele, e para enviá-los a pregar,
 \v Mc.3.15
@@ -676,7 +676,7 @@ eles
 \v Mc.5.39
 E Ele, entrando, disse-lhes: “Por que vós estais fazendo alvoroço e chorando? A menina não está morta, mas dorme”.
 \v Mc.5.40
-E riram dele. Mas 
+E riram dEle. Mas 
 \added
 Jesus
 \*added
@@ -684,8 +684,8 @@ Jesus
 \fn
 Lit. ele
 \*fn
- havendo-os posto todos fora, tomou consigo o pai e a mãe da menina, e os que 
-estavam com ele; e entrou onde a menina estava
+ havendo-os posto todos fora, tomou Consigo o pai e a mãe da menina, e os que 
+estavam com Ele; e entrou onde a menina estava
  deitada
 .
 \fn
@@ -713,7 +713,7 @@ E Ele não pôde ali fazer milagre algum, senão somente curou uns poucos enferm
 \v Mc.6.6
 E estava admirado da incredulidade deles. E percorreu as aldeias vizinhas, ensinando.
 \v Mc.6.7
-E chamou a si os doze, e começou a enviá-los de dois em dois; e deu-lhes poder sobre os espíritos imundos.
+E chamou a Si os doze, e começou a enviá-los de dois em dois; e deu-lhes poder sobre os espíritos imundos.
 \v Mc.6.8
 E mandou-lhes que não levassem nada para o caminho, senão somente um cajado; nem bolsa, nem pão, nem dinheiro no cinto;
 \v Mc.6.9
@@ -1147,7 +1147,7 @@ E dizia-lhes também: “Em verdade vos digo, que há alguns dos que aqui estão
 vejam o reino de Deus vindo com poder”.
 \v Mc.9.2
 E seis dias depois, Jesus tomou consigo Pedro, Tiago, e João, e os levou à parte, em particular, para um alto monte; e 
-transfigurou-se diante deles.
+transfigurou-Se diante deles.
 \v Mc.9.3
 E as roupas dEle ficaram resplandescentes, muito brancas 
 como a neve
@@ -1383,7 +1383,7 @@ N4: as repreendiam
 \*fn
 .
 \v Mc.10.14
-Porém Jesus, vendo, indignou-se, e disse-lhe: “Deixai vir as crianças a Mim, e não as impeçais; porque delas é o Reino 
+Porém Jesus, vendo, indignou-Se, e disse-lhes: “Deixai vir as crianças a Mim, e não as impeçais; porque delas é o Reino 
 de Deus.
 \v Mc.10.15
 Em verdade vos digo que quem não receber o reino de Deus como criança, de maneira nenhuma nele entrará”.
@@ -1765,9 +1765,9 @@ Levítico 19:18
 \*ref
  Não há outro mandamento maior do que estes”.
 \v Mc.12.32
-E o escriba lhe disse: “Muito bem, Mestre, com verdade disseste que 
+E o escriba Lhe disse: “Muito bem, Mestre, com verdade disseste que 
 há um só Deus
-, e não há outro além dele.
+, e não há outro além dEle.
 \v Mc.12.33
 E que amá-Lo de todo o coração, de todo o entendimento,
  de toda a alma,

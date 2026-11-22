@@ -674,15 +674,15 @@ João respondeu a todos: “De fato, eu vos batizo com água, mas vem um que é 
 {tr}digno de desamarrar a tira das sandálias; Ele vos batizará com o Espírito Santo e com fogo.
 \v Lc.3.17
 {rp|n4}Sua pá está em sua mão
-{tr}Sua pá está em sua mão
+{tr}Sua pá está em Sua mão
 {tr|rp}, e limpará
 {n4} para limpar
 {rp|n4} a sua eira, e 
-{tr} a sua eira, e 
+{tr} a Sua eira, e 
 {tr|rp}juntará
 {n4}para juntar
 {rp|n4} o trigo no seu celeiro; porém queimará a palha com fogo que nunca se apaga”.
-{tr} o trigo no seu celeiro; porém queimará a palha com fogo que nunca se apaga”.
+{tr} o trigo no Seu celeiro; porém queimará a palha com fogo que nunca se apaga”.
 \v Lc.3.18
 Assim, exortando com muitas outras coisas, 
 \added
@@ -2539,7 +2539,7 @@ sacerdotes, e escribas; que seja morto, e ressuscitado ao terceiro dia”.
 Pois, que aproveita para alguém ganhar o mundo todo, e perder ou causar dano a si mesmo?
 \v Lc.9.26
 {rp|n4}Pois quem se envergonhar de mim e das minhas palavras, dele o Filho do homem se envergonhará, quando vier na sua 
-{tr}Pois quem se envergonhar de Mim e das Minhas palavras, dele o Filho do homem se envergonhará, quando vier na sua 
+{tr}Pois quem se envergonhar de Mim e das Minhas palavras, dele o Filho do homem se envergonhará, quando vier na Sua 
 glória, e na do Pai, e dos santos anjos.
 \v Lc.9.27
 E em verdade vos digo que, dentre os que aqui estão, há alguns que não experimentarão a morte, até que vejam o reino 
@@ -4278,7 +4278,7 @@ Digo-vos que este desceu mais justificado à sua casa do que aquele outro; pois 
 e quem humilha a si mesmo, será exaltado”.
 \v Lc.18.15
 {rp|n4}E alguns traziam-lhe também criancinhas, para que as tocasse; e os discípulos, vendo, os repreendiam.
-{tr}E alguns traziam-lhe também criancinhas, para que as tocasse; e os discípulos, vendo, os repreendiam.
+{tr}E alguns traziam-Lhe também criancinhas, para que as tocasse; e os discípulos, vendo, os repreendiam.
 \v Lc.18.16
 {rp|n4}Mas Jesus, chamando-as para si, disse: “Deixai vir a mim as crianças, e não as impeçais; porque das tais é o reino 
 {tr}Mas Jesus, chamando-as para si, disse: “Deixai vir a Mim as crianças, e não as impeçais; porque das tais é o reino 
@@ -5289,7 +5289,7 @@ Desde agora o Filho do homem estará assentado à direita do poder de Deus”.
 {tr}E levantando-se toda a multidão deles, O levaram a Pilatos.
 \v Lc.23.2
 {rp|n4}E começaram a acusá-lo, dizendo: “Encontramos este 
-{tr}E começaram a acusá-lo, dizendo: “Encontramos este 
+{tr}E começaram a acusá-Lo, dizendo: “Encontramos este 
 \added
 homem
 \*added

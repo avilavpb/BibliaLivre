@@ -466,7 +466,7 @@ Este é aquele que veio por água e sangue: Jesus, o Cristo. Não só pela água
 pelo
 \*added
 {rp|n4} sangue. E o Espírito é o que lhe dá testemunho, porque o Espírito é a verdade.
-{tr} sangue. E o Espírito é o que lhe dá testemunho, porque o Espírito é a verdade.
+{tr} sangue. E o Espírito é o que dá testemunho, porque o Espírito é a verdade.
 \v 1Jo.5.7
 Pois são três os que dão testemunho
 {tr} no céu

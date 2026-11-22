@@ -688,7 +688,7 @@ nas ruas, para serem honrados pelas pessoas; em verdade vos digo que já receber
 Mas, quando tu deres esmola, não saiba tua mão esquerda o que faz a tua direita;
 \v Mt.6.4
 {rp|n4}para que tua esmola seja em segredo, e teu Pai, que vê em segredo, ele te recompensará
-{tr}para que tua esmola seja em segredo, e teu Pai, que vê em segredo, ele te recompensará
+{tr}para que tua esmola seja em segredo, e teu Pai, que vê em segredo, te recompensará
 {tr|rp} em público
 .
 {trnc}\fn
@@ -4371,7 +4371,7 @@ queres
 ”.
 \v Mt.26.40
 {rp|n4}E voltou a seus discípulos, e os achou dormindo; e disse a Pedro: “Então, nem uma hora pudestes vigiar comigo?
-{tr}E voltou a seus discípulos, e os achou dormindo; e disse a Pedro: “Então, nem uma hora pudestes vigiar Comigo?
+{tr}E voltou a Seus discípulos, e os achou dormindo; e disse a Pedro: “Então, nem uma hora pudestes vigiar Comigo?
 \v Mt.26.41
 Vigiai e orai, para que não entreis em tentação. Em verdade, o espírito 
 \added
