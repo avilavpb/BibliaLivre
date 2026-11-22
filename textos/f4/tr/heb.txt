@@ -215,27 +215,13 @@ Cristo Jesus
 TR: Cristo Jesus – RP: Jesus Cristo – N4: Jesus
 \*fn
 \v Hb.3.2
-Ele é fiel àquele que o constituiu, assim como Moisés também foi em toda a casa 
-\added
-de Deus
-\*added
-.
-\fn
-\key
-casa de Deus
-\*key
-lit. sua casa. Também no v. 5
-\*fn
+Ele é fiel àquele que o constituiu, assim como Moisés também foi em toda a sua casa.
 \v Hb.3.3
 Pois ele é estimado como digno de maior glória do que Moisés, assim como mais honra do que a casa tem quem a construiu.
 \v Hb.3.4
 Porque toda casa é construída por alguém; mas aquele que construiu todas as coisas é Deus.
 \v Hb.3.5
-De fato, Moisés foi fiel como servo em toda a casa 
-\added
-de Deus
-\*added
-, para testemunho das coisas que haviam de ser ditas;
+De fato, Moisés foi fiel como servo em toda a sua casa, para testemunho das coisas que haviam de ser ditas;
 \v Hb.3.6
 mas Cristo 
 \added

@@ -431,3 +431,16 @@ Marcação usada: o bloco `\added` … `\*added` do formato f4, com cada marcado
 ### Camada 1 – complemento 3 (1)
 
 - **Am 9.11** – Concordância de gênero: "seus brechas" → "suas brechas"
+
+## Rodada 6 – decisões de Marcelo (22/11/2026)
+
+- **Mc 12.27** – Decisão de Marcelo: sem artigo nas duas vezes ("Ele não é Deus de mortos, mas sim, Deus de vivos"); TR οὐκ ἔστιν ὁ θεὸς νεκρῶν ἀλλὰ θεὸς ζώντων
+- **Mq 5.2** – Decisão de Marcelo: "desde a antiguidade, desde os dias da eternidade" (hebr. מִקֶּדֶם מִימֵי עוֹלָם; KJV "from of old, from everlasting"; Almeida 1819 "desdantigo, desdos dias da eternidade")
+- **Dn 9.26** – Decisão de Marcelo: "o Messias será cortado, mas não para si mesmo" (hebr. יִכָּרֵת מָשִׁיחַ וְאֵין לוֹ; KJV "shall Messiah be cut off, but not for himself")
+- **Hb 3.2** – Decisão de Marcelo: "em toda a sua casa" (TR ἐν ὅλῳ τῷ οἴκῳ αὐτοῦ; KJV "in all his house"); sai o itálico "de Deus" e, na TR, a nota "lit. sua casa", que deixou de ser necessária
+- **Hb 3.5** – Decisão de Marcelo: "em toda a sua casa" (TR ἐν ὅλῳ τῷ οἴκῳ αὐτοῦ; KJV "in all his house"); sai o itálico "de Deus"
+- **Jz 10.11** – Decisão de Marcelo: reestruturado como o hebraico (הֲלֹא מִמִּצְרַיִם…, elíptico) e a KJV ("[Did] not [I deliver you] from the Egyptians…"), com "vos livrei eu" em itálico
+- **Jz 10.12** – Decisão de Marcelo: incluído "vos oprimiram" (hebr. לָחֲצוּ אֶתְכֶם; KJV "did oppress you")
+- **Pv 8.15–16** – sem mudança: os dois versículos já começam com "Por meio de mim". A variante final continua como "juízes justos" (Leningrado, צֶדֶק) e fica pendente de decisão (Ben Chayyim/KJV: "juízes da terra", אֶרֶץ).
+- **At 7.45; Hb 4.8** – mantém "Josué", sem nota (decisão de Marcelo).
+- **Nome divino (conversor)** – `conversores/convert_to_usfm.js`: nos livros do AT, SENHOR e DEUS (Tetragrama) saem como `\nd SENHOR\nd*` / `\nd DEUS\nd*`, que os leitores USFM exibem em versalete. O texto f4 não muda. No NT não se aplica, e a inscrição "AO DEUS DESCONHECIDO" (At 17.23) fica fora. Saída TR conferida: 6.543 SENHOR e 311 DEUS marcados, 0 no NT. "EU-SOU" (20 ocorrências, também YHWH) ficou sem marcação, aguardando decisão.

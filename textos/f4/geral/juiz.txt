@@ -687,9 +687,13 @@ E os filhos de Amom passaram o Jordão para fazer também guerra contra Judá, e
 \v Jz.10.10
 E os filhos de Israel clamaram ao SENHOR, dizendo: Nós pecamos contra ti; porque deixamos a nosso Deus, e servido aos baalins.
 \v Jz.10.11
-E o SENHOR respondeu aos filhos de Israel: Não fostes oprimidos pelo Egito, pelos amorreus, pelos amonitas, dos filisteus,
+E o SENHOR respondeu aos filhos de Israel: Não 
+\added
+vos livrei eu
+\*added
+ dos egípcios, e dos amorreus, e dos filhos de Amom, e dos filisteus?
 \v Jz.10.12
-Dos de Sidom, de Amaleque, e de Maom, e clamando a mim vos livrei de suas mãos?
+E os sidônios, e os amalequitas, e os maonitas vos oprimiram; e vós clamastes a mim, e eu vos livrei das mãos deles.
 \v Jz.10.13
 Mas vós me deixastes, e servistes a deuses alheios: portanto, eu não vos livrarei mais.
 \v Jz.10.14
