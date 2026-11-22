@@ -30,7 +30,11 @@ Sempre agradeço ao meu Deus por causa de vós, pela graça de Deus, que é dada
 \v 1Co.1.5
 Que em todas as coisas estais enriquecidos nele, em toda palavra, e em todo conhecimento;
 \v 1Co.1.6
-Assim como o testemunho de Jesus Cristo foi confirmado entre vós.
+Assim como o testemunho de 
+\added
+Jesus
+\*added
+ Cristo foi confirmado entre vós.
 \v 1Co.1.7
 De maneira que nenhum dom vos falta, enquanto esperais a manifestação do nosso Senhor Jesus Cristo,
 \v 1Co.1.8

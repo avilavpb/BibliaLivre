@@ -287,7 +287,11 @@ E o tentador, aproximando-se
 {trnc}\*fn
  “Se tu és o Filho de Deus, manda que estas pedras se tornem pães”.
 \v Mt.4.4
-Porém Jesus
+{rp|n4}Porém Jesus
+{tr}Porém 
+{tr}\added
+{tr}Jesus
+{tr}\*added
 \fn
 Lit. ele
 \*fn

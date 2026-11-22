@@ -272,7 +272,10 @@ TR, RP: aproximando-se dele, disse” - N4: aproximando-se, disse-lhe”
 \*fn
  “Se tu és o Filho de Deus, manda que estas pedras se tornem pães”.
 \v Mt.4.4
-Porém Jesus
+Porém 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn

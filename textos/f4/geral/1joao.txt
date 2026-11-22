@@ -258,7 +258,12 @@ Nós sabemos que já passamos da morte para a vida, pois amamos os irmãos. Quem
 \v 1Jo.3.15
 Todo aquele que odeia o seu irmão é homicida. E sabeis que nenhum homicida tem a vida eterna habitando nele.
 \v 1Jo.3.16
-Nisto conhecemos o amor: ele deu a sua vida por nós. E nós devemos dar as 
+{rp|n4}Nisto conhecemos o amor: ele deu a sua vida por nós. E nós devemos dar as 
+{tr}Nisto conhecemos o amor 
+{tr}\added
+{tr}de Deus
+{tr}\*added
+{tr}: ele deu a sua vida por nós. E nós devemos dar as 
 \added
 nossas
 \*added

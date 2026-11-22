@@ -353,3 +353,77 @@ Total: 13 correções.
 - **Sl 59.12** – Palavra sobrando: "[Pelo] do pecado" → "[Pelo] pecado" (hebr. חַטַּאת־פִּימוֹ)
 - **Js 13.5** – Erro de digitação: "o pdo monte" → "ao pé do monte" (hebr. תַּחַת הַר־חֶרְמוֹן; KJV "under mount Hermon")
 - **Ez 39.27** – Conjugação: "Quando eu trouxé-los" → "Quando eu os trouxer" (paralelo a "e os juntar")
+
+## Rodada 5 – decisões de Marcelo (22/11/2026)
+
+### Aplicadas
+
+- **Mc 12.27** – Decisão de Marcelo: repetir "Deus" como no grego (TR οὐκ ἔστιν ὁ θεὸς νεκρῶν ἀλλὰ θεὸς ζώντων; KJV "He is not the God of the dead, but the God of the living")
+- **1Jo 3.16** – Decisão de Marcelo: acrescentado "de Deus" em itálico (Scrivener 1894 traz τοῦ θεοῦ; a KJV 1769 imprime "of God" em itálico, porque a palavra falta na maioria das edições do TR)
+- **Is 14.12** – Decisão de Marcelo: seguir a KJV ("O Lucifer, son of the morning"); hebr. הֵילֵל בֶּן־שָׁחַר; "filho da alva" como na Almeida 1819
+
+### Itálico (acréscimos do tradutor)
+
+Marcação usada: o bloco `\added` … `\*added` do formato f4, com cada marcador em sua própria linha. A Bíblia Livre já o usa para as palavras que o seu FAQ chama de "palavras entre [colchetes]", e o `conversores/convert_to_usfm.js` o converte em `\add …\add*` do USFM (palavra acrescentada, exibida em itálico). A mesma marcação foi usada acima em 1Jo 3.16.
+
+50 versículos do Anexo A do relatório 4 receberam itálico no nome que não tem correspondente no grego (Scrivener 1894). Os demais casos do anexo não são acréscimos e ficaram como estavam. Eles traduzem outra palavra grega ("senhores" = δεσπόται; "deuses" = θεοί; "temente a Deus" = θεοσεβής; "odeiam a Deus" = θεοστυγεῖς; "Vem, Senhor" = μαρὰν ἀθά etc.), já têm nota explicativa (Rm 3.25) ou já tinham sido corrigidos (1Tm 1.14). No NT, o texto novo entra numa linha `{tr}` e a linha antiga fica marcada `{rp|n4}`.
+
+- **Mt 4.4** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Mc 5.40** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 5.18** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 5.27** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 7.20** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 8.42** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 9.10** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 9.21** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 9.37** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 10.26** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 10.28** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 11.17** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 11.37** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 11.53** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 12.14** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 13.17** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 13.31** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 14.1** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 14.4** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 14.16** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 14.25** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 17.11** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 17.16** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 18.27** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 18.29** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 20.23** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 22.2** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 22.6** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 22.34** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 23.32** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 23.49** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Lc 24.25** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Jo 2.21** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Jo 4.30** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Jo 4.39** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Jo 7.3** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Jo 7.32** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Jo 7.50** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Jo 9.22** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Jo 11.3** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Jo 13.24** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Jo 13.28** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **Jo 20.7** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **At 3.16** – "Jesus" sem correspondente no grego (TR tem pronome ou sujeito implícito): marcado como acréscimo (itálico)
+- **At 5.41** – "de Jesus" (grego αὐτοῦ) já era itálico no N4 e passa a ser itálico também na TR (marcador {n4} → {tr|n4} nas linhas do \added)
+- **1Co 1.6** – "Jesus" sem correspondente no grego (TR τοῦ Χριστοῦ): marcado como acréscimo (itálico)
+- **Jo 21.20** – Segunda ocorrência de "Jesus" (grego αὐτοῦ, "dele"): marcada como acréscimo (itálico)
+- **Lc 19.22** – "seu senhor" sem correspondente no grego (TR λέγει δὲ αὐτῷ): marcado como acréscimo (itálico)
+- **Hb 3.2** – "de Deus" sem correspondente no grego (TR ἐν ὅλῳ τῷ οἴκῳ αὐτοῦ, "em toda a sua casa"): marcado como acréscimo (itálico); a troca por "sua casa" depende de decisão
+- **Hb 3.5** – "de Deus" sem correspondente no grego (TR ἐν ὅλῳ τῷ οἴκῳ αὐτοῦ, "em toda a sua casa"): marcado como acréscimo (itálico); a troca por "sua casa" depende de decisão
+
+### Mantidos conforme o Códice de Leningrado (decisão registrada, texto sem mudança)
+
+- **Is 10.16** – mantém "o Senhor DEUS dos exércitos" (WLC הָאָדוֹן יְהוָה צְבָאוֹת; segundo J. D. Price, Bomberg lê "o Senhor, o Senhor dos exércitos", como a KJV "the Lord, the Lord of hosts").
+- **1Rs 20.38** – mantém "com um véu sobre os olhos" (WLC בָּאֲפֵר עַל־עֵינָיו; Bomberg בָּאֵפֶר, "com cinza"; KJV "with ashes upon his face").
+
+### Normalização de espaços (conversor)
+
+`conversores/singleLineUSFM.js` ganhou a função `normalizeSpaces`, aplicada a cada versículo da saída USFM de linha única. Ela junta espaços duplos e tira o espaço antes de pontuação; os rótulos de Cantares ficam "Ele:". Também cola a chamada de nota `\f +` à palavra anterior, tira o espaço final de dentro do `\add` e corrige "acusá -lo" para "acusá-lo". Os arquivos f4 não foram editados para isso. Na saída TR completa, depois da mudança, sobram 0 espaços antes de pontuação e 0 espaços duplos fora das referências `\rq`.

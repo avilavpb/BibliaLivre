@@ -228,7 +228,12 @@ Portanto, santos irmãos, participantes do chamado celestial, considerai o Após
 {trnc}TR: Cristo Jesus – RP: Jesus Cristo – N4: Jesus
 {trnc}\*fn
 \v Hb.3.2
-Ele é fiel àquele que o constituiu, assim como Moisés também foi em toda a casa de Deus.
+{rp|n4}Ele é fiel àquele que o constituiu, assim como Moisés também foi em toda a casa de Deus.
+{tr}Ele é fiel àquele que o constituiu, assim como Moisés também foi em toda a casa 
+{tr}\added
+{tr}de Deus
+{tr}\*added
+{tr}.
 \fn
 \key
 casa de Deus
@@ -240,7 +245,12 @@ Pois ele é estimado como digno de maior glória do que Moisés, assim como mais
 \v Hb.3.4
 Porque toda casa é construída por alguém; mas aquele que construiu todas as coisas é Deus.
 \v Hb.3.5
-De fato, Moisés foi fiel como servo em toda a casa de Deus, para testemunho das coisas que haviam de ser ditas;
+{rp|n4}De fato, Moisés foi fiel como servo em toda a casa de Deus, para testemunho das coisas que haviam de ser ditas;
+{tr}De fato, Moisés foi fiel como servo em toda a casa 
+{tr}\added
+{tr}de Deus
+{tr}\*added
+{tr}, para testemunho das coisas que haviam de ser ditas;
 \v Hb.3.6
 mas Cristo 
 \added

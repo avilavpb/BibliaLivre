@@ -730,7 +730,12 @@ E
 \v Mc.5.39
 E ele, entrando, disse-lhes: “Por que vós estais fazendo alvoroço e chorando? A menina não está morta, mas dorme”.
 \v Mc.5.40
-E riram dele. Mas Jesus,
+{rp|n4}E riram dele. Mas Jesus,
+{tr}E riram dele. Mas 
+{tr}\added
+{tr}Jesus
+{tr}\*added
+{tr},
 \fn
 Lit. ele
 \*fn
@@ -1893,7 +1898,8 @@ E acerca dos mortos que vão ressuscitar, vós não lestes no livro de Moisés, 
 Êxodo 3:6
 \*ref
 \v Mc.12.27
-Deus não é de mortos, mas sim, de vivos. Portanto, vós errais muito”.
+{rp|n4}Deus não é de mortos, mas sim, de vivos. Portanto, vós errais muito”.
+{tr}Ele não é o Deus de mortos, mas sim, o Deus de vivos. Portanto, vós errais muito”.
 \v Mc.12.28
 E, aproximando-se dele um dos escribas, que os tinha ouvido discutir, sabendo que ele lhes tinha respondido bem, 
 perguntou-lhe: “Qual é o primeiro mandamento de todos?”

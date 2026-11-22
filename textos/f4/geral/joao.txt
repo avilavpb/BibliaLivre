@@ -278,7 +278,11 @@ Jesus respondeu, e disse-lhes: “Derrubai este templo, e em três dias o levant
 \v Joao.2.20
 Os judeus disseram, pois: “Este Templo foi edificado em quarenta e seis anos, e tu o levantarás em três dias?”
 \v Joao.2.21
-Porém Jesus
+{rp|n4}Porém Jesus
+{tr}Porém 
+{tr}\added
+{tr}Jesus
+{tr}\*added
 \fn
 Lit. ele
 \*fn
@@ -490,7 +494,12 @@ Então a mulher deixou o seu vaso de água, foi à cidade, e disse ao povo:
 \v Joao.4.29
 “Vinde, vede um homem que me disse tudo quanto eu fiz; acaso ele não é o Cristo?”
 \v Joao.4.30
-Então saíram da cidade, e vieram a Jesus.
+{rp|n4}Então saíram da cidade, e vieram a Jesus.
+{tr}Então saíram da cidade, e vieram a 
+{tr}\added
+{tr}Jesus
+{tr}\*added
+{tr}.
 \fn
 Lit. ele
 \*fn
@@ -520,7 +529,11 @@ Porque nisto é verdadeiro o ditado, que: Um é o que semeia, e outro o que colh
 \v Joao.4.38
 Eu vos enviei para colher onde vós não trabalhastes; outros trabalharam, e vós entrastes no trabalho deles”.
 \v Joao.4.39
-E muitos dos samaritanos daquela cidade creram em Jesus
+{rp|n4}E muitos dos samaritanos daquela cidade creram em Jesus
+{tr}E muitos dos samaritanos daquela cidade creram em 
+{tr}\added
+{tr}Jesus
+{tr}\*added
 \fn
 Lit. nele
 \*fn
@@ -963,7 +976,11 @@ E depois disso, Jesus andava pela Galileia; e já não queria andar pela Judeia,
 \v Joao.7.2
 E já estava próxima a festa dos judeus, a dos tabernáculos.
 \v Joao.7.3
-Então os irmãos de Jesus
+{rp|n4}Então os irmãos de Jesus
+{tr}Então os irmãos de 
+{tr}\added
+{tr}Jesus
+{tr}\*added
 \fn
 Lit. dele
 \*fn
@@ -1038,7 +1055,12 @@ Então procuravam prendê-lo, mas ninguém pôs a mão contra ele, porque a hora
 E muitos da multidão creram nele, e diziam: “Quando o Cristo vier, acaso fará ainda mais sinais do que os que este 
 tem feito?”
 \v Joao.7.32
-Os fariseus ouviram que a multidão murmurava essas coisas acerca de Jesus;
+{rp|n4}Os fariseus ouviram que a multidão murmurava essas coisas acerca de Jesus;
+{tr}Os fariseus ouviram que a multidão murmurava essas coisas acerca de 
+{tr}\added
+{tr}Jesus
+{tr}\*added
+{tr};
 \fn
 Lit. dele
 \*fn
@@ -1104,7 +1126,11 @@ Acaso algum dos chefes ou dos fariseus creu nele?
 \v Joao.7.49
 Mas esta multidão, que não sabe a Lei, é maldita”.
 \v Joao.7.50
-Nicodemos, que era um deles, o que viera até Jesus
+{rp|n4}Nicodemos, que era um deles, o que viera até Jesus
+{tr}Nicodemos, que era um deles, o que viera até 
+{tr}\added
+{tr}Jesus
+{tr}\*added
 \fn
 Lit. ele
 \*fn
@@ -1381,7 +1407,10 @@ E perguntaram-lhes, dizendo: “É este o vosso filho, aquele que vós dizeis qu
 mas como agora ele vê, não sabemos; ou, quem lhe abriu os olhos, não sabemos; ele tem idade, falará por si mesmo”.
 \v Joao.9.22
 Seus pais disseram isso pois temiam os judeus. Porque os judeus já tinham concordado que, se alguém confessasse que 
-Jesus
+{rp|n4}Jesus
+{tr}\added
+{tr}Jesus
+{tr}\*added
 \fn
 Lit. ele
 \*fn
@@ -1588,7 +1617,12 @@ E estava doente um certo Lázaro, de Betânia, a aldeia de Maria e de sua irmã 
 (E Maria era a que ungiu ao Senhor com o óleo perfumado, e com seus cabelos enxugou-lhe os pés; o irmão dela, Lázaro, 
 era o que estava doente).
 \v Joao.11.3
-Por isso, suas irmãs mandaram dizer a Jesus:
+{rp|n4}Por isso, suas irmãs mandaram dizer a Jesus:
+{tr}Por isso, suas irmãs mandaram dizer a 
+{tr}\added
+{tr}Jesus
+{tr}\*added
+{tr}:
 \fn
 Lit. ele
 \*fn
@@ -1959,7 +1993,11 @@ E um dos discípulos, a quem Jesus amava, estava assentado à mesa junto de Jesu
 Lit. no seio (o mesmo termo usado em João 1:18) de Jesus
 \*fn
 \v Joao.13.24
-Então Simão Pedro fez sinal para esse, para que perguntasse quem era aquele de quem Jesus
+{rp|n4}Então Simão Pedro fez sinal para esse, para que perguntasse quem era aquele de quem Jesus
+{tr}Então Simão Pedro fez sinal para esse, para que perguntasse quem era aquele de quem 
+{tr}\added
+{tr}Jesus
+{tr}\*added
 \fn
 Lit. ele
 \*fn
@@ -1975,7 +2013,12 @@ filho
 \v Joao.13.27
 E após o pedaço de pão, Satanás entrou nele. Jesus, então, lhe disse: “O que tu vais fazer, faze depressa”.
 \v Joao.13.28
-E nenhum dos que estavam assentados à mesa entendeu para que Jesus havia lhe dito.
+{rp|n4}E nenhum dos que estavam assentados à mesa entendeu para que Jesus havia lhe dito.
+{tr}E nenhum dos que estavam assentados à mesa entendeu para que 
+{tr}\added
+{tr}Jesus
+{tr}\*added
+{tr} havia lhe dito.
 \v Joao.13.29
 Pois alguns pensavam que, como Judas tinha a bolsa, Jesus havia lhe dito: “Compra o que para o que nos é necessário 
 para a festa”; ou que desse alguma coisa aos pobres.
@@ -2682,7 +2725,11 @@ E abaixando-se, viu os lençóis postos; todavia não entrou.
 \v Joao.20.6
 Então Simão Pedro, que o seguia, chegou, e entrou no sepulcro, e viu os lençóis postos.
 \v Joao.20.7
-E o lenço que estava sobre a cabeça de Jesus
+{rp|n4}E o lenço que estava sobre a cabeça de Jesus
+{tr}E o lenço que estava sobre a cabeça de 
+{tr}\added
+{tr}Jesus
+{tr}\*added
 \fn
 Lit. dele
 \*fn
@@ -2877,7 +2924,12 @@ Esse
 \added
 era
 \*added
- o que também na ceia havia se reclinado ao peito de Jesus,
+{rp|n4} o que também na ceia havia se reclinado ao peito de Jesus,
+{tr} o que também na ceia havia se reclinado ao peito de 
+{tr}\added
+{tr}Jesus
+{tr}\*added
+{tr},
 \fn
 Lit. dele
 \*fn 

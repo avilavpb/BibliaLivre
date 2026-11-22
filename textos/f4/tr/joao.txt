@@ -262,7 +262,10 @@ Jesus respondeu, e disse-lhes: “Derrubai este templo, e em três dias o levant
 \v Joao.2.20
 Os judeus disseram, pois: “Este Templo foi edificado em quarenta e seis anos, e tu o levantarás em três dias?”
 \v Joao.2.21
-Porém Jesus
+Porém 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn
@@ -468,7 +471,11 @@ Então a mulher deixou o seu vaso de água, foi à cidade, e disse ao povo:
 \v Joao.4.29
 “Vinde, vede um homem que me disse tudo quanto eu fiz; acaso ele não é o Cristo?”
 \v Joao.4.30
-Então saíram da cidade, e vieram a Jesus.
+Então saíram da cidade, e vieram a 
+\added
+Jesus
+\*added
+.
 \fn
 Lit. ele
 \*fn
@@ -498,7 +505,10 @@ Porque nisto é verdadeiro o ditado, que: Um é o que semeia, e outro o que colh
 \v Joao.4.38
 Eu vos enviei para colher onde vós não trabalhastes; outros trabalharam, e vós entrastes no trabalho deles”.
 \v Joao.4.39
-E muitos dos samaritanos daquela cidade creram em Jesus
+E muitos dos samaritanos daquela cidade creram em 
+\added
+Jesus
+\*added
 \fn
 Lit. nele
 \*fn
@@ -915,7 +925,10 @@ E depois disso, Jesus andava pela Galileia; e já não queria andar pela Judeia,
 \v Joao.7.2
 E já estava próxima a festa dos judeus, a dos tabernáculos.
 \v Joao.7.3
-Então os irmãos de Jesus
+Então os irmãos de 
+\added
+Jesus
+\*added
 \fn
 Lit. dele
 \*fn
@@ -989,7 +1002,11 @@ Então procuravam prendê-lo, mas ninguém pôs a mão contra ele, porque a hora
 E muitos da multidão creram nele, e diziam: “Quando o Cristo vier, acaso fará ainda mais sinais do que os que este 
 tem feito?”
 \v Joao.7.32
-Os fariseus ouviram que a multidão murmurava essas coisas acerca de Jesus;
+Os fariseus ouviram que a multidão murmurava essas coisas acerca de 
+\added
+Jesus
+\*added
+;
 \fn
 Lit. dele
 \*fn
@@ -1055,7 +1072,10 @@ Acaso algum dos chefes ou dos fariseus creu nele?
 \v Joao.7.49
 Mas esta multidão, que não sabe a Lei, é maldita”.
 \v Joao.7.50
-Nicodemos, que era um deles, o que viera até Jesus
+Nicodemos, que era um deles, o que viera até 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn
@@ -1318,7 +1338,9 @@ Seus
 mas como agora ele vê, não sabemos; ou, quem lhe abriu os olhos, não sabemos; ele tem idade, falará por si mesmo”.
 \v Joao.9.22
 Seus pais disseram isso pois temiam os judeus. Porque os judeus já tinham concordado que, se alguém confessasse que 
+\added
 Jesus
+\*added
 \fn
 Lit. ele
 \*fn
@@ -1515,7 +1537,11 @@ E estava doente um certo Lázaro, de Betânia, a aldeia de Maria e de sua irmã 
 (E Maria era a que ungiu ao Senhor com o óleo perfumado, e com seus cabelos enxugou-lhe os pés; o irmão dela, Lázaro, 
 era o que estava doente).
 \v Joao.11.3
-Por isso, suas irmãs mandaram dizer a Jesus:
+Por isso, suas irmãs mandaram dizer a 
+\added
+Jesus
+\*added
+:
 \fn
 Lit. ele
 \*fn
@@ -1880,7 +1906,10 @@ E um dos discípulos, a quem Jesus amava, estava assentado à mesa junto de Jesu
 Lit. no seio (o mesmo termo usado em João 1:18) de Jesus
 \*fn
 \v Joao.13.24
-Então Simão Pedro fez sinal para esse, para que perguntasse quem era aquele de quem Jesus
+Então Simão Pedro fez sinal para esse, para que perguntasse quem era aquele de quem 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn
@@ -1896,7 +1925,11 @@ filho
 \v Joao.13.27
 E após o pedaço de pão, Satanás entrou nele. Jesus, então, lhe disse: “O que tu vais fazer, faze depressa”.
 \v Joao.13.28
-E nenhum dos que estavam assentados à mesa entendeu para que Jesus havia lhe dito.
+E nenhum dos que estavam assentados à mesa entendeu para que 
+\added
+Jesus
+\*added
+ havia lhe dito.
 \v Joao.13.29
 Pois alguns pensavam que, como Judas tinha a bolsa, Jesus havia lhe dito: “Compra o que para o que nos é necessário 
 para a festa”; ou que desse alguma coisa aos pobres.
@@ -2586,7 +2619,10 @@ E abaixando-se, viu os lençóis postos; todavia não entrou.
 \v Joao.20.6
 Então Simão Pedro, que o seguia, chegou, e entrou no sepulcro, e viu os lençóis postos.
 \v Joao.20.7
-E o lenço que estava sobre a cabeça de Jesus
+E o lenço que estava sobre a cabeça de 
+\added
+Jesus
+\*added
 \fn
 Lit. dele
 \*fn
@@ -2774,7 +2810,11 @@ Esse
 \added
 era
 \*added
- o que também na ceia havia se reclinado ao peito de Jesus,
+ o que também na ceia havia se reclinado ao peito de 
+\added
+Jesus
+\*added
+,
 \fn
 Lit. dele
 \*fn 

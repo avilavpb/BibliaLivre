@@ -339,7 +339,10 @@ Mas vós negastes o Santo e Justo, e pedistes que vos fosse liberado um homem as
 E matastes o Príncipe da vida, a quem Deus ressuscitou dos mortos, do que nós somos testemunhas.
 \v At.3.16
 E foi pela fé no nome dele que o mesmo nome dele deu firmeza a este que vós vedes e conheceis; e a fé que vem por 
-meio de Jesus
+meio de 
+\added
+Jesus
+\*added
 \fn
 Lit. fé que é por meio dele
 \*fn
@@ -700,7 +703,9 @@ E chamaram os apóstolos e os açoitaram; então mandaram que não falassem no n
 \v At.5.41
 Eles, pois, saíram da presença do supremo conselho, alegres por terem sido considerados dignos de serem humilhados por 
 causa do nome 
+\added
 de Jesus
+\*added
 .
 \fn
 Lit. dele

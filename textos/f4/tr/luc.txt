@@ -1271,7 +1271,11 @@ N4 “estava com ele para curar”
 \*fn
 \v Lc.5.18
 E eis que uns homens traziam numa maca um homem que estava paralítico; e procuravam levá-lo para dentro, e colocá-lo 
-diante de Jesus.
+diante de 
+\added
+Jesus
+\*added
+.
 \fn
 Lit. diante dele
 \*fn
@@ -1305,7 +1309,10 @@ maca
 \v Lc.5.26
 E todos ficaram atônitos, e glorificaram a Deus; e ficaram cheios de temor, dizendo: “Hoje vimos maravilhas!”
 \v Lc.5.27
-Depois dessas coisas, Jesus
+Depois dessas coisas, 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn
@@ -1746,7 +1753,11 @@ N4: ao Senhor
 \*fn
  dizendo: “És tu aquele que havia de vir, ou esperamos outro?”
 \v Lc.7.20
-E quando aqueles homens chegaram a Jesus,
+E quando aqueles homens chegaram a 
+\added
+Jesus
+\*added
+,
 \fn
 Lit. ele
 \*fn
@@ -2049,7 +2060,10 @@ E aconteceu que, quando Jesus voltou, a multidão o recebeu; porque todos o esta
 E eis que chegou um homem, cujo nome era Jairo, e era chefe da sinagoga. Então ele se prostrou 
 aos pés de Jesus e rogou-lhe que entrasse em sua casa;
 \v Lc.8.42
-pois tinha uma filha única, de cerca de doze anos de idade, que estava a ponto de morrer. E enquanto Jesus
+pois tinha uma filha única, de cerca de doze anos de idade, que estava a ponto de morrer. E enquanto 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn
@@ -2152,7 +2166,10 @@ e outros, que Elias havia aparecido; e outros, que algum profeta dos antigos hav
 \v Lc.9.9
 E Herodes disse: “A João mandei degolar; quem, pois, é este, de quem ouço tais coisas?” E procurava vê-lo.
 \v Lc.9.10
-E os apóstolos, havendo voltado, contaram a Jesus
+E os apóstolos, havendo voltado, contaram a 
+\added
+Jesus
+\*added
 \fn
 Lit. contaram-lhe
 \*fn
@@ -2193,7 +2210,11 @@ Uns
 \v Lc.9.20
 E disse-lhes: “E vós, quem dizeis que eu sou?” E Pedro, respondendo, disse: “O Cristo de Deus”.
 \v Lc.9.21
-Então Jesus,
+Então 
+\added
+Jesus
+\*added
+,
 \fn
 Lit. ele
 \*fn
@@ -2254,7 +2275,11 @@ N4: escolhido
 E, depois de vinda aquela voz, Jesus foi achado só; e eles ficaram calados, e por aqueles dias não contaram a ninguém 
 nada do que tinham visto.
 \v Lc.9.37
-E aconteceu no dia seguinte que, descendo eles do monte, uma grande multidão saiu ao encontro de Jesus.
+E aconteceu no dia seguinte que, descendo eles do monte, uma grande multidão saiu ao encontro de 
+\added
+Jesus
+\*added
+.
 \fn
 Lit. dele
 \*fn
@@ -2448,7 +2473,10 @@ não ouviram”.
 E eis que um certo estudioso da Lei se levantou para testá-lo, dizendo: “Mestre, o que devo fazer para herdar a 
 vida eterna?”
 \v Lc.10.26
-E Jesus
+E 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn
@@ -2465,7 +2493,10 @@ amarás
 \*added
  o teu próximo como a ti mesmo”.
 \v Lc.10.28
-E Jesus
+E 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn
@@ -2602,7 +2633,11 @@ lo
 \*added
 , pediam-lhe um sinal do céu.
 \v Lc.11.17
-Mas Jesus,
+Mas 
+\added
+Jesus
+\*added
+,
 \fn
 Lit. ele
 \*fn
@@ -2688,7 +2723,11 @@ seu
 \*added
  brilho”.
 \v Lc.11.37
-E estando Jesus 
+E estando 
+\added
+Jesus
+\*added
+ 
 \fn
 Lit. ele
 \*fn 
@@ -2754,7 +2793,11 @@ exigida a conta desta geração.
 Ai de vós, estudiosos da Lei, que tirastes a chave do conhecimento; vós mesmos não entrais, e impedistes os que 
 estavam entrando”.
 \v Lc.11.53
-E quando Jesus 
+E quando 
+\added
+Jesus
+\*added
+ 
 \fn
 Lit. ele
 \*fn
@@ -2813,7 +2856,10 @@ porque na mesma hora o Espírito Santo vos ensinará o que vós deveis falar”.
 \v Lc.12.13
 E um da multidão lhe disse: “Mestre, dize a meu irmão que reparta comigo a herança”.
 \v Lc.12.14
-Mas Jesus
+Mas 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn
@@ -3047,7 +3093,10 @@ jumento, e o leva para beber?
 E esta mulher, sendo filha de Abraão, a quem Satanás havia prendido há dezoito anos, não devia ser solta desta prisão 
 no dia de sábado?”
 \v Lc.13.17
-E havendo Jesus
+E havendo 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn
@@ -3113,7 +3162,11 @@ pessoas
 E eis que há últimos que serão primeiros, e há primeiros que serão últimos”.
 \v Lc.13.31
 Naquele mesmo dia
-, chegaram uns fariseus, dizendo a Jesus:
+, chegaram uns fariseus, dizendo a 
+\added
+Jesus
+\*added
+:
 \fn
 Lit. ele
 \*fn
@@ -3141,7 +3194,11 @@ o tempo
 \*added
  em que vós digais: “Bendito aquele que vem no nome do Senhor”.
 \v Lc.14.1
-E aconteceu que, quando Jesus 
+E aconteceu que, quando 
+\added
+Jesus
+\*added
+ 
 \fn
 Lit. ele
 \*fn
@@ -3156,7 +3213,11 @@ Ou: hidrópico
 E Jesus, respondendo, falou aos estudiosos da Lei e aos fariseus, dizendo: “É lícito curar no sábado
 ?”
 \v Lc.14.4
-Eles, porém, ficaram calados; e Jesus,
+Eles, porém, ficaram calados; e 
+\added
+Jesus
+\*added
+,
 \fn
 Lit. ele
 \*fn
@@ -3204,7 +3265,10 @@ dos justos”.
 E um dos que juntamente estavam assentados à mesa, ouvindo isso, disse-lhe: “Bem-aventurado é aquele que comer pão no 
 reino de Deus”.
 \v Lc.14.16
-Porém Jesus
+Porém 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn
@@ -3235,7 +3299,11 @@ E o senhor disse ao servo: “Sai pelos caminhos e pelas trilhas, e obriga-os a 
 \v Lc.14.24
 Pois eu vos digo que nenhum daqueles homens que foram convidados experimentará da minha ceia”.
 \v Lc.14.25
-E muitas multidões iam com Jesus;
+E muitas multidões iam com 
+\added
+Jesus
+\*added
+;
 \fn
 Lit. ele
 \*fn
@@ -3558,7 +3626,10 @@ somente
 \*added
  o que devíamos fazer’”.
 \v Lc.17.11
-E aconteceu que, indo Jesus
+E aconteceu que, indo 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn
@@ -3572,7 +3643,11 @@ E ele, vendo-os, disse-lhes: “Ide, e mostrai-vos aos sacerdotes”. E acontece
 \v Lc.17.15
 E um deles, vendo que estava curado, voltou, glorificando a Deus a alta voz.
 \v Lc.17.16
-E prostrou-se com o rosto aos pés de Jesus,
+E prostrou-se com o rosto aos pés de 
+\added
+Jesus
+\*added
+,
 \fn
 Lit. pés dele
 \*fn
@@ -3714,7 +3789,10 @@ Pois é mais fácil um camelo entrar pelo olho de uma agulha do que um rico entr
 \v Lc.18.26
 E os que ouviram, disseram: “Então, quem poderá se salvar?”
 \v Lc.18.27
-Mas Jesus
+Mas 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn
@@ -3722,7 +3800,10 @@ Lit. ele
 \v Lc.18.28
 E Pedro disse: “Eis que deixamos tudo e te seguimos”.
 \v Lc.18.29
-E Jesus
+E 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn
@@ -3847,7 +3928,10 @@ E veio outro, dizendo: ‘Senhor, eis aqui tua mina, que guardei num lenço;
 \v Lc.19.21
 pois tive medo de ti, que és um homem rigoroso, que tomas o que não depositaste, e colhes o que não semeaste’.
 \v Lc.19.22
-Porém seu senhor
+Porém 
+\added
+seu senhor
+\*added
 \fn
 Lit. ele
 \*fn
@@ -4034,7 +4118,11 @@ aparências humanas; em vez disso, com verdade ensinas o caminho de Deus.
 \v Lc.20.22
 É lícito para nós dar tributo a César, ou não?”
 \v Lc.20.23
-E Jesus,
+E 
+\added
+Jesus
+\*added
+,
 \fn
 Lit. ele
 \*fn
@@ -4283,7 +4371,11 @@ E todo o povo vinha de manhã cedo até ele no Templo, para ouvi-lo.
 \v Lc.22.1
 Ora, estava perto a festa dos pães sem fermento, chamada de páscoa.
 \v Lc.22.2
-E os chefes dos sacerdotes e os escribas procuravam um meio de matar Jesus,
+E os chefes dos sacerdotes e os escribas procuravam um meio de matar 
+\added
+Jesus
+\*added
+,
 \fn
 Lit. matá-lo
 \*fn
@@ -4299,7 +4391,10 @@ Jesus
 \v Lc.22.5
 E eles se alegraram, e concordaram em lhe dar dinheiro.
 \v Lc.22.6
-E ele consentiu, e buscava oportunidade para entregar Jesus
+E ele consentiu, e buscava oportunidade para entregar 
+\added
+Jesus
+\*added
 \fn
 Lit. entregá-lo
 \*fn
@@ -4407,7 +4502,10 @@ Lit. ele
 \*fn
  lhe disse: “Senhor, estou pronto para ir contigo até à prisão, e à morte”.
 \v Lc.22.34
-Mas Jesus
+Mas 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn
@@ -4644,7 +4742,11 @@ Então começarão a dizer aos montes: ‘Caí sobre nós’; e às colinas: ‘
 \v Lc.23.31
 Pois, se fazem isto ao lenho verde, o que se fará ao seco?”
 \v Lc.23.32
-E também levaram outros dois, que eram malfeitores, para serem mortos com Jesus.
+E também levaram outros dois, que eram malfeitores, para serem mortos com 
+\added
+Jesus
+\*added
+.
 \fn
 Lit. com ele
 \*fn
@@ -4696,7 +4798,11 @@ E o centurião, vendo o que tinha acontecido, deu glória a Deus, dizendo: “Ve
 \v Lc.23.48
 E todas as multidões que se ajuntaram para observar, vendo o que havia acontecido, voltaram, batendo nos peitos.
 \v Lc.23.49
-E todos os conhecidos de Jesus,
+E todos os conhecidos de 
+\added
+Jesus
+\*added
+,
 \fn
 Lit. dele
 \*fn
@@ -4798,7 +4904,10 @@ e não achando o corpo dele, voltaram, dizendo que também tinham visto uma apar
 E alguns do que estão conosco foram ao sepulcro, e acharam ser assim como as mulheres tinham dito; porém a ele não 
 o viram”.
 \v Lc.24.25
-Então Jesus
+Então 
+\added
+Jesus
+\*added
 \fn
 Lit. ele
 \*fn
