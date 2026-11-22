@@ -347,3 +347,9 @@ Total: 13 correções.
 - **Gn 18.10** – Omissão de oração inteira: faltava "E Sara escutava à porta da tenda, que estava atrás dele" (hebr. וְשָׂרָה שֹׁמַעַת פֶּתַח הָאֹהֶל וְהוּא אַחֲרָיו; KJV "And Sarah heard it in the tent door, which was behind him"; Almeida 1819 "e ouvia o Sara á porta da tenda, que estava atras delle")
 - **2Cr 12.1** – Omissão: faltava "e se havia fortalecido" (hebr. וּכְחֶזְקָתוֹ; KJV "and had strengthened himself"; Almeida 1819 "e avendo se fortalecido")
 - **Lc 12.24** – Omissão de oração: faltava "Quanto mais valeis vós do que as aves?" (TR πόσῳ μᾶλλον ὑμεῖς διαφέρετε τῶν πετεινῶν; KJV "how much more are ye better than the fowls?"; Almeida 1819 "quanto mais valeis vósoutros que as aves?"); também "tem" → "têm"
+
+### Camada 1 – complemento 2 (3)
+
+- **Sl 59.12** – Palavra sobrando: "[Pelo] do pecado" → "[Pelo] pecado" (hebr. חַטַּאת־פִּימוֹ)
+- **Js 13.5** – Erro de digitação: "o pdo monte" → "ao pé do monte" (hebr. תַּחַת הַר־חֶרְמוֹן; KJV "under mount Hermon")
+- **Ez 39.27** – Conjugação: "Quando eu trouxé-los" → "Quando eu os trouxer" (paralelo a "e os juntar")
