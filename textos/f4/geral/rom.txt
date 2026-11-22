@@ -443,7 +443,7 @@ Ou: “Bem-aventurados”, “felizes”
 \v Rm.4.8
 Bendito é o homem a quem o Senhor não atribui pecado.
 \v Rm.4.9
-Ora, essa bendição
+Ora, essa bendição 
 \fn
 Ou: bem-aventurança
 \*fn
@@ -542,7 +542,7 @@ Portanto, visto que somos justificados pela fé,
 {trnc}N4: tenhamos
 {trnc}\*fn
 {n4}\fn
-RP, TR, NA e SBL: temos
+{n4}RP, TR, NA e SBL: temos
 {n4}\*fn
  paz com Deus, por meio do nosso Senhor Jesus Cristo.
 \v Rm.5.2
@@ -932,7 +932,7 @@ os
 \v Rm.8.35
 Quem nos separará do amor de Cristo? A aflição, a angústia, a perseguição, a fome, a nudez, o perigo, ou a espada?
 \v Rm.8.36
-Como está escrito: “Pois por causa de ti somos entreges à morte o dia todo; somos contados como ovelhas para o matadouro”.
+Como está escrito: “Pois por causa de ti somos entregues à morte o dia todo; somos contados como ovelhas para o matadouro”.
 \ref
 Salmos 44:22 
 \*ref
@@ -1156,19 +1156,19 @@ Mas a justiça que é pela fé assim diz: “Não digas em teu coração: ‘Que
 \ref
 Deuteronômio 30:12 
 \*ref
-(Isto é, trazer Cristo abaixo),
+ (Isto é, trazer Cristo abaixo),
 \v Rm.10.7
 ou: ‘Quem descerá ao abismo?’”
 \ref
 Deuteronômio 30:13 
 \*ref
-(Isto é, trazer Cristo dentre os mortos).
+ (Isto é, trazer Cristo dentre os mortos).
 \v Rm.10.8
 Porém, o que diz? “A palavra está perto de ti, na tua boca, e no teu coração”.
 \ref
 Deuteronômio 30:14 
 \*ref
-Esta é a palavra da fé, que pregamos.
+ Esta é a palavra da fé, que pregamos.
 \v Rm.10.9
 Pois, se com a tua boca declarares que Jesus é Senhor, e em teu coração creres que Deus o ressuscitou dos mortos, serás salvo.
 \v Rm.10.10
@@ -1501,7 +1501,7 @@ Não vos vingueis por vós mesmos, amados. Em vez disso, dai lugar à ira
 \added
 divina
 \*added
-,porque está escrito: A mim pertence a vingança, eu retribuirei, diz o Senhor. 
+, porque está escrito: A mim pertence a vingança, eu retribuirei, diz o Senhor. 
 \ref
 Deuteronômio 32:35 
 \*ref
@@ -1906,7 +1906,7 @@ bens
 Assim que eu concluir isso, e depois de entregar-lhes em segurança esse fruto, partirei para a Espanha 
 visitando-vos no caminho.
 \v Rm.15.29
-E sei que, quando chegar até vós, virei com a plenitude da bênção
+E sei que, quando chegar até vós, virei com a plenitude da bênção 
 {tr|rp}do Evangelho
 {trnc}\fn
 {trnc}N4 não contém “do Evangelho”
@@ -2053,7 +2053,7 @@ ao conhecimento
 \*added
  de todos. Por isso eu me alegro por vossa causa; quero, porém, que sejais sábios no bem, e inocentes quanto ao mal.
 \v Rm.16.20
-E o Deus de paz esmagará Satanás em pedaços debaixo dos vossos pés. A graça de nosso Senhor Jesus}
+E o Deus de paz esmagará Satanás em pedaços debaixo dos vossos pés. A graça de nosso Senhor Jesus
 {tr|rp} Cristo
 {trnc}\fn
 {trnc}N4 não contém “Cristo”
@@ -2088,21 +2088,21 @@ A graça de nosso Senhor Jesus Cristo seja com todos vós, Amém!
 {n4}TR, RP contêm o versículo 24:“A graça de nosso Senhor Jesus Cristo seja com todos vós, Amém!”
 {n4}\*fn
 {tr|n4}\v Rm.16.25
-{tr|n4}Ora, para aquele que tem o poder de vos manter firmes segundo o meu Evangelho e a pregação de Jesus Cristo, conforme a 
+{tr|n4} Ora, para aquele que tem o poder de vos manter firmes segundo o meu Evangelho e a pregação de Jesus Cristo, conforme a 
 {tr|n4}revelação do mistério, que foi encoberto 
 {tr|n4}\added
 {tr|n4}desde
 {tr|n4}\*added
 {tr|n4} o princípio dos tempos;
 {tr|n4}\v Rm.16.26
-{tr|n4}Mas agora se manifestou, e se tornou conhecido pelas Escrituras dos profetas, segundo o mandado do Deus eterno, para a 
+{tr|n4} Mas agora se manifestou, e se tornou conhecido pelas Escrituras dos profetas, segundo o mandado do Deus eterno, para a 
 {tr|n4}obediência da fé entre todas as nações;
 {tr|n4}\v Rm.16.27
-{tr|n4}Ao único Deus sábio seja a glória, por meio de Jesus Cristo, para 
+{tr|n4} Ao único Deus sábio seja a glória, por meio de Jesus Cristo, para 
 {tr|n4}\added
 {tr|n4}todo o
 {tr|n4}\*added
-{tr|n4} sempre! Amém!
+{tr|n4} sempre! Amém! 
 {trnc}\fn
 {trnc}RP move os versículos 25 a 27 para o capítulo 14, como versículos 24 a 26
 {trnc}\*fn

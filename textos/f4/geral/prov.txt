@@ -675,7 +675,7 @@ De tempos em tempos ela fica fora
 \added
 de casa
 \*added
-,nas ruas, espreitando em todos os cantos.
+, nas ruas, espreitando em todos os cantos.
 \v Prv.7.13
 Então ela o pegou, e o beijou; e com atrevimento em seu rosto, disse-lhe:
 \v Prv.7.14
@@ -849,7 +849,7 @@ e
 \*added
  está convidando desde os pontos mais altos da cidade, dizendo:
 \v Prv.9.4
-Qualquer um que for ingênuo, venha aqui.Aos que têm falta de entendimento, ela diz:
+Qualquer um que for ingênuo, venha aqui. Aos que têm falta de entendimento, ela diz:
 \v Prv.9.5
 Vinde, comei do meu pão; e bebei do vinho que misturei.
 \v Prv.9.6
@@ -894,7 +894,7 @@ Porém não sabem que ali estão os mortos; seus convidados estão nas profundez
 Xeol é o lugar dos mortos
 \*fn
 \v Prv.10.1
-Provérbios de Salomão:O filho sábio alegra ao pai; mas o filho tolo é tristeza para sua mãe.
+Provérbios de Salomão: O filho sábio alegra ao pai; mas o filho tolo é tristeza para sua mãe.
 \v Prv.10.2
 Tesouros da perversidade para nada aproveitam; porém a justiça livra da morte.
 \v Prv.10.3
@@ -1038,7 +1038,7 @@ O hipócrita com a boca prejudica ao seu próximo; mas os justos por meio do con
 \v Prv.11.10
 No bem dos justos, a cidade se alegra muito; e quando os perversos perecem, há alegria.
 \v Prv.11.11
-Pelo bênção dos sinceros a cidade se exalta; mas pela boca dos perversos ela se destrói.
+Pela bênção dos sinceros a cidade se exalta; mas pela boca dos perversos ela se destrói.
 \v Prv.11.12
 Aquele que não tem entendimento despreza a seu próximo; mas o homem bom entendedor se mantêm calado.
 \v Prv.11.13
@@ -1050,7 +1050,7 @@ consiste
 \*added
  o livramento.
 \v Prv.11.15
-Certamente aquele que se tornar fiador de algum estranho passará por sofrimento; mas aquele odeia firmar compromissos 
+Certamente aquele que se tornar fiador de algum estranho passará por sofrimento; mas aquele que odeia firmar compromissos 
 \added
 ficará
 \*added
@@ -2245,7 +2245,7 @@ vem
 \added
 bom
 \*added
- nome do que muitas riquezas; e ser favorecido é melhor que a prata e o o ouro.
+ nome do que muitas riquezas; e ser favorecido é melhor que a prata e o ouro.
 \v Prv.22.2
 O rico e o pobre se encontram; todos eles foram feitos pelo SENHOR.
 \v Prv.22.3
@@ -2418,7 +2418,7 @@ faze o mesmo com
 \v Prv.23.24
 O pai do justo muito se alegrará; aquele que gerar o sábio se encherá de alegria por causa dele.
 \v Prv.23.25
-Teu pai e tua mãe se alegrarão; aquela te te gerou se encherá de alegria.
+Teu pai e tua mãe se alegrarão; aquela que te gerou se encherá de alegria.
 \v Prv.23.26
 Meu filho, dá para mim teu coração, e que teus olhos prestem atenção em meus caminhos.
 \v Prv.23.27
@@ -2506,7 +2506,7 @@ Se
 \v Prv.24.11
 Livra os que estão tomados para a morte, os que estão sendo levados para serem mortos;
 \v Prv.24.12
-Pois se tu disseres: Eis que não sabíamos,Por acaso aquele que pesa os corações não saberá? Aquele que guarda tua alma não conhecerá? Ele retribuirá ao homem conforme sua obra.
+Pois se tu disseres: Eis que não sabíamos, Por acaso aquele que pesa os corações não saberá? Aquele que guarda tua alma não conhecerá? Ele retribuirá ao homem conforme sua obra.
 \v Prv.24.13
 Come mel, meu filho, porque é bom; e o favo de mel é doce ao teu paladar.
 \v Prv.24.14
@@ -2542,7 +2542,7 @@ provérbios
 \*added
  também são para os sábios: fazer acepção de pessoas num julgamento não é bom.
 \v Prv.24.24
-Aquele que disser ao ímpio: Tu és justo,Os povos o amaldiçoarão, as nações o detestarão.
+Aquele que disser ao ímpio: Tu és justo, Os povos o amaldiçoarão, as nações o detestarão.
 \v Prv.24.25
 Mas para aqueles que 
 \added
@@ -2592,7 +2592,7 @@ Tira o perverso de diante do rei, e seu trono se firmará com justiça.
 \v Prv.25.6
 Não honres a ti mesmo perante o rei, nem te ponhas no lugar dos grandes;
 \v Prv.25.7
-Porque é melhor que te digam: Sobe aqui;Do que te rebaixem perante a face do príncipe, a quem teus olhos viram.
+Porque é melhor que te digam: Sobe aqui; Do que te rebaixem perante a face do príncipe, a quem teus olhos viram.
 \v Prv.25.8
 Não sejas apressado para entrar numa disputa; senão, o que farás se no fim teu próximo te envergonhar?
 \v Prv.25.9
@@ -2990,7 +2990,7 @@ Quem tem pressa para ter riquezas é um homem de olho mau; e ele não sabe que a
 \v Prv.28.23
 Aquele que repreende ao homem obterá mais favor depois do que aquele que lisonjeia com a língua.
 \v Prv.28.24
-Aquele que furta seu pai ou sua mãe e diz: Não é pecado,É companheiro do homem destruidor.
+Aquele que furta seu pai ou sua mãe e diz: Não é pecado, É companheiro do homem destruidor.
 \v Prv.28.25
 Quem tem alma orgulhosa levanta brigas; mas aquele que confia no SENHOR prosperará.
 \v Prv.28.26
@@ -3139,7 +3139,7 @@ Para que não aconteça de eu ficar farto e
 \added
 te
 \*added
- negar, dizendo: Quem é o SENHOR?Nem também que eu empobreça, e venha a furtar, e desonre o nome do meu Deus.
+ negar, dizendo: Quem é o SENHOR? Nem também que eu empobreça, e venha a furtar, e desonre o nome do meu Deus.
 \v Prv.30.10
 Não difames do servo ao seu senhor, para que ele não te amaldiçoe e fiques culpado.
 \v Prv.30.11
@@ -3232,11 +3232,11 @@ O que
 \added
 posso te dizer
 \*added
-,meu filho, ó filho do meu ventre? O que 
+, meu filho, ó filho do meu ventre? O que 
 \added
 te direi
 \*added
-,filho de minhas promessas?
+, filho de minhas promessas?
 \v Prv.31.3
 Não dês tua força às mulheres, nem teus caminhos para 
 \added
@@ -3294,7 +3294,7 @@ Seu marido é famoso às portas
 \added
 da cidade
 \*added
-,quando ele se senta com os anciãos da terra.
+, quando ele se senta com os anciãos da terra.
 \v Prv.31.24
 Ela faz panos de linho fino, e os vende; e fornece cintos aos comerciantes.
 \v Prv.31.25

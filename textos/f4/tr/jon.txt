@@ -43,7 +43,7 @@ E ele lhes respondeu: Sou hebreu, e temo ao SENHOR, o Deus dos céu, que fez o m
 \v Jn.1.10
 Então aqueles homens tiveram um grande medo, e lhe disseram: Por que fizeste isto? Pois aqueles homens sabiam que ele estava fugindo do SENHOR, porque ele já havia lhes dito.
 \v Jn.1.11
-Então lhe disseram: O que faremos contigo, para que o mar se nos aquiete?Porque o mar cada vez mais se embravecia.
+Então lhe disseram: O que faremos contigo, para que o mar se nos aquiete? Porque o mar cada vez mais se embravecia.
 \v Jn.1.12
 E ele lhes respondeu: Tomai-me, e lançai-me ao mar, e o mar se vos aquietará; porque eu sei que foi por minha causa que esta grande tempestade 
 \added
@@ -153,7 +153,7 @@ correta
 \*key
 trad. alt. tanta
 \*fn
- a tua ira pela planta?E ele respondeu: É correto eu me irar
+ a tua ira pela planta? E ele respondeu: É correto eu me irar
 \fn
 \key
 É correto eu me irar

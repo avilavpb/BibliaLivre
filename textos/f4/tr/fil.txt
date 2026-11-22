@@ -15,7 +15,7 @@ Paulo e Timóteo, servos de
 Jesus Cristo
 ,
 \fn
-N4:Cristo Jesus 
+N4: Cristo Jesus 
 \*fn
  a todos os santos em Cristo Jesus, que estão em Filipos, com os supervisores 
 \fn
@@ -315,7 +315,7 @@ nós somos cidadãos dos céus
 \*key
 Lit. nossa cidadania está nos céus
 \*fn
-de onde também esperamos um Salvador, o Senhor Jesus Cristo.
+ de onde também esperamos um Salvador, o Senhor Jesus Cristo.
 \v Fp.3.21
 Ele transformará o nosso degradante corpo, para que seja conforme o seu corpo glorioso, segundo a operação do seu poder de sujeitar para si todas as coisas.
 \v Fp.4.1
@@ -370,7 +370,7 @@ Mas de tudo tenho recebido, e tenho em abundância; estou plenamente abastecido,
 \added
 me foi enviado
 \*added
-,como cheiro suave, e sacrifício aceitável e agradável a Deus.
+, como cheiro suave, e sacrifício aceitável e agradável a Deus.
 \v Fp.4.19
 E meu Deus suprirá todas a vossas necessidades segundo as suas riquezas em glória em Cristo Jesus.
 \v Fp.4.20
@@ -386,7 +386,7 @@ A graça do
 RP, N4 não contêm “nosso” 
 \*fn
  Senhor Jesus Cristo esteja com 
-todos vós. Amém!
+todos vós. Amém! 
 \fn
 N4: esteja com o vosso espírito 
 \*fn

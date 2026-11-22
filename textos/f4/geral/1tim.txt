@@ -93,7 +93,7 @@ como exemplo aos que haviam de crer nele para a vida eterna.
 \v 1Tm.1.17
 Ao Rei dos tempos, imortal, invisível, o único Deus
 {tr|rp} sábio
-,
+, 
 {trnc}\fn
 {trnc}N4 não contém “sábio”
 {trnc}\*fn
@@ -567,7 +567,7 @@ seja
 \*added
 {tr|rp} contigo. Amém
 {n4}convosco
-.
+. 
 {trnc}\fn
 {trnc}TR, RP: “contigo. Amém.” - N4: “convosco.”
 {trnc}\*fn

@@ -23,7 +23,7 @@ seu castigo
 \v Am.1.4
 Por isso meterei fogo na casa de Hazael, que consumirá os palácios de Ben-Hadade.
 \v Am.1.5
-E quebrarei o ferrolho de Damasco, e exterminarei o morador do vale de Áven, e o dono do cetro de de Bete-Éden; e o povo da Síria será levado em cativeiro a Quir, diz o SENHOR.
+E quebrarei o ferrolho de Damasco, e exterminarei o morador do vale de Áven, e o dono do cetro de Bete-Éden; e o povo da Síria será levado em cativeiro a Quir, diz o SENHOR.
 \v Am.1.6
 Assim diz o SENHOR: Por três transgressões de Gaza, e pela quarta, não desviarei 
 \added
@@ -55,7 +55,7 @@ o
 \v Am.1.12
 Por isso meterei fogo em Temã, que consumirá os palácios de Bosra.
 \v Am.1.13
-Assim diz o SENHOR: Por três transgressões dos filhos de Amom, e pelo quarta, não desviarei 
+Assim diz o SENHOR: Por três transgressões dos filhos de Amom, e pela quarta, não desviarei 
 \added
 seu castigo
 \*added
@@ -118,7 +118,7 @@ E levantei
 \added
 alguns
 \*added
- de vossos filhos para profetas, e de vossos rapazes para que fossem nazireus. Não é isto assim, filhos de Israel?Diz o SENHOR,
+ de vossos filhos para profetas, e de vossos rapazes para que fossem nazireus. Não é isto assim, filhos de Israel? Diz o SENHOR,
 \v Am.2.12
 Mas aos nazireus destes de beber vinho; e aos profetas mandastes, dizendo: Não profetizeis.
 \v Am.2.13
@@ -151,7 +151,7 @@ Por acaso irão dois juntos, se não estiverem de acordo?
 \v Am.3.4
 Rugirá o leão no bosque se não houver presa? Dará o leãozinho seu som desde sua cova, se nada tiver capturado?
 \v Am.3.5
-Cairá o ave no laço na terra, se não houver armadilha para ela? Se levantará o laço da terra, se nada houver prendido?
+Cairá a ave no laço na terra, se não houver armadilha para ela? Se levantará o laço da terra, se nada houver prendido?
 \v Am.3.6
 Tocará a trombeta na cidade, e o povo não se estremecerá? Haverá alguma calamidade
 \fn
@@ -271,7 +271,7 @@ Na porta da cidade eles odeiam ao que repreende, e abominam ao que fala com just
 a porta da cidade era onde as causas judiciais eram resolvidas
 \*fn
 \v Am.5.11
-Portanto, visto que pisoteais ao pobre e tomais dele um carga de trigo; assim edificastes casas de pedras lavradas, mas não habitareis nelas; plantastes belas vinhas, mas não bebereis o vinho delas.
+Portanto, visto que pisoteais ao pobre e tomais dele uma carga de trigo; assim edificastes casas de pedras lavradas, mas não habitareis nelas; plantastes belas vinhas, mas não bebereis o vinho delas.
 \v Am.5.12
 Pois sei que vossas transgressões são muitas e vossos pecados são grandes; afligis o justo, e recebeis suborno, e negam o direito dos necessitados na porta da cidade.
 \v Am.5.13
@@ -349,7 +349,7 @@ E quando seu parente vier para queimar
 \added
 os cadáveres
 \*added
-,para tirar os ossos de casa, então dirá ao que estiver dentro da da casa: Há ainda alguém contigo? E ele responderá: Não. Então aquele dirá: Cala-te! Não menciones o nome do SENHOR.
+, para tirar os ossos de casa, então dirá ao que estiver dentro da casa: Há ainda alguém contigo? E ele responderá: Não. Então aquele dirá: Cala-te! Não menciones o nome do SENHOR.
 \v Am.6.11
 Porque eis que o SENHOR mandará, e ferirá a casa maior com quebrantamento, e a casa menor com despedaçamento.
 \v Am.6.12
@@ -493,6 +493,6 @@ Para que tomem posse do restante de Edom, e todas as nações que se chamam pelo
 \v Am.9.13
 Eis que vêm dias, diz o SENHOR, em que o que ara alcançará ao que colhe, e o que pisa as uvas ao que leva a semente; e os montes destilarão suco de uva, e todos os morros se derreterão.
 \v Am.9.14
-E restaurarei meu povo Isarael de seu infortúnio; então reconstruirão as cidades assoladas, e nelas habitarão; e plantarão vinhas, e beberão o vinho delas; e farão jardins, e comerão o fruto deles.
+E restaurarei meu povo Israel de seu infortúnio; então reconstruirão as cidades assoladas, e nelas habitarão; e plantarão vinhas, e beberão o vinho delas; e farão jardins, e comerão o fruto deles.
 \v Am.9.15
 Pois eu os plantarei em sua terra, e nunca mais serão arrancados de sua terra, que eu lhes dei, diz o SENHOR, teu Deus.

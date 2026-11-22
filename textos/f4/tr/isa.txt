@@ -111,7 +111,7 @@ Teus príncipes são rebeldes, e companheiros de ladrões; cada um deles ama os 
 \v Is.1.24
 Por isso diz o Senhor DEUS dos exércitos, o Poderoso de Israel: Ah, tomarei satisfações quanto aos meus adversários, e me vingarei de meus inimigos.
 \v Is.1.25
-E tornarei minha minha mão contra ti, e purificarei por completo tuas escórias; e tirarei toda a tua impureza.
+E tornarei minha mão contra ti, e purificarei por completo tuas escórias; e tirarei toda a tua impureza.
 \v Is.1.26
 E restituirei a teus juízes, como da primeira vez, e a teus conselheiros, como no princípio; e depois disso te chamarão cidade da justiça, cidade fiel.
 \v Is.1.27
@@ -233,13 +233,13 @@ Dizei a justo, que o bem
 \added
 lhe sucederá
 \*added
-,que comerão do fruto de suas obras.
+, que comerão do fruto de suas obras.
 \v Is.3.11
 Ai do perverso! O mal 
 \added
 lhe sucederá
 \*added
-,porque lhe será feito conforme o trabalho de suas mãos.
+, porque lhe será feito conforme o trabalho de suas mãos.
 \v Is.3.12
 Os dominadores de meu povo são garotos, e mulheres dominam sobre ele; ah, meu povo, os que te guiam te enganam e confundem o caminho de tuas veredas.
 \v Is.3.13
@@ -406,7 +406,7 @@ Xeol é o lugar dos mortos
 \added
 ali
 \*added
-descerão a nobreza e também a multidão, em meio a barulhos e com os que festejam.
+ descerão a nobreza e também a multidão, em meio a barulhos e com os que festejam.
 \v Is.5.15
 Então as pessoas serão rebaixadas, e os homens serão humilhados; e os olhos dos arrogantes se humilharão.
 \v Is.5.16
@@ -510,7 +510,7 @@ de ti
 \*added
  tua culpa, e purificado estás de teu pecado.
 \v Is.6.8
-Depois disso ouvi a voz do Senhor, que dizia: A quem enviarei? E quem irá por nós? Então eu disse:  Eis-me aqui! Envia-me!
+Depois disso ouvi a voz do Senhor, que dizia: A quem enviarei? E quem irá por nós? Então eu disse: Eis-me aqui! Envia-me!
 \v Is.6.9
 Então ele me disse: Vai, e diz a este povo: certamente ouvireis, mas não entendereis; certamente vereis, mas não percebereis.
 \v Is.6.10
@@ -520,7 +520,7 @@ assim
 \*added
  não se convertam, nem eu os cure.
 \v Is.6.11
-E eu disse: Até quando, Senhor?E ele respondeu:  Até que as cidades sejam devastadas, 
+E eu disse: Até quando, Senhor? E ele respondeu: Até que as cidades sejam devastadas, 
 \added
 e
 \*added
@@ -530,7 +530,7 @@ Porque o SENHOR removerá as pessoas
 \added
 dela
 \*added
-,e no meio da terra será grande o abandono.
+, e no meio da terra será grande o abandono.
 \v Is.6.13
 Mas ainda a décima parte ficará nela, e voltará a ser consumida; 
 \added
@@ -648,7 +648,7 @@ E vim até a profetisa, que concebeu e teve um filho; e o SENHOR me disse: Chama
 \v Is.8.4
 porque antes que o menino saiba falar “papai” ou “mamãe”, as riquezas de Damasco e os despojos de Samaria serão tomados pelo rei da Assíria.
 \v Is.8.5
-E o SENHOR continuou a a falar comigo, dizendo:
+E o SENHOR continuou a falar comigo, dizendo:
 \v Is.8.6
 Dado que este povo rejeitou as águas de Siloé, que correm calmamente, e se alegrou com Resim e com o filho de Remalias,
 \v Is.8.7
@@ -664,7 +664,7 @@ Ajuntai-vos, povos, e sereis quebrados; e ouvi, todos vós que sois de terras di
 \added
 para a batalha
 \*added
-,mas sereis quebrados.
+, mas sereis quebrados.
 \v Is.8.10
 Reuni-vos para tomar conselho, mas ele será desfeito; falai 
 \added
@@ -700,7 +700,7 @@ somos
 \*added
  como sinais e como maravilhas em Israel, pelo SENHOR dos exércitos, que habita no monte de Sião.
 \v Is.8.19
-E quando vos disserem: Consultai aos que se comunicam com os mortos e aos encantadores que murmuram, sussurrando entre os dentes.Por acaso não deveria o povo consultar ao seu Deus? 
+E quando vos disserem: Consultai aos que se comunicam com os mortos e aos encantadores que murmuram, sussurrando entre os dentes. Por acaso não deveria o povo consultar ao seu Deus? 
 \added
 Perguntarão
 \*added
@@ -710,7 +710,7 @@ Perguntarão
 \added
 Respondei
 \*added
- : À Lei e ao testemunho!Se não falarem segundo esta palavra, não haverá amanhecer para eles.
+ : À Lei e ao testemunho! Se não falarem segundo esta palavra, não haverá amanhecer para eles.
 \v Is.8.21
 E passarão pela 
 \added
@@ -816,7 +816,7 @@ que
 \added
 Nada podem fazer
 \*added
-,a não ser se abaterem entre os presos, e caírem entre os mortos. Com tudo isto, sua ira não cessará, e sua mão ainda está estendida.
+, a não ser se abaterem entre os presos, e caírem entre os mortos. Com tudo isto, sua ira não cessará, e sua mão ainda está estendida.
 \v Is.10.5
 Ai da Assíria, a vara de minha ira; porque minha indignação é pão em suas mãos.
 \v Is.10.6
@@ -840,7 +840,7 @@ Porque acontecerá que, quando o Senhor tiver acabado toda sua obra no monte de 
 \added
 para castigar
 \*added
- o fruto da arrogância da rei da Assíria e a pompa do orgulho de seus olhos.
+ o fruto da arrogância do rei da Assíria e a pompa do orgulho de seus olhos.
 \v Is.10.13
 Pois ele diz: Fiz 
 \added
@@ -910,7 +910,7 @@ Eles,
 \added
 os assírios
 \*added
-,chegaram a Aiate, passaram por Migrom, em Micmás puseram seus instrumentos.
+, chegaram a Aiate, passaram por Migrom, em Micmás puseram seus instrumentos.
 \v Is.10.29
 Passaram o vau, se abrigaram em Geba. Ramá está tremendo, Gibeá de Saul está fugindo.
 \v Is.10.30
@@ -1219,7 +1219,7 @@ Eglate-Selisia
 \*key
 trad. alt. [como] uma novilha de três anos
 \*fn
-pois sobem com choro pela subida de Luíte, pois no caminho de Horonaim levantam um grito de desespero.
+ pois sobem com choro pela subida de Luíte, pois no caminho de Horonaim levantam um grito de desespero.
 \v Is.15.6
 Pois as águas de Ninrim se acabaram; pois a grama se secou, as plantas pereceram, e não há mais vegetal verde.
 \v Is.15.7
@@ -1377,7 +1377,7 @@ futuro reservado
 \*key
 lit. porção, parte reservada
 \*fn
-para aqueles que nos saqueiam.
+ para aqueles que nos saqueiam.
 \v Is.18.1
 Ai da terra dos zumbidos de asas, que está além dos rios de Cuxe,
 \v Is.18.2
@@ -1517,9 +1517,9 @@ o que houve com
 \added
 agora
 \*added
-,como escaparemos?
+, como escaparemos?
 \v Is.21.1
-Revelação sobre o deserto do mar:Assim como os turbilhões de vento passam pelo Negueve, assim algo vem do deserto, de uma terra temível.
+Revelação sobre o deserto do mar: Assim como os turbilhões de vento passam pelo Negueve, assim algo vem do deserto, de uma terra temível.
 \v Is.21.2
 Uma visão terrível me foi informada: o enganador engana, e o destruidor destrói. Levanta-te, Elão! Faze o cerco, Média! 
 \added
@@ -1566,7 +1566,7 @@ como
 \*added
  um leão: Senhor, na torre de vigia estou continuamente de dia; e em minha guarda me ponho durante noites inteiras.
 \v Is.21.9
-E eis que está vindo uma carruagem de homens, um par de cavaleiros.Então ele respondeu:  Caiu! Caiu a Babilônia, e todas as imagens esculpidas de seus deuses foram quebradas contra a terra.
+E eis que está vindo uma carruagem de homens, um par de cavaleiros. Então ele respondeu: Caiu! Caiu a Babilônia, e todas as imagens esculpidas de seus deuses foram quebradas contra a terra.
 \v Is.21.10
 Ó meu 
 \added
@@ -1578,7 +1578,7 @@ Revelação sobre Dumá: Alguém está gritando de Seir. Guarda, o que houve de 
 \v Is.21.12
 O guarda disse: Vem a manhã, e também a noite; se quereis perguntar, perguntai; voltai-vos, e vinde.
 \v Is.21.13
-Revelação sobre a Arábia:Nos matos da Arábia passareis a noite, ó caravanas de dedanitas.
+Revelação sobre a Arábia: Nos matos da Arábia passareis a noite, ó caravanas de dedanitas.
 \v Is.21.14
 Saí ao encontro dos sedentos com água; os moradores da terra de Temá com seu pão encontram aos que estavam fugindo;
 \v Is.21.15
@@ -1586,9 +1586,9 @@ Pois fogem de diante de espadas, de diante da espada desembainhada, e diante do 
 \v Is.21.16
 Porque assim me disse o Senhor: Dentro de um ano (tal como ano de empregado), será arruinada toda a glória de Quedar.
 \v Is.21.17
-E os que restarem do número de flecheiros, os guerreiros dos filhos de Quedar, serão reduzidos a poucos.Pois assim disse o SENHOR, Deus de Israel.
+E os que restarem do número de flecheiros, os guerreiros dos filhos de Quedar, serão reduzidos a poucos. Pois assim disse o SENHOR, Deus de Israel.
 \v Is.22.1
-Revelação sobre o vale da visão:O que há contigo, agora, para que tenhas subido toda aos terraços?
+Revelação sobre o vale da visão: O que há contigo, agora, para que tenhas subido toda aos terraços?
 \v Is.22.2
 Tu cheia de barulhos, cidade tumultuada, cidade alegre! Teus mortos não morreram pela espada, nem morreram na guerra.
 \v Is.22.3
@@ -1682,7 +1682,7 @@ Eis que o SENHOR te lançará fora, ó homem,
 \*key
 trad. alt. violentamente
 \*fn
-e te agarrará!
+ e te agarrará!
 \fn
 lit. envolverá, cobrirá
 \*fn
@@ -1713,13 +1713,13 @@ como
 \v Is.22.24
 E nele pendurarão toda a honra da casa de seu pai, dos renovos e dos descendentes, todos as vasilhas menores; desde as vasilhas de taças, até todas as vasilhas de jarros.
 \v Is.22.25
-Naquele dia, - diz o SENHOR dos exércitos, - o prego fincado em lugar firme será tirado; e será cortado, e cairá; e a carga que nele está será cortada;  porque 
+Naquele dia, - diz o SENHOR dos exércitos, - o prego fincado em lugar firme será tirado; e será cortado, e cairá; e a carga que nele está será cortada; porque 
 \added
 assim
 \*added
  o SENHOR disse.
 \v Is.23.1
-Revelação sobre Tiro:Uivai, navios de Társis, pois ela está arruinada, sem sobrar casa alguma, nem entrada 
+Revelação sobre Tiro: Uivai, navios de Társis, pois ela está arruinada, sem sobrar casa alguma, nem entrada 
 \added
 nela
 \*added
@@ -1730,7 +1730,7 @@ Chipre
 \*key
 Ou: Quitim - também v. 12
 \*fn
-isto 
+ isto 
 \added
 lhes
 \*added
@@ -1861,7 +1861,7 @@ e
 \v Is.24.14
 Eles levantarão sua voz, e cantarão com alegria; por causa da glória do SENHOR, gritarão de alegria desde o mar.
 \v Is.24.15
-Por isso glorificai ao SENHOR no oriente;
+Por isso glorificai ao SENHOR no oriente; 
 \fn
 \key
 oriente
@@ -1969,7 +1969,7 @@ habilidade
 \*key
 obscuro
 \*fn
-de suas mãos.
+ de suas mãos.
 \v Is.25.12
 E lançará abaixo as fortalezas de teus muros; ele 
 \added
@@ -2264,7 +2264,7 @@ o dia todo
 \*added
  abrindo e revolvendo a sua terra?
 \v Is.28.25
-Quando ele já igualou sua superfície, por acaso ele não espalha endro, e derrama cominho, ou lança do melhor trigo, ou cevada escolhida, ou centeio,
+Quando ele já igualou sua superfície, por acaso ele não espalha endro, e derrama cominho, ou lança do melhor trigo, ou cevada escolhida, ou centeio, 
 \fn
 \key
 centeio
@@ -2352,9 +2352,9 @@ Parai, e maravilhai-vos; cegai-vos, e sede cegos! Estão bêbados, mas não de v
 \v Is.29.10
 Pois o SENHOR derramou sobre vós espírito de sono profundo; ele fechou vossos olhos (os profetas), e cobriu vossos cabeças (os videntes).
 \v Is.29.11
-E toda visão vos será como as palavras de um livro selado que, quando se dá a um letrado, dizendo: Lê isto, por favor;Esse dirá:  Não posso, porque está selado.
+E toda visão vos será como as palavras de um livro selado que, quando se dá a um letrado, dizendo: Lê isto, por favor; Esse dirá: Não posso, porque está selado.
 \v Is.29.12
-E quando se dá o livro a alguém que não saiba ler, dizendo: Lê isto, por favor; Esse dirá:  Não sei ler.
+E quando se dá o livro a alguém que não saiba ler, dizendo: Lê isto, por favor; Esse dirá: Não sei ler.
 \v Is.29.13
 Pois o Senhor disse: Visto que este povo se aproxima 
 \added
@@ -2399,7 +2399,7 @@ os
 \added
 da cidade
 \*added
-,e os que prejudicam ao justo.
+, e os que prejudicam ao justo.
 \v Is.29.22
 Portanto, assim o Senhor DEUS, que libertou a Abraão, diz à casa de Jacó: Jacó não será mais envergonhado, nem seu rosto ficará pálido, 
 \v Is.29.23
@@ -2418,7 +2418,7 @@ i.e. os que andam sem rumo
 \*fn
  de espírito virão a ter entendimento, e os murmuradores aprenderão doutrina.
 \v Is.30.1
-Ai dos filhos rebeldes!, diz o SENHOR,  Eles, que tomam conselho, mas não de mim; que fazem um pacto, porém sem o meu Espírito, para acrescentarem pecado sobre pecado.
+Ai dos filhos rebeldes!, diz o SENHOR, Eles, que tomam conselho, mas não de mim; que fazem um pacto, porém sem o meu Espírito, para acrescentarem pecado sobre pecado.
 \v Is.30.2
 Eles, que descem ao Egito sem me perguntarem,
 \fn
@@ -2464,7 +2464,7 @@ e
 \v Is.30.9
 Porque eles são um povo rebelde, são filhos mentirosos, filhos que não querem ouvir a Lei do SENHOR.
 \v Is.30.10
-Que dizem aos videntes: Não tenhais visões, e aos profetas:  Não nos reveleis o que é correto! Dizei coisas agradáveis para nós, revelai ilusões!
+Que dizem aos videntes: Não tenhais visões, e aos profetas: Não nos reveleis o que é correto! Dizei coisas agradáveis para nós, revelai ilusões!
 \v Is.30.11
 Desviai-vos do caminho, afastai-vos da vereda! Deixai de nos fazer deparar com o Santo de Israel!
 \v Is.30.12
@@ -2486,7 +2486,7 @@ Ao grito de um, mil
 \added
 fugirão
 \*added
-,
+, 
 \added
 e
 \*added
@@ -2498,7 +2498,7 @@ todos
 \added
 solitários
 \*added
-,como um mastro no cume do monte, como uma bandeira num morro.
+, como um mastro no cume do monte, como uma bandeira num morro.
 \v Is.30.18
 Por isso o SENHOR esperará para ter piedade de vós; e por isso ele se exaltará, para se compadecer de vós; pois o SENHOR é Deus de juízo; bem-aventurados todos os que nele esperam.
 \v Is.30.19
@@ -2581,7 +2581,7 @@ Tal como as aves voam
 \added
 ao redor de seu ninho
 \*added
-,assim o SENHOR dos exércitos protegerá a Jerusalém; por sua proteção ele a livrará, e por sua passagem ele a salvará.
+, assim o SENHOR dos exércitos protegerá a Jerusalém; por sua proteção ele a livrará, e por sua passagem ele a salvará.
 \v Is.31.6
 Convertei-vos a aquele 
 \added
@@ -2693,7 +2693,7 @@ Então,
 \added
 nações
 \*added
-,vossos despojos serão colhidos tal como os insetos colhem; tal como os gafanhotos saltam, assim saltarão.
+, vossos despojos serão colhidos tal como os insetos colhem; tal como os gafanhotos saltam, assim saltarão.
 \v Is.33.5
 Exaltado é o SENHOR, pois habita nas alturas; ele encheu a Sião de juízo e justiça.
 \v Is.33.6
@@ -2715,7 +2715,7 @@ tiradas suas folhas
 \*added
 .
 \v Is.33.10
-Agora eu me levantarei, diz o SENHOR;  agora me elevarei; agora serei exaltado.
+Agora eu me levantarei, diz o SENHOR; agora me elevarei; agora serei exaltado.
 \v Is.33.11
 Concebestes palha, gerais restos de cascas; vosso sopro vos consumirá 
 \added
@@ -2777,7 +2777,7 @@ tesoureiro
 \*key
 lit. O que pesava [dinheiro]?
 \*fn
-Onde está o que contava as torres? 
+ Onde está o que contava as torres? 
 \v Is.33.19
 Não verás 
 \added
@@ -2887,7 +2887,7 @@ Ali a coruja fará seu ninho e porá
 \added
 ovos
 \*added
-,e tirará seus filhotes, e os recolherá debaixo de sua sombra; também ali os abutres se ajuntarão uns com os outros.
+, e tirará seus filhotes, e os recolherá debaixo de sua sombra; também ali os abutres se ajuntarão uns com os outros.
 \v Is.34.16
 Buscai no livro do SENHOR, e lede; nenhuma destas 
 \added
@@ -2963,7 +2963,7 @@ E
 \added
 Rabsaqué
 \*added
- lhes disse: Dizei, pois, a Ezequias: Assim diz o grande rei, o rei da Assíria:  Que confiança é essa, em que confias?
+ lhes disse: Dizei, pois, a Ezequias: Assim diz o grande rei, o rei da Assíria: Que confiança é essa, em que confias?
 \v Is.36.5
 Eu, de fato, digo, que 
 \added
@@ -2973,7 +2973,7 @@ teus
 \v Is.36.6
 Eis que confias no Egito, aquele bastão de cana quebrada, em quem se alguém se apoiar, entrará pela mão e a perfurará; assim é Faraó, rei do Egito, para com todos os que nele confiam.
 \v Is.36.7
-Porém, se me disseres: Confiamos no SENHOR, nosso Deus; Por acaso não é este aquele cujos altos e cujos altares Ezequias tirou, e disse a Judá e a Jerusalém:  Perante este altar adorareis?
+Porém, se me disseres: Confiamos no SENHOR, nosso Deus; Por acaso não é este aquele cujos altos e cujos altares Ezequias tirou, e disse a Judá e a Jerusalém: Perante este altar adorareis?
 \v Is.36.8
 Agora, pois, submeta-te à proposta do meu senhor, o rei da Assíria; e eu te darei dois mil cavalos, se tu podes dar dois mil cavaleiros para eles.
 \v Is.36.9
@@ -3022,7 +3022,7 @@ própria
 \v Is.36.17
 Até que eu venha, e vos leve a uma terra como a vossa, terra de trigo e de suco de uva, terra de pão e de vinhas.
 \v Is.36.18
-Que Ezequias não vos engane, dizendo: O SENHOR nos livrará;  por acaso os deuses das nações livraram cada um sua terra das mãos do rei da Assíria?
+Que Ezequias não vos engane, dizendo: O SENHOR nos livrará; por acaso os deuses das nações livraram cada um sua terra das mãos do rei da Assíria?
 \v Is.36.19
 Onde estão os deuses de Hamate e de Arpade? Onde estão os deuses de Sefarvaim? Por acaso eles livraram a Samaria das minhas mãos?
 \v Is.36.20
@@ -3036,11 +3036,11 @@ E aconteceu que, quando o rei Ezequias ouviu
 \added
 isso
 \*added
-,ele rasgou suas roupas, cobriu-se de saco, e entrou na casa do SENHOR.
+, ele rasgou suas roupas, cobriu-se de saco, e entrou na casa do SENHOR.
 \v Is.37.2
 Então ele enviou Eliaquim o administrador da casa real, Sebna o escriba, e os anciãos dos sacerdotes, cobertos de sacos, ao profeta Isaías, filho de Amoz.
 \v Is.37.3
-E lhe disseram: Assim diz Ezequias:  Este dia é um dia de angústia, de repreensão, e de blasfêmia; pois os filhos chegaram ao parto, porém não há força para que possam nascer.
+E lhe disseram: Assim diz Ezequias: Este dia é um dia de angústia, de repreensão, e de blasfêmia; pois os filhos chegaram ao parto, porém não há força para que possam nascer.
 \v Is.37.4
 Talvez o SENHOR venha a ouvir as palavras de Rabsaqué, a quem seu senhor, o rei da Assíria, enviou, para afrontar ao Deus vivente; e repreenda as palavras que o SENHOR teu Deus tem ouvido. Faze, pois, oração pelos restantes, que 
 \added
@@ -3050,7 +3050,7 @@ ainda
 \v Is.37.5
 E os servos do rei vieram até Isaías,
 \v Is.37.6
-E Isaías lhes disse: Assim direis a vosso senhor:  Assim diz o SENHOR:  Não temas das palavras que ouviste, com as quais os servos do rei da Assíria me blasfemaram.
+E Isaías lhes disse: Assim direis a vosso senhor: Assim diz o SENHOR: Não temas das palavras que ouviste, com as quais os servos do rei da Assíria me blasfemaram.
 \v Is.37.7
 Eis que porei nele um espírito de tal maneira que, quando ouvir um rumor, ele voltará à sua terra; e eu o derrubarei pela espada em sua 
 \added
@@ -3066,7 +3066,7 @@ já
 \v Is.37.9
 E ele, ao ouvir dizer que Tiraca, rei de Cuxe, tinha saído para fazer guerra contra ele, então, após ouvir, enviou mensageiros a Ezequias, dizendo:
 \v Is.37.10
-Assim falareis a Ezequias, rei de Judá, dizendo: Que teu Deus, em quem confias, não te engane, dizendo:  Jerusalém não será entregue nas mãos do rei da Assíria.
+Assim falareis a Ezequias, rei de Judá, dizendo: Que teu Deus, em quem confias, não te engane, dizendo: Jerusalém não será entregue nas mãos do rei da Assíria.
 \v Is.37.11
 Eis que tens ouvido o que os reis da Assíria fizeram a todas as terras, destruindo-as por completo. E tu, escaparias?
 \v Is.37.12
@@ -3114,7 +3114,7 @@ ciprestes
 \*key
 trad. alt. faias
 \*fn
-e virei a seu extremo cume, ao bosque de seu campo fértil.
+ e virei a seu extremo cume, ao bosque de seu campo fértil.
 \v Is.37.25
 Eu cavei, e bebi as águas; e com as plantas dos meus pés secarei todos os rios do Egito.
 \v Is.37.26
@@ -3139,7 +3139,7 @@ tumulto
 \*key
 obscuro; trad. alt.: arrogância
 \*fn
-que subiu aos meus ouvidos, por isso porei meu anzol em teu nariz, e meu freio em tua boca; e te farei voltar pelo caminho em que vieste.
+ que subiu aos meus ouvidos, por isso porei meu anzol em teu nariz, e meu freio em tua boca; e te farei voltar pelo caminho em que vieste.
 \v Is.37.30
 E isto será por sinal para ti, 
 \added
@@ -3167,7 +3167,7 @@ Assim Senaqueribe, rei da Assíria, partiu-se, e foi embora, voltou, e ficou em 
 \v Is.37.38
 E sucedeu que, enquanto ele estava prostrado na casa de seu deus Nisroque, seus filhos Adrameleque e Sarezer o feriram a espada; então eles escaparam para a terra de Ararate; e Esar-Hadom, seu filho, reinou em seu lugar.
 \v Is.38.1
-Naqueles dias Ezequias ficou doente, perto de morrer. E veio até ele Isaías, filho de Amoz, e lhe disse: Assim diz o SENHOR:  Põe em ordem a tua casa, porque morrerás, e não viverás.
+Naqueles dias Ezequias ficou doente, perto de morrer. E veio até ele Isaías, filho de Amoz, e lhe disse: Assim diz o SENHOR: Põe em ordem a tua casa, porque morrerás, e não viverás.
 \v Is.38.2
 Então Ezequias virou o seu rosto para a parede, e orou ao SENHOR,
 \v Is.38.3
@@ -3175,7 +3175,7 @@ E disse: Ó SENHOR, lembra-te, eu te peço, de que andei diante de ti com fideli
 \v Is.38.4
 Então veio a palavra do SENHOR a Isaías, dizendo:
 \v Is.38.5
-Vai, e diz a Ezequias: Assim diz o SENHOR, o Deus de teu pai Davi:  Eu ouvi tua oração, 
+Vai, e diz a Ezequias: Assim diz o SENHOR, o Deus de teu pai Davi: Eu ouvi tua oração, 
 \added
 e
 \*added
@@ -3189,7 +3189,7 @@ E das mãos do rei da Assíria eu livrarei a ti, e a esta cidade; e defenderei e
 \v Is.38.7
 E isto te será por sinal da parte do SENHOR, de que o SENHOR cumprirá esta palavra que falou:
 \v Is.38.8
-Eis que voltarei voltar a sombra dos degraus nos quais o sol desceu na  escadaria de Acaz; dez degraus atrás.Assim voltou o sol dez degraus, pelos degraus que já tinha descido.
+Eis que voltarei voltar a sombra dos degraus nos quais o sol desceu na escadaria de Acaz; dez degraus atrás. Assim voltou o sol dez degraus, pelos degraus que já tinha descido.
 \v Is.38.9
 Escritura de Ezequias, rei de Judá, quando ficou doente, e se sarou de sua enfermidade:
 \v Is.38.10
@@ -3200,7 +3200,7 @@ meio
 \*key
 obscuro; Almeida 1819, KJV 'cortadura', corte 
 \*fn
-da minha vida, irei às portas do Xeol;
+ da minha vida, irei às portas do Xeol;
 \fn
 Xeol é o lugar dos mortos
 \*fn
@@ -3269,9 +3269,9 @@ mensageiros com
 \v Is.39.2
 E Ezequias se alegrou com eles, e lhes mostrou a casa de teu tesouro, a prata, o ouro, as especiarias, os melhores óleos, e toda a sua casa de armas, e tudo quanto se achou em seus tesouros; coisa nenhuma houve, nem em sua casa, nem em todo o seu domínio, que Ezequias não lhes mostrasse.
 \v Is.39.3
-Então o profeta Isaías veio ao rei Ezequias, e lhe disse: O que aqueles homens disseram? E de onde eles vieram a ti?E Ezequias disse:  Eles vieram a mim de uma terra distante, da Babilônia.
+Então o profeta Isaías veio ao rei Ezequias, e lhe disse: O que aqueles homens disseram? E de onde eles vieram a ti? E Ezequias disse: Eles vieram a mim de uma terra distante, da Babilônia.
 \v Is.39.4
-E ele lhe disse: O que viram em tua casa?E Ezequias disse:  Eles viram tudo quanto há em minha casa; coisa nenhuma há em meus tesouros que eu não tenha lhes mostrado.
+E ele lhe disse: O que viram em tua casa? E Ezequias disse: Eles viram tudo quanto há em minha casa; coisa nenhuma há em meus tesouros que eu não tenha lhes mostrado.
 \v Is.39.5
 Então Isaías disse a Ezequias: Ouve a palavra do SENHOR dos exércitos:
 \v Is.39.6
@@ -3283,7 +3283,7 @@ até
 \*added
  de teus filhos, que procederem de ti, e tu gerares, tomarão; e eles serão eunucos no palácio do rei da Babilônia.
 \v Is.39.8
-Então Ezequias disse a Isaías: Boa é a palavra do SENHOR que falaste.Disse também:  Pois haverá paz e segurança em meus dias.
+Então Ezequias disse a Isaías: Boa é a palavra do SENHOR que falaste. Disse também: Pois haverá paz e segurança em meus dias.
 \v Is.40.1
 Consolai, consolai a meu povo, diz vosso Deus.
 \v Is.40.2
@@ -3313,7 +3313,7 @@ assim
 \*added
  falou a boca do SENHOR.
 \v Is.40.6
-Uma voz: Clama!E ele disse:  O que clamarei?  Que toda carne é erva, e toda a sua bondade como as flores do campo.
+Uma voz: Clama! E ele disse: O que clamarei? Que toda carne é erva, e toda a sua bondade como as flores do campo.
 \v Is.40.7
 A erva se seca, as flores caem, porque o Espírito do SENHOR nelas sopra; verdadeiramente o povo é erva.
 \v Is.40.8
@@ -3456,7 +3456,7 @@ Quem operou e fez
 \added
 isto
 \*added
-,chamando as gerações desde o princípio? Eu, o SENHOR, do princípio aos últimos, eu mesmo.
+, chamando as gerações desde o princípio? Eu, o SENHOR, do princípio aos últimos, eu mesmo.
 \v Is.41.5
 Os litorais viram, e tremeram; os confins da terra tremeram; eles se aproximaram, e chegaram.
 \v Is.41.6
@@ -3506,7 +3506,7 @@ Plantarei no deserto o cedro, a acácia, a murta, e a oliveira; juntamente porei
 \v Is.41.20
 Para que vejam, saibam, reflitam, e juntamente entendam que a mão do SENHOR fez isto; e o Santo de Israel isto criou.
 \v Is.41.21
-Apresentai vossa demanda!, diz o SENHOR.  Trazei vossos argumentos!, diz o Rei de Jacó.
+Apresentai vossa demanda!, diz o SENHOR. Trazei vossos argumentos!, diz o Rei de Jacó.
 \v Is.41.22
 Tragam e anunciem-nos as coisas que irão acontecer; anunciai quais foram as coisas passadas, para que possamos dar atenção a elas, e saibamos o fim delas; ou dizei-nos as coisas futuras.
 \v Is.41.23
@@ -3586,7 +3586,7 @@ respiração ao povo que nela
 \added
 habita
 \*added
-,e espírito aos que nela andam.
+, e espírito aos que nela andam.
 \v Is.42.6
 Eu, o SENHOR, te chamei em justiça, e te tomarei pela mão. E eu te guardarei, e te darei como pacto para o povo e luz para as nações;
 \v Is.42.7
@@ -3742,13 +3742,13 @@ assim
 \v Is.43.5
 Não temas, pois estou contigo; eu trarei tua semente desde o oriente, e te ajuntarei desde o ocidente.
 \v Is.43.6
-Direi ao norte: Dá!,  E ao sul:  Não retenhas!  Trazei meus filhos de longe, e minhas filhas desde os confins da terra;
+Direi ao norte: Dá!, E ao sul: Não retenhas! Trazei meus filhos de longe, e minhas filhas desde os confins da terra;
 \v Is.43.7
 Todos os chamados do meu nome, e os que criei para minha gloria; eu os formei; sim, eu os fiz.
 \v Is.43.8
 Trazei ao povo cego, que tem olhos; e aos surdos, que tem ouvidos.
 \v Is.43.9
-Todas as nações se reúnam, e os povos se ajuntem. Quem deles isto isto anuncia, e nos faz ouvir as coisas do passado? Mostrem suas testemunhas, para que se justifiquem, e se ouça, e se diga: É verdade.
+Todas as nações se reúnam, e os povos se ajuntem. Quem deles isto anuncia, e nos faz ouvir as coisas do passado? Mostrem suas testemunhas, para que se justifiquem, e se ouça, e se diga: É verdade.
 \v Is.43.10
 Vós sois minhas testemunhas (diz o SENHOR); e meu servo, a quem escolhi; para que saibais, e creiais em mim, e entendais que eu sou o próprio, e 
 \added
@@ -3814,7 +3814,7 @@ Faze-me lembrar, entremos em juízo juntos; mostra
 \added
 teus argumentos
 \*added
-,para que possas te justificar.
+, para que possas te justificar.
 \v Is.43.27
 Teu primeiro pai pecou; e teus intérpretes transgrediram contra mim.
 \v Is.43.28
@@ -3836,9 +3836,9 @@ terceiro
 \added
 em
 \*added
- sua mão:  Eu sou do SENHOR, e tomará para si o nome de Israel.
+ sua mão: Eu sou do SENHOR, e tomará para si o nome de Israel.
 \v Is.44.6
-Assim diz o SENHOR, Rei de Israel, e seu Redentor, o SENHOR dos exércitos:Eu sou o primeiro, e sou o último; e além de mim não há Deus.
+Assim diz o SENHOR, Rei de Israel, e seu Redentor, o SENHOR dos exércitos: Eu sou o primeiro, e sou o último; e além de mim não há Deus.
 \v Is.44.7
 Quem, como eu, anunciará isto? Que declare e explique para mim, visto que determinei um povo eterno! Anunciem-lhes as coisas futuras, as que estão para vir!
 \v Is.44.8
@@ -3944,11 +3944,11 @@ Que desfaço os sinais dos inventores de mentiras, e faço de todos aos adivinho
 \added
 Sou aquele
 \*added
- que confirma a palavra de seu servo, e cumpre o conselho de seus mensageiros; que diz a Jerusalém: Tu serás habitada; E às cidades de Judá:  Sereis reconstruídas; e eu erguerei seus lugares arruinados.
+ que confirma a palavra de seu servo, e cumpre o conselho de seus mensageiros; que diz a Jerusalém: Tu serás habitada; E às cidades de Judá: Sereis reconstruídas; e eu erguerei seus lugares arruinados.
 \v Is.44.27
 Que diz à profundeza: Seca-te; e eu secarei teus rios.
 \v Is.44.28
-Que diz de Ciro: Ele é meu pastor, e cumprirá toda a minha vontade, dizendo à Jerusalém:  Serás edificada;  e ao Templo:  Terás posto teu fundamento.
+Que diz de Ciro: Ele é meu pastor, e cumprirá toda a minha vontade, dizendo à Jerusalém: Serás edificada; e ao Templo: Terás posto teu fundamento.
 \v Is.45.1
 Assim diz o SENHOR a seu ungido, Ciro, ao qual tomou pela sua mão direita, para abater as nações diante dele, e tirar a proteção dos lombos dos reis; para abrir diante de sua presença as portas, e as portas não se fecharão:
 \v Is.45.2
@@ -3981,9 +3981,9 @@ Ai daquele que briga com seu formador:
 \added
 apenas
 \*added
- um caco entre outros cacos de barro! Por acaso o barro dirá ao seu formador: Que fazes? Ou tua obra:  Não tem mãos?
+ um caco entre outros cacos de barro! Por acaso o barro dirá ao seu formador: Que fazes? Ou tua obra: Não tem mãos?
 \v Is.45.10
-Ai daquele que diz ao pai: O que é que tu geras? E à mulher:  O que é que tu fazes nascer?
+Ai daquele que diz ao pai: O que é que tu geras? E à mulher: O que é que tu fazes nascer?
 \v Is.45.11
 Assim diz o SENHOR, o Santo de Israel, e seu formador: Perguntai-me sobre as coisas futuras; 
 \added
@@ -4006,7 +4006,7 @@ i.e., [as riquezas do] trabalho, ou talvez os trabalhadores
 \added
 dizendo
 \*added
- :  Certamente Deus está contigo, 
+ : Certamente Deus está contigo, 
 \fn
 \key
 contigo
@@ -4036,7 +4036,7 @@ para ser
 \added
 ao contrário
 \*added
-,criou para que fosse habitada: Eu sou o SENHOR, e ninguém mais.
+, criou para que fosse habitada: Eu sou o SENHOR, e ninguém mais.
 \v Is.45.19
 Não falei em oculto, 
 \added
@@ -4064,7 +4064,7 @@ Virai-vos a mim, e sede salvos, vós todos os limites da terra; porque eu sou De
 \v Is.45.23
 Por mim mesmo tenho jurado; já saiu da minha boca palavra de justiça, e não voltará atrás: que a mim se dobrará todo joelho, e toda língua prestará juramento;
 \v Is.45.24
-De mim se dirá: Certamente no SENHOR há justiça e poder;  Até a ele chegarão, mas serão envergonhados todos os que o odeiam.
+De mim se dirá: Certamente no SENHOR há justiça e poder; Até a ele chegarão, mas serão envergonhados todos os que o odeiam.
 \v Is.45.25
  
 \added
@@ -4191,7 +4191,7 @@ Pois confiaste em tua maldade,
 \added
 e
 \*added
- disseste: Ninguém me vê.Tua sabedoria e teu conhecimento, esses te fizeram desviar, e disseste em teu coração:  Somente eu, e ninguém mais.
+ disseste: Ninguém me vê. Tua sabedoria e teu conhecimento, esses te fizeram desviar, e disseste em teu coração: Somente eu, e ninguém mais.
 \v Is.47.11
 Então virá sobre ti um mal do qual não saberás a origem, e destruição cairá sobre ti, a qual não poderás solucionar; porque virá sobre ti de repente 
 \added
@@ -4407,7 +4407,7 @@ também
 \v Is.49.8
 Assim diz o SENHOR: No tempo do favor eu te ouvi, e no dia da salvação eu te ajudei; e eu te guardarei, e te darei por pacto do povo, para restaurares a terra, para fazer tomar posse das propriedades assoladas;
 \v Is.49.9
-Para que tu digas aos presos: Saí;  e aos que estão em trevas:  Aparecei;  eles se alimentarão nos caminhos, e em todos os lugares altos haverá pasto para eles.
+Para que tu digas aos presos: Saí; e aos que estão em trevas: Aparecei; eles se alimentarão nos caminhos, e em todos os lugares altos haverá pasto para eles.
 \v Is.49.10
 Nunca terão fome nem sede; nem o calor, nem o sol os afligirá; porque aquele que se compadece deles os guiará, e os levará mansamente a mananciais de águas.
 \v Is.49.11
@@ -4540,7 +4540,7 @@ Ouvi-me, vós que seguis a justiça, que buscais ao SENHOR; olhai para a rocha
 \added
 de onde
 \*added
- fostes cortados, e para a pedreira
+ fostes cortados, e para a pedreira 
 \added
 de onde
 \*added
@@ -4634,14 +4634,14 @@ E agora, o que tenho
 \added
 de fazer
 \*added
- aqui?, diz o SENHOR,  Pois meu povo foi tomado sem motivo algum; e os que dominam sobre ele uivam,
+ aqui?, diz o SENHOR, Pois meu povo foi tomado sem motivo algum; e os que dominam sobre ele uivam,
 \fn
 \key
 uivam
 \*key
 obscuro – trads. alts. os fazem uivar (lamentar), ou os que dominam sobre ele fazem insultos 
 \*fn
- diz o SENHOR;  E meu nome continuamente, durante o dia todo, é blasfemado.
+ diz o SENHOR; E meu nome continuamente, durante o dia todo, é blasfemado.
 \v Is.52.6
 Por isso meu povo conhecerá o meu nome, por esta causa naquele dia; porque eu mesmo sou o que digo, eis-me aqui.
 \v Is.52.7
@@ -4718,7 +4718,7 @@ falará de sua geração
 \*key
 obscuro – trads. alts. “quem falará de seus descendentes?” ou “quem dentre os de sua geração falará sobre ele”
 \*fn
-Porque ele foi cortado da terra dos viventes; por causa da transgressão do meu povo ele foi ferido.
+ Porque ele foi cortado da terra dos viventes; por causa da transgressão do meu povo ele foi ferido.
 \v Is.53.9
 E puseram sua sepultura com os perversos, e com um rico em sua morte; pois ele nunca fez injustiça, nem houve engano 
 em sua boca.
@@ -4728,7 +4728,7 @@ verá a
 \added
 sua
 \*added
- descendência,
+ descendência, 
 \fn
 Lit. semente
 \*fn
@@ -4875,7 +4875,7 @@ Assim diz o SENHOR: Guardai o que é justo, e praticai a justiça; porque minha 
 \v Is.56.2
 Bem-aventurado o homem que fizer isto, e o filho do homem que permanece nisto; que se guarda para não profanar o sábado, e guarda sua mão para não cometer algum mal.
 \v Is.56.3
-E não fale o filho do estrangeiro, que tiver se ligado ao SENHOR, dizendo: Certamente o SENHOR me excluiu de seu povo; nem fale o eunuco:  Eis que sou uma árvore seca.
+E não fale o filho do estrangeiro, que tiver se ligado ao SENHOR, dizendo: Certamente o SENHOR me excluiu de seu povo; nem fale o eunuco: Eis que sou uma árvore seca.
 \v Is.56.4
 Porque assim diz o SENHOR: Aos eunucos, que guardam os meus sábados, e escolhe aquilo em que me agrado, e permanecem em meu pacto,
 \v Is.56.5
@@ -4939,7 +4939,7 @@ adivinha
 \*key
 ou: feiticeira, vidente
 \*fn
-descendência 
+ descendência 
 \fn
 lit. semente 
 \*fn
@@ -5045,7 +5045,7 @@ Pela maldade de sua cobiça eu me indignei, e o feri; eu me escondi, e me indign
 \v Is.57.18
 Tenho visto seus caminhos; porém eu o sararei, e o guiarei, e voltarei a dar consolo, a ele a os que por ele lamentam.
 \v Is.57.19
-Eu crio os frutos dos lábios; paz, paz para os que estão longe e para os que estão perto, diz o SENHOR,  e eu os sararei.
+Eu crio os frutos dos lábios; paz, paz para os que estão longe e para os que estão perto, diz o SENHOR, e eu os sararei.
 \v Is.57.20
 Mas os perversos são como o mar bravo, que não pode se aquietar.
 \v Is.57.21
@@ -5066,7 +5066,7 @@ Eles dizem:
 \added
 Por que
 \*added
- afligimos nossas almas, e tu não o reconheces?Eis que nos dia em que jejuais, continuais a buscar 
+ afligimos nossas almas, e tu não o reconheces? Eis que nos dia em que jejuais, continuais a buscar 
 \added
 apenas
 \*added
@@ -5076,7 +5076,7 @@ Eis que jejuais para brigas e discussões, e para dardes socos de maldade; não 
 \added
 fazeis
 \*added
- hoje, para que vossa vossa voz seja ouvida no alto.
+ hoje, para que vossa voz seja ouvida no alto.
 \v Is.58.5
 Seria este o jejum que eu escolheria, que o homem um dia aflija sua alma, incline sua cabeça como o junco, e estenda debaixo 
 \added
@@ -5162,7 +5162,7 @@ são causadores de opressão
 \*key
 lit. concebem trabalho, i.e., impõem trabalho opressivo sobre outros
 \*fn
-e geram injustiça;
+ e geram injustiça;
 \v Is.59.5
 Chocam ovos de serpente, e tecem teias de aranha; quem comer de seus ovos morrerá, e sairá uma cobra venenosa se forem pisados.
 \v Is.59.6
@@ -5177,9 +5177,9 @@ experimentará =
 \*key
 lit: conhecerá - trad. alt.: não conhece a paz 
 \*fn
-paz.
+ paz.
 \v Is.59.9
-Por isso o juízo está longe de nós, nem a justiça nos alcança; esperamos luz , 
+Por isso o juízo está longe de nós, nem a justiça nos alcança; esperamos luz, 
 \added
 porém
 \*added
@@ -5233,7 +5233,7 @@ E a verdade se perde, e quem se desvia do mal corre o risco de ser saqueado; e o
 \v Is.59.16
 E vendo que ninguém havia, maravilhou-se de que não houvesse intercessor algum; por isso seu próprio braço lhe trouxe a salvação, e sua própria justiça o susteve.
 \v Is.59.17
-Pois ele se vestu de justiça como uma armadura, e 
+Pois ele se vestiu de justiça como uma armadura, e 
 \added
 pôs
 \*added
@@ -5268,7 +5268,7 @@ sua
 \*added
  transgressão em Jacó, diz o SENHOR.
 \v Is.59.21
-Quanto a mim, este é meu pacto com eles, diz o SENHOR;  meu Espírito que está sobre ti, e minhas palavras que pus em tua boca, não se afastarão de tua boca 
+Quanto a mim, este é meu pacto com eles, diz o SENHOR; meu Espírito que está sobre ti, e minhas palavras que pus em tua boca, não se afastarão de tua boca 
 nem da boca de teus descendentes,
 \fn
 \key
@@ -5665,7 +5665,7 @@ tendo
 \*added
  caldo de coisas abomináveis em suas vasilhas.
 \v Is.65.5
-E dizem: Fica onde estás, e não te aproximes de de mim; pois sou mais santo do que tu; Estes são fumaça em minhas narinas, e fogo que arde o dia todo.
+E dizem: Fica onde estás, e não te aproximes de mim; pois sou mais santo do que tu; Estes são fumaça em minhas narinas, e fogo que arde o dia todo.
 \v Is.65.6
 Eis que está escrito diante de mim: Não me calarei; mas eu pagarei, e lhes pagarei diretamente e por completo,
 \fn
@@ -5682,7 +5682,7 @@ Por
 \added
 pelas
 \*added
- perversidades de vossos pais, diz o SENHOR,  que com incensos perfumaram nos montes, e me provocaram nos morros; por isso eu lhes medirei de volta por completo
+ perversidades de vossos pais, diz o SENHOR, que com incensos perfumaram nos montes, e me provocaram nos morros; por isso eu lhes medirei de volta por completo
 \fn
 \key
 por completo
@@ -5691,7 +5691,7 @@ lit. no colo (ou seio) deles
 \*fn
  o pagamento de suas obras anteriores.
 \v Is.65.8
-Assim diz o SENHOR: Tal como quando se acha suco num cacho de uvas, dizem:  Não o desperdices, pois há proveito
+Assim diz o SENHOR: Tal como quando se acha suco num cacho de uvas, dizem: Não o desperdices, pois há proveito
 \fn
 \key
 proveito
@@ -5711,7 +5711,7 @@ lit. semente
 \added
 da terra
 \*added
-,e meus servos ali habitarão.
+, e meus servos ali habitarão.
 \v Is.65.10
 E Sarom servirá de pasto de ovelhas, e o vale de Acor como lugar de repouso de gado, para o meu povo, que me buscou.
 \v Is.65.11
@@ -5741,7 +5741,7 @@ E deixarei vosso nome a meus eleitos como maldição; e o Senhor DEUS te matará
 \v Is.65.16
 Quem se bendisser na terra, se bendirá no Deus da verdade; e quem jurar na terra, jurará pelo Deus da verdade; porque serão esquecidas as angústias passadas, e porque elas estarão encobertas de diante de meus olhos.
 \v Is.65.17
-Porque eis que eu crio novos céus e nova terra; e não haverá
+Porque eis que eu crio novos céus e nova terra; e não haverá 
 \added
 mais 
 \*added
@@ -5794,7 +5794,7 @@ O lobo e o cordeiro ambos se alimentarão juntos, e o leão comerá palha como o
 \v Is.66.1
 Assim diz o SENHOR: Os céus são meu trono, e a terra o escabelo dos meus pés. Qual seria a casa que vós edificaríeis para mim? E qual seria o lugar de meu descanso?
 \v Is.66.2
-Pois minha mão fez todas estas coisas, e todas estas coisas passaram a existir, diz o SENHOR;  mas para tal eu olharei: aquele que é pobre e abatido de espírito, e treme por minha palavra.
+Pois minha mão fez todas estas coisas, e todas estas coisas passaram a existir, diz o SENHOR; mas para tal eu olharei: aquele que é pobre e abatido de espírito, e treme por minha palavra.
 \v Is.66.3
 Quem mata boi fere de morte a um homem; quem sacrifica cordeiro degola a um cão; quem apresenta oferta, 
 \added
@@ -5827,7 +5827,7 @@ jamais
 \*added
  ouviu tal coisa? Quem viu coisa semelhante? Poderia uma terra gerar filho em um só dia? Nasceria uma nação de uma só vez? Mas logo que Sião esteve de parto, já teve o nascimento de seus filhos.
 \v Is.66.9
-Por acaso não iniciaria eu o nascimento e não geraria?, diz o SENHOR,  Geraria eu, e fecharia 
+Por acaso não iniciaria eu o nascimento e não geraria?, diz o SENHOR, Geraria eu, e fecharia 
 \added
 o ventre materno
 \*added
@@ -5841,7 +5841,7 @@ Porque assim diz o SENHOR: Eis que estenderei sobre ela a paz como um rio, e a g
 \v Is.66.13
 Tal como alguém a quem sua mãe consola, assim também eu vos consolarei; e em Jerusalém sereis consolados.
 \v Is.66.14
-E vereis; então vossos corações se alegrarão, e vossos ossos se avivarão como a erva que brota. E a mão do do SENHOR será conhecida pelos seu servos, e se enfurecerá contra seus inimigos.
+E vereis; então vossos corações se alegrarão, e vossos ossos se avivarão como a erva que brota. E a mão do SENHOR será conhecida pelos seu servos, e se enfurecerá contra seus inimigos.
 \v Is.66.15
 Porque eis que o SENHOR virá com fogo, e suas carruagens como um redemoinho de vento; para transformar sua ira em furor, e sua repreensão em chamas de fogo.
 \v Is.66.16
@@ -5896,7 +5896,7 @@ como
 \added
 a
 \*added
- Jerusalém, diz o SENHOR,  tal como os filhos de Israel trazem ofertas em vasos limpos à casa do SENHOR.
+ Jerusalém, diz o SENHOR, tal como os filhos de Israel trazem ofertas em vasos limpos à casa do SENHOR.
 \v Is.66.21
 E também tomarei a alguns deles para 
 \added

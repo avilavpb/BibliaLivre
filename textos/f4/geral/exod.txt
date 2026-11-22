@@ -117,7 +117,7 @@ Mas os pastores vieram, e expulsaram-nas: Então Moisés se levantou e defendeu-
 \v Ex.2.18
 E voltando elas a Reuel seu pai, disse-lhes ele: Por que viestes hoje tão cedo?
 \v Ex.2.19
-E elas responderam: Um homem egípcio nos defendeu da mão dos pastores, e também tirou a água, e deu de beber as as ovelhas.
+E elas responderam: Um homem egípcio nos defendeu da mão dos pastores, e também tirou a água, e deu de beber às ovelhas.
 \v Ex.2.20
 E disse a suas filhas: E onde está? Por que deixastes esse homem? Chamai-lhe para que coma pão.
 \v Ex.2.21
@@ -594,7 +594,7 @@ Então Faraó fez chamar a Moisés, e disse: Ide, servi ao SENHOR; somente reste
 \v Ex.10.25
 E Moisés respondeu: Tu também nos entregarás sacrifícios e holocaustos para que sacrifiquemos ao SENHOR nosso Deus.
 \v Ex.10.26
-Nossos gados irão também conosco; não ficará nem uma casco; porque deles tomaremos para servir ao SENHOR nosso Deus; e não sabemos com que serviremos ao SENHOR, até que cheguemos ali.
+Nossos gados irão também conosco; não ficará nem um casco; porque deles tomaremos para servir ao SENHOR nosso Deus; e não sabemos com que serviremos ao SENHOR, até que cheguemos ali.
 \v Ex.10.27
 Mas o SENHOR endureceu o coração de Faraó, e não quis deixá-los ir.
 \v Ex.10.28
@@ -857,7 +857,7 @@ Os abismos os cobriram; Como pedra desceram aos profundos.
 \v Ex.15.6
 Tua mão direita, ó SENHOR, foi engrandecida em força; Tua mão direita, ó SENHOR, quebrantou ao inimigo.
 \v Ex.15.7
-E com a grandeza de tua poder transtornaste aos que se levantaram contra ti: Enviaste teu furor; os tragou como o restolho.
+E com a grandeza de teu poder transtornaste aos que se levantaram contra ti: Enviaste teu furor; os tragou como o restolho.
 \v Ex.15.8
 Com o sopro de tuas narinas se amontoaram as águas; Pararam-se as correntezas como em um amontoado; Os abismos se solidificaram em meio do mar.
 \v Ex.15.9
@@ -1757,7 +1757,7 @@ Assim, pois, farás a Arão e a seus filhos, conforme todas as coisas que eu te 
 E sacrificarás o bezerro da expiação em cada dia para as expiações; e purificarás o altar em havendo feito expiação 
 por ele, e o ungirás para santificá-lo.
 \v Ex.29.37
-Por sete dias expiarás o altar, e o santificarás, e será um altar santíssimo: qualquer um coisa que tocar ao altar, será santificada.
+Por sete dias expiarás o altar, e o santificarás, e será um altar santíssimo: qualquer coisa que tocar ao altar, será santificada.
 \v Ex.29.38
 E isto é o que oferecerás sobre o altar: dois cordeiros de ano cada dia, sem interrupção.
 \v Ex.29.39
@@ -1984,32 +1984,32 @@ E vendo todo o povo a coluna de nuvem, que estava à porta do tabernáculo, leva
 \v Ex.33.11
 E falava o SENHOR a Moisés face a face, como fala qualquer um a seu companheiro. E voltava-se ao campo; mas o jovem Josué, seu criado, filho de Num, nunca se afastava do meio do tabernáculo.
 \v Ex.33.12
-E disse Moisés ao SENHOR: “Eis que tu me dizes: ‘Leva este povo’; porém tu não me declaraste quem enviarás comigo;
-contudo, disseste: ‘Eu te conheço pelo
+E disse Moisés ao SENHOR: “Eis que tu me dizes: ‘Leva este povo’; porém tu não me declaraste quem enviarás comigo; 
+contudo, disseste: ‘Eu te conheço pelo 
 \added
 teu
 \*added
  nome, e alcançaste favor em meus olhos.’
 \v Ex.33.13
-Agora, pois, se alcancei favor em teus olhos, rogo-te que me mostres agora o teu caminho, para que te conheça, para
+Agora, pois, se alcancei favor em teus olhos, rogo-te que me mostres agora o teu caminho, para que te conheça, para 
 que eu alcance favor em teus olhos; e vê que esta nação é o teu povo.
 \v Ex.33.14
-E ele disse: “Minha face irá
+E ele disse: “Minha face irá 
 \added
 contigo
 \*added
 , e te farei descansar.”
 \v Ex.33.15
-E ele respondeu: “Se a tua presença não for
+E ele respondeu: “Se a tua presença não for 
 \added
 conosco
 \*added
 , não nos tires daqui.
 \v Ex.33.16
-Como se saberá agora que eu e o teu povo alcançamos favor em teus olhos? Não será em que tu andes conosco, e que eu e o
+Como se saberá agora que eu e o teu povo alcançamos favor em teus olhos? Não será em que tu andes conosco, e que eu e o 
 teu povo sejamos distintos de todos os povos que estão sobre a face da terra?”
 \v Ex.33.17
-E o SENHOR disse a Moisés: “Também farei isto que disseste, porque alcançaste favor em meus olhos, e te conheço pelo
+E o SENHOR disse a Moisés: “Também farei isto que disseste, porque alcançaste favor em meus olhos, e te conheço pelo 
 \added
 teu
 \*added
@@ -2020,7 +2020,7 @@ Moisés
 \*added
 , então, disse: “Rogo-te que me mostres a tua glória.”
 \v Ex.33.19
-E respondeu-lhe: “Eu farei passar toda a minha bondade diante de ti, e proclamarei o nome do SENHOR diante de ti; e
+E respondeu-lhe: “Eu farei passar toda a minha bondade diante de ti, e proclamarei o nome do SENHOR diante de ti; e 
 concederei favor a quem eu conceder favor, e terei misericórdia de quem eu tiver misericórdia.”
 \v Ex.33.20
 Disse mais: “Não poderás ver a minha face, porque homem nenhum me verá e viverá.”
@@ -2193,7 +2193,7 @@ E juntou as cinco cortinas uma com a outra: também uniu as outras cinco cortina
 \v Ex.36.11
 E fez as laçadas de cor de material azul na orla de uma cortina, na margem, à juntura; e assim fez na orla à extremidade da segunda cortina, na juntura.
 \v Ex.36.12
-Cinquenta laçadas fez em um cortina, e outras cinquenta na segunda cortina, na margem, na juntura; umas laçadas em frente das outras.
+Cinquenta laçadas fez em uma cortina, e outras cinquenta na segunda cortina, na margem, na juntura; umas laçadas em frente das outras.
 \v Ex.36.13
 Fez também cinquenta colchetes de ouro, com os quais juntou as cortinas, uma com a outra; e fez-se um tabernáculo.
 \v Ex.36.14
@@ -2383,7 +2383,7 @@ E as pôs sobre as ombreiras do éfode, por pedras de memória aos filhos de Isr
 \v Ex.39.8
 Fez também o peitoral de primorosa obra, como a obra do éfode, de ouro, azul, e púrpura, e carmesim, e linho torcido.
 \v Ex.39.9
-Era quadrado; dobrado fizeram o peitoral: sua comprimento era de um palmo, e de um palmo sua largura, dobrado.
+Era quadrado; dobrado fizeram o peitoral: seu comprimento era de um palmo, e de um palmo sua largura, dobrado.
 \v Ex.39.10
 E engastaram nele quatro ordens de pedras. A primeira ordem era um sárdio, um topázio, e um carbúnculo: este a primeira ordem.
 \v Ex.39.11

@@ -183,7 +183,7 @@ No dia seguinte, Jesus quis ir à Galileia, e achou Filipe; então disse-lhe: �
 \v Joao.1.44
 E Filipe era de Betsaida, a cidade de André e de Pedro.
 \v Joao.1.45
-Filipe achou Natanael, e disse-lhe: “Achamos
+Filipe achou Natanael, e disse-lhe: “Achamos 
 \added
 aquele
 \*added
@@ -311,7 +311,7 @@ Ou: recebeis
 \*fn
  o nosso testemunho.
 \v Joao.3.12
-Se eu vos disse coisas terrenas, e vós não creedes como crereis, se eu vos disser as celestiais?
+Se eu vos disse coisas terrenas, e vós não credes como crereis, se eu vos disser as celestiais?
 \v Joao.3.13
 E ninguém subiu ao céu, senão o que desceu do céu: o Filho do homem
 , que está no céu
@@ -563,7 +563,7 @@ Nestes ficava deitada uma grande multidão de enfermos, cegos, mancos, e paralí
 Ou: “definhados”. Lit. secos
 \*fn
  
-aguardando o movimento da água.
+ aguardando o movimento da água.
 \v Joao.5.4
 Pois um anjo descia de tempos em tempos ao tanque, e agitava a água; e o primeiro que descesse ali, depois do 
 movimento da água, era curado de qualquer enfermidade que tivesse.
@@ -708,7 +708,7 @@ pão, para que estes comam?”
 \v Joao.6.6
 (Mas ele disse isso para testá-lo; porque ele bem sabia o que ia fazer.)
 \v Joao.6.7
-Felipe lhe respondeu: “Duzentos denários de pão não lhes serão suficientes, para que cada um deles pegue um pedaço”.
+Filipe lhe respondeu: “Duzentos denários de pão não lhes serão suficientes, para que cada um deles pegue um pedaço”.
 \v Joao.6.8
 Um de seus discípulos, André, irmão de Simão Pedro, lhe disse:
 \v Joao.6.9
@@ -973,7 +973,7 @@ mim, porque no sábado eu curei por completo um homem?
 \v Joao.7.24
 Não julgueis pela aparência, mas julgai pela correta justiça”.
 \v Joao.7.25
-Então alguns dos de Jerusalém dizam: “Não é este o que procuram matar?
+Então alguns dos de Jerusalém diziam: “Não é este o que procuram matar?
 \v Joao.7.26
 E eis aí que ele fala livremente, e nada lhe dizem; acaso os chefes reconheceram de verdade que este é o Cristo?
 \v Joao.7.27
@@ -1092,7 +1092,7 @@ seja
 \v Joao.8.8
 E voltando a inclinar-se, escrevia na terra.
 \v Joao.8.9
-Porém eles,quando ouviram
+Porém eles, quando ouviram 
 \added
 isso
 \*added
@@ -1121,7 +1121,7 @@ E mesmo se eu julgue, meu julgamento é verdadeiro; porque não sou eu só, mas 
 \v Joao.8.17
 E também na vossa Lei está escrito que o testemunho de duas pessoas é verdadeiro.
 \v Joao.8.18
-Eu sou o que dou testemunho de mim mesmo; e o Pai, que me enviou,
+Eu sou o que dou testemunho de mim mesmo; e o Pai, que me enviou, 
 \added
 também
 \*added
@@ -1203,7 +1203,7 @@ vim de mim mesmo, mas ele me enviou.
 \v Joao.8.43
 Por que vós não entendeis a minha linguagem? É porque sois incapazes de ouvir minha palavra.
 \v Joao.8.44
-Vós sois do
+Vós sois do 
 \added
 vosso
 \*added
@@ -1235,7 +1235,7 @@ Em verdade, em verdade vos digo, que se alguém guardar minha palavra, jamais ve
 Ou: não verá a morte para sempre
 \*fn
 \v Joao.8.52
-Então os judeus lhe disserams: “Agora conhecemos que tens demônio. Abraão morreu, assim como os profetas; e tu dizes: 
+Então os judeus lhe disseram: “Agora conhecemos que tens demônio. Abraão morreu, assim como os profetas; e tu dizes: 
 ‘Se alguém guardar minha palavra, jamais experimentará a morte’.
 \v Joao.8.53
 És tu maior que o nosso pai Abraão, que morreu? E os profetas também morreram. Quem tu pretendes ser?”
@@ -1310,7 +1310,6 @@ havia recebido a vista.
 \v Joao.9.19
 E perguntaram-lhes, dizendo: “É este o vosso filho, aquele que vós dizeis que nasceu cego? Como, pois, agora ele vê?”
 \v Joao.9.20
-Então seus
 Seus
  pais
  lhes
@@ -1371,7 +1370,7 @@ E ele disse: “Creio, Senhor”; e o adorou.
 \v Joao.9.39
 E Jesus disse: “Eu vim a este mundo para julgamento, para que os que não veem vejam; e os que veem fiquem cegos”.
 \v Joao.9.40
-E uns dos dos fariseus que estavam com ele ouviram isso e lhe disseram: “Acaso também nós somos cegos?”
+E uns dos fariseus que estavam com ele ouviram isso e lhe disseram: “Acaso também nós somos cegos?”
 \v Joao.9.41
 Jesus lhes disse: “Se vós fôsseis cegos, não teríeis pecado; mas, como agora dizeis: ‘Vemos’; por isso o vosso 
 pecado permanece.
@@ -1672,7 +1671,7 @@ Porém Judas Iscariotes,
 \added
 filho
 \*added
-de Simão, um de seus discípulos, o que o havia de trair, disse:
+ de Simão, um de seus discípulos, o que o havia de trair, disse:
 \v Joao.12.5
 “Por que esse óleo perfumado não foi vendido por trezentos denários, para ser dado aos pobres?”
 \v Joao.12.6
@@ -1934,13 +1933,13 @@ E para onde eu vou, vós
  já sabeis, e
  sabeis o caminho”.
 \v Joao.14.5
-Tomé lhe diss: “Senhor, não sabemos para onde vais; e como podemos saber o caminho?”
+Tomé lhe disse: “Senhor, não sabemos para onde vais; e como podemos saber o caminho?”
 \v Joao.14.6
 Jesus lhe disse: “Eu sou o caminho, a verdade, e a vida. Ninguém vem ao Pai, senão por mim.
 \v Joao.14.7
-Se vós me conhecêsseis, também conheceríes o meu Pai; e já desde agora vós o conheceis, e o tendes visto”.
+Se vós me conhecêsseis, também conheceríeis o meu Pai; e já desde agora vós o conheceis, e o tendes visto”.
 \v Joao.14.8
-Filipe lhe disse: “Senhor, mostra-nos ao Pai, e isso nos é suficente”.
+Filipe lhe disse: “Senhor, mostra-nos ao Pai, e isso nos é suficiente”.
 \v Joao.14.9
 Jesus lhe disse: “Estou há tanto tempo convosco, e tu não me conheces, Filipe? Quem me vê, vê o Pai; e como tu dizes: 
 ‘Mostra-nos o Pai?’
@@ -2033,7 +2032,7 @@ Mas para que o mundo saiba que eu amo o Pai e, como o Pai me mandou, assim eu fa
 \v Joao.15.1
 Eu sou a videira verdadeira, e meu Pai é o lavrador.
 \v Joao.15.2
-Todo ramo em mim que não dá fruto, ele o tira; e todo o que da fruto, ele o limpa, para que dê mais fruto.
+Todo ramo em mim que não dá fruto, ele o tira; e todo o que dá fruto, ele o limpa, para que dê mais fruto.
 \v Joao.15.3
 Vós já estais limpos pela palavra que eu vos tenho falado.
 \v Joao.15.4
@@ -2378,7 +2377,7 @@ Então Pilatos foi para fora até eles, e disse: “Que acusação vós trazeis 
 \v Joao.18.30
 Responderam, e disseram-lhe: “Se este não fosse malfeitor, não o entregaríamos a ti”.
 \v Joao.18.31
-Pilatos disse-lhes, pois: “Levai-o vós, e julguai-o conforme a vossa lei”. Os judeus disseram-lhe, pois: “Não nos 
+Pilatos disse-lhes, pois: “Levai-o vós, e julgai-o conforme a vossa lei”. Os judeus disseram-lhe, pois: “Não nos 
 é lícito matar ninguém”.
 \v Joao.18.32
 Para que se cumprisse a palavra que Jesus tinha dito, dando a entender de que morte havia de morrer.
@@ -2723,7 +2722,7 @@ N4: João. O mesmo nos versículos seguintes
 \added
 outros
 \*added
-?” Ele lhe disse: “Sim, Senhor, tu sabes que te amo”.
+?” Ele lhe disse: “Sim, Senhor, tu sabes que te amo”. 
 \added
 Jesus
 \*added
@@ -2770,7 +2769,7 @@ E Pedro, virando-se, viu que aquele discípulo a quem Jesus amava estava
 \added
 os
 \*added
-seguindo. 
+ seguindo. 
 Esse 
 \added
 era

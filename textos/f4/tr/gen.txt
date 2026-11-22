@@ -389,7 +389,7 @@ de animal voador.
 \v Gn.7.15
 E vieram a Noé à arca, de dois em dois de toda carne em que havia espírito de vida.
 \v Gn.7.16
-E os que vieram, macho e fêmea de toda carne vieram, como lhe havia mandado Deus: e o SENHOR lhe fechou a porta
+E os que vieram, macho e fêmea de toda carne vieram, como lhe havia mandado Deus: e o SENHOR lhe fechou a porta.
 \v Gn.7.17
 E foi o dilúvio quarenta dias sobre a terra; e as águas cresceram, e levantaram a arca, e se elevou sobre a terra.
 \v Gn.7.18
@@ -897,7 +897,7 @@ Disse também Deus a Abraão: A Sarai tua mulher não a chamarás Sarai, mas Sar
 \v Gn.17.16
 E a abençoarei, e também te darei dela filho; sim, a abençoarei, e virá a ser mãe de nações; dela surgirão reis de povos.
 \v Gn.17.17
-Então Abraão postrou-se com o rosto ao chão, riu, e disse em seu coração: A um homem de cem anos nasceráfilho? E Sara, já de noventa anos, há de dar à luz?
+Então Abraão prostrou-se com o rosto ao chão, riu, e disse em seu coração: A um homem de cem anos nascerá filho? E Sara, já de noventa anos, há de dar à luz?
 \v Gn.17.18
 E disse Abraão a Deus: Que Ismael viva diante de ti!
 \v Gn.17.19
@@ -1036,7 +1036,7 @@ Então choveu o SENHOR sobre Sodoma e sobre Gomorra enxofre e fogo da parte do S
 \v Gn.19.25
 E destruiu as cidades, e toda aquela planície, com todos os moradores daquelas cidades, e o fruto da terra.
 \v Gn.19.26
-Então a mulher de Ló olhou atrás, às costas dele, e se tornou estátua de sai.
+Então a mulher de Ló olhou atrás, às costas dele, e se tornou estátua de sal.
 \v Gn.19.27
 E subiu Abraão pela manhã ao lugar onde havia estado diante do SENHOR:
 \v Gn.19.28
@@ -1992,7 +1992,7 @@ Trinta camelas de cria, com seus filhotes, quarenta vacas e dez novilhos, vinte 
 \v Gn.32.16
 E entregou-o em mão de seus servos, cada manada à parte; e disse a seus servos: Passai diante de mim, e ponde espaço entre manada e manada.
 \v Gn.32.17
-E mandou ao primeiro, dizendo: Se meu irmão Esaú  te encontrar, e te perguntar, dizendo De quem és? E: Para onde vais? E: para quem é isto que levas diante de ti?
+E mandou ao primeiro, dizendo: Se meu irmão Esaú te encontrar, e te perguntar, dizendo De quem és? E: Para onde vais? E: para quem é isto que levas diante de ti?
 \v Gn.32.18
 Então dirás: Presente é de teu servo Jacó, que envia a meu senhor Esaú; e eis que também ele vem atrás de nós.
 \v Gn.32.19
@@ -2863,7 +2863,7 @@ E habitarás na terra de Gósen, e estarás perto de mim, tu e teus filhos, e os
 \v Gn.45.11
 E ali te alimentarei, pois ainda restam cinco anos de fome, para que não pereças de pobreza tu e tua casa, e tudo o que tens:
 \v Gn.45.12
-E eis que, vossos olhos veem, e os olhos de meu irmão Benjamim, que meu boca vos fala.
+E eis que, vossos olhos veem, e os olhos de meu irmão Benjamim, que minha boca vos fala.
 \v Gn.45.13
 Fareis pois saber a meu pai toda minha glória no Egito, e tudo o que vistes: e apressai-vos, e trazei a meu pai aqui.
 \v Gn.45.14
@@ -3091,7 +3091,7 @@ Jovem leão é Judá: Da presa subiste, filho meu: Encurvou-se, lançou-se como 
 \v Gn.49.10
 Não será tirado o cetro de Judá, E o legislador dentre seus pés, Até que venha Siló; E a ele se congregarão os povos.
 \v Gn.49.11
-Atando à vide seu jumentinho, E à videira o filho de sua jumenta, Lavou no veio sua roupa, E no sangue de uvas seu manto:
+Atando à vide seu jumentinho, E à videira o filho de sua jumenta, Lavou no vinho sua roupa, E no sangue de uvas seu manto:
 \v Gn.49.12
 Seus olhos mais vermelhos que o vinho, E os dentes mais brancos que o leite.
 \v Gn.49.13
@@ -3187,4 +3187,4 @@ E José disse a seus irmãos: Eu me morro; mas Deus certamente vos visitará, e 
 \v Gn.50.25
 E fez jurar José aos filhos de Israel, dizendo: Deus certamente vos visitará, e fareis levar daqui meus ossos.
 \v Gn.50.26
-E morreu José da idade de cento e dez anos; e embalsamaram-no, e foi posto  num caixão no Egito.
+E morreu José da idade de cento e dez anos; e embalsamaram-no, e foi posto num caixão no Egito.

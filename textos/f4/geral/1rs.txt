@@ -106,7 +106,7 @@ de alvoroço. Este é o barulho que ouvistes.
 \v 1Rs.1.46
 E também Salomão se assentou no trono do reino.
 \v 1Rs.1.47
-E ainda os servos do rei vieram a bendizer ao nosso senhor,o rei Davi, dizendo: Deus faça o nome de Salomão melhor que 
+E ainda os servos do rei vieram a bendizer ao nosso senhor, o rei Davi, dizendo: Deus faça o nome de Salomão melhor que 
 o teu nome, e faça o seu trono maior que o teu. E o rei se inclinou no leito.
 \v 1Rs.1.48
 E também o rei falou assim: Bendito seja o SENHOR, Deus de Israel, que hoje deu quem se assente em meu trono, vendo-o meus olhos.
@@ -115,7 +115,7 @@ Então se estremeceram, e levantaram-se todos os convidados que estavam com Adon
 \v 1Rs.1.50
 Mas Adonias, temendo da presença de Salomão, levantou-se e foi-se, e agarrou as pontas do altar.
 \v 1Rs.1.51
-E foi feito saber a Salomão, dizendo: Eis que que Adonias tem medo do rei Salomão: pois agarrou as pontas do altar, dizendo: Jure-me hoje o rei Salomão que não matará à espada a seu servo.
+E foi feito saber a Salomão, dizendo: Eis que Adonias tem medo do rei Salomão: pois agarrou as pontas do altar, dizendo: Jure-me hoje o rei Salomão que não matará à espada a seu servo.
 \v 1Rs.1.52
 E Salomão disse: Se ele for virtuoso, nenhum de seus cabelos cairá em terra: mas se se achar mal nele, morrerá.
 \v 1Rs.1.53
@@ -141,7 +141,7 @@ Mas aos filhos de Barzilai gileadita farás misericórdia, que sejam dos convida
 \v 1Rs.2.8
 Também tens contigo Simei, filho de Gera, filho de Benjamim, de Baurim, o qual me amaldiçoou com uma severa maldição 
 no dia em que eu ia a Maanaim. Mas ele mesmo desceu para me receber junto ao Jordão, e eu lhe jurei pelo SENHOR, 
-dizendo: Eu não te matarei à espada
+dizendo: Eu não te matarei à espada.
 \v 1Rs.2.9
 Porém agora não o absolverás; porque és homem sábio, e sabes como agirás para com ele; e farás seus cabelos 
 grisalhos descerem com sangue ao Xeol.
@@ -294,7 +294,7 @@ E uma noite o filho desta mulher morreu, porque ela se deitou sobre ele.
 \v 1Rs.3.20
 E levantou-se à meia noite, e tomou a meu filho de junto a mim, estando eu tua serva dormindo, e o pôs a seu lado, e pôs a meu lado seu filho morto.
 \v 1Rs.3.21
-E quando eu me levantei pela manhã para dar o peito a meu filho, eis que que estava morto: mas observei-lhe pela manhã, e vi que não era meu filho, que eu havia dado à luz.
+E quando eu me levantei pela manhã para dar o peito a meu filho, eis que estava morto: mas observei-lhe pela manhã, e vi que não era meu filho, que eu havia dado à luz.
 \v 1Rs.3.22
 Então a outra mulher disse: Não; meu filho é o que vive, e teu filho é o morto. E a outra voltou a dizer: Não; teu filho é o morto, e meu filho é o que vive. Assim falavam diante do rei.
 \v 1Rs.3.23
@@ -684,7 +684,7 @@ teu nome, e se converterem do pecado deles, quando tu os afligires,
 ouve tu nos céus, e perdoa o pecado dos teus servos e do teu povo Israel, ensinando-lhes o bom caminho em que devem 
 andar; e dá chuva na tua terra que deste ao teu povo por herança.
 \v 1Rs.8.37
-Quando nesta herra houver fome, ou pestilência, ou ferrugem, ou mofo, ou gafanhoto, ou pulgão, quando o seu inimigo o tiverem cercados na terra de suas cidades;
+Quando nesta terra houver fome, ou pestilência, ou ferrugem, ou mofo, ou gafanhoto, ou pulgão, quando o seu inimigo o tiverem cercados na terra de suas cidades;
 \fn
 Lit. portas, i.e. as portas da entrada das cidades
 \*fn
@@ -726,7 +726,7 @@ e orarem a ti voltados à sua terra, que deste a seus pais, à cidade que tu esc
 Tu ouvirás nos céus, na habitação de tua morada, sua oração e sua súplica, e lhes farás direito;
 \v 1Rs.8.50
 E perdoa ao teu povo que houver pecado contra ti, e todas suas transgressões com que se houverem rebelado contra ti; e 
-concede-lhes misericórdia da parte dos que os teem cativos, para que tenham compaixão deles.
+concede-lhes misericórdia da parte dos que os têm cativos, para que tenham compaixão deles.
 \v 1Rs.8.51
 Porque eles são o teu povo e a tua propriedade, que tiraste do Egito, do meio do forno de ferro.
 \v 1Rs.8.52
@@ -819,7 +819,7 @@ A todos os povos que restaram dos amorreus, heteus, perizeus, heveus, jebuseus, 
 \v 1Rs.9.21
 A seus filhos que restaram na terra depois deles, que os filhos de Israel não puderam acabar, fez Salomão que servissem com tributo até hoje.
 \v 1Rs.9.22
-Mas a ninguém dos filhos de Israel impôs Salomão serviço, mas sim que eram homens de guerra, ou seus criados, ou seus príncipes, ou seus capitães, ou comandantes de seus carros, ou sua cavaleiros.
+Mas a ninguém dos filhos de Israel impôs Salomão serviço, mas sim que eram homens de guerra, ou seus criados, ou seus príncipes, ou seus capitães, ou comandantes de seus carros, ou seus cavaleiros.
 \v 1Rs.9.23
 E os que Salomão havia feito chefes e líderes sobre as obras, eram quinhentos e cinquenta, os quais estavam sobre o povo que trabalhava naquela obra.
 \v 1Rs.9.24
@@ -938,7 +938,7 @@ E ouvindo Hadade em Egito que Davi havia dormido com seus pais, e que era morto 
 \v 1Rs.11.22
 E respondeu-lhe Faraó: Por que? O que te falta comigo, que procuras ir-te a tua terra? E ele respondeu: Nada; contudo, rogo-te que me deixes ir.
 \v 1Rs.11.23
-Despertou-lhe também Deus por adversário a Rezom, filho de Eliada, o qual havia fugído de seu amo Hadadezer, rei de Zobá.
+Despertou-lhe também Deus por adversário a Rezom, filho de Eliada, o qual havia fugido de seu amo Hadadezer, rei de Zobá.
 \v 1Rs.11.24
 E havia juntado gente contra ele, e havia-se feito capitão de uma companhia, quando Davi derrotou aos de Zobá. Depois se foram a Damasco, e habitaram ali e fizeram-lhe rei em Damasco.
 \v 1Rs.11.25
@@ -954,7 +954,7 @@ Aconteceu pois naquele tempo, que saindo Jeroboão de Jerusalém, encontrou-lhe 
 \v 1Rs.11.30
 E segurando Aías da capa nova que tinha sobre si, rompeu-a em doze pedaços,
 \v 1Rs.11.31
-E disse a Jeroboão: Toma para ti os dez pedaços; porque assim disse o SENHOR Deus de Israel: Eis que que eu rompo o reino da mão de Salomão, e a ti darei dez tribos;
+E disse a Jeroboão: Toma para ti os dez pedaços; porque assim disse o SENHOR Deus de Israel: Eis que eu rompo o reino da mão de Salomão, e a ti darei dez tribos;
 \v 1Rs.11.32
 (E ele terá uma tribo, por amor de Davi meu servo, e por amor de Jerusalém, cidade que eu escolhi de todas as tribos de Israel:)
 \v 1Rs.11.33
@@ -1042,7 +1042,7 @@ E isto foi ocasião de pecado; porque o povo ia a adorar diante do um, até Dã.
 \v 1Rs.12.31
 Fez também casa de altos, e fez sacerdotes da classe do povo, que não eram dos filhos de Levi.
 \v 1Rs.12.32
-Então instituiu Jeroboão solenidade no mês oitavo, aos quinze do mês, conforme à solenidade que se celebrava em Judá; e sacrificou sobre altar. Assim fez em Betel, sacrificando aos bezerros que havia feito. Ordenou também em Betel sacerdote
+Então instituiu Jeroboão solenidade no mês oitavo, aos quinze do mês, conforme à solenidade que se celebrava em Judá; e sacrificou sobre altar. Assim fez em Betel, sacrificando aos bezerros que havia feito. Ordenou também em Betel sacerdotes dos altos que ele havia feito.
 \v 1Rs.12.33
 Sacrificou pois sobre o altar que ele havia feito em Betel, aos quinze do mês oitavo, o mês que ele havia inventado de seu coração; e fez festa aos filhos de Israel, e subiu ao altar para queimar incenso.
 \v 1Rs.13.1
@@ -1050,7 +1050,7 @@ E eis que um homem de Deus por palavra do SENHOR veio de Judá a Betel; e estand
 \v 1Rs.13.2
 Ele clamou contra o altar por palavra do SENHOR, e disse: Altar, altar, assim disse o SENHOR: Eis que à casa de Davi nascerá um filho, chamado Josias, o qual sacrificará sobre ti aos sacerdotes dos altos que queimam sobre ti incenso; e sobre ti queimarão ossos humanos.
 \v 1Rs.13.3
-E aquele mesmo dia deu um sinal, dizendo: Esta é o sinal de que o SENHOR falou: eis que que o altar se quebrará, e a cinza que sobre ele está se derramará.
+E aquele mesmo dia deu um sinal, dizendo: Esta é o sinal de que o SENHOR falou: eis que o altar se quebrará, e a cinza que sobre ele está se derramará.
 \v 1Rs.13.4
 E quando o rei Jeroboão ouviu a palavra do homem de Deus, que havia clamado contra o altar de Betel, estendendo sua mão desde o altar, disse: Prendei-lhe! Mas a mão que havia estendido contra ele, se lhe secou, que não a pôde voltar a si.
 \v 1Rs.13.5
@@ -1440,7 +1440,7 @@ Elias disse então a todo o povo: Aproximai-vos a mim. E todo o povo se chegou a
 \v 1Rs.18.31
 E tomando Elias doze pedras, conforme ao número das tribos dos filhos de Jacó, ao qual havia sido palavra do SENHOR, dizendo: Israel será teu nome;
 \v 1Rs.18.32
-Edificou com as pedras um altar no nome do SENHOR: depois fez uma sulco ao redor do altar, quanto cabiam duas medidas de semente.
+Edificou com as pedras um altar no nome do SENHOR: depois fez um sulco ao redor do altar, quanto cabiam duas medidas de semente.
 \v 1Rs.18.33
 Pôs logo a lenha, e cortou o boi em pedaços, e o pôs sobre a lenha.
 \v 1Rs.18.34
@@ -1648,7 +1648,7 @@ O que de Acabe for morto na cidade, cães lhe comerão: e o que for morto no cam
 \v 1Rs.21.25
 (Na verdade ninguém foi como Acabe, que se vendeu a fazer o mal aos olhos do SENHOR; porque Jezabel sua mulher o incitava.
 \v 1Rs.21.26
-Ele foi em grande maneira abominável, caminhando após o os ídolos, conforme a tudo o que fizeram os amorreus, aos quais lançou o SENHOR diante dos filhos de Israel.)
+Ele foi em grande maneira abominável, caminhando após os ídolos, conforme a tudo o que fizeram os amorreus, aos quais lançou o SENHOR diante dos filhos de Israel.)
 \v 1Rs.21.27
 E aconteceu quando Acabe ouviu estas palavras, que rasgou suas roupas, e pôs saco sobre sua carne, e jejuou, e dormiu em saco, e andou humilhado.
 \v 1Rs.21.28

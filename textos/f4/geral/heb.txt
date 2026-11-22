@@ -145,7 +145,7 @@ Tu o fizeste um pouco menor que os anjos, de glória e de honra o coroaste,
 {rp|n4}TR contém adicionalmente: “estabeleceste sobre as obras das tuas mãos” ao final do versículo
 {rp|n4}\*fn
 \v Hb.2.8
-Sujeitaste todas as coisas debaixo de seus pés.Pois ao lhe sujeitar todas as coisas, nada deixou que não fosse sujeito a ele; porém agora ainda não vemos todas as coisas sendo sujeitas a ele. 
+Sujeitaste todas as coisas debaixo de seus pés. Pois ao lhe sujeitar todas as coisas, nada deixou que não fosse sujeito a ele; porém agora ainda não vemos todas as coisas sendo sujeitas a ele. 
 \ref
 Salmos 8:4-6 
 \*ref
@@ -277,7 +277,7 @@ pais
 i.e. ancestrais
 \*fn
  
-{tr|rp}me
+{tr|rp} me
 {trnc}\fn
 {trnc}N4 não contém “me”
 {trnc}\*fn
@@ -334,7 +334,7 @@ provocaram-no [à ira]
 ou: rebelaram-se
 \*fn
  
-{tr}mas não
+{tr} mas não
 {rp|n4}Não foram
  todos aqueles que saíram do Egito por meio de Moisés
 {tr}.
@@ -449,7 +449,7 @@ E, por causa desta
 \added
 fraqueza
 \*added
-,ele tem o dever de apresentar oferenda, tanto pelos pecados do povo, como também de si mesmo.
+, ele tem o dever de apresentar oferenda, tanto pelos pecados do povo, como também de si mesmo.
 \v Hb.5.4
 E ninguém toma para si esta honra, a não ser aquele que é chamado por Deus, como Arão.
 \v Hb.5.5
@@ -1074,7 +1074,7 @@ Depois de ter dito acima: “
 \v Hb.10.9
 então disse: “Eis-me aqui, venho para fazer a tua vontade
 {tr|rp}, ó Deus
-”.
+”. 
 {trnc}\fn
 {trnc}N4 não contém “ó Deus”
 {trnc}\*fn
@@ -1174,7 +1174,7 @@ lit. a declaração de fé da [nossa] esperança
 \v Hb.10.24
 e sejamos atenciosos uns para com os outros, a fim de incentivar o amor e as boas obras;
 \v Hb.10.25
-não abandonando a nossa reunião, como é o costume de alguns. Ao contrário, encorajemos
+não abandonando a nossa reunião, como é o costume de alguns. Ao contrário, encorajemos 
 \fn
 \key
 encorajemos
@@ -1651,7 +1651,7 @@ graça
 ou: gratidão
 \*fn
  
-{tr|n4}e por ela sirvamos
+{tr|n4} e por ela sirvamos
 {rp}pela qual servimos
 {trnc}\fn
 {trnc}RP: pela qual servimsos
@@ -1745,7 +1745,7 @@ Orai por nós; porque
 {trnc}\*fn
  que temos boa consciência, e desejamos nos comportar corretamente em tudo.
 \v Hb.13.19
-E rogo
+E rogo 
 \added
 vos
 \*added
@@ -1782,7 +1782,7 @@ Sabei que o
 Saudai a todos os vossos líderes, e a todos os santos. Os da Itália vos saúdam.
 \v Hb.13.25
 A graça seja com todos vós.
-{tr|rp} Amém.
+{tr|rp} Amém. 
 {trnc}\fn
 {trnc}N4 não contém “Amém”
 {trnc}\*fn

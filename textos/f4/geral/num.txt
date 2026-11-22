@@ -625,7 +625,7 @@ E para sacrifício pacífico, dois bois, cinco carneiros, cinco machos de bode, 
 \v Nm.7.54
 No oitavo dia, o príncipe dos filhos de Manassés, Gamaliel filho de Pedazur:
 \v Nm.7.55
-E seu oferta, um prato de prata de cento e trinta siclos de peso, uma bacia de prata de setenta siclos, ao siclo do 
+E sua oferta, um prato de prata de cento e trinta siclos de peso, uma bacia de prata de setenta siclos, ao siclo do 
 santuário; ambos cheios de boa farinha amassada com azeite para oferta de cereais;
 \v Nm.7.56
 Uma colher de ouro de dez siclos, cheia de incenso;
@@ -729,7 +729,7 @@ ao SENHOR, para expiar os levitas.
 E farás os levitas se apresentarem diante de Arão, e diante de seus filhos, e os oferecerás em oferta de movimento 
 ao SENHOR.
 \v Nm.8.14
-Assim separarás os levitas dentre os filhos de Israel; e serão meus os levitas
+Assim separarás os levitas dentre os filhos de Israel; e serão meus os levitas.
 \v Nm.8.15
 E depois disso virão os levitas a ministrar no tabernáculo do testemunho: os expiarás pois, e os oferecerás em oferta.
 \v Nm.8.16
@@ -904,7 +904,7 @@ E quando o orvalho descia sobre o acampamento de noite, o maná descia sobre ele
 E Moisés ouviu o povo chorar por suas famílias, cada um à porta de sua tenda; e o furor do SENHOR se acendeu 
 grandemente; também pareceu mal a Moisés.
 \v Nm.11.11
-E Moisés disse ao SENHOR: Por que fizeste mal a teu servo? E por que não achei favor aos teus olhos, que puseste sobre
+E Moisés disse ao SENHOR: Por que fizeste mal a teu servo? E por que não achei favor aos teus olhos, que puseste sobre 
 mim a carga de todo este povo?
 \v Nm.11.12
 Por acaso fui eu que concebi todo este povo? Fui o que o dei à luz, para que me digas: Leva-o em teu colo, como 
@@ -971,7 +971,7 @@ E Moisés recolheu-se ao acampamento, ele e os anciãos de Israel.
 E saiu um vento do SENHOR, que trouxe codornizes do mar, e deixou-as sobre o acampamento, de um dia de caminho de um 
 lado e do outro, ao redor do acampamento, e quase dois côvados sobre a face da terra.
 \v Nm.11.32
-Então o povo se levantou e recolheu para si codornizes durante todo aquele dia, e toda a noite, e todo o dia seguinte.
+Então o povo se levantou e recolheu para si codornizes durante todo aquele dia, e toda a noite, e todo o dia seguinte. 
 O que recolheu menos recolheu dez ômeres; e as estenderam para si ao redor do acampamento.
 \v Nm.11.33
 A carne ainda estava entre os dentes deles, antes que fosse mastigada, quando o furor do SENHOR se acendeu no povo, 
@@ -1166,7 +1166,7 @@ Então o SENHOR disse: “Eu o perdoei conforme a tua palavra;
 Porém, tão certamente como eu vivo, e a glória do SENHOR enche toda a terra,
 \v Nm.14.22
 que todos os que viram a minha glória e os meus sinais que fiz no Egito e no deserto, e me tentaram já dez vezes, 
-e não obeceram à minha voz,
+e não obedeceram à minha voz,
 \v Nm.14.23
 não verão a terra da qual jurei a seus pais; não, nenhum dos que me irritaram a verá.
 \v Nm.14.24
@@ -1248,7 +1248,7 @@ E fizerdes oferta queimada ao SENHOR, holocausto, ou sacrifício, por especial v
 Então o que oferecer sua oferta ao SENHOR, trará por oferta de cereais um décimo de um efa de boa farinha, 
 amassada com a quarta parte de um him de azeite;
 \v Nm.15.5
-E de veio para a libação oferecerás a quarta parte de um him, além do holocausto ou do sacrifício, por cada cordeiro.
+E de vinho para a libação oferecerás a quarta parte de um him, além do holocausto ou do sacrifício, por cada cordeiro.
 \v Nm.15.6
 E para cada carneiro farás oferta de cereais de dois décimos 
 \added
@@ -1404,7 +1404,7 @@ E aconteceu, que em acabando ele de falar todas estas palavras, rompeu-se a terr
 \v Nm.16.32
 E abriu a terra sua boca, e tragou-os a eles, e a suas casas, e a todos os homens de Coré, e a todos os seus pertences.
 \v Nm.16.33
-E eles, com tudo o que tinham, desceram vivos ao Xeol, a a terra os cobriu, e pereceram do meio da congregação.
+E eles, com tudo o que tinham, desceram vivos ao Xeol, e a terra os cobriu, e pereceram do meio da congregação.
 \v Nm.16.34
 E todo Israel, os que estavam em derredor deles, fugiram ao grito deles; porque diziam: Não nos trague também a terra.
 \v Nm.16.35
@@ -1565,7 +1565,7 @@ O que tocar morto de qualquer pessoa humana, sete dias será impuro:
 \v Nm.19.12
 Este se purificará ao terceiro dia com esta água, e ao sétimo dia será limpo; e se ao terceiro dia não se purificar, não será limpo ao sétimo dia.
 \v Nm.19.13
-Qualquer um que tocar em morto, em pessoa de homem que estiver morto, e não se purificar, o tabernáculo do SENHOR contaminou; e aquela pessoa será eliminada de Israel: porquanto a água da separação não foi espargida sobre ele, impuro será; e seu impureza será sobre ele.
+Qualquer um que tocar em morto, em pessoa de homem que estiver morto, e não se purificar, o tabernáculo do SENHOR contaminou; e aquela pessoa será eliminada de Israel: porquanto a água da separação não foi espargida sobre ele, impuro será; e sua impureza será sobre ele.
 \v Nm.19.14
 Esta é a lei para quando alguém morrer na tenda: qualquer um que entrar na tenda e todo o que estiver nela, será impuro sete dias.
 \v Nm.19.15
@@ -1757,7 +1757,7 @@ E voltou Balaque a enviar outra vez mais príncipes, e mais nobres que os outros
 \v Nm.22.16
 Os quais vieram a Balaão, e disseram-lhe: Assim diz Balaque, filho de Zipor: Rogo-te que não deixes de vir a mim:
 \v Nm.22.17
-Porque sem dúvida te honrarei muito, e farei tudo o que me disseres: vem pois agora, almaldiçoa para mim a este povo.
+Porque sem dúvida te honrarei muito, e farei tudo o que me disseres: vem pois agora, amaldiçoa para mim a este povo.
 \v Nm.22.18
 E Balaão respondeu, e disse aos servos de Balaque: Ainda que Balaque me desse sua casa cheia de prata e ouro, não posso transgredir a palavra do SENHOR meu Deus, para fazer coisa pequena nem grande.
 \v Nm.22.19
@@ -1811,7 +1811,7 @@ E Balaão disse a Balaque: Edifica para mim aqui sete altares, e prepara-me aqui
 \v Nm.23.2
 E Balaque fez como lhe disse Balaão: e ofereceram Balaque e Balaão um bezerro e um carneiro em cada altar.
 \v Nm.23.3
-E Balaão disse a Balaque: Põe-te junto a teu holocausto, e eu irei: talvez o SENHOR me virá ao encontro, e qualquer um coisa que me mostrar, eu a contarei a ti. E assim se foi só.
+E Balaão disse a Balaque: Põe-te junto a teu holocausto, e eu irei: talvez o SENHOR me virá ao encontro, e qualquer coisa que me mostrar, eu a contarei a ti. E assim se foi só.
 \v Nm.23.4
 E veio Deus ao encontro de Balaão, e este lhe disse: Sete altares ordenei, e em cada altar ofereci um bezerro e um carneiro.
 \v Nm.23.5
@@ -1907,7 +1907,7 @@ E o de Jacó será dominador, E destruirá da cidade o que restar.
 \v Nm.24.20
 E vendo a Amaleque, tomou sua parábola, e disse: Amaleque, cabeça de nações; Mas seu fim perecerá para sempre.
 \v Nm.24.21
-E vendo aos queneus, tomou sua parábola, e disse: Forte é tua habitação, Põe na rocha tua ninho:
+E vendo aos queneus, tomou sua parábola, e disse: Forte é tua habitação, Põe na rocha teu ninho:
 \v Nm.24.22
 Que os queneus serão expulsos, Quando Assur te levará cativo.
 \v Nm.24.23
@@ -2217,7 +2217,7 @@ de efa
 \*added
  com cada bezerro, dois décimos com cada carneiro,
 \v Nm.28.29
-com cada um dos sete cordeiros uma décimo;
+com cada um dos sete cordeiros um décimo;
 \v Nm.28.30
 um bode macho, para fazer expiação por vós.
 \v Nm.28.31
@@ -2237,7 +2237,7 @@ de efa
 \*added
  com cada bezerro, dois décimos com cada carneiro,
 \v Nm.29.4
-e com cada um dos sete cordeiros, uma décimo;
+e com cada um dos sete cordeiros, um décimo;
 \v Nm.29.5
 E um bode macho por expiação, para reconciliar-vos:
 \v Nm.29.6
@@ -2773,7 +2773,7 @@ Ou bem, sem vê-lo, fez cair sobre ele alguma pedra, de que possa morrer, e morr
 \v Nm.35.24
 Então a congregação julgará entre o feridor e o parente do morto conforme estas leis:
 \v Nm.35.25
-E a congregação livrará ao homicida da mão do parente do morto, e a congregação o fará voltar à seu cidade de refúgio, à qual se havia acolhido; e morará nela até que morra o sumo sacerdote, o qual foi ungido com o azeite santo.
+E a congregação livrará ao homicida da mão do parente do morto, e a congregação o fará voltar à sua cidade de refúgio, à qual se havia acolhido; e morará nela até que morra o sumo sacerdote, o qual foi ungido com o azeite santo.
 \v Nm.35.26
 E se o homicida sair fora do termo de sua cidade de refúgio, à qual se refugiou,
 \v Nm.35.27

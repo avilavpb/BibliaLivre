@@ -135,7 +135,7 @@ Tu o fizeste um pouco menor que os anjos, de glória e de honra o coroaste,
 RP, N4 não contêm “e o estabeleceste sobre as obras das tuas mãos”
 \*fn
 \v Hb.2.8
-Sujeitaste todas as coisas debaixo de seus pés.Pois ao lhe sujeitar todas as coisas, nada deixou que não fosse sujeito a ele; porém agora ainda não vemos todas as coisas sendo sujeitas a ele. 
+Sujeitaste todas as coisas debaixo de seus pés. Pois ao lhe sujeitar todas as coisas, nada deixou que não fosse sujeito a ele; porém agora ainda não vemos todas as coisas sendo sujeitas a ele. 
 \ref
 Salmos 8:4-6 
 \*ref
@@ -264,7 +264,7 @@ pais
 i.e. ancestrais
 \*fn
  
-me
+ me
 \fn
 N4 não contém “me”
 \*fn
@@ -318,7 +318,7 @@ provocaram-no [à ira]
 ou: rebelaram-se
 \*fn
  
-mas não
+ mas não
  todos aqueles que saíram do Egito por meio de Moisés
 .
 \fn
@@ -430,7 +430,7 @@ E, por causa desta
 \added
 fraqueza
 \*added
-,ele tem o dever de apresentar oferenda, tanto pelos pecados do povo, como também de si mesmo.
+, ele tem o dever de apresentar oferenda, tanto pelos pecados do povo, como também de si mesmo.
 \v Hb.5.4
 E ninguém toma para si esta honra, a não ser aquele que é chamado por Deus, como Arão.
 \v Hb.5.5
@@ -1033,7 +1033,7 @@ N4: Sacrifícios, ofertas
 \v Hb.10.9
 então disse: “Eis-me aqui, venho para fazer a tua vontade
 , ó Deus
-”.
+”. 
 \fn
 N4 não contém “ó Deus”
 \*fn
@@ -1132,7 +1132,7 @@ lit. a declaração de fé da [nossa] esperança
 \v Hb.10.24
 e sejamos atenciosos uns para com os outros, a fim de incentivar o amor e as boas obras;
 \v Hb.10.25
-não abandonando a nossa reunião, como é o costume de alguns. Ao contrário, encorajemos
+não abandonando a nossa reunião, como é o costume de alguns. Ao contrário, encorajemos 
 \fn
 \key
 encorajemos
@@ -1595,7 +1595,7 @@ graça
 ou: gratidão
 \*fn
  
-e por ela sirvamos
+ e por ela sirvamos
 \fn
 RP: pela qual servimsos
 \*fn
@@ -1685,7 +1685,7 @@ N4: estamos convencidos de
 \*fn
  que temos boa consciência, e desejamos nos comportar corretamente em tudo.
 \v Hb.13.19
-E rogo
+E rogo 
 \added
 vos
 \*added
@@ -1719,7 +1719,7 @@ N4: nosso irmão
 Saudai a todos os vossos líderes, e a todos os santos. Os da Itália vos saúdam.
 \v Hb.13.25
 A graça seja com todos vós.
- Amém.
+ Amém. 
 \fn
 N4 não contém “Amém”
 \*fn

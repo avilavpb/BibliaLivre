@@ -60,7 +60,7 @@ Mas se a tua oferta for oferta de alimentos
 \added
 preparados
 \*added
-em panelas, será de boa farinha sem levedura, amassada com azeite,
+ em panelas, será de boa farinha sem levedura, amassada com azeite,
 \v Lv.2.6
 a qual partirás em peças, e espalharás azeite sobre ela; é oferta de alimentos.
 \v Lv.2.7
@@ -356,7 +356,7 @@ Porque qualquer um que comer gordura de animal, do qual se oferece ao SENHOR ofe
 \v Lv.7.26
 Além disso, nenhum sangue comereis em todas as vossas habitações, tanto de aves como de animais.
 \v Lv.7.27
-Qualquer um pessoa que comer algum sangue, a tal pessoa será eliminada de seus povos.
+Qualquer pessoa que comer algum sangue, a tal pessoa será eliminada de seus povos.
 \v Lv.7.28
 Falou mais o SENHOR a Moisés, dizendo:
 \v Lv.7.29
@@ -778,7 +778,7 @@ chaga
 \*added
  brotante, queimarás com fogo aquilo onde estiver a chaga.
 \v Lv.13.58
-Porém a roupa, ou urdidura, ou trama, ou qualquer coisa de pele que lavares, e que se lhe tirar a chaga, se lavará a
+Porém a roupa, ou urdidura, ou trama, ou qualquer coisa de pele que lavares, e que se lhe tirar a chaga, se lavará a 
 segunda vez, e então será limpa.
 \v Lv.13.59
 Esta é a lei da chaga da lepra da roupa de lã ou de linho, ou da urdidura, ou da trama, ou de qualquer coisa de pele, 
@@ -966,7 +966,7 @@ E se estiver sobre a cama, ou sobre a cadeira em que ela se houver sentado, o qu
 \v Lv.15.24
 E se alguém dormir com ela, e sua menstruação for sobre ele, será impuro por sete dias; e toda cama sobre que dormir, será impura.
 \v Lv.15.25
-E a mulher, quando seguir o fluxo de seu sangue por muitos dias fora do tempo de seu costume, ou quando tiver fluxo de sangue mais de seu costume; todo o tempo do fluxo de seu imundícia, será impura como nos dias de seu costume.
+E a mulher, quando seguir o fluxo de seu sangue por muitos dias fora do tempo de seu costume, ou quando tiver fluxo de sangue mais de seu costume; todo o tempo do fluxo de sua imundícia, será impura como nos dias de seu costume.
 \v Lv.15.26
 Toda cama em que dormir todo o tempo de seu fluxo, lhe será como a cama de seu costume; e todo móvel sobre que se sentar, será impuro, como a impureza de seu costume.
 \v Lv.15.27
@@ -1080,7 +1080,7 @@ E qualquer homem dos filhos de Israel, ou dos estrangeiros que peregrinam entre 
 \v Lv.17.14
 Porque a alma de toda carne, sua vida, está em seu sangue: portanto disse aos filhos de Israel: Não comereis o sangue de nenhuma carne, porque a vida de toda carne é seu sangue; qualquer um que a comer será eliminado.
 \v Lv.17.15
-E qualquer um pessoa que comer coisa morta ou despedaçada por fera, tanto dos naturais como dos estrangeiros, lavará suas roupas e a si mesmo se lavará com água, e será impuro até à tarde; e se limpará.
+E qualquer pessoa que comer coisa morta ou despedaçada por fera, tanto dos naturais como dos estrangeiros, lavará suas roupas e a si mesmo se lavará com água, e será impuro até à tarde; e se limpará.
 \v Lv.17.16
 E se não os lavar, nem lavar sua carne, levará sua iniquidade.
 \v Lv.18.1
@@ -1102,7 +1102,7 @@ A nudez da mulher de teu pai não descobrirás; é a nudez de teu pai.
 \v Lv.18.9
 A nudez de tua irmã, filha de teu pai, ou filha de tua mãe, nascida em casa ou nascida fora, sua nudez não descobrirás.
 \v Lv.18.10
-A nudez da filha de teu filho, ou da filha de tua filha, seu nudez não descobrirás, porque é a nudez tua.
+A nudez da filha de teu filho, ou da filha de tua filha, sua nudez não descobrirás, porque é a nudez tua.
 \v Lv.18.11
 A nudez da filha da mulher de teu pai, gerada de teu pai, tua irmã é, sua nudez não descobrirás.
 \v Lv.18.12
@@ -1268,7 +1268,7 @@ o seu pecado.
 Qualquer um que se deitar com mulher menstruada, e descobrir sua nudez, descobriu a sua fonte, e ela descobriu a 
 fonte de seu sangue; ambos serão eliminados do meio do seu povo.
 \v Lv.20.19
-A nudez da irmã de tua mãe, ou da irmã de teu pai, não descobrirás; uma vez que descobriu sua parente, levarão sobre
+A nudez da irmã de tua mãe, ou da irmã de teu pai, não descobrirás; uma vez que descobriu sua parente, levarão sobre 
 si a sua perversidade.
 \v Lv.20.20
 E qualquer um que dormir com a mulher do irmão de seu pai, a nudez do irmão de seu pai descobriu; seu pecado levarão; morrerão sem filhos.
@@ -1429,7 +1429,7 @@ E oferecereis ao SENHOR sete dias oferta acesa: no sétimo dia será santa convo
 \v Lv.23.9
 E falou o SENHOR a Moisés, dizendo:
 \v Lv.23.10
-Fala aos filhos de Israel, e dize-lhes: Quando houverdes entrado na terra que eu vos dou, e ceifardes seu colheita, trareis ao sacerdote um ômer por primícia dos primeiros frutos de vossa colheita;
+Fala aos filhos de Israel, e dize-lhes: Quando houverdes entrado na terra que eu vos dou, e ceifardes sua colheita, trareis ao sacerdote um ômer por primícia dos primeiros frutos de vossa colheita;
 \v Lv.23.11
 O qual moverá o ômer diante do SENHOR, para que sejais aceitos: o dia seguinte do sábado o moverá o sacerdote.
 \v Lv.23.12
@@ -1570,7 +1570,7 @@ Mas no sétimo ano a terra terá um sábado de descanso, sábado ao SENHOR; não
 \v Lv.25.5
 O que nascer de si mesmo na tua terra ceifada não ceifarás; e as uvas do teu vinhedo não vindimarás; será um ano de descanso para a terra.
 \v Lv.25.6
-Mas o sábado da terra vos será para comer a ti, e a teu servo, e a tua serva, e a tua criado, e a tua estrangeiro que morar contigo:
+Mas o sábado da terra vos será para comer a ti, e a teu servo, e a tua serva, e o teu criado, e o teu estrangeiro que morar contigo:
 \v Lv.25.7
 E a teu animal, e à animal que houver em tua terra, será todo o fruto dela para comer.
 \v Lv.25.8
@@ -1730,7 +1730,7 @@ Eu procederei convosco em contra e com ira, e vos castigarei ainda sete vezes po
 \v Lv.26.29
 E comereis as carnes de vossos filhos, e comereis as carnes de vossas filhas:
 \v Lv.26.30
-E destruirei vossos altos, e exterminarei vossas imagens, e porei vossos corpos mortos sobre os corpos mortos de vossos ídolos, e meu alma vos abominará:
+E destruirei vossos altos, e exterminarei vossas imagens, e porei vossos corpos mortos sobre os corpos mortos de vossos ídolos, e minha alma vos abominará:
 \v Lv.26.31
 E porei vossas cidades em deserto, e assolarei vossos santuários, e não cheirarei a fragrância de vosso suave incenso.
 \v Lv.26.32

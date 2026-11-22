@@ -336,7 +336,7 @@ Por que o perverso despreza Deus? Ele diz em seu coração que tu não exiges co
 Porém tu estás vendo; pois tu olhas para a opressão e o sofrimento, para vingá-los com tuas mãos; o desamparado 
 confia em ti; tu és o adjudador do órfão.
 \v Sl.10.15
-Quebra o braço do perverso; e quanto ao maligno, busca suas maldades
+Quebra o braço do perverso; e quanto ao maligno, busca suas maldades 
 \added
 até que
 \*added
@@ -1193,7 +1193,7 @@ Ou: ídolos fúteis
 \*fn
  eu, porém, confio no SENHOR.
 \v Sl.31.7
-Em tua leal bondade jubiliarei e me alegrarei, porque viste minha aflição; reconheceste minha alma em angústias.
+Em tua leal bondade jubilarei e me alegrarei, porque viste minha aflição; reconheceste minha alma em angústias.
 \v Sl.31.8
 E não me entregaste nas mãos do inimigo; puseste meus pés num lugar espaçoso.
 \v Sl.31.9
@@ -1251,7 +1251,7 @@ Cântico de Davi:
 \v Sl.32.1
 Bem-aventurado aquele cuja transgressão é perdoada, cujo pecado é coberto.
 \v Sl.32.2
-Bem-aventurada é a pessoa a quem o SENHOR não abribui maldade, e em cujo espírito não há engano.
+Bem-aventurada é a pessoa a quem o SENHOR não atribui maldade, e em cujo espírito não há engano.
 \v Sl.32.3
 Enquanto calei, meus ossos envelheceram-se pelo meu gemido o dia todo.
 \v Sl.32.4
@@ -1568,7 +1568,7 @@ Fui jovem, e já envelheci; porém nunca vi o justo desamparado, nem sua descend
 \fn
 Lit. semente. Também nos vv. 26 e 28.
 \*fn
- a medigar pão.
+ a mendigar pão.
 \v Sl.37.26
 Ele se compadece sempre,
 \fn
@@ -2047,7 +2047,7 @@ tanto os pequenos como os grandes, tanto os ricos como os pobres.
 \v Sl.49.3
 Minha boca falará sabedoria, e o pensamento de meu coração será de entendimento.
 \v Sl.49.4
-Inclinarei meus ouvidos a uma parábola; explicarei meu enigma ao
+Inclinarei meus ouvidos a uma parábola; explicarei meu enigma ao 
 \added
 som da
 \*added
@@ -2084,7 +2084,7 @@ Não temas quando alguém enriquece, quando a glória de sua casa se engrandece.
 \v Sl.49.17
 Pois, quando morrer, nada levará; nem sua glória descerá com ele.
 \v Sl.49.18
-Ainda que, em vida, ele bendizia à sua própria alma,
+Ainda que, em vida, ele bendizia à sua própria alma, 
 \added
 dizendo:
 \*added
@@ -2139,7 +2139,7 @@ Ou: paga
 \v Sl.50.15
 E invoca-me no dia da angústia; e eu te livrarei, e tu me glorificarás.
 \v Sl.50.16
-Mas ao preverso, Deus diz: Por que tu recitas meus estatutos, e tem meu pacto em tua boca?
+Mas ao perverso, Deus diz: Por que tu recitas meus estatutos, e tem meu pacto em tua boca?
 \v Sl.50.17
 Visto que odeias a correção, e lanças minhas palavras para detrás de ti.
 \v Sl.50.18
@@ -2366,7 +2366,7 @@ Ou: desembainhadas
 \v Sl.55.22
 Entrega tua carga sobre o SENHOR, e ele te sustentará; ele jamais permitirá que o justo venha a cair.
 \v Sl.55.23
-Tu, porém, ó Deus, os farás decer ao poço da perdição;
+Tu, porém, ó Deus, os farás descer ao poço da perdição;
 \fn
 Ou: poço profundo
 \*fn
@@ -2432,7 +2432,7 @@ Porque tu livraste minha alma da morte, e meus pés da queda, para que eu ande d
 Hino de Davi, para o regente, conforme “Não destrua”; quando fugia de Saul, na caverna:
 \*psalm-title
 \v Sl.57.1
-Tem misericórdia de mim, ó Deus, tem misericórdia de mim; porque minha alma se refugia em ti; e à sombra das tuas asas
+Tem misericórdia de mim, ó Deus, tem misericórdia de mim; porque minha alma se refugia em ti; e à sombra das tuas asas 
 me abrigo, até que as calamidades passem.
 \v Sl.57.2
 Eu clamo ao Deus Altíssimo, ao Deus que age em meu favor.
@@ -2577,7 +2577,7 @@ Não os mates, para que meu povo não se esqueça; faze-os vagar pelo teu poder,
 \added
 Pelo
 \*added
-do pecado de sua boca e 
+ do pecado de sua boca e 
 \added
 pela
 \*added
@@ -2620,7 +2620,7 @@ para a levantarem por causa da verdade
 \*key
 Obscuro. Trad. alt. para se refugiarem do arco
 \*fn
-(Selá)
+ (Selá)
 \v Sl.60.5
 Para que teus amados sejam livres; salva-nos com tua mão direita, e responde-nos.
 \v Sl.60.6
@@ -2741,7 +2741,7 @@ Mas o rei jubilará em Deus; todo o que por ele jurar
 \added
 lhe
 \*added
-dará glória, porque a boca dos que falam mentiras será tapada.
+ dará glória, porque a boca dos que falam mentiras será tapada.
 \psalm-title
 Salmo de Davi, para o regente:
 \*psalm-title
@@ -2760,7 +2760,7 @@ Planejam maldades,
 \added
 e dizem
 \*added
-: “fizemos um plano perfeito!”
+: “fizemos um plano perfeito!” 
 Os pensamentos íntimos e o coração de cada um deles são profundamente astutos.
 \v Sl.64.7
 Mas Deus os atingirá com flecha, e de repente ficarão feridos.
@@ -2945,7 +2945,7 @@ tremeu
 \*added
  na presença de Deus, o Deus de Israel.
 \v Sl.68.9
-Tu, ó Deus, mandaste a chuva em abundância, fortaleceste tua herança, quuando estava cansada.
+Tu, ó Deus, mandaste a chuva em abundância, fortaleceste tua herança, quando estava cansada.
 \v Sl.68.10
 Nela o teu rebanho habitou; ó Deus, preparaste de tua bondade para o pobre.
 \v Sl.68.11
@@ -3010,7 +3010,7 @@ Ali está o pequeno Benjamim, à frente deles;
 \fn
 Ou: governando-os
 \*fn
- os príncipes de Judá e o seu ajuntamento; os príncipes de Zebulom, e os príncipes de Nafitali.
+ os príncipes de Judá e o seu ajuntamento; os príncipes de Zebulom, e os príncipes de Naftali.
 \v Sl.68.28
 Teu Deus ordenou tua força; fortalece, ó Deus, o que 
 \added
@@ -3034,7 +3034,7 @@ estender
 \v Sl.68.32
 Reinos da terra, cantai a Deus; cantai louvores ao Senhor, (Selá)
 \v Sl.68.33
-ao que cavalga sobre os céus dos céus, que são desde a antinguidade; eis que ele faz ouvir sua voz, uma voz poderosa.
+ao que cavalga sobre os céus dos céus, que são desde a antiguidade; eis que ele faz ouvir sua voz, uma voz poderosa.
 \v Sl.68.34
 Aclamai a força a Deus; sua majestade está sobre Israel, e sua força está nas altas nuvens.
 \v Sl.68.35
@@ -3302,7 +3302,7 @@ as pessoas
 \v Sl.72.18
 Bendito seja o SENHOR Deus, o Deus de Israel! Somente ele faz maravilhas!
 \v Sl.72.19
-E bendito seja o seu glorioso nome para sempre; e que toda a terra se encha da glória dele! Amem, e amém!
+E bendito seja o seu glorioso nome para sempre; e que toda a terra se encha da glória dele! Amém, e amém!
 \v Sl.72.20
 \added
 Aqui
@@ -3629,7 +3629,7 @@ nosso
 \v Sl.77.14
 Tu és o Deus que faz maravilhas; tu fizeste notória tua força entre os povos.
 \v Sl.77.15
-Com o
+Com o 
 \added
 teu
 \*added
@@ -3814,7 +3814,7 @@ E os conduziu em segurança, e não temeram; mas o mar cobriu seus inimigos.
 \v Sl.78.54
 E os trouxe até sua fronteira santa, até este monte, que sua mão direita adquiriu.
 \v Sl.78.55
-E expulsou as nações de diante deles, e fez com que eles distribuissem sua herança em partes,
+E expulsou as nações de diante deles, e fez com que eles distribuíssem sua herança em partes,
 \fn
 Lit. linhas
 \*fn
@@ -3906,7 +3906,7 @@ louvores a ti.
 Para o regente, conforme “os lírios do testemunho”. Salmo de Asafe:
 \*psalm-title
 \v Sl.80.1
-Ó Pastor de Israel, ouve, tu que conduzes José como um rebanho, tu, que te assentas
+Ó Pastor de Israel, ouve, tu que conduzes José como um rebanho, tu, que te assentas 
 \fn
 Ou: estás entronizado
 \*fn
@@ -3944,7 +3944,7 @@ lugar
 \*added
 , e a fizeste lançar raízes; e ela encheu a terra.
 \v Sl.80.10
-Os montes foram cobertos pela sombra dela, e seus ramos eram
+Os montes foram cobertos pela sombra dela, e seus ramos eram 
 \added
 como
 \*added
@@ -4100,7 +4100,7 @@ Até o pardal acha casa, e a andorinha ninho para si, onde ponha seus filhotes,
 \added
 perto dos
 \*added
-teus altares, ó SENHOR dos exércitos, meu Rei e meu Deus.
+ teus altares, ó SENHOR dos exércitos, meu Rei e meu Deus.
 \v Sl.84.4
 Bem-aventurados os que habitam em tua casa; eles te louvarão continuamente. (Selá)
 \v Sl.84.5
@@ -4249,7 +4249,7 @@ Coisas gloriosas são ditas de ti, ó cidade de Deus. (Selá)
 \fn
 Ou: do Egito
 \*fn
- e da Babilônia entre os que me conhecem; eis que da Filístia, de Tiro e Cuxe
+ e da Babilônia entre os que me conhecem; eis que da Filístia, de Tiro e Cuxe 
 \fn
 Ou: da Etiópia
 \*fn 
@@ -4263,7 +4263,7 @@ E de Sião se dirá: “Este e aquele nasceram nela”. E o próprio Altíssimo 
 \v Sl.87.6
 O SENHOR contará na descrição dos povos: “Este nasceu ali”. (Selá)
 \v Sl.87.7
-Tanto os cantores quanto os que tocam instrumentos
+Tanto os cantores quanto os que tocam instrumentos 
 \fn
 Trad. alt. os que dançam
 \*fn
@@ -4484,7 +4484,7 @@ Xeol é o lugar dos mortos
 \v Sl.89.49
 Senhor, onde estão tuas leais bondades do passado, que juraste a Davi por tua fidelidade?
 \v Sl.89.50
-Lembra-te, Senhor, da humilhação de teus servos; trago no meu peito
+Lembra-te, Senhor, da humilhação de teus servos; trago no meu peito 
 \added
 os insultos
 \*added
@@ -4691,7 +4691,7 @@ Pois o julgamento se voltará à justiça, e todos os corretos de coração a se
 Quem se levantará por mim contra os malfeitores? Quem se porá comigo contra os praticantes 
 de perversidade?
 \v Sl.94.17
-Se o SENHOR não tivesse sido meu socorro, minha alma logo moraria no silêncio
+Se o SENHOR não tivesse sido meu socorro, minha alma logo moraria no silêncio 
 \added
 da morte
 \*added
@@ -4699,7 +4699,7 @@ da morte
 \v Sl.94.18
 Quando eu digo: “Meu pé está deslizando”; tua leal bondade, ó SENHOR, me sustenta.
 \v Sl.94.19
-Na mulitdão de minhas preocupações dentro de mim, tuas consolações alegram minha alma.
+Na multidão de minhas preocupações dentro de mim, tuas consolações alegram minha alma.
 \v Sl.94.20
 Acaso teria comunhão contigo o trono da perversidade, que faz do mal como se fosse lei?
 \v Sl.94.21
@@ -5123,7 +5123,7 @@ Então
 Ou: tuas criaturas
 \*fn
 \v Sl.104.25
-Eis o mar, grande e vasto, onde há há inúmeros seres, animais pequenos e grandes.
+Eis o mar, grande e vasto, onde há inúmeros seres, animais pequenos e grandes.
 \v Sl.104.26
 Ali andam os navios, e o Leviatã que tu formaste para nele brincar.
 \v Sl.104.27
@@ -5220,7 +5220,7 @@ O rei mandou, e o soltou; o dominador de povos o libertou.
 \v Sl.105.21
 Ele o pôs por senhor de sua casa, e por governador de todos os seus bens,
 \v Sl.105.22
-a fim de sujeitar os príncipes à vontade dele, e ensinar sabeoria aos seus anciãos.
+a fim de sujeitar os príncipes à vontade dele, e ensinar sabedoria aos seus anciãos.
 \v Sl.105.23
 Então Israel entrou no Egito; Jacó peregrinou na terra de Cam.
 \v Sl.105.24
@@ -5294,7 +5294,7 @@ Quem
 \v Sl.106.3
 Bem-aventurados são os que guardam a justiça, e aquele que pratica o que é correto em todo tempo.
 \v Sl.106.4
-Lembra-te de mim, SENHOR, conforme o
+Lembra-te de mim, SENHOR, conforme o 
 \added
 teu
 \*added
@@ -5612,7 +5612,7 @@ o pão
 \v Sl.109.11
 Que o credor tome tudo o que ele tem, e estranhos saqueiem seu trabalho.
 \v Sl.109.12
-Ninguém tenha misercórdia dele, nem haja quem tenha compaixão de seus órfãos.
+Ninguém tenha misericórdia dele, nem haja quem tenha compaixão de seus órfãos.
 \v Sl.109.13
 Sua descendência seja exterminada; que o nome deles seja apagado na geração seguinte.
 \v Sl.109.14
@@ -5890,13 +5890,13 @@ dura
 \*added
  para sempre.
 \v Sl.118.2
-Diga agora Israel que sua leal bondade
+Diga agora Israel que sua leal bondade 
 \added
 dura
 \*added
  para sempre.
 \v Sl.118.3
-Diga agora a casa de Arão que sua leal bondade
+Diga agora a casa de Arão que sua leal bondade 
 \added
 dura
 \*added
@@ -5991,7 +5991,7 @@ Obscuro. Trad. alt. conduzam os ramos em marcha festiva até as pontas do altar
 \v Sl.118.28
 Tu és meu Deus, e eu te louvarei. És meu Deus, eu te exaltarei.
 \v Sl.118.29
-Dai graças ao SENHOR, porque ele é bom; pois sua leal bondade
+Dai graças ao SENHOR, porque ele é bom; pois sua leal bondade 
 \added
 dura
 \*added
@@ -6165,7 +6165,7 @@ E levantarei minhas mãos aos teus mandamentos, que eu amo; e meditarei nos teus
 \added
 tua
 \*added
-palavra ao teu servo, na qual me deste esperança.
+ palavra ao teu servo, na qual me deste esperança.
 \v Sl.119.50
 Isto é o que me consola na minha aflição, porque tua promessa me vivifica.
 \v Sl.119.51
@@ -6279,7 +6279,7 @@ que fizeste
 \v Sl.119.77
 Tuas misericórdias venham sobre mim, para que eu viva; pois tua lei é o meu prazer.
 \v Sl.119.78
-Sejam envergonhados os soberbos, porque me oprimem sem causa;
+Sejam envergonhados os soberbos, porque me oprimem sem causa; 
 \fn
 \key
 sem causa
@@ -6355,7 +6355,7 @@ mas
 \*added
  eu estou atento aos teus testemunhos.
 \v Sl.119.96
-Tenho visto um limite para toda perfeição;
+Tenho visto um limite para toda perfeição; 
 \added
 mas
 \*added
@@ -6745,7 +6745,7 @@ estão atentos
 \*added
  ao SENHOR nosso Deus, até que ele tenha misericórdia de nós.
 \v Sl.123.3
-Tem misericórdia de nós, SENHOR! Tem misercórdia de nós; pois estamos cheios demais de desprezo.
+Tem misericórdia de nós, SENHOR! Tem misericórdia de nós; pois estamos cheios demais de desprezo.
 \v Sl.123.4
 Nossa alma está cheia demais da zombaria dos orgulhosos,
 \fn
@@ -7146,7 +7146,7 @@ Junto aos rios da Babilônia, ali estávamos assentados e chorávamos, quando no
 \v Sl.137.2
 Sobre os salgueiros que há no meio dela havíamos pendurado nossas harpas.
 \v Sl.137.3
-Pois ali os que nos haviam levado cativos nos pediam canções, e nossos operessores, que os alegrássemos, 
+Pois ali os que nos haviam levado cativos nos pediam canções, e nossos opressores, que os alegrássemos, 
 \added
 dizendo
 \*added
@@ -7243,7 +7243,7 @@ até ali tua mão me guiará, e tua mão direita me sustentará.
 \v Sl.139.11
 Se eu disser: “Certamente as trevas me encobrirão, e a luz ao redor de mim será a noite”.
 \v Sl.139.12
-Nem ainda as trevas encobrem de ti; mas a noite é tão clara quanto o dia, e
+Nem ainda as trevas encobrem de ti; mas a noite é tão clara quanto o dia, e 
 \added
 para ti
 \*added
@@ -7368,7 +7368,7 @@ como
 \fn
 Ou: sobre a cabeça
 \*fn
-Que minha cabeça não o recuse, mas ainda minha oração será contra suas maldades.
+ Que minha cabeça não o recuse, mas ainda minha oração será contra suas maldades.
 \v Sl.141.6
 Quando seus juízes forem derrubados pelas laterais da rocha, então ouvirão minhas palavras, que são agradáveis.
 \v Sl.141.7
@@ -7377,7 +7377,7 @@ Quando seus juízes forem derrubados pelas laterais da rocha, então ouvirão mi
 Xeol é o lugar dos mortos
 \*fn
 \v Sl.141.8
-Porém meus olhos estão
+Porém meus olhos estão 
 \added
 atentos
 \*added
@@ -7492,11 +7492,12 @@ milhares em nossos campos.
 Nossos bois sejam fortes para o trabalho; não haja nem brechas 
 \added
 nos muros
-\*added,
-\fn
+\*added
 , nem saídas 
 \added
- ao cativeiro,
+ao cativeiro
+\*added
+,
 \fn
 Obscuro. Lit. “saídas”. Trad. alt. “fugas”
 \*fn

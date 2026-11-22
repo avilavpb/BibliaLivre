@@ -24,15 +24,15 @@ como
 \*added
  perfume sendo derramado, por isso as virgens te amam.
 \v Ct.1.4
-Toma-me contigo, e corramos; traga-me o rei aos seus quartos.
+Toma-me contigo, e corramos; traga-me o rei aos seus quartos. 
 \added
 Moças
 \*added
-:  Em ti nos alegraremos e nos encheremos de alegria; nos agradaremos mais de teu amor do que do vinho;
+: Em ti nos alegraremos e nos encheremos de alegria; nos agradaremos mais de teu amor do que do vinho; 
 \added
 Ela
 \*added
-:  Elas estão certas em te amar;
+: Elas estão certas em te amar;
 \v Ct.1.5
 Eu sou morena, porém bela, ó filhas de Jerusalém: 
 \added
@@ -150,7 +150,7 @@ Esta é
 \v Ct.2.9
 Meu amado é semelhante ao corço, ou ao filhote de cervos; eis que está atrás de nossa parede, olhando pelas janelas, observando pelas grades.
 \v Ct.2.10
-Meu amado me responde, e me diz:
+Meu amado me responde, e me diz: 
 \added
 Ele
 \*added
@@ -173,7 +173,7 @@ Antes do dia se romper, e das sombras fugirem, volta, amado meu, faze-te semelha
 \added
 Ela
 \*added
-:Durante as noites busquei em minha cama a quem minha alma ama; busquei-o, mas não o achei.
+: Durante as noites busquei em minha cama a quem minha alma ama; busquei-o, mas não o achei.
 \v Ct.3.2
 Por isso me levantarei, e percorrerei a cidade, pelas ruas e pelas praças; buscarei a quem minha alma ama; busquei-o, mas não o achei.
 \v Ct.3.3
@@ -278,12 +278,12 @@ minha
 \added
 Autor do poema (ou os amigos dos noivos)
 \*added
- :  Comei, amigos; bebei, ó amados, e embebedai-vos.
+ : Comei, amigos; bebei, ó amados, e embebedai-vos.
 \v Ct.5.2
 \added
 Ela
 \*added
- : Eu estava dormindo, mas meu coração vigiava; era a voz de meu amado, batendo:  Abre-me, minha irmã, minha querida, minha pomba, minha perfeita! Porque minha cabeça está cheia de orvalho, meus cabelos das gotas da noite.
+ : Eu estava dormindo, mas meu coração vigiava; era a voz de meu amado, batendo: Abre-me, minha irmã, minha querida, minha pomba, minha perfeita! Porque minha cabeça está cheia de orvalho, meus cabelos das gotas da noite.
 \v Ct.5.3
 Já tirei minha roupa; como 
 \added
@@ -299,7 +299,7 @@ Meu amado meteu sua mão pelo buraco
 \added
 da porta
 \*added
-,e meu interior se estremeceu por ele.
+, e meu interior se estremeceu por ele.
 \v Ct.5.5
 Eu me levantei para abrir a meu amado; minhas mãos gotejavam mirra, e meus dedos 
 \added
@@ -447,7 +447,7 @@ Moças
 \added
 Ele
 \*added
-:  Por que 
+: Por que 
 \added
 quereis
 \*added

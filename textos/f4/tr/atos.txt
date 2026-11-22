@@ -43,7 +43,7 @@ E estando eles com os olhos fixos ao céu, enquanto ele ia, eis que junto deles 
 que também disseram: “Homens galileus, por que vós estais olhando para o céu? Este Jesus, que do meio de vós foi 
 recebido acima no céu, assim ele virá, da maneira como vós o vistes ir ao céu”.
 \v At.1.12
-Então eles voltaram a Jerusalém do monte que se chama das Oliveiras, que está à disstância de Jerusalém de um caminho 
+Então eles voltaram a Jerusalém do monte que se chama das Oliveiras, que está à distância de Jerusalém de um caminho 
 de sábado.
 \v At.1.13
 E ao entrarem, subiram ao compartimento superior da casa, onde ficaram Pedro, Tiago, João, André, Filipe, Tomé, 
@@ -252,6 +252,7 @@ Lit. traspassado
  e disseram a Pedro e aos demais apóstolos: “Que faremos, irmãos?”
 \v At.2.38
 E Pedro lhes disse: “Arrependei-vos, e cada um de vós seja batizado no nome de Jesus Cristo, para perdão dos
+ pecados; e recebereis o dom do Espírito Santo.
 \v At.2.39
 Porque a promessa é para vós, e para vossos filhos, e para todos os que estão longe, a tantos quantos o Senhor, 
 nosso Deus, chamar”.
@@ -602,7 +603,7 @@ pórtico de Salomão.
 \v At.5.13
 Mas, dos outros, ninguém ousava ajuntar-se a eles; porém o povo os estimava em grande maneira.
 \v At.5.14
-E a multidão dos que que criam no Senhor, tanto de homens como de mulheres, crescia cada vez mais.
+E a multidão dos que criam no Senhor, tanto de homens como de mulheres, crescia cada vez mais.
 \v At.5.15
 De maneira que traziam os enfermos às ruas, e os colocavam em camas e macas, para que Pedro, passando, ao menos sua 
 sombra cobrisse alguns deles.
@@ -698,7 +699,7 @@ a
 E chamaram os apóstolos e os açoitaram; então mandaram que não falassem no nome de Jesus, e os deixaram ir.
 \v At.5.41
 Eles, pois, saíram da presença do supremo conselho, alegres por terem sido considerados dignos de serem humilhados por 
-causa do nome
+causa do nome 
 de Jesus
 .
 \fn
@@ -1019,7 +1020,7 @@ o
 \*added
  apedrejavam; e as testemunhas puseram as vestes deles aos pés de um jovem chamado Saulo.
 \v At.7.59
-E apedrejaram Estêvão, que clavama, dizendo: “Senhor Jesus, recebe o meu espírito!”.
+E apedrejaram Estêvão, que clamava, dizendo: “Senhor Jesus, recebe o meu espírito!”.
 \v At.7.60
 E pondo-se de joelhos, exclamou em alta voz: “Senhor, não os culpes por este pecado”. E, havendo dito isso, adormeceu.
 \fn
@@ -1174,7 +1175,7 @@ E ele, tremendo e atônito, disse: “Senhor, que queres que eu faça?” E o Se
 disse:
 \*added
 \fn
-RP, N4 não contém: “E ele, tremendo e atônito, disse: “Senhor, que queres que eu faça?” E o Senhor lhe disse :” 
+RP, N4 não contém: “E ele, tremendo e atônito, disse: “Senhor, que queres que eu faça?” E o Senhor lhe disse:” 
 \*fn
  “Levanta-te
 , e entra na cidade; e te será dito o que deves fazer”.
@@ -1336,7 +1337,7 @@ Este está hospedado com um Simão curtidor, cuja casa é junto ao mar
 RP, N4 não contêm “ele te dirá o que deves fazer” 
 \*fn
 \v At.10.7
-E e quando se foi o anjo que 
+E quando se foi o anjo que 
 falava com Cornélio, ele
  chamou dois de seus servos, e um soldado devoto, dos que estavam ao seu serviço.
 \v At.10.8
@@ -1554,7 +1555,7 @@ E naqueles dias
 \added
 alguns
 \*added
- profetas desceram de Jerusalém  a Antioquia.
+ profetas desceram de Jerusalém a Antioquia.
 \v At.11.28
 E levantando-se um deles, chamado Ágabo, anunciava pelo Espírito que haveria uma grande fome em todo o mundo; ela 
 veio no tempo de Cláudio César.
@@ -1639,7 +1640,7 @@ E o povo exclamava: “
 \added
 É
 \*added
-a voz de deus, e não de um homem!”
+ a voz de deus, e não de um homem!”
 \v At.12.23
 E no mesmo instante um anjo do Senhor o feriu, porque ele não deu glória a Deus; e, comido por vermes, expirou.
 \v At.12.24
@@ -1651,7 +1652,7 @@ sobrenome Marcos.
 E havia na igreja que estava em Antioquia alguns profetas e mestres: Barnabé e Simeão, chamado Níger, Lúcio cireneu, 
 e Manaém, que tinha sido criado com Herodes o Tetrarca, e Saulo.
 \v At.13.2
-E, havendo eles servido ao Senhor, e jejuado, o Espirito Santo disse: “Separai para mim Barnabé e Saulo, para a obra a 
+E, havendo eles servido ao Senhor, e jejuado, o Espírito Santo disse: “Separai para mim Barnabé e Saulo, para a obra a 
 que eu os tenho chamado”.
 \v At.13.3
 Então, jejuando, orando, e impondo as mãos sobre eles, 
@@ -1894,7 +1895,7 @@ E eles, sabendo
 \added
 disto
 \*added
-,fugiram para as cidades da Licaônia, 
+, fugiram para as cidades da Licaônia, 
 \added
 chamadas
 \*added
@@ -1926,11 +1927,11 @@ Mas os apóstolos Barnabé e Paulo, ao ouvirem
 \added
 isto
 \*added
-,rasgaram suas roupas, e saltaram entre a multidão, clamando,
+, rasgaram suas roupas, e saltaram entre a multidão, clamando,
 \v At.14.15
 E dizendo: Homens, por que fazeis estais coisas? Também nós somos homens como vós, sujeitos às mesmas emoções; e vos anunciamos o Evangelho para que vos convertais destas vaidades para o Deus vivo, que fez o céu, a terra, o mar, e tudo quanto neles há.
 \v At.14.16
-O qual nas gerações passadas deixou os os gentios andarem seus 
+O qual nas gerações passadas deixou os gentios andarem seus 
 \added
 próprios
 \*added
@@ -2197,7 +2198,7 @@ E uma visão foi vista por Paulo durante a noite: um homem Macedônio se pôs
 \added
 diante dele
 \*added
-,rogando-lhe, e dizendo: Passa à Macedônia, e ajuda-nos!
+, rogando-lhe, e dizendo: Passa à Macedônia, e ajuda-nos!
 \v At.16.10
 E quando ele viu a visão, logo procuramos partir para a Macedônia, concluindo que o Senhor estava nos chamando para anunciarmos o Evangelho a eles.
 \v At.16.11
@@ -2423,7 +2424,7 @@ até ele
 \*added
 .
 \v At.17.18
-E alguns dos filósofos epicureus e estoicos discutiam com ele; e uns diziam: O que quer dizer este tagarela?E outros: Parece que ele é pregador de deuses estranhos.Porque ele lhes anunciava o Evangelho de Jesus e a ressurreição.
+E alguns dos filósofos epicureus e estoicos discutiam com ele; e uns diziam: O que quer dizer este tagarela? E outros: Parece que ele é pregador de deuses estranhos. Porque ele lhes anunciava o Evangelho de Jesus e a ressurreição.
 \v At.17.19
 E tomando-o, trouxeram 
 \added
@@ -2473,7 +2474,7 @@ deles
 \*added
 ;
 \v At.17.27
-Para que buscassem ao Senhor, se talvez pudessem apalpá-lo e encontrá-lo,apesar dele não estar longe de cada um de nós.
+Para que buscassem ao Senhor, se talvez pudessem apalpá-lo e encontrá-lo, apesar dele não estar longe de cada um de nós.
 \v At.17.28
 Porque nele vivemos, e nos movemos, e somos; assim como também alguns de vossos poetas disseram; porque também nós somos descendência dele.
 \v At.17.29
@@ -2672,7 +2673,7 @@ E alguns exorcistas dos judeus, itinerantes, tentaram invocar o nome do Senhor J
 \v At.19.14
 E eram sete filhos de Ceva, judeu, chefe dos sacerdotes, os que faziam isto.
 \v At.19.15
-Mas  o espírito maligno respondeu: Eu conheço Jesus, e sei quem é Paulo; mas vós, quem sois?
+Mas o espírito maligno respondeu: Eu conheço Jesus, e sei quem é Paulo; mas vós, quem sois?
 \v At.19.16
 E o homem em quem estava o espírito maligno saltou sobre eles, e dominando-os, foi mais forte do que eles; de tal maneira que eles fugiram nus e feridos daquela casa.
 \v At.19.17
@@ -2682,7 +2683,7 @@ assim
 \*added
  foi engrandecido o nome do Senhor Jesus.
 \v At.19.18
-E muitos dos que criam vinham, confessando e declararando as suas atitudes.
+E muitos dos que criam vinham, confessando e declarando as suas atitudes.
 \v At.19.19
 Também muitos dos que praticavam ocultismo trouxeram seus livros, e 
 \added
@@ -2824,7 +2825,7 @@ E estando um certo rapaz, de nome Êutico, sentado em uma janela, tendo sido tom
 \added
 e
 \*added
-,estando Paulo 
+, estando Paulo 
 \added
 ainda
 \*added
@@ -2832,7 +2833,7 @@ ainda
 \added
 tempo
 \*added
-,
+, 
 \added
 Êutico
 \*added
@@ -2886,7 +2887,7 @@ E quando vieram a
 \added
 Paulo
 \*added
-,ele lhes disse: Vós sabeis que desde o primeiro dia que entrei na Ásia, 
+, ele lhes disse: Vós sabeis que desde o primeiro dia que entrei na Ásia, 
 \added
 o modo
 \*added
@@ -3124,7 +3125,7 @@ sua
 \*added
  oferta.
 \v At.21.27
-E tendo os sete dias quase quase completados, os judeus da Ásia, vendo-o, tumultuaram a todo o povo, e lançaram as mãos sobre ele 
+E tendo os sete dias quase completados, os judeus da Ásia, vendo-o, tumultuaram a todo o povo, e lançaram as mãos sobre ele 
 \added
 para o deterem
 \*added
@@ -3158,7 +3159,7 @@ E na multidão clamavam
 \added
 uns de uma maneira
 \*added
-,e outros de outra maneira; mas 
+, e outros de outra maneira; mas 
 \added
 como
 \*added
@@ -3172,7 +3173,7 @@ o
 \*added
  seguia, gritando: Tragam-no para fora!
 \v At.21.37
-E Paulo, estando perto de entrar na área fortificada, disse ao comandante: É permitido a mim te falar alguma coisa?E ele disse: Tu sabes grego?
+E Paulo, estando perto de entrar na área fortificada, disse ao comandante: É permitido a mim te falar alguma coisa? E ele disse: Tu sabes grego?
 \v At.21.38
 Por acaso não és tu aquele egípcio, que antes destes dias tinha levantando uma rebelião, e levou ao deserto quatro mil homens assassinos?
 \v At.21.39
@@ -3202,7 +3203,7 @@ e
 \added
 Eu
 \*added
-,que persegui este caminho até a morte, atando tanto a homens como a mulheres, e 
+, que persegui este caminho até a morte, atando tanto a homens como a mulheres, e 
 \added
 os
 \*added
@@ -3244,7 +3245,7 @@ Tendo vindo até mim, e ficando
 \added
 diante de mim
 \*added
-,ele me disse: Irmão Saulo, recupere a vista; E naquela mesma hora eu 
+, ele me disse: Irmão Saulo, recupere a vista; E naquela mesma hora eu 
 \added
 pude
 \*added
@@ -3276,7 +3277,7 @@ E enquanto eles gritavam, tiravam
 \added
 suas
 \*added
- capas, e lançavm pó ao ar,
+ capas, e lançavam pó ao ar,
 \v At.22.24
 O comandante mandou que o levassem à área fortificada, dizendo que o interrogassem com açoites, para saber por que causa clamavam assim contra ele.
 \v At.22.25
@@ -3290,9 +3291,9 @@ E o centurião, tendo ouvido
 \added
 isto
 \*added
-,foi e avisou ao comandante, dizendo: Olha o que estás a ponto de fazer, porque este homem é romano.
+, foi e avisou ao comandante, dizendo: Olha o que estás a ponto de fazer, porque este homem é romano.
 \v At.22.27
-E o comandante, tendo se aproximado, disse-lhe: Dize-me, tu és romano?E ele disse: Sim.
+E o comandante, tendo se aproximado, disse-lhe: Dize-me, tu és romano? E ele disse: Sim.
 \v At.22.28
 E o comandante respondeu: Eu com muita soma 
 \added
@@ -3314,7 +3315,7 @@ Paulo
 \*added
  era romano, e que tinha o atado.
 \v At.22.30
-E no
+E no 
 \added
 dia
 \*added
@@ -3603,9 +3604,9 @@ para lá
 \*added
  .
 \v At.25.5
-Ele disse: Então aqueles dentre vós que podem, desçam com 
+Ele disse: Então aqueles dentre vós que podem, desçam 
 \added
-igo
+comigo
 \*added
 , e se houver alguma coisa errada neste homem, acusem-no.
 \v At.25.6
@@ -3698,7 +3699,7 @@ meu
 \v At.25.27
 Porque não me parece razoável enviar a um prisioneiro, sem também informar as acusações contra ele.
 \v At.26.1
-E Agripa disse a Paulo: É permitido a ti falar por ti mesmo.Então Paulo, estendendo a mão, respondeu em sua defesa:
+E Agripa disse a Paulo: É permitido a ti falar por ti mesmo. Então Paulo, estendendo a mão, respondeu em sua defesa:
 \v At.26.2
 Eu me considero feliz, rei Agripa, de que diante de ti eu esteja hoje fazendo minha defesa de todas as coisas de que sou acusado pelos judeus;
 \v At.26.3
@@ -3893,7 +3894,7 @@ E indo navegando lentamente já por muitos dias, chegando com dificuldade em fre
 \added
 continuar por ali
 \*added
-,navegamos abaixo de Creta, em frente a Salmone.
+, navegamos abaixo de Creta, em frente a Salmone.
 \v At.27.8
 E tendo com dificuldade percorrido sua costa, chegamos a um certo lugar, chamado Bons Portos, perto do qual estava a cidade de Laseia.
 \v At.27.9
@@ -4183,6 +4184,7 @@ a
 \*added
  ouvirão.
 \v At.28.29
+E havendo ele dito isto, foram-se os judeus, tendo entre si grande contenda.
 \fn
 N4 não contém todo o versículo 29 
 \*fn

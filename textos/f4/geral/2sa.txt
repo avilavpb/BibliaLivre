@@ -376,7 +376,7 @@ te faz saber, que ele quer fazer de ti uma dinastia.
 Lit. casa. Também nos vv. 16 e 27
 \*fn
 \v 2Sm.7.12
-E quando teus dias forem completos, e vieres a descansar com os teus pais, eu establecerei o teu descendente
+E quando teus dias forem completos, e vieres a descansar com os teus pais, eu estabelecerei o teu descendente
 \fn
 Lit. semente
 \*fn
@@ -672,7 +672,7 @@ Porque onde iria eu com minha desonra? E ainda tu serias estimado como um dos pe
 \v 2Sm.13.14
 Mas ele não a quis ouvir; antes podendo mais que ela a forçou, e lançou-se com ela.
 \v 2Sm.13.15
-Aborreceu-a logo Amnom de tão grande aborrecimiento, que o ódio com que a aborreceu foi maior que o amor com que a havia amado. E disse-lhe Amnom: Levanta-te e vai-te.
+Aborreceu-a logo Amnom de tão grande aborrecimento, que o ódio com que a aborreceu foi maior que o amor com que a havia amado. E disse-lhe Amnom: Levanta-te e vai-te.
 \v 2Sm.13.16
 E ela lhe respondeu: Não está certo; maior mal é este de me rejeitar, que o que me fizeste. Mas ele não a quis ouvir:
 \v 2Sm.13.17
@@ -879,9 +879,9 @@ E dizia Simei, amaldiçoando-lhe: Sai, sai, homem sanguinário, e homem maligno!
 \v 2Sm.16.8
 O SENHOR te retribuiu por todo o sangue da casa de Saul, em lugar do qual tu reinaste: mas o SENHOR entregou o reino em mãos de teu filho Absalão; e eis que estás em tua desgraça, porque és homem sanguinário.
 \v 2Sm.16.9
-Então Abisai filho de Zeruia, disse ao rei: Por que almadiçoa este cão morto a meu senhor o rei? Eu te rogo que me deixes passar, e tirarei dele a cabeça.
+Então Abisai filho de Zeruia, disse ao rei: Por que amaldiçoa este cão morto a meu senhor o rei? Eu te rogo que me deixes passar, e tirarei dele a cabeça.
 \v 2Sm.16.10
-E o rei respondeu: Que tenho eu convosco, filhos de Zeruia? Ele almadiçoa assim, porque o SENHOR lhe disse que almadiçoasse a Davi; quem pois lhe dirá: Por que o fazes assim?
+E o rei respondeu: Que tenho eu convosco, filhos de Zeruia? Ele amaldiçoa assim, porque o SENHOR lhe disse que amaldiçoasse a Davi; quem pois lhe dirá: Por que o fazes assim?
 \v 2Sm.16.11
 E disse Davi a Abisai e a todos os seus servos: Eis que, meu filho que saiu de minhas entranhas, busca à minha vida: quanto mais agora um filho de Benjamim? Deixai-lhe que amaldiçoe, que o SENHOR se o disse.
 \v 2Sm.16.12
@@ -1355,18 +1355,18 @@ Por isso eu te louvarei entre as nações, ó SENHOR, e cantarei louvores ao teu
 Ele dá grandes livramentos ao seu rei, e usa de bondade para com o seu ungido, com Davi, e com a sua descendência 
 para sempre.
 \v 2Sm.23.1
-Estas são as últimas palavras de Davi. Davi, filho de Jessé, disse, o homem que foi elevado, o ungido do Deus de Jacó,
+Estas são as últimas palavras de Davi. Davi, filho de Jessé, disse, o homem que foi elevado, o ungido do Deus de Jacó, 
 o suave salmista de Israel, disse:
 \v 2Sm.23.2
 “O Espírito do SENHOR falou por mim, e sua palavra esteve na minha língua.
 \v 2Sm.23.3
-O Deus de Israel disse, a Rocha de Israel me falou: ‘Aquele que governa os homens com justiça, que governa no temor
+O Deus de Israel disse, a Rocha de Israel me falou: ‘Aquele que governa os homens com justiça, que governa no temor 
 a Deus,
 \v 2Sm.23.4
-é como a luz da manhã quando sai o sol, da manhã sem nuvens; quando a erva da terra brota pelo do resplendor depois
+é como a luz da manhã quando sai o sol, da manhã sem nuvens; quando a erva da terra brota pelo do resplendor depois 
 da chuva.’
 \v 2Sm.23.5
-Ainda que a minha casa não esteja assim para com Deus, contudo ele fez comigo um pacto eterno, ordenado em todas as
+Ainda que a minha casa não esteja assim para com Deus, contudo ele fez comigo um pacto eterno, ordenado em todas as 
 coisas, e seguro; pois não é ele que faz brotar toda a minha salvação e todo o meu desejo?
 \v 2Sm.23.6
 Porém os malignos são todos como os espinhos arrancados, que ninguém pega com a mão;
@@ -1400,17 +1400,17 @@ Belém; e a tomaram, e a trouxeram a Davi; porém ele não a quis beber, mas der
 “Longe seja de mim, ó SENHOR, que eu faça isto. Beberia eu o sangue dos homens que foram com risco de sua vida?” E não 
 a quis beber. Os três valentes fizeram isto.
 \v 2Sm.23.18
-E Abisai irmão de Joabe, filho de Zeruia, era o principal de
+E Abisai irmão de Joabe, filho de Zeruia, era o principal de 
 \added
 outros
 \*added
  três; ele levantou sua lança contra trezentos, e os matou; e teve nome entre os três.
 \v 2Sm.23.19
-Ele era o mais eminente dos três, e o primeiro deles; mas não alcançou os
+Ele era o mais eminente dos três, e o primeiro deles; mas não alcançou os 
 \added
 primeiros
 \*added
-três.
+ três.
 \v 2Sm.23.20
 E também Benaia, filho de Joiada, filho de um homem valente, grande em feitos, de Cabzeel. Este feriu dois leões
 \fn
@@ -1423,13 +1423,13 @@ um cajado, e arrancou a lança da mão do egípcio, e o matou com sua própria l
 \v 2Sm.23.22
 Estas coisas Benaia, filho de Joiada, fez, e teve nome entre os três valentes.
 \v 2Sm.23.23
-Dos trinta, ele foi o mais eminente; mas não alcançou os
+Dos trinta, ele foi o mais eminente; mas não alcançou os 
 \added
 primeiros
 \*added
  três. E Davi o pôs em seu conselho.
 \v 2Sm.23.24
-Asael, irmão de Joabe, foi um dos trinta;
+Asael, irmão de Joabe, foi um dos trinta; 
 \added
 que eram
 \*added

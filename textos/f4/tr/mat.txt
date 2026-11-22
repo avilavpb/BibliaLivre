@@ -119,13 +119,13 @@ que apascentará meu povo Israel’”.
 Miqueias 5:2 
 \*ref
 \v Mt.2.7
-Então Herodes, chamando secretamente os magos, perguntou-lhes com precisão sobre o tempo em que a estrela
+Então Herodes, chamando secretamente os magos, perguntou-lhes com precisão sobre o tempo em que a estrela 
 havia aparecido.
 \v Mt.2.8
 E, enviando-os a Belém, disse: “Ide, e investigai com precisão acerca do menino; e quando o achardes, avisai-me, para 
 que também eu venha e o adore”.
 \v Mt.2.9
-E havendo eles ouvido o rei, partiram. E eis que a estrela que tinham visto no oriente ia adiante deles, até que,
+E havendo eles ouvido o rei, partiram. E eis que a estrela que tinham visto no oriente ia adiante deles, até que, 
 chegando, ficou sobre onde o menino estava.
 \v Mt.2.10
 E eles, vendo a estrela, alegraram-se muito com grande júbilo.
@@ -133,7 +133,7 @@ E eles, vendo a estrela, alegraram-se muito com grande júbilo.
 E entrando na casa, acharam o menino com sua mãe Maria, e, prostrando-se, o adoraram. E abrindo seus tesouros, 
 ofereceram-lhe presentes: ouro, incenso, e mirra.
 \v Mt.2.12
-E sendo por divina revelação avisados em sonho que não voltassem a Herodes, partiram para sua terra por
+E sendo por divina revelação avisados em sonho que não voltassem a Herodes, partiram para sua terra por 
 outro caminho.
 \v Mt.2.13
 E tendo eles partido, eis que um anjo do Senhor apareceu a José em sonho, dizendo: “Levanta-te, toma o menino e sua 
@@ -201,7 +201,7 @@ pessoas
 e eram por ele batizados no 
 Jordão,
 \fn
-TR, RP:Jordão - N4: rio Jordão
+TR, RP: Jordão - N4: rio Jordão
 \*fn
  confessando seus pecados.
 \v Mt.3.7
@@ -511,7 +511,7 @@ Deuteronômio 24:1
 Porém eu vos digo que qualquer que se divorciar de sua esposa, a não ser por causa de pecado sexual, faz com que ela 
 adultere; e qualquer que se casar com a divorciada comete adultério.
 \v Mt.5.33
-Vós também ouvstes que foi dito aos antigos: ‘Não jurarás falsamente’, ‘mas cumprirás teus juramentos ao Senhor’. 
+Vós também ouvistes que foi dito aos antigos: ‘Não jurarás falsamente’, ‘mas cumprirás teus juramentos ao Senhor’. 
 \ref
 Levítico 19:12; Números 30:2 
 \*ref
@@ -558,7 +558,6 @@ N4 não contém “bendizei os que vos maldizem, fazei bem aos que vos odeiam”
 N4 não contém “vos maltratam e”
 \*fn
  vos perseguem,
-perseguem”. Comparar com Lucas 6:27,28
 \v Mt.5.45
 para que sejais filhos do vosso Pai que está nos céus; porque ele faz o seu sol sair sobre maus e bons, e chover 
 sobre justos e injustos.
@@ -1008,11 +1007,11 @@ E aconteceu que, estando
 Jesus
 \*added
  sentado 
-\added 
+\added
 à mesa
 \*added
  na casa, eis que muitos publicanos e pecadores vieram e se assentaram 
-\added 
+\added
 à mesa
 \*added
  juntamente com Jesus e seus discípulos.
@@ -1223,7 +1222,7 @@ O discípulo não é superior ao mestre, nem o servo superior ao seu senhor.
 Seja suficiente ao discípulo ser como seu mestre, e o servo como seu senhor; se ao chefe da casa chamaram de Belzebu, 
 quanto mais aos membros de sua casa!
 \v Mt.10.26
-Portanto, não os temais; porque nada há encoberto que não será revelado, e
+Portanto, não os temais; porque nada há encoberto que não será revelado, e 
 \added
 nada
 \*added
@@ -1674,7 +1673,7 @@ medidas de farinha, até que tudo esteja fermentado”.
 \v Mt.13.34
 Tudo isto Jesus falou por parábolas às multidões, e não lhes falava sem parábolas,
 \v Mt.13.35
-para que se cumprisse o que foi falado pelo profeta, que disse: “Abrirei minha boca em parábolas; publicarei
+para que se cumprisse o que foi falado pelo profeta, que disse: “Abrirei minha boca em parábolas; publicarei 
 coisas escondidas desde a fundação
  do mundo
 .
@@ -1755,7 +1754,7 @@ que tira do seu tesouro coisas novas e velhas”.
 \v Mt.13.53
 E aconteceu que, havendo Jesus acabado essas parábolas, retirou-se dali.
 \v Mt.13.54
-E, chegando à sua região, ensinava-os na sinagoga deles, de tal maneira que se maravilhavam e diziam: “De onde lhe
+E, chegando à sua região, ensinava-os na sinagoga deles, de tal maneira que se maravilhavam e diziam: “De onde lhe 
 \added
 vem
 \*added
@@ -1763,7 +1762,7 @@ vem
 \v Mt.13.55
 Não é este o filho do carpinteiro? E não se chama sua mãe Maria, e seus irmãos Tiago, José, Simão, e Judas?
 \v Mt.13.56
-Não estão todas as suas irmãs conosco? Ora, de onde lhe
+Não estão todas as suas irmãs conosco? Ora, de onde lhe 
 \added
 vem
 \*added
@@ -1777,7 +1776,7 @@ Naquele tempo Herodes, o tetrarca, ouviu falar da fama de Jesus,
 \v Mt.14.2
 e disse aos seus servos: “Esse é João Batista; ressuscitou dos mortos, e por isso esses milagres operam nele”.
 \v Mt.14.3
-Pois Herodes havia prendido João, e o tinha acorrrentado e encarcerado na prisão, por causa de Herodias, mulher do 
+Pois Herodes havia prendido João, e o tinha acorrentado e encarcerado na prisão, por causa de Herodias, mulher do 
 seu irmão Filipe;
 \v Mt.14.4
 porque João lhe dizia: “Não te é lícito que tu a tenhas por mulher”.
@@ -1816,7 +1815,7 @@ N4 não contém “seus”
  discípulos se aproximaram dele, e disseram: “O lugar é deserto, e a hora já é avançada; despede as multidões, para 
 que vão às aldeias, e comprem para si de comer”.
 \v Mt.14.16
-Mas Jesus lhes disse: “Não é ncessário que vão; dai-lhes vós mesmos de comer”.
+Mas Jesus lhes disse: “Não é necessário que vão; dai-lhes vós mesmos de comer”.
 \v Mt.14.17
 Porém eles lhe disseram: “Não temos aqui senão cinco pães e dois peixes”.
 \v Mt.14.18
@@ -1835,6 +1834,7 @@ Jesus
 N4 não contém “Jesus”
 \*fn
  mandou que 
+seus
 \fn
 RP, N4 não contém “seus”
 \*fn
@@ -1850,7 +1850,7 @@ TR, RP: no meio do mar - N4: a vários estádios de distância da terra
 \*fn
  atormentado pelas ondas, porque o vento era contrário.
 \v Mt.14.25
-Mas, à quarta vigília da noite,
+Mas, à quarta vigília da noite, 
 Jesus
 \fn
 N4 não contém “Jesus”
@@ -2119,7 +2119,7 @@ TR, RP: trouxestes - N4: tendes
 \*fn
  pão?
 \v Mt.16.9
-Vós não entendeis ainda, nem vos lembrais dos cinco pães aos cinco mil, e quantos cestos vós levanstastes?
+Vós não entendeis ainda, nem vos lembrais dos cinco pães aos cinco mil, e quantos cestos vós levantastes?
 \v Mt.16.10
 Nem dos sete pães aos quatro mil, e quantos cestos vós levantastes?
 \v Mt.16.11
@@ -2418,7 +2418,7 @@ N4 não contém “Senhor”
 E o senhor daquele servo, comovido, soltou-o, e perdoou-lhe a dívida.
 \v Mt.18.28
 Porém aquele servo, saindo, achou um de seus conservos, que lhe devia cem denários; e, agarrando-o, sufocava-o, 
-dizendo: ‘Paga-me o que tu
+dizendo: ‘Paga-me o que tu 
 \added
 me
 \*added
@@ -2871,10 +2871,10 @@ figueira, mas se até disserdes a este monte: ‘Levanta-te, e lança-te no mar�
 \v Mt.21.22
 E tudo o que vós pedirdes em oração, crendo, recebereis”.
 \v Mt.21.23
-E, havendo chegado ao Templo, estando ensinando, os chefes dos sacerdotes e os anciãos do povo aproximaram-se
+E, havendo chegado ao Templo, estando ensinando, os chefes dos sacerdotes e os anciãos do povo aproximaram-se 
 dele, perguntando: “Com que autoridade fazes isto? E quem te deu esta autoridade?”
 \v Mt.21.24
-E Jesus, respondendo, dise-lhes: “Eu também vos farei uma pergunta. Se vós me disserdes, também eu vos direi com que 
+E Jesus, respondendo, disse-lhes: “Eu também vos farei uma pergunta. Se vós me disserdes, também eu vos direi com que 
 autoridade faço isto.
 \v Mt.21.25
 De onde era o batismo de João? Do céu, ou dos seres humanos?” E eles pensaram entre si, dizendo: “Se dissermos: ‘Do 
@@ -2889,7 +2889,7 @@ minha vinha’.
 \v Mt.21.29
 Porém ele, respondendo, disse: ‘Não quero’; mas depois, arrependido, foi.
 \v Mt.21.30
-E, dirigindo-se ao segundo, disse da mesma maneira. E ele, respdondendo, disse: “Eu 
+E, dirigindo-se ao segundo, disse da mesma maneira. E ele, respondendo, disse: “Eu 
 \added
 vou
 \*added
@@ -2919,7 +2919,7 @@ E por último enviou-lhes seu filho, dizendo: ‘Terão respeito ao meu filho’
 \v Mt.21.38
 Mas os lavradores, vendo o filho, disseram entre si: ‘Este é o herdeiro. Vinde matá-lo, e tomemos sua herança’.
 \v Mt.21.39
-E, agarrarando-o, lançaram-no para fora da vinha, e o mataram.
+E, agarrando-o, lançaram-no para fora da vinha, e o mataram.
 \v Mt.21.40
 Quando, pois, vier o senhor da vinha, que fará com aqueles lavradores?”
 \v Mt.21.41
@@ -3004,7 +3004,7 @@ Mostrai-me a moeda do tributo”. E eles lhe apresentaram um denário.
 \v Mt.22.20
 E ele lhes disse: “De quem é esta imagem e a inscrição?”
 \v Mt.22.21
-Disseram-lhe:  “De César”. Então ele lhes disse: “Dai, pois, a César o que é de César, e a Deus o que é de Deus”.
+Disseram-lhe: “De César”. Então ele lhes disse: “Dai, pois, a César o que é de César, e a Deus o que é de Deus”.
 \v Mt.22.22
 Eles, ouvindo isso, ficaram admirados; e, deixando-o, foram embora.
 \v Mt.22.23
@@ -3063,7 +3063,7 @@ TR, RP: Deus não é Deus dos mortos - N4: Deus não é dos mortos
 \*fn
  mas sim, dos vivos!”
 \v Mt.22.33
-E as multidões, ouvindo
+E as multidões, ouvindo 
 \added
 isso
 \*added
@@ -3092,7 +3092,7 @@ N4:grande e primeiro
 \*fn
  mandamento.
 \v Mt.22.39
-E o segundo, semelhante a este,
+E o segundo, semelhante a este, 
 \added
 é
 \*added
@@ -3191,7 +3191,7 @@ orações; por isso recebereis um castigo mais grave.
 N4 não contém o versículo 14
 \*fn
 \v Mt.23.15
-Ai de vós, escribas e fariseus, hipócritas! Porque rodeiais o mar e a terra para fazer um convertido;
+Ai de vós, escribas e fariseus, hipócritas! Porque rodeais o mar e a terra para fazer um convertido;
 \fn
 Ou: prosélito, isto é, aquele que se converteu ao judaísmo
 \*fn
@@ -3222,7 +3222,7 @@ E quem jurar pelo Templo, jura por ele, e por aquele que nele habita.
 \v Mt.23.22
 E quem jurar pelo céu, jura pelo trono de Deus, e por aquele que sobre ele está assentado.
 \v Mt.23.23
-Ai de vós, escribas e fariseus, hipócritas! Pois dai o dízimo da hortelã, do endro, e do cominho, e
+Ai de vós, escribas e fariseus, hipócritas! Pois dai o dízimo da hortelã, do endro, e do cominho, e 
 desprezais o mais importante da Lei: a justiça, a misericórdia, e a fidelidade. Era necessário fazer estas coisas, sem 
 omitir aquelas.
 \v Mt.23.24
@@ -3299,7 +3299,7 @@ E Jesus, respondendo, disse-lhes: “Cuidado, que ninguém vos engane.
 Porque muitos virão em meu nome, dizendo: ‘Eu sou o Cristo’, e enganarão a muitos.
 \v Mt.24.6
 E vós ouvireis de guerras, e de rumores de guerras. Cuidado, que não vos espanteis; porque é necessário que
- tudo
+ tudo 
 \fn
 N4 não contém “tudo”
 \*fn
@@ -3530,7 +3530,7 @@ Mas o que havia recebido um foi enterrá-lo no chão, e escondeu o dinheiro de s
 \v Mt.25.19
 E muito tempo depois, veio o senhor daqueles servos, e fez contas com eles.
 \v Mt.25.20
-E, aproximando-se o que havia recebido cinco talentos, trouxe-lhe outros cinco talentos, dizendo: ‘Senhor,
+E, aproximando-se o que havia recebido cinco talentos, trouxe-lhe outros cinco talentos, dizendo: ‘Senhor, 
 entregaste-me cinco talentos, eis que ganhei com eles outros cinco talentos’.
 \v Mt.25.21
 E seu senhor lhe disse: ‘Bem está, servo bom e fiel! Sobre o pouco foste fiel, sobre o muito te porei; entra na 
@@ -3811,7 +3811,7 @@ Então veio aos
 \fn
 N4 não contém “seus”
 \*fn
- discípulos, e disse-lhes: “Agora durmi vós e descansai. Eis que chegou a hora, e o Filho do homem é entregue nas mãos 
+ discípulos, e disse-lhes: “Agora dormi vós e descansai. Eis que chegou a hora, e o Filho do homem é entregue nas mãos 
 dos pecadores.
 \v Mt.26.46
 Levantai-vos, vamos! Eis que está chegando o que me trai”.
@@ -4028,7 +4028,7 @@ E, cuspindo nele, tiraram-lhe a cana, e batiam-lhe na cabeça.
 \v Mt.27.31
 E, depois de o haverem zombado, tiraram-lhe a capa, vestiram-lhe com suas roupas, e o levaram para crucificar.
 \v Mt.27.32
-E, saindo,  encontraram um homem de Cirene, chamado Simão; e obrigaram-no a levar sua cruz.
+E, saindo, encontraram um homem de Cirene, chamado Simão; e obrigaram-no a levar sua cruz.
 \v Mt.27.33
 E, chegando ao lugar chamado Gólgota, que significa “lugar da Caveira”,
 \v Mt.27.34
@@ -4047,7 +4047,6 @@ profeta: “Repartiram entre si minhas vestes, e sobre minha túnica lançaram s
 RP, N4 não contêm “para que se cumprisse o que foi dito pelo profeta: Repartiram entre si minhas vestes, e sobre 
 minha túnica lançaram sortes”
 \*fn
-entre si minhas vestes, e sobre minha túnica lançaram sortes”
 \ref
 Salmos 22:18
 \*ref
@@ -4119,7 +4118,7 @@ Entre elas estavam Maria Madalena, Maria mãe de Tiago e de José, e a mãe dos 
 E, chegado o entardecer, veio um homem rico de Arimateia, por nome José, que também era discípulo de Jesus.
 \v Mt.27.58
 Este chegou a Pilatos, e pediu o corpo de Jesus. Então Pilatos mandou que
- o corpo
+ o corpo 
 \fn
 N4 não contém “o corpo”
 \*fn

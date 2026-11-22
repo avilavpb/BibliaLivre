@@ -20,7 +20,7 @@ E seu patrimônio era sete mil ovelhas, três mil camelos, quinhentas juntas de 
 E seus filhos iam nas casas uns dos outros para fazerem banquetes, cada um em seu dia; e mandavam convidar as suas três irmãs, para que comessem e bebessem com eles.
 \v Jo.1.5
 E acontecia que, acabando-se o revezamento dos dias de banquetes, Jó enviava e os santificava, e se levantava de 
-madrugada para apresentar holocaustos
+madrugada para apresentar holocaustos 
 \added
 conforme
 \*added
@@ -35,7 +35,7 @@ i.e., os anjos
 \*fn
 vieram para se apresentarem diante do SENHOR, e Satanás também veio entre eles.
 \v Jo.1.7
-Então o SENHOR disse a Satanás: De onde vens? E Satanás respondeu ao SENHOR, dizendo:  De rodear a terra, e de passear por ela. 
+Então o SENHOR disse a Satanás: De onde vens? E Satanás respondeu ao SENHOR, dizendo: De rodear a terra, e de passear por ela. 
 \v Jo.1.8
 E o SENHOR disse a Satanás: Tendes visto meu servo Jó? Pois ninguém há na terra semelhante a ele, homem íntegro e correto, temente a Deus, e que se afasta de mal.
 \v Jo.1.9
@@ -78,9 +78,9 @@ E disse: Nu saí do ventre de minha mãe, e nu para lá voltarei. O SENHOR deu, 
 \v Jo.1.22
 Em tudo isto Jó não pecou, nem atribuiu a Deus falta alguma.
 \v Jo.2.1
-E veio outro dia em que os filhos de Deus vieram para se apresentarem diante do SENHOR, e e Satanás também veio entre eles para se apresentar diante do SENHOR.
+E veio outro dia em que os filhos de Deus vieram para se apresentarem diante do SENHOR, e Satanás também veio entre eles para se apresentar diante do SENHOR.
 \v Jo.2.2
-Então o SENHOR disse a Satanás: De onde vens? E Satanás respondeu ao SENHOR, e dizendo:  De rodear a terra, e de passear por ela.
+Então o SENHOR disse a Satanás: De onde vens? E Satanás respondeu ao SENHOR, e dizendo: De rodear a terra, e de passear por ela.
 \v Jo.2.3
 E o SENHOR disse a Satanás: Tendes visto meu servo Jó? Pois ninguém há semelhante a ele na terra, homem íntegro e correto, temente a Deus e que se afasta do mal; e que ainda mantém sua integridade, mesmo depois de teres me incitado contra ele, para o arruinar sem causa.
 \v Jo.2.4
@@ -94,7 +94,7 @@ verás
 \v Jo.2.6
 E o SENHOR disse a Satanás: Eis que ele está em tua mão; mas preserva sua vida.
 \v Jo.2.7
-Então Satanás saiu de diante do SENHOR, e feriu a Jó de chagas malignas desde a planta de seus pés até a topo de sua cabeça.
+Então Satanás saiu de diante do SENHOR, e feriu a Jó de chagas malignas desde a planta de seus pés até o topo de sua cabeça.
 \v Jo.2.8
 E 
 \added
@@ -395,9 +395,9 @@ Por acaso eu disse: Trazei-me
 \added
 algo
 \*added
- ? Ou:  Dai presente a mim de vossa riqueza?
+ ? Ou: Dai presente a mim de vossa riqueza?
 \v Jo.6.23
-Ou: Livrai-me da mão do opressor? Ou:  Resgatai-me das mãos dos violentos?
+Ou: Livrai-me da mão do opressor? Ou: Resgatai-me das mãos dos violentos?
 \v Jo.6.24
 Ensinai-me, e eu 
 \added
@@ -431,13 +431,13 @@ Como o servo suspira pela sombra, e como o assalariado espera por seu pagamento,
 \v Jo.7.3
 Assim também me deram por herança meses inúteis, e me prepararam noites de sofrimento.
 \v Jo.7.4
-Quando eu me deito, pergunto: Quando me levantarei?  Mas a noite se prolonga, e me canso de me virar 
+Quando eu me deito, pergunto: Quando me levantarei? Mas a noite se prolonga, e me canso de me virar 
 \added
 na cama
 \*added
  até o amanhecer.
 \v Jo.7.5
-Minha carne está coberta de vermes e de crostas de pó; meu pele está rachada e horrível.
+Minha carne está coberta de vermes e de crostas de pó; minha pele está rachada e horrível.
 \v Jo.7.6
 Meus dias são mais rápidos que a lançadeira do tecelão, e perecem sem esperança.
 \v Jo.7.7
@@ -748,7 +748,7 @@ Se ele passar, e prender, ou se ajuntar
 \added
 para o julgamento
 \*added
-,quem poderá o impedir?
+, quem poderá o impedir?
 \v Jo.11.11
 Pois ele conhece as pessoas vãs, e vê a maldade; por acaso ele não a consideraria?
 \v Jo.11.12
@@ -762,13 +762,13 @@ Então levantarás o teu rosto sem mácula; estarás firme, e não temerás;
 \v Jo.11.16
 pois esquecerás teu sofrimento, e lembrarás dele como de águas passadas.
 \v Jo.11.17
-A
+A 
 \added
 tua
 \*added
  vida será mais clara que o meio-dia; ainda que haja trevas, tu estarás como a manhã.
 \v Jo.11.18
-E serás confiante, porque haverá esperança; olharás em redor,
+E serás confiante, porque haverá esperança; olharás em redor, 
 \added
 e
 \*added
@@ -916,7 +916,7 @@ para vós
 \v Jo.13.10
 Certamente ele vos repreenderá, se em oculto fizerdes acepção de pessoas.
 \v Jo.13.11
-Por acaso a majestade dele não vos espantará? E o temor dele não cairá sobre sobre vós?
+Por acaso a majestade dele não vos espantará? E o temor dele não cairá sobre vós?
 \v Jo.13.12
 Vossos conceitos são provérbios de cinzas; vossas defesas são como defesas de lama.
 \v Jo.13.13
@@ -1066,10 +1066,7 @@ Por acaso as consolações de Deus te são poucas? As mansas palavras voltadas a
 Por que o teu coração te arrebata, e por que centelham teus olhos,
 \v Jo.15.13
 Para que vires teu espírito contra Deus, e deixes sair 
-\added
-tais
-\*added
- tais palavras de tua boca?
+tais palavras de tua boca?
 \v Jo.15.14
 O que é o homem, para que seja puro? E o nascido de mulher, para que seja justo?
 \v Jo.15.15
@@ -1328,7 +1325,7 @@ com
 \*added
  sua rede me cercou.
 \v Jo.19.7
-Eis que eu clamo: Violência!  Porém não sou respondido; grito, porém não há justiça.
+Eis que eu clamo: Violência! Porém não sou respondido; grito, porém não há justiça.
 \v Jo.19.8
 Ele entrincheirou meu caminho, de modo que não consigo passar; e pôs trevas sobre minhas veredas.
 \v Jo.19.9
@@ -1408,7 +1405,7 @@ lit. rins
 \*fn
 anseiam dentro de mim.
 \v Jo.19.28
-Se disserdes: Como o perseguiremos?  Pois a raiz do problema se acha em mim,
+Se disserdes: Como o perseguiremos? Pois a raiz do problema se acha em mim,
 \v Jo.19.29
 Temei vós mesmos a espada; pois furor 
 \added
@@ -1426,7 +1423,7 @@ haverá
 \v Jo.20.1
 E Zofar, o naamita, respondeu, dizendo:
 \v Jo.20.2
-Por isso meus meus pensamentos me fazem responder; por causa da agitação dentro de mim.
+Por isso meus pensamentos me fazem responder; por causa da agitação dentro de mim.
 \v Jo.20.3
 Eu ouvi a repreensão que me envergonha; mas o espírito desde o meu entendimento responderá por mim.
 \v Jo.20.4
@@ -1473,7 +1470,7 @@ e
 \*added
  ribeiros de mel e de manteiga.
 \v Jo.20.18
-Restituirá o trabalho e não o engolirá; da riqueza de seu comério não desfrutará.
+Restituirá o trabalho e não o engolirá; da riqueza de seu comércio não desfrutará.
 \v Jo.20.19
 Pois oprimiu 
 \added
@@ -1502,7 +1499,7 @@ lit. mão
 \*fn
 da miséria virá sobre ele.
 \v Jo.20.23
-Quando ele estiver enchendo seu vendre, Deus mandará sobre ele o ardor de sua ira, e 
+Quando ele estiver enchendo seu ventre, Deus mandará sobre ele o ardor de sua ira, e 
 \added
 a
 \*added
@@ -1541,7 +1538,7 @@ Por acaso eu me queixo de algum ser humano? Porém ainda que
 \added
 assim fosse
 \*added
-,por que meu espírito não se angustiaria?
+, por que meu espírito não se angustiaria?
 \v Jo.21.5
 Olhai-me, e espantai-vos; e ponde a mão sobre a boca.
 \v Jo.21.6
@@ -1549,7 +1546,7 @@ Pois quando eu me lembro
 \added
 disto
 \*added
-,me assombro, e minha carne é tomada de tremor.
+, me assombro, e minha carne é tomada de tremor.
 \v Jo.21.7
 Por que razão os perversos vivem, envelhecem, e ainda crescem em poder?
 \v Jo.21.8
@@ -1646,7 +1643,7 @@ Juntamente jazem no pó, e os vermes os cobrem.
 \v Jo.21.27
 Eis que eu sei vossos pensamentos, e os mais intentos que planejais contra mim.
 \v Jo.21.28
-Porque dizeis: Onde está a casa do príncipe?,  e: Onde está tenda das moradas dos perversos?
+Porque dizeis: Onde está a casa do príncipe?, e: Onde está tenda das moradas dos perversos?
 \v Jo.21.29
 Por acaso não perguntastes aos que passam pelo caminho, e não conheceis seus sinais?
 \v Jo.21.30
@@ -1776,7 +1773,7 @@ Quando
 \added
 alguém
 \*added
- for abatido, e tu disseres: Haja exaltação,  Então 
+ for abatido, e tu disseres: Haja exaltação, Então 
 \added
 Deus
 \*added
@@ -1899,7 +1896,7 @@ Há os que se opõem à luz; não conhecem seus caminhos, nem permanecem em suas
 \v Jo.24.14
 De manhã o homicida se levanta, mata ao pobre e ao necessitado, e de noite ele age como ladrão.
 \v Jo.24.15
-O olho do adúltero aguarda o crepúsculo, dizendo: Olho nenhum me verá;  E esconde seu rosto. 
+O olho do adúltero aguarda o crepúsculo, dizendo: Olho nenhum me verá; E esconde seu rosto. 
 \v Jo.24.16
 Nas trevas vasculham as casas, de dia eles se trancam; não conhecem a luz.
 \v Jo.24.17
@@ -1921,7 +1918,7 @@ A mãe se esquecerá dele; doce será para os vermes; nunca mais haverá memóri
 \added
 dele
 \*added
-, e a perversidade será quebrada como um árvore.
+, e a perversidade será quebrada como uma árvore.
 \v Jo.24.21
 Aflige à mulher estéril, 
 \added
@@ -1957,7 +1954,7 @@ São exaltados por um pouco
 \added
 de tempo
 \*added
-,mas 
+, mas 
 \added
 logo
 \*added
@@ -2173,7 +2170,7 @@ Porém onde se achará a sabedoria? E onde está o lugar da inteligência?
 \v Jo.28.13
 O ser humano não conhece o valor dela, nem ela é achada na terra dos viventes.
 \v Jo.28.14
-O abismo diz: Não está em mim;  E o mar diz:  Nem comigo. 
+O abismo diz: Não está em mim; E o mar diz: Nem comigo. 
 \v Jo.28.15
 Nem por ouro fino se pode comprar, nem se pesar em troca de prata.
 \v Jo.28.16
@@ -2233,7 +2230,7 @@ Os rapazes me viam, e abriam caminho; e os idosos se levantavam, e ficavam em p�
 \v Jo.29.9
 Os príncipes se detinham de falar, e punham a mão sobre a sua boca;
 \v Jo.29.10
-A voz dos líderes se calava, e suas línguas se apegavam a céu da boca;
+A voz dos líderes se calava, e suas línguas se apegavam ao céu da boca;
 \v Jo.29.11
 O ouvido que me ouvia me considerava bem-aventurado, e o olho que me via dava bom testemunho de mim.
 \v Jo.29.12
@@ -2451,7 +2448,7 @@ Que faria eu quando Deus se levantasse? E quando ele investigasse
 \added
 a causa
 \*added
-,o que eu lhe responderia?
+, o que eu lhe responderia?
 \v Jo.31.15
 Aquele que me fez no ventre 
 \added
@@ -2471,7 +2468,7 @@ E se comi meu alimento sozinho, e o órfão não comeu dele
 \added
 se eu fosse seu pai
 \*added
-,e desde o ventre de minha mãe guiei 
+, e desde o ventre de minha mãe guiei 
 \added
 a viúva
 \*added
@@ -2526,7 +2523,7 @@ as pessoas [fazem]
 \*key
 trad. alt. Adão [fez] 
 \*fn
-escondendo meu delito em meu seio;
+ escondendo meu delito em meu seio;
 \v Jo.31.34
 Porque eu tinha medo da grande multidão, e o desprezo das famílias me atemorizou; então me calei, e não saí da porta:
 \v Jo.31.35
@@ -2908,7 +2905,7 @@ Porque disseste: Para que ela te serve?
 \added
 Ou
 \*added
- :  Que proveito terei dela mais que meu pecado? 
+ : Que proveito terei dela mais que meu pecado? 
 \v Jo.35.4
 Eu darei reposta a ti, e a teus amigos contigo.
 \v Jo.35.5
@@ -3055,7 +3052,7 @@ lit. gordura
 \v Jo.36.17
 Mas tu estás cheio do julgamento do perverso; o julgamento e a justiça te tomam.
 \v Jo.36.18
-Por causa da furor, 
+Por causa do furor, 
 \added
 guarda-te
 \*added
@@ -3150,7 +3147,7 @@ seus relâmpagos
 \v Jo.37.5
 Deus troveja maravilhosamente com sua voz; ele faz coisas tão grandes que nós não compreendemos.
 \v Jo.37.6
-Pois ele diz à neve: Cai sobre à terra;  Como também à chuva:  Sê chuva forte.
+Pois ele diz à neve: Cai sobre à terra; Como também à chuva: Sê chuva forte.
 \v Jo.37.7
 Ele sela as mãos de todo ser humano, para que todas as pessoas conheçam sua obra.
 \v Jo.37.8
@@ -3256,7 +3253,7 @@ Onde estavas tu quando eu fundava a terra? Declara-
 \added
 me
 \*added
-,se tens inteligência.
+, se tens inteligência.
 \v Jo.38.5
 Quem determinou suas medidas, se tu o sabes? Ou quem estendeu cordel sobre ela?
 \v Jo.38.6

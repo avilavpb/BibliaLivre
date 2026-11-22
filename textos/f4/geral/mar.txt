@@ -29,7 +29,7 @@ Como está escrito
 {n4}no profeta Isaías
 : 
 {trnc}\fn
-{trnc}TR, RP  “nos profetas”, N4 “no profeta Isaías”
+{trnc}TR, RP “nos profetas”, N4 “no profeta Isaías”
 {trnc}\*fn
 {n4}\fn
 {n4}RP, TR contêm: “nos profetas” no lugar de “no profeta Isaías”
@@ -173,7 +173,7 @@ E
 {n4} logo
  a lepra saiu dele, e ficou limpo.
 \v Mc.1.43
-E
+E 
 \added
 Jesus
 \*added
@@ -191,7 +191,7 @@ Jesus
 E, alguns dias depois, entrou outra vez em Cafarnaum, e ouviu-se que estava em casa.
 \v Mc.2.2
 E 
-{tr|rp} logo
+{tr|rp} logo 
 ajuntaram-se tantos, que nem mesmo junto à porta cabiam; e ele lhes anunciava 
 a palavra.
 \v Mc.2.3
@@ -269,7 +269,7 @@ não vim chamar os justos, mas sim, os pecadores
 E os discípulos de João e os dos fariseus jejuavam; e foram e disseram-lhe: “Por que os discípulos de João e os dos 
 fariseus jejuam, e os teus discípulos não jejuam?”
 \v Mc.2.19
-E Jesus lhes dissem: “Podem os convidados
+E Jesus lhes disse: “Podem os convidados
 \fn
 lit. filhos
 \*fn
@@ -310,7 +310,7 @@ Por isso o Filho do homem é Senhor até do sábado”.
 \v Mc.3.1
 E ele entrou outra vez na sinagoga; e estava ali um homem que tinha uma mão atrofiada.
 \v Mc.3.2
-E estavam observando
+E estavam observando 
 \added
 Jesus
 \*added
@@ -321,7 +321,7 @@ E ele disse ao homem que tinha a mão atrofiada: “Levanta-te e vem para o meio
 E disse-lhes: “É lícito no sábado fazer o bem, ou fazer o mal? Salvar uma pessoa, ou matá-la?” E ficaram calados.
 \v Mc.3.5
 E olhando ao redor para eles com indignação, entristecido da dureza do coração deles, disse ao homem: 
-“Estende a
+“Estende a 
 {tr|rp}tua
  mão”. E ele a estendeu; e sua mão foi restaurada
 {tr|rp}, sã como a outra
@@ -651,12 +651,13 @@ Jesus
  saísse do território deles.
 \v Mc.5.18
 E quando ele entrava no barco, o que estivera endemoninhado rogou-lhe que estivesse com ele.
+\v Mc.5.19
 Porém 
 {n4}\added
 Jesus 
 {n4}\*added
  não lhe permitiu, mas lhe disse: “Vai para tua casa, aos teus, e anuncia-lhes quão grandes coisas o Senhor fez 
- contigo, e 
+contigo, e 
 \added
 como
 \*added
@@ -1085,7 +1086,7 @@ Jesus
 , voltando a sair da região de Tiro e 
 {tr|rp}de Sidom, e foi
 {n4}foi por Sidom
- para o mar da Galilea, por meio da região de Decápolis.
+ para o mar da Galileia, por meio da região de Decápolis.
 \v Mc.7.32
 E trouxeram-lhe um surdo que falava com dificuldade, e rogaram-lhe que pusesse a mão sobre ele.
 \v Mc.7.33
@@ -1151,7 +1152,7 @@ E ele ordenou-lhes, dizendo: “Atenção! Tende cuidado com o fermento dos fari
 \v Mc.8.16
 E argumentavam entre si, dizendo: “É porque não temos pão”.
 \v Mc.8.17
-E
+E 
 {n4}\added
 Jesus
 {n4}\*added
@@ -1629,7 +1630,7 @@ Porque o Filho do homem também não veio para ser servido, mas para servir, e d
 E foram para Jericó. E ele, saindo de Jericó com seus discípulos e uma grande multidão, estava Bartimeu, um
 {n4} mendigo
  cego, filho de Timeu, sentado junto ao caminho
-{tn|rp}, mendigando
+{tr|rp}, mendigando
 .
 \v Mc.10.47
 E ouvindo que era Jesus de Nazaré, começou a clamar, e a dizer: “Jesus, Filho de Davi! Tem misericórdia de mim!”
@@ -1944,7 +1945,7 @@ ousou lhe perguntar.
 \v Mc.12.35
 E Jesus, falando, dizia, ensinando no Templo: “Como os escribas dizem que o Cristo é filho de Davi?
 \v Mc.12.36
-{tr|rp}Porque o
+{tr|rp}Porque o próprio Davi disse pelo Espírito Santo: ‘O Senhor disse a meu Senhor: Assenta-te à minha 
 {n4}O próprio Davi disse pelo Espírito Santo: ‘O Senhor disse a meu Senhor: Assenta-te à minha 
 direita, até que eu ponha teus inimigos 
 {tr|rp}por escabelo
@@ -2002,7 +2003,7 @@ E Jesus
 muitos virão em meu nome, dizendo: ‘Sou eu’, e enganarão a muitos.
 \v Mc.13.7
 E quando ouvirdes falar de guerras e de rumores de guerras, não vos perturbeis;
-{tr|rp} porque
+{tr|rp} porque 
  
 \added
 assim
@@ -2324,7 +2325,7 @@ Mas ele, largando o lençol, fugiu
 {tr|rp} deles
  nu.
 \v Mc.14.53
-E levaram Jesus ao sumo sacerdote; e runiram-se
+E levaram Jesus ao sumo sacerdote; e reuniram-se
 {tr|rp} com ele
  todos os chefes dos sacerdotes, os anciãos, e os escribas.
 \v Mc.14.54
@@ -2380,7 +2381,7 @@ E a serva, vendo-o
 Mas ele o negou outra vez. E pouco depois, os que ali estavam disseram outra vez a Pedro: “Verdadeiramente tu és um 
 deles; pois também és galileu
 {tr|rp}, e tua fala é semelhante
-}”.
+”.
 {trnc}\fn
 {trnc}N4 não contém “e tua fala é semelhante”
 {trnc}\*fn

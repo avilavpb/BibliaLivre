@@ -365,7 +365,7 @@ Guardarás o dia do repouso para santificá-lo, como o SENHOR teu Deus te mandou
 \v Dt.5.13
 Seis dias trabalharás e farás toda tua obra:
 \v Dt.5.14
-Mas no sétimo é repouso ao SENHOR teu Deus: nenhuma obra farás tu, nem teu filho, nem tua filha, nem teu servo, nem tua serva, nem tua boi, nem tua asno, nem nenhum animal teu, nem tua peregrino que está dentro de tuas portas: para que descanse teu servo e tua serva como
+Mas no sétimo é repouso ao SENHOR teu Deus: nenhuma obra farás tu, nem teu filho, nem tua filha, nem teu servo, nem tua serva, nem teu boi, nem teu asno, nem nenhum animal teu, nem teu peregrino que está dentro de tuas portas: para que descanse teu servo e tua serva como tu.
 \v Dt.5.15
 E lembra-te que foste servo em terra do Egito, e que o SENHOR teu Deus te tirou dali com mão forte e braço estendido: pelo qual o SENHOR teu Deus te mandou que guardes no dia do repouso.
 \v Dt.5.16
@@ -898,7 +898,7 @@ Quando houver em ti necessitado de algum de teus irmãos em alguma de tuas cidad
 \v Dt.15.8
 Mas abrirás a ele tua mão generosamente, e com efeito lhe emprestarás o que basta, o que houver necessidade.
 \v Dt.15.9
-Guarda-te que não haja em teu coração perverso pensamento, dizendo: Próximo está o ano sétimo, o da remissão; e tua olho seja maligno sobre teu irmão necessitado para não dar-lhe: que ele poderá clamar contra ti ao SENHOR, e se te imputará a pecado.
+Guarda-te que não haja em teu coração perverso pensamento, dizendo: Próximo está o ano sétimo, o da remissão; e teu olho seja maligno sobre teu irmão necessitado para não dar-lhe: que ele poderá clamar contra ti ao SENHOR, e se te imputará a pecado.
 \v Dt.15.10
 Sem falta lhe darás, e não seja teu coração maligno quando lhe deres: que por ele te abençoará o SENHOR teu Deus em todos os teus feitos, e em tudo o que puseres mão.
 \v Dt.15.11
@@ -1732,7 +1732,7 @@ E responderão. Porquanto deixaram o pacto do SENHOR o Deus de seus pais, que el
 \v Dt.29.26
 E foram e serviram a deuses alheios, e inclinaram-se a eles, deuses que não conheciam, e que nenhuma coisa lhes haviam dado:
 \v Dt.29.27
-Acendeu-se portanto, o furor do SENHOR contra esta terra, para trazer sobre ela todas as maldições escritas nesta livro;
+Acendeu-se portanto, o furor do SENHOR contra esta terra, para trazer sobre ela todas as maldições escritas neste livro;
 \v Dt.29.28
 E o SENHOR os desarraigou de sua terra com ira, e com indignação, e com furor grande, e os expulsou a outra terra, como hoje.
 \v Dt.29.29
@@ -1870,7 +1870,7 @@ pergunta
 \*added
  aos teus anciãos, e eles te dirão.
 \v Dt.32.8
-Quando o Altíssimo deu heranças às nações, quando separou os filhos dos homens, estabeleceu os limites dos povos
+Quando o Altíssimo deu heranças às nações, quando separou os filhos dos homens, estabeleceu os limites dos povos 
 conforme o número dos filhos de Israel.
 \v Dt.32.9
 Porque a porção do SENHOR é o seu povo; Jacó é a parte de sua herança.
@@ -2026,7 +2026,7 @@ Lei nos mandou Moisés, Herança à congregação de Jacó.
 \v Dt.33.5
 E foi rei em Jesurum, quando se congregaram os chefes do povo com as tribos de Israel.
 \v Dt.33.6
-Viva Rúben, e não morra;  sejam seus homens em número.
+Viva Rúben, e não morra; sejam seus homens em número.
 \v Dt.33.7
 E esta bênção para Judá. Disse assim: Ouve, ó SENHOR, a voz de Judá, e leva-o ao seu povo; suas mãos lhe bastem, e tu sejas ajuda contra seus inimigos.
 \v Dt.33.8
@@ -2045,7 +2045,7 @@ E a José disse: Bendita do SENHOR
 \added
 seja
 \*added
- a sua terra, com as dádivas dos céus, com o  orvalho, e com o abismo que jaz abaixo,
+ a sua terra, com as dádivas dos céus, com o orvalho, e com o abismo que jaz abaixo,
 \v Dt.33.14
 com excelentes frutos do sol, e com os excelentes produtos de cada lua,
 \fn

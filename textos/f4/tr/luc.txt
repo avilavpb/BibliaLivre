@@ -544,7 +544,7 @@ Então desceu com eles, e veio a Nazaré, e lhes obedecia. E a sua mãe guardava
 \v Lc.2.52
 E Jesus crescia em sabedoria, em estatura, e em graça para com Deus e as pessoas.
 \v Lc.3.1
-No ano quinze do império de Tibério César, sendo Pôncio Pilatos o governador da Judeia, Herodes tetraca da Galileia, e 
+No ano quinze do império de Tibério César, sendo Pôncio Pilatos o governador da Judeia, Herodes tetrarca da Galileia, e 
 seu irmão Filipe o tetrarca da Itureia e da província de Traconites, e Lisânias o tetrarca de Abilene;
 \v Lc.3.2
 sendo Anás e Caifás os sumos sacerdotes, a palavra de Deus veio a João, filho de Zacarias, no deserto.
@@ -706,7 +706,7 @@ filho
 \*added
  de 
 José
-,
+, 
 \fn
 N4: Joseque
 \*fn
@@ -726,7 +726,7 @@ filho
 \*added
  de 
 Joaná
-,
+, 
 \fn
 RP, N4: Joanã
 \*fn
@@ -774,7 +774,7 @@ filho
 \*added
  de 
 José
-,
+, 
 \fn
 N4: Josué
 \*fn
@@ -826,7 +826,7 @@ filho
 \*added
  de 
 Mainã
-,
+, 
 \fn
 N4: Mená
 \*fn
@@ -861,7 +861,7 @@ filho
 \*added
  de 
 Salmom
-,
+, 
 \fn
 N4: Salá
 \*fn
@@ -879,7 +879,7 @@ filho
 filho
 \*added
  de 
-Arão
+Arão 
 \fn
 TR, RP: [filho] de Arão - N4: [filho] de Admin, [filho] de Arni 
 \*fn
@@ -1042,7 +1042,7 @@ N4 não contém “Para trás de mim, Satanás!”
 \fn
 RP, N4 não contêm “Porque” 
 \*fn
- está
+ está escrito:
  ‘Adorarás o Senhor teu Deus, e só a ele servirás’.
 \ref
 Deuteronômio 6:13
@@ -1204,7 +1204,7 @@ Então ele viu dois barcos junto à
 \added
 margem
 \*added
-do lago, e os pescadores, havendo descido deles, estavam lavando as redes.
+ do lago, e os pescadores, havendo descido deles, estavam lavando as redes.
 \v Lc.5.3
 E ele, entrando num daqueles barcos, que era o de Simão, pediu-lhe que o afastasse um pouco da terra. E, 
 assentando-se, ensinava do barco às multidões.
@@ -1380,9 +1380,9 @@ N4 não contém “logo”
 \v Lc.6.1
 E aconteceu que, no
  segundo
- sábado
+ sábado 
 depois do primeiro
-,
+, 
 \fn
 N4: no sábado
 \*fn
@@ -1439,7 +1439,7 @@ E os escribas e fariseus
 RP não contém “o”
 \*fn
  observavam, se 
-\added 
+\added
 o
 \*added
  curaria no sábado; para acharem de que o acusar.
@@ -1550,7 +1550,7 @@ Dá a quem te pedir; e ao que te tomar o
 \added
 que é
 \*added
-teu, não o peças de volta.
+ teu, não o peças de volta.
 \v Lc.6.31
 E como vós quereis que as pessoas vos façam, também fazei-lhes vós da mesma maneira.
 \v Lc.6.32
@@ -1788,14 +1788,14 @@ Pois
 \fn
 N4 não contém “Pois”
 \*fn
- eu
+ eu 
 não há profeta
 \fn
 \key
 não há profeta
 \*key
 N4: ninguém há
-*fn
+\*fn
  maior que João
 , o Batista
 ;
@@ -1808,7 +1808,7 @@ E todo o povo que
 \added
 o
 \*added
-ouviu, e também os publicanos, reconheceram a justiça de Deus, tendo sido batizados com o batismo de João.
+ ouviu, e também os publicanos, reconheceram a justiça de Deus, tendo sido batizados com o batismo de João.
 \v Lc.7.30
 Mas os fariseus e os estudiosos da Lei rejeitaram o propósito de Deus para si mesmos, não tendo sido batizados por ele.
 \v Lc.7.31
@@ -1858,7 +1858,7 @@ E como eles não tinham com que pagar, perdoou-lhes
 \added
 a dívida
 \*added
- de ambos.
+ de ambos. 
 Dize, pois, qual
  deles o amará mais?”
 \v Lc.7.43
@@ -2264,7 +2264,7 @@ E eis que um homem da multidão clamou, dizendo: “Mestre, peço-te que vejas m
 e eis que um espírito o toma, e de repente grita, e o convulsiona até espumar, e apenas sai dele depois de 
 maltratá-lo severamente.
 \v Lc.9.40
-E roguei aos teus discípulos que o exupulsassem, mas não conseguiram”.
+E roguei aos teus discípulos que o expulsassem, mas não conseguiram”.
 \v Lc.9.41
 E Jesus, respondendo, disse: “Ó geração incrédula e perversa! Até quando estarei ainda convosco, e vos suportarei? 
 Traze aqui teu filho”.
@@ -2339,8 +2339,7 @@ Pois o Filho do homem não veio para destruir as almas das pessoas, mas sim para
 \fn
 N4 não contém “Pois o Filho do homem não veio para destruir as almas das pessoas, mas sim para salvá-las.” 
 \*fn
-E
-salvá-las.” no início do versículo 
+ E
  foram para outra aldeia.
 \v Lc.9.57
 E aconteceu que, enquanto eles iam pelo caminho, alguém lhe disse: “Senhor, eu te seguirei para onde quer que fores”.
@@ -2510,7 +2509,7 @@ irmã me deixe sozinha a servir? Dize, pois, a ela, que me ajude”.
 E Jesus, respondendo, disse-lhe: “Marta, Marta, tu estás inquieta e perturbada com muitas coisas;
 \v Lc.10.42
 Mas 
-uma
+uma 
 \added
 só
 \*added
@@ -2562,7 +2561,7 @@ porque um amigo meu chegou de viagem até mim, e nada tenho para lhe oferecer’
 E ele de dentro, respondendo, disser: ‘Não me perturbes! A porta já está fechada, e meus filhos estão comigo na cama; 
 não posso me levantar para te dar’.
 \v Lc.11.8
-Eu vos digo que, ainda que não se levante para lhe dar por seu seu amigo, contudo, por sua persistência ele se 
+Eu vos digo que, ainda que não se levante para lhe dar por seu amigo, contudo, por sua persistência ele se 
 levantará, e lhe dará tudo quanto ele precisar.
 \v Lc.11.9
 E eu vos digo: pedi, e vos será dado; buscai, e achareis; batei, e vos será aberto.
@@ -2661,7 +2660,7 @@ A rainha do Sul se levantará em juízo com as pessoas desta geração, e as con
 para ouvir a sabedoria de Salomão; e eis aqui quem é maior que Salomão.
 \v Lc.11.32
 As pessoas de Nínive se levantarão em juízo com esta geração, e a condenarão; pois com a pregação de Jonas se 
-converteram; e eis aquie quem é maior que Jonas.
+converteram; e eis aqui quem é maior que Jonas.
 \v Lc.11.33
 E ninguém, quando acende a lâmpada, 
 \added
@@ -2683,13 +2682,13 @@ todo
 Olha, pois, que a luz que há em ti não sejam trevas.
 \v Lc.11.36
 Portanto, se teu corpo for todo luminoso, não tendo trevas em parte alguma, ele todo será iluminado, como quando a 
-lâmpada te ilumina com o
+lâmpada te ilumina com o 
 \added
 seu
 \*added
  brilho”.
 \v Lc.11.37
-E estando Jesus
+E estando Jesus 
 \fn
 Lit. ele
 \*fn 
@@ -2857,7 +2856,7 @@ E quem de vós pode, com sua ansiedade, acrescentar um côvado à sua altura?
 Ou: à duração de sua vida
 \*fn
 \v Lc.12.26
-Portanto, se vós não tends poder sequer para as coisas mínimas, por que estais ansiosos com as outras?
+Portanto, se vós não tendes poder sequer para as coisas mínimas, por que estais ansiosos com as outras?
 \v Lc.12.27
 Considerai os lírios, como crescem; não trabalham, nem fiam; e eu vos digo que nem mesmo Salomão, em toda a 
 sua glória, se vestiu como um deles.
@@ -3055,7 +3054,7 @@ Lit. ele
  dito essas coisas, todos os seus adversários ficaram envergonhados; e todo o povo se alegrava por todas 
 as coisas gloriosas feitas por ele.
 \v Lc.13.18
-E
+E 
  
 \added
 Jesus
@@ -3164,7 +3163,7 @@ Lit. ele
  tomando aquele homem,
 \fn
 Lit. tomando-o
-\fn
+\*fn
  curou-o, e o despediu.
 \v Lc.14.5
 E ele
@@ -3511,7 +3510,7 @@ E
 \added
 Jesus
 \*added
-disse aos discípulos: É impossível que não venham motivos de tropeço,
+ disse aos discípulos: É impossível que não venham motivos de tropeço,
 \fn
 \key
 motivos de tropeço
@@ -3656,7 +3655,7 @@ dizendo: “Havia numa cidade um juiz que não temia a Deus, nem respeitava pess
 \v Lc.18.3
 Havia também naquela mesma cidade uma viúva, que vinha até ele, dizendo: ‘Faze-me justiça contra o meu adversário’.
 \v Lc.18.4
-E por algum tempo ele não quis; mas depois, disse consigo mesmo: ‘Ainda que eu não tema a Deus, nem respeite ningúem,
+E por algum tempo ele não quis; mas depois, disse consigo mesmo: ‘Ainda que eu não tema a Deus, nem respeite ninguém,
 \v Lc.18.5
 todavia, porque esta viúva me incomoda, eu lhe farei justiça, para que ela não me deixe exausto de tanto vir até mim’”.
 \fn
@@ -4081,7 +4080,7 @@ também
 N4 não contém “casou-se com ela; e [também] este morreu sem filhos”
 \*fn
 \v Lc.20.31
-E o terceiro casou-se com ela, e assim também os sete, e e morreram semm deixar filhos.
+E o terceiro casou-se com ela, e assim também os sete, e morreram sem deixar filhos.
 \v Lc.20.32
 E por fim, depois de todos, morreu também a mulher.
 \v Lc.20.33
@@ -4132,7 +4131,7 @@ que devoram as casas das viúvas, e, como pretexto, fazem longas orações. Este
 E 
 \added
 Jesus
-*added
+\*added
 , olhando, viu os ricos lançarem suas ofertas na arca do tesouro 
 \added
 do Templo
@@ -4190,7 +4189,7 @@ que haja
 \*added
  testemunho.
 \v Lc.21.14
-Portanto, que võs decidais em vossos corações não premeditar como direis em vossa defesa,
+Portanto, que vós decidais em vossos corações não premeditar como direis em vossa defesa,
 \v Lc.21.15
 porque eu vos darei boca e sabedoria, a que todos os vossos adversários não poderão 
 contradizer nem resistir
@@ -4206,7 +4205,7 @@ E sereis odiados por todos por causa do meu nome.
 \v Lc.21.18
 Mas nem um cabelo de vossa cabeça se perderá.
 \v Lc.21.19
-Pela vossa perserverança
+Pela vossa perseverança
 \fn
 Ou: paciência
 \*fn
@@ -4313,9 +4312,9 @@ E
 Jesus
 \*added
  mandou Pedro e João, dizendo: “Ide e preparai para nós a páscoa, para que 
-\added 
- a
-\*added 
+\added
+a
+\*added
  comamos”.
 \v Lc.22.9
 E eles lhe disseram: “Onde queres que 
@@ -4485,7 +4484,7 @@ partistes com espadas e bastões como
 \added
 para prender
 \*added
-um bandido?
+ um bandido?
 \v Lc.22.53
 Quando eu estava todo dia convosco no Templo, vós não estendestes as mãos contra mim; mas esta é a vossa hora e o 
 poder das trevas”.
@@ -4764,7 +4763,7 @@ estavam
 \v Lc.24.11
 E para eles, as palavras delas pareciam um absurdo; e não creram nelas.
 \v Lc.24.12
-Porém Pedro, levantando-se, correu ao sepulcro; e abaixando-se, viu só os lençois de linho postos; e retirou-se 
+Porém Pedro, levantando-se, correu ao sepulcro; e abaixando-se, viu só os lençóis de linho postos; e retirou-se 
 admirado em si com o que havia acontecido.
 \v Lc.24.13
 E eis que naquele mesmo dia dois deles iam para uma aldeia, de nome Emaús, que ficava a sessenta estádios de Jerusalém.

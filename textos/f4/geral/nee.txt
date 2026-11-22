@@ -48,7 +48,7 @@ se
 \v Ne.1.10
 Eles são teus servos e teu povo, que resgataste com teu grande poder, e com tua mão forte.
 \v Ne.1.11
-Por favor, SENHOR, estejam teus ouvidos atentos à oração do teu servo, e a oração de teus servos, que desejam temer o teu nome; e, por favor, faze ter sucesso hoje a teu servo, e dá-lhe favor diante deste homem!Pois eu era copeiro do rei.
+Por favor, SENHOR, estejam teus ouvidos atentos à oração do teu servo, e a oração de teus servos, que desejam temer o teu nome; e, por favor, faze ter sucesso hoje a teu servo, e dá-lhe favor diante deste homem! Pois eu era copeiro do rei.
 \v Ne.2.1
 Sucedeu, pois, no mês de Nisã, no ano vigésimo do rei Artaxerxes, que havendo vinho diante dele, tomei o vinho, e 
 \added
@@ -72,7 +72,7 @@ Então o rei me disse (enquanto a rainha estava sentada junto a ele): Por quanto
 \v Ne.2.7
 Disse mais ao rei: Se for do agrado do rei, sejam dadas a mim cartas para os governadores dalém do rio, para que me permitam passar em segurança até que eu chegue a Judá;
 \v Ne.2.8
-Como também um carta para Asafe, guarda do jardim do rei, para que me dê madeira para consertar as portas da fortaleza do templo, 
+Como também uma carta para Asafe, guarda do jardim do rei, para que me dê madeira para consertar as portas da fortaleza do templo, 
 \fn
 \key
 templo
@@ -87,7 +87,7 @@ Quando então Sambalate, o horonita, e Tobias, o servo amonita, ouviram, desagra
 \v Ne.2.11
 Cheguei, pois, a Jerusalém, e fiquei ali três dias.
 \v Ne.2.12
-E de noite me levantei, eu e uns poucos homens comigo, e não declarei a ninguém o que Deus tinha posto em meu coração que fizesse em Jerusalém; e animal nenhum estava comigo, a não ser o o em que eu cavalgava.
+E de noite me levantei, eu e uns poucos homens comigo, e não declarei a ninguém o que Deus tinha posto em meu coração que fizesse em Jerusalém; e animal nenhum estava comigo, a não ser o em que eu cavalgava.
 \v Ne.2.13
 E de noite saí pela porta do Vale até a fonte do Dragão e à porta do Esterco; e observei os muros de Jerusalém que estavam fendidos, e suas portas estavam consumidas a fogo.
 \v Ne.2.14
@@ -111,7 +111,7 @@ Porém, quando Sambalate o horonita, Tobias o servo amonita, e Gesém o árabe, 
 \added
 isto
 \*added
-,zombaram de nós, e nos desprezaram, dizendo: O que é isto que vós fazeis? Por acaso estais vos rebelando contra o rei?
+, zombaram de nós, e nos desprezaram, dizendo: O que é isto que vós fazeis? Por acaso estais vos rebelando contra o rei?
 \v Ne.2.20
 Então lhes respondi, dizendo-lhes: O Deus dos céus é quem nos dará sucesso; e nós, servos dele, nos levantaremos e edificaremos; pois vós não tendes parte, nem direito, nem memória em Jerusalém. 
 \v Ne.3.1
@@ -333,7 +333,7 @@ algumas
 \v Ne.5.6
 Quando eu ouvi seu clamor, fiquei muito irado.
 \v Ne.5.7
-Então eu meditei em meu coração, e depois briguei com os nobres e com os oficiais, dizendo-lhes: Emprestais com juros cada um a seu irmão?E convoquei contra eles uma grande reunião.
+Então eu meditei em meu coração, e depois briguei com os nobres e com os oficiais, dizendo-lhes: Emprestais com juros cada um a seu irmão? E convoquei contra eles uma grande reunião.
 \v Ne.5.8
 E disse-lhes: Nós resgatamos nossos irmãos judeus que haviam sido vendidos às nações, conforme o que nos era possível, e vós novamente venderíeis a vossos irmãos, ou seriam eles vendidos a nós? E ficaram calados, e não acharam o que responder.
 \v Ne.5.9
@@ -349,7 +349,7 @@ Devolvei a eles hoje mesmo suas terras, suas vinhas, seus olivais, e suas casas;
 \v Ne.5.12
 Então disseram: Devolveremos, e nada lhes exigiremos; faremos assim como tu dizes. Então chamei aos sacerdotes, e lhes fiz jurar que fariam conforme esta promessa.
 \v Ne.5.13
-Também sacudi minha roupa, e disse: Assim sacuda Deus de sua casa e de seu trabalho a todo homem que não cumprir esta promessa; e assim seja sacudido e esvaziado. E toda a congregação:  Amém! E louvaram ao SENHOR. E o povo fez conforme esta promessa.
+Também sacudi minha roupa, e disse: Assim sacuda Deus de sua casa e de seu trabalho a todo homem que não cumprir esta promessa; e assim seja sacudido e esvaziado. E toda a congregação: Amém! E louvaram ao SENHOR. E o povo fez conforme esta promessa.
 \v Ne.5.14
 Também desde o dia que fui nomeado governador deles na terra de Judá, desde o ano vinte até o ano trinta e dois do rei Artaxerxes, doze anos, nem eu nem meus irmãos comemos o pão do governador.
 \v Ne.5.15
@@ -357,7 +357,7 @@ Mas os primeiros governadores que foram antes de mim, oprimiram ao povo, e tomar
 \v Ne.5.16
 Além disso, concentrei meus esforços na obra deste muro, e não compramos terra alguma; e todos meus servos se ajuntaram ali para a obra.
 \v Ne.5.17
-Também cento e cinquenta homens dos judeus, dos oficiais, e dos que vinha até nós dentre as ns nações que estão ao nosso redor, se punham à minha mesa.
+Também cento e cinquenta homens dos judeus, dos oficiais, e dos que vinha até nós dentre as nações que estão ao nosso redor, se punham à minha mesa.
 \v Ne.5.18
 E o que se preparava para cada dia era um boi, 
 \added
@@ -394,7 +394,7 @@ E que puseste profetas para proclamem de ti em Jerusalém, dizendo:
 \added
 Este é
 \*added
- o rei em Judá!  Assim o rei ouvirá conforme estas palavras. Vem, pois, agora, e nos reunamos.
+ o rei em Judá! Assim o rei ouvirá conforme estas palavras. Vem, pois, agora, e nos reunamos.
 \v Ne.6.8
 Porém eu mandei lhes dizer: Nada do que dizes aconteceu, mas sim és tu que inventas de tua própria mente. 
 \fn
@@ -404,7 +404,7 @@ mente
 lit. coração 
 \*fn
 \v Ne.6.9
-Porque todos eles procuravam nos atemorizar, dizendo: As mãos deles se enfraquecerão da obra, e ela não será feita.Esforça pois minhas mãos, 
+Porque todos eles procuravam nos atemorizar, dizendo: As mãos deles se enfraquecerão da obra, e ela não será feita. Esforça pois minhas mãos, 
 \added
 ó Deus
 \*added
@@ -696,7 +696,7 @@ te
 \*added
  ouvir, e não se lembraram de tuas maravilhas que havias feito com eles; ao invés disso, endureceram sua cerviz, e em sua rebelião levantaram um líder para voltarem à sua escravidão. Porém tu, que és Deus que perdoas, clemente e misericordioso, tardio para se irar, e grande em bondade, não os desamparaste.
 \v Ne.9.18
-Até quando fizeram para si bezerro de fundição, e disseram: Este é teu Deus que te tirou do Egito;  e cometeram grandes blasfêmias; 
+Até quando fizeram para si bezerro de fundição, e disseram: Este é teu Deus que te tirou do Egito; e cometeram grandes blasfêmias; 
 \v Ne.9.19
 Tu, contudo, pela tua grande misericórdia não os abandonaste no deserto; a coluna de nuvem nunca se afastou deles de dia, para os guiar pelo caminho, nem a coluna de fogo de noite, para os iluminar no caminho pelo qual haviam de ir.
 \v Ne.9.20
@@ -845,7 +845,7 @@ E o povo abençoou a todos os homens que voluntariamente se ofereceram para habi
 \v Ne.11.3
 E estes são os chefes da província que habitaram em Jerusalém (porém os israelitas, os sacerdotes e os levitas, os servos do templo, e os filhos dos servos de Salomão, nas cidades de Judá, habitaram cada um em sua possessão, em suas cidades).
 \v Ne.11.4
-Habitaram, pois, em Jerusalém , 
+Habitaram, pois, em Jerusalém, 
 \added
 alguns
 \*added
@@ -937,7 +937,7 @@ Semaías, e Joiaribe, Jedaías,
 \v Ne.12.7
 Salu, Amoque, Hilquias, Jedaías. Estes eram os chefes dos sacerdotes e seus irmãos nos dias de Jesua.
 \v Ne.12.8
-E os levitas foram:Jesua, Binui, Cadmiel, Serebias, Judá, e Matanias: este e seus irmãos eram responsáveis pelas ações de graças.
+E os levitas foram: Jesua, Binui, Cadmiel, Serebias, Judá, e Matanias: este e seus irmãos eram responsáveis pelas ações de graças.
 \v Ne.12.9
 E Bacbuquias e Uni, seus irmãos, em frente deles em suas responsabilidades.
 \v Ne.12.10
@@ -973,7 +973,7 @@ Os Levitas nos dias de Eliasibe, de Joiada, e de Joanã e Jadua, foram escritos 
 \v Ne.12.23
 Os filhos de Levi, chefes de famílias, foram escritos no livro das crônicas até os dias de Joanã, filho de Eliasibe.
 \v Ne.12.24
-E os chefes dos Levitas foram:Hasabias, Serebias, e Jesua filho de Cadmiel, e seus irmãos em frente deles, para louvarem 
+E os chefes dos Levitas foram: Hasabias, Serebias, e Jesua filho de Cadmiel, e seus irmãos em frente deles, para louvarem 
 \added
 e
 \*added
@@ -1063,7 +1063,7 @@ Porém enquanto tudo isto
 \added
 acontecia
 \*added
-,eu não estava em Jerusalém; porque no ano trinta e dois de Artaxerxes rei da Babilônia, eu vim ao rei; mas ao fim de 
+, eu não estava em Jerusalém; porque no ano trinta e dois de Artaxerxes rei da Babilônia, eu vim ao rei; mas ao fim de 
 \added
 alguns
 \*added
@@ -1097,7 +1097,7 @@ Naqueles dias vi em Judá
 \added
 alguns
 \*added
- que pisavam nas presnas de uvas no sábado, e que traziam feixes, e carregavam asnos, como também vinho, uvas, figos, 
+ que pisavam nas prensas de uvas no sábado, e que traziam feixes, e carregavam asnos, como também vinho, uvas, figos, 
 e todo tipo de carga, que traziam a Jerusalém no dia de sábado; e os adverti quanto ao dia em que vendiam alimentos.
 \v Ne.13.16
 Também tírios estavam nela que traziam peixe e toda mercadoria, e vendiam no sábado aos filhos de Judá, e em Jerusalém.

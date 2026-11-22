@@ -11,9 +11,9 @@ Os
 HOS
 \*ubs-code
 \v Os.1.1
-A palavra do SENHOR que veio a Oseias, filho de Beeri, nos dias de Uzias, Jotão, Acaz, e Ezequias, reis de Judá, e nos dias de Joeroboão, filho de Joás, rei de Israel.
+A palavra do SENHOR que veio a Oseias, filho de Beeri, nos dias de Uzias, Jotão, Acaz, e Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel.
 \v Os.1.2
-O princípio da palavra do SENHOR por Oseias.Disse, pois, o SENHOR a Oseias:  Vai, toma para ti uma mulher de prostituição, e filhos de prostituições; porque a terra 
+O princípio da palavra do SENHOR por Oseias. Disse, pois, o SENHOR a Oseias: Vai, toma para ti uma mulher de prostituição, e filhos de prostituições; porque a terra 
 \fn
 \key
 terra
@@ -69,7 +69,7 @@ Deus
 .
 \v Os.1.10
 Todavia o número dos filhos de Israel será como a areia do mar, que não se pode medir nem contar. E acontecerá que, 
-onde foi-lhes dito: Vós não sois meu povo, lhes será dito:  Vós sois filhos do Deus vivo.
+onde foi-lhes dito: Vós não sois meu povo, lhes será dito: Vós sois filhos do Deus vivo.
 \v Os.1.11
 E os filhos de Judá e de Israel serão reunidos em um, e levantarão para si uma única cabeça, 
 \fn
@@ -80,7 +80,7 @@ i.e., um único líder
 \*fn
 e subirão da terra; pois o dia de Jezreel será grande.
 \v Os.2.1
-Dizei a vossos irmãos: Meu Povo,  e vossas irmãs:  Amada.
+Dizei a vossos irmãos: Meu Povo, e vossas irmãs: Amada.
 \v Os.2.2
 Repreendei vossa mãe, repreendei; porque ela não é minha mulher, nem eu seu marido; que tire suas prostituições diante de si, e seus adultérios dentre seus peitos;
 \v Os.2.3
@@ -126,11 +126,11 @@ E te farei minha esposa para sempre; eu te farei minha esposa em justiça, juíz
 \v Os.2.20
 E te farei minha esposa em fidelidade, e tu conhecerás ao SENHOR.
 \v Os.2.21
-E será que naquele tempo responderei, diz o SENHOR,  eu responderei ao céu, e ele responderá à terra; 
+E será que naquele tempo responderei, diz o SENHOR, eu responderei ao céu, e ele responderá à terra; 
 \v Os.2.22
 E a terra responderá ao trigo, ao vinho, e ao azeite; e eles responderão a Jezreel.
 \v Os.2.23
-E eu a semearei para mim na terra; amarei a Não-Amada; e direi a Não-Meu-Povo: Tu és meu povo;  e ele dirá:  
+E eu a semearei para mim na terra; amarei a Não-Amada; e direi a Não-Meu-Povo: Tu és meu povo; e ele dirá:  
 \added
 Tu és
 \*added
@@ -508,7 +508,7 @@ obscuro – trad. alt. espuma
 \*fn
 sobre a superfície das águas.
 \v Os.10.8
-E os altos cultuais de Áven, o pecado de Israel, serão destruídos; espinhos e cardos crescerão sobre seus altares. E dirão aos montes: Cobri-nos; e aos morros:  Caí sobre nós. 
+E os altos cultuais de Áven, o pecado de Israel, serão destruídos; espinhos e cardos crescerão sobre seus altares. E dirão aos montes: Cobri-nos; e aos morros: Caí sobre nós. 
 \v Os.10.9
 Desde os dias de Gibeá tu tens cometido pecado, ó Israel; ali continuaram; por acaso a guerra em Gibeá não alcançou os filhos da perversidade?
 \v Os.10.10

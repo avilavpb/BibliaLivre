@@ -99,7 +99,7 @@ E se ele te fez algum dano, ou te deve
 \added
 alguma coisa
 \*added
-,põe 
+, põe 
 \added
 isto
 \*added
@@ -137,7 +137,7 @@ A graça de nosso Senhor Jesus Cirsto
 \added
 seja
 \*added
- com vosso espírito. Amém!
+ com vosso espírito. Amém! 
 {tr} 
 {tr}\added
 {tr}Escrita em Roma para Filemom, e enviada pelo servo Onésimo

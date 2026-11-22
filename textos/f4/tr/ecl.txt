@@ -37,7 +37,7 @@ tão
 \v Ec.1.9
 O que foi, isso será; e o que se fez, isso será feito; de modo que nada há de novo abaixo do sol.
 \v Ec.1.10
-Existe algo que se possa dizer: Vê isto, que é novo?Isso já existia nos tempos passados, que foram antes de nós.
+Existe algo que se possa dizer: Vê isto, que é novo? Isso já existia nos tempos passados, que foram antes de nós.
 \v Ec.1.11
 Não há lembrança das coisas que já aconteceram; e das coisas que vão acontecer, também delas não haverá lembrança entre aqueles que vierem depois.
 \v Ec.1.12
@@ -354,7 +354,7 @@ provocarias a ira de Deus com a tua voz, para que ele destrua a obra de tuas mã
 Porque, como na abundância de sonhos há futilidades, assim, também, há abundância de palavras; tu, porém, teme a Deus.
 \v Ec.5.8
 Se vires em algum território a opressão dos pobres, e a violência contra o direito e a justiça, não te surpreendas 
-de tal caso; porque o oficial tem uma autoridade maior que o supervisiona; e acima de ambos há outros que têm
+de tal caso; porque o oficial tem uma autoridade maior que o supervisiona; e acima de ambos há outros que têm 
 autoridade ainda maior.
 \v Ec.5.9
 E o proveito da terra é para todos; até o rei se serve do campo.
@@ -365,7 +365,7 @@ se saciará
 \*added
  do lucro; isso também é futilidade.
 \v Ec.5.11
-Onde os bens se multiplicam, ali se multiplicam também os que os cosomem; e que proveito pois tem seus donos, a não 
+Onde os bens se multiplicam, ali se multiplicam também os que os consomem; e que proveito pois tem seus donos, a não 
 ser somente ver 
 \added
 as riquezas
@@ -465,7 +465,7 @@ Melhor é uma boa reputação do que o bom óleo perfumado; e o dia da morte
 \added
 é melhor
 \*added
- que o dia de seu nascimento
+ que o dia de seu nascimento.
 \v Ec.7.2
 Melhor é ir à casa do luto do que a casa do banquete, 
 \added
@@ -543,7 +543,7 @@ Olha isto:(diz o pregador, enquanto ele procurava entender
 \added
 as coisas
 \*added
-,uma por uma) 
+, uma por uma) 
 \v Ec.7.28
 Aquilo que minha alma tem buscado, ainda não achei; um homem entre mil eu achei; mas uma mulher entre todas estas não achei.
 \v Ec.7.29
@@ -620,7 +620,7 @@ seus
 \added
 que serão
 \*added
- como uma sombra, pois ele não tem temor diane de Deus.
+ como uma sombra, pois ele não tem temor diante de Deus.
 \v Ec.8.14
 Há  
 \added

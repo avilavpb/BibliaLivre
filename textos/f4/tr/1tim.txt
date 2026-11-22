@@ -87,7 +87,7 @@ como exemplo aos que haviam de crer nele para a vida eterna.
 \v 1Tm.1.17
 Ao Rei dos tempos, imortal, invisível, o único Deus
  sábio
-,
+, 
 \fn
 N4 não contém “sábio”
 \*fn
@@ -536,7 +536,7 @@ que alguns declararam seguir, e se desviaram da fé. A graça
 seja
 \*added
  contigo. Amém
-.
+. 
 \fn
 TR, RP: “contigo. Amém.” - N4: “convosco.”
 \*fn

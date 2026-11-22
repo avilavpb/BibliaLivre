@@ -273,13 +273,13 @@ Pois, de fato,
 \added
 já
 \*added
- fazeis assim a todos os irmãos de toda a Macedônia. Porém, irmãos, vos exortamos que façais
+ fazeis assim a todos os irmãos de toda a Macedônia. Porém, irmãos, vos exortamos que façais 
 \added
 isso
 \*added
  ainda mais.
 \v 1Ts.4.11
-E procurai viver quietos, trantando dos vossos próprios assuntos, e trabalhando com as vossas próprias mãos, como já vos mandamos;
+E procurai viver quietos, tratando dos vossos próprios assuntos, e trabalhando com as vossas próprias mãos, como já vos mandamos;
 \v 1Ts.4.12
 para que andeis de maneira respeitosa com os que estão de fora, e não necessiteis de nada.
 \v 1Ts.4.13
@@ -385,7 +385,7 @@ A graça de nosso Senhor Jesus Cristo
 seja
 \*added
  convosco.
- Amém.
+ Amém. 
 \fn
 N4 não contém “Amém”
 \*fn
