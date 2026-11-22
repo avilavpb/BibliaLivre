@@ -89,8 +89,10 @@ com incredulidade.
 Esta é uma palavra fiel e digna de toda aceitação: que Cristo Jesus veio ao mundo para salvar os pecadores, dos quais 
 eu sou o principal.
 \v 1Tm.1.16
-Mas por isso me foi concedida misericórdia, para que em mim, o principal, Jesus Cristo mostrasse toda a sua paciência 
-como exemplo aos que haviam de crer nele para a vida eterna.
+{rp|n4}Mas por isso me foi concedida misericórdia, para que em mim, o principal, Jesus Cristo mostrasse toda a sua paciência 
+{tr}Mas por isso me foi concedida misericórdia, para que em mim, o principal, Jesus Cristo mostrasse toda a Sua paciência 
+{rp|n4}como exemplo aos que haviam de crer nele para a vida eterna.
+{tr}como exemplo aos que haviam de crer nEle para a vida eterna.
 \v 1Tm.1.17
 Ao Rei dos tempos, imortal, invisível, o único Deus
 {tr|rp} sábio
