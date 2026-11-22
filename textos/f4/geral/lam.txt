@@ -67,7 +67,8 @@ Todos vós que estais passando, não vos
 \added
 importais
 \*added
-? Olhai, e vede se há dor como a minha, que me foi imposta, que o SENHOR me afligiu no dia da sua ira ardente.
+{rp|n4}? Olhai, e vede se há dor como a minha, que me foi imposta, que o SENHOR me afligiu no dia da sua ira ardente.
+{tr}? Olhai, e vede se há dor como a minha, que me foi imposta, que o SENHOR me afligiu no dia da Sua ira ardente.
 \v Lm.1.13
 Desde o alto ele enviou fogo em meus ossos, o qual os dominou; ele estendeu uma rede a meus pés, fez-me voltar para trás; tornou-me assolada, sofrendo dores o dia todo.
 \v Lm.1.14
@@ -83,7 +84,8 @@ Por estas coisas que eu choro; meus olhos, de meus olhos correm águas; pois afa
 \v Lm.1.17
 Sião estendeu suas mãos, não há quem a console; o SENHOR deu ordens contra Jacó, para que seus inimigos o cercassem: Jerusalém se tornou imunda entre eles.
 \v Lm.1.18
-O SENHOR é justo; eu que me rebelei contra sua boca. Ouvi, pois, todos os povos, e vede minha dor; minhas virgens e 
+{rp|n4}O SENHOR é justo; eu que me rebelei contra sua boca. Ouvi, pois, todos os povos, e vede minha dor; minhas virgens e 
+{tr}O SENHOR é justo; eu que me rebelei contra Sua boca. Ouvi, pois, todos os povos, e vede minha dor; minhas virgens e 
 meus rapazes foram em cativeiro.
 \v Lm.1.19
 Clamei a meus amantes, porém eles me enganaram; meus sacerdotes e meus anciãos pereceram na cidade; pois buscam comida para si tentarem sobreviver.
@@ -114,7 +116,8 @@ lit. meu mal
 \*fn
  se alegram, pois tu o fizeste. Quando tu trouxeres o dia que anunciaste, eles serão como eu.
 \v Lm.1.22
-Toda a maldade deles venha diante de ti, e faze com eles assim como fizeste comigo por causa de todas as minhas transgressões; pois meus gemidos são muitos, e meu coração está desfalecido.
+{rp|n4}Toda a maldade deles venha diante de ti, e faze com eles assim como fizeste comigo por causa de todas as minhas transgressões; pois meus gemidos são muitos, e meu coração está desfalecido.
+{tr}Toda a maldade deles venha diante de Ti, e faze com eles assim como fizeste comigo por causa de todas as minhas transgressões; pois meus gemidos são muitos, e meu coração está desfalecido.
 \v Lm.2.1
 Como o Senhor cobriu a filha de Sião com sua ira! Ele derrubou a formosura de Israel do céu à terra, e não se lembrou do estrado de seus pés no dia de sua ira.
 \v Lm.2.2
@@ -133,15 +136,18 @@ Armou seu arco como inimigo, pôs sua mão direita como adversário, e matou tod
 \v Lm.2.5
 O Senhor tornou-se como inimigo, destruiu a Israel; destruiu todos os seus palácios, arruinou as suas fortalezas; e multiplicou na filha de Judá a lamentação e a tristeza.
 \v Lm.2.6
-E com violência arrancou sua tenda, como 
+{rp|n4}E com violência arrancou sua tenda, como 
+{tr}E com violência arrancou Sua tenda, como 
 \added
 se fosse
 \*added
- de uma horta, destruiu o lugar de sua congregação; o SENHOR fez esquecer em Sião as solenidades e os sábados, E tem lançado no furor de sua ira rei e sacerdote.
+{rp|n4} de uma horta, destruiu o lugar de sua congregação; o SENHOR fez esquecer em Sião as solenidades e os sábados, E tem lançado no furor de sua ira rei e sacerdote.
+{tr} de uma horta, destruiu o lugar de Sua congregação; o SENHOR fez esquecer em Sião as solenidades e os sábados, E tem lançado no furor de Sua ira rei e sacerdote.
 \v Lm.2.7
 O Senhor rejeitou seu altar, detestou seu santuário, entregou na mão do inimigo os muros de seus palácios; levantaram gritaria na casa do SENHOR como em dia de festa.
 \v Lm.2.8
-O SENHOR determinou destruir o muro da filha de Sião; estendeu o cordel, não deteve sua mão de destruir; tornou em lamento o antemuro e o muro; juntamente foram destruídos.
+{rp|n4}O SENHOR determinou destruir o muro da filha de Sião; estendeu o cordel, não deteve sua mão de destruir; tornou em lamento o antemuro e o muro; juntamente foram destruídos.
+{tr}O SENHOR determinou destruir o muro da filha de Sião; estendeu o cordel, não deteve Sua mão de destruir; tornou em lamento o antemuro e o muro; juntamente foram destruídos.
 \v Lm.2.9
 Suas portas foram lançadas por terra, destruiu e quebrou seus ferrolhos; seu rei e seus príncipes estão entre as nações onde não há a Lei; nem seus profetas acham visão alguma do SENHOR.
 \v Lm.2.10
@@ -193,7 +199,8 @@ lit. chifre
 \v Lm.2.18
 O coração deles clamou ao Senhor. Ó muralha da filha de Sião, derrama lágrimas como um ribeiro dia e noite; não te dês descanso, nem cessem as meninas de teus olhos.
 \v Lm.2.19
-Levanta-te, grita de noite, no começo das vigílias; derrama teu coração como águas diante da presença do Senhor; levanta tuas mãos a ele pela vida de tuas criancinhas, que desfalecem de fome nas entradas de todas as ruas.
+{rp|n4}Levanta-te, grita de noite, no começo das vigílias; derrama teu coração como águas diante da presença do Senhor; levanta tuas mãos a ele pela vida de tuas criancinhas, que desfalecem de fome nas entradas de todas as ruas.
+{tr}Levanta-te, grita de noite, no começo das vigílias; derrama teu coração como águas diante da presença do Senhor; levanta tuas mãos a Ele pela vida de tuas criancinhas, que desfalecem de fome nas entradas de todas as ruas.
 \v Lm.2.20
 Olha, SENHOR, e considera a quem fizeste de tal modo; por acaso as mulheres comerão do seu 
 \added
@@ -213,11 +220,13 @@ os
 \v Lm.2.22
 Convocaste meus temores ao redor, como se fosse um dia solene; não houve quem escapasse no dia da ira do SENHOR, nem que restasse vivo; aos que criei e sustentei, meu inimigo os consumiu.
 \v Lm.3.1
-Eu sou o homem que viu a aflição pela vara de seu furor.
+{rp|n4}Eu sou o homem que viu a aflição pela vara de seu furor.
+{tr}Eu sou o homem que viu a aflição pela vara de Seu furor.
 \v Lm.3.2
 Guiou-me e levou-me a trevas, e não à luz.
 \v Lm.3.3
-Com certeza se virou contra mim, revirou sua mão o dia todo.
+{rp|n4}Com certeza se virou contra mim, revirou sua mão o dia todo.
+{tr}Com certeza se virou contra mim, revirou Sua mão o dia todo.
 \v Lm.3.4
 Fez envelhecer minha carne e minha pele, quebrou meus ossos.
 \v Lm.3.5
@@ -243,9 +252,11 @@ Foi para mim como um urso que espia, como um leão escondido.
 \v Lm.3.11
 Desviou meus caminhos, e fez-me em pedaços; deixou-me desolado.
 \v Lm.3.12
-Armou seu arco, e me pôs como alvo para a flecha.
+{rp|n4}Armou seu arco, e me pôs como alvo para a flecha.
+{tr}Armou Seu arco, e me pôs como alvo para a flecha.
 \v Lm.3.13
-Fez entrar em meus rins as flechas de sua aljava.
+{rp|n4}Fez entrar em meus rins as flechas de sua aljava.
+{tr}Fez entrar em meus rins as flechas de Sua aljava.
 \v Lm.3.14
 Servi de escárnio a todo o meu povo, de canção ridícula deles o dia todo.
 \v Lm.3.15
@@ -271,11 +282,14 @@ Lit. meu coração
 \*fn
  por isso, terei esperança:
 \v Lm.3.22
-É pelas leais bondades do SENHOR que não somos consumidos, porque suas misericórdias não têm fim.
+{rp|n4}É pelas leais bondades do SENHOR que não somos consumidos, porque suas misericórdias não têm fim.
+{tr}É pelas leais bondades do SENHOR que não somos consumidos, porque Suas misericórdias não têm fim.
 \v Lm.3.23
-Elas se renovam a cada manhã; grande é tua fidelidade.
+{rp|n4}Elas se renovam a cada manhã; grande é tua fidelidade.
+{tr}Elas se renovam a cada manhã; grande é Tua fidelidade.
 \v Lm.3.24
-Minha alma diz: o SENHOR é minha porção; portanto, nele esperarei.
+{rp|n4}Minha alma diz: o SENHOR é minha porção; portanto, nele esperarei.
+{tr}Minha alma diz: o SENHOR é minha porção; portanto, nEle esperarei.
 \v Lm.3.25
 O SENHOR é bom para os que nele esperam, para a alma que o busca.
 \v Lm.3.26
@@ -291,9 +305,11 @@ Dê a face ao que o ferir; farte-se de insultos.
 \v Lm.3.31
 Pois o Senhor não rejeitará para sempre;
 \v Lm.3.32
-Ainda que cause aflição, ele se compadecerá segundo a grandeza de suas leais bondades.
+{rp|n4}Ainda que cause aflição, ele se compadecerá segundo a grandeza de suas leais bondades.
+{tr}Ainda que cause aflição, Ele se compadecerá segundo a grandeza de Suas leais bondades.
 \v Lm.3.33
-Pois não é de sua vontade
+{rp|n4}Pois não é de sua vontade
+{tr}Pois não é de Sua vontade
 \fn
 lit. seu coração
 \*fn
@@ -366,7 +382,8 @@ Tentaram tirar minha vida na masmorra, e lançaram pedras sobre mim.
 \v Lm.3.54
 As águas inundaram sobre minha cabeça; eu disse: É o meu fim.
 \v Lm.3.55
-Invoquei o teu nome, SENHOR, desde a cova profunda.
+{rp|n4}Invoquei o teu nome, SENHOR, desde a cova profunda.
+{tr}Invoquei o Teu nome, SENHOR, desde a cova profunda.
 \v Lm.3.56
 Ouviste minha voz; não escondas o teu ouvido ao meu suspiro, ao meu clamor.
 \v Lm.3.57
@@ -582,6 +599,7 @@ e
 \v Lm.5.20
 Por que te esquecerias de nós para sempre e nos abandonarias por tanto tempo?
 \v Lm.5.21
-Converte-nos, SENHOR, a ti, e seremos convertidos; renova o nossos dias como antes;
+{rp|n4}Converte-nos, SENHOR, a ti, e seremos convertidos; renova o nossos dias como antes;
+{tr}Converte-nos, SENHOR, a Ti, e seremos convertidos; renova o nossos dias como antes;
 \v Lm.5.22
 A não ser que tenhas nos rejeitado totalmente, e estejas enfurecido contra nós ao extremo.

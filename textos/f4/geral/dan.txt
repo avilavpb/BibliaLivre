@@ -126,7 +126,8 @@ Para que pedissem misericórdia do Deus do céu sobre este mistério, e que Dani
 \v Dn.2.19
 Então o mistério foi revelado a Daniel em visão de noite; então Daniel louvou ao Deus do céu.
 \v Dn.2.20
-Daniel falou, e disse: Bendito seja o nome de Deus para todo o sempre! Porque a ele pertence a sabedoria e o poder.
+{rp|n4}Daniel falou, e disse: Bendito seja o nome de Deus para todo o sempre! Porque a ele pertence a sabedoria e o poder.
+{tr}Daniel falou, e disse: Bendito seja o nome de Deus para todo o sempre! Porque a Ele pertence a sabedoria e o poder.
 \v Dn.2.21
 E ele é o que muda os tempos e as estações; ele tira os reis, e confirma os reis; ele é o que dá a sabedoria aos sábios, e o conhecimento aos entendidos;
 \v Dn.2.22
@@ -142,7 +143,8 @@ Respondeu o rei, e disse a Daniel (cujo nome era Beltessazar): Podes tu me expli
 \v Dn.2.27
 Daniel respondeu diante do rei, e disse: O mistério que o rei demanda, nem sábios, nem astrólogos, nem magos, nem adivinhos podem explicar ao rei;
 \v Dn.2.28
-Mas há um Deus nos céus, o qual revela os mistérios; ele, pois, fez saber ao rei Nabucodonosor o que haverá de acontecer no fim dos dias. Teu sonho, e as visões de tua cabeça sobre tua cama, são o seguinte:
+{rp|n4}Mas há um Deus nos céus, o qual revela os mistérios; ele, pois, fez saber ao rei Nabucodonosor o que haverá de acontecer no fim dos dias. Teu sonho, e as visões de tua cabeça sobre tua cama, são o seguinte:
+{tr}Mas há um Deus nos céus, o qual revela os mistérios; Ele, pois, fez saber ao rei Nabucodonosor o que haverá de acontecer no fim dos dias. Teu sonho, e as visões de tua cabeça sobre tua cama, são o seguinte:
 \v Dn.2.29
 Enquanto tu, ó rei, estava em tua cama, vieram teus pensamentos saber o irá acontecer no futuro; pois aquele que revela os mistérios te mostrou o que haverá de acontecer.
 \v Dn.2.30
@@ -405,7 +407,8 @@ as garras
 \*added
  das aves.
 \v Dn.4.34
-Mas ao fim daqueles dias, eu, Nabucodonosor levantei meus olhos ao céu, e meu entendimento voltou a mim; então eu bendisse ao Altíssimo, e louvei e glorifiquei ao que vive para sempre, cujo domínio é eterno, e seu reino de geração em geração.
+{rp|n4}Mas ao fim daqueles dias, eu, Nabucodonosor levantei meus olhos ao céu, e meu entendimento voltou a mim; então eu bendisse ao Altíssimo, e louvei e glorifiquei ao que vive para sempre, cujo domínio é eterno, e seu reino de geração em geração.
+{tr}Mas ao fim daqueles dias, eu, Nabucodonosor levantei meus olhos ao céu, e meu entendimento voltou a mim; então eu bendisse ao Altíssimo, e louvei e glorifiquei ao que vive para sempre, cujo domínio é eterno, e Seu reino de geração em geração.
 \v Dn.4.35
 E todos os moradores da terra são contados como nada; e ele faz no exército do céu, e nos habitantes da terra segundo sua vontade; ninguém há que possa deter
 \fn
@@ -418,7 +421,8 @@ trad. alt. golpear
 \v Dn.4.36
 No mesmo tempo meu entendimento voltou a mim, e a dignidade do meu reino, minha majestade e meu resplendor voltaram a mim; e meus conselheiros e meus grandes me buscaram; e eu fui restabelecido em meu reino, e maior glória me foi acrescentada.
 \v Dn.4.37
-Agora eu, Nabucodonosor louvo, exalto e glorifico ao Rei do céu, porque todas as suas obras são verdade, e seus caminhos juízo; e ele pode humilhar aos que andam com arrogância.
+{rp|n4}Agora eu, Nabucodonosor louvo, exalto e glorifico ao Rei do céu, porque todas as suas obras são verdade, e seus caminhos juízo; e ele pode humilhar aos que andam com arrogância.
+{tr}Agora eu, Nabucodonosor louvo, exalto e glorifico ao Rei do céu, porque todas as Suas obras são verdade, e Seus caminhos juízo; e Ele pode humilhar aos que andam com arrogância.
 \v Dn.5.1
 O rei Belsazar fez um grande banquete a mil de seus maiorais, e bebeu vinho diante destes mil.
 \v Dn.5.2
@@ -480,7 +484,8 @@ E tu, Belsazar, filho dele, não humilhaste teu coração, mesmo sabendo de tudo
 \v Dn.5.23
 Em vez disso exaltaste a ti mesmo contra o Senhor do céu; pois trouxeram diante de ti os vasos de sua casa, e tu, teus maiorais, tuas mulheres e tuas concubinas, bebestes vinho neles; além disto, louvaste a deuses de prata, ouro, bronze, de ferro, madeira e pedra, que não veem, nem ouvem, nem têm conhecimento algum; porém ao Deus em cuja mão está tua vida e todos os teus caminhos, a ele não glorificaste;
 \v Dn.5.24
-Então dele foi enviada aquela parte da mão que esculpiu esta escritura.
+{rp|n4}Então dele foi enviada aquela parte da mão que esculpiu esta escritura.
+{tr}Então dEle foi enviada aquela parte da mão que esculpiu esta escritura.
 \v Dn.5.25
 E esta é a escritura que foi escrita: MENE, MENE, TEQUEL, PARSIM.
 \v Dn.5.26
@@ -559,7 +564,8 @@ E chegando perto da cova, chamou a Daniel com voz triste; e o rei falou a Daniel
 \v Dn.6.21
 Então Daniel falou ao rei: Ó rei, vive para sempre!
 \v Dn.6.22
-Meu Deus enviou seu anjo, que fechou a boca dos leões, para que não me fizessem dano; porque diante dele se achou inocência em mim; e também contra ti, ó rei, não cometi delito algum.
+{rp|n4}Meu Deus enviou seu anjo, que fechou a boca dos leões, para que não me fizessem dano; porque diante dele se achou inocência em mim; e também contra ti, ó rei, não cometi delito algum.
+{tr}Meu Deus enviou Seu anjo, que fechou a boca dos leões, para que não me fizessem dano; porque diante dEle se achou inocência em mim; e também contra ti, ó rei, não cometi delito algum.
 \v Dn.6.23
 Então o rei se alegrou muito por causa dele, e mandou tirar a Daniel da cova; assim Daniel foi tirado da cova, e nenhum dano se achou nele, pois havia confiado em seu Deus.
 \v Dn.6.24
@@ -571,7 +577,8 @@ De minha parte é feito um decreto, que em todo o domínio de meu reino,
 \added
 todos
 \*added
- tremam e temam a presença do Deus de Daniel; porque ele é o Deus vivente, que permanece para sempre; seu reino não se pode destruir, e seu domínio 
+{rp|n4} tremam e temam a presença do Deus de Daniel; porque ele é o Deus vivente, que permanece para sempre; seu reino não se pode destruir, e seu domínio 
+{tr} tremam e temam a presença do Deus de Daniel; porque Ele é o Deus vivente, que permanece para sempre; Seu reino não se pode destruir, e Seu domínio 
 \added
 dura
 \*added
@@ -609,7 +616,8 @@ lit. grandes – também v. 11 e 20
 \v Dn.7.9
 Eu estive olhando até que foram postos tronos, e um Ancião de dias se sentou; sua veste era branca como a neve, e o cabelo de sua cabeça como lã limpa; seu trono era chamas de fogo, e suas rodas fogo ardente.
 \v Dn.7.10
-Um rio de fogo manava e saía de diante dele; milhares de milhares lhe serviam, e milhões de milhões estavam de pé diante dele: o julgamento começou,
+{rp|n4}Um rio de fogo manava e saía de diante dele; milhares de milhares lhe serviam, e milhões de milhões estavam de pé diante dele: o julgamento começou,
+{tr}Um rio de fogo manava e saía de diante dEle; milhares de milhares Lhe serviam, e milhões de milhões estavam de pé diante dEle: o julgamento começou,
 \fn
 \key
 começou
@@ -622,7 +630,8 @@ Então eu estive olhando por causa da voz das palavras arrogantes que o chifre f
 \v Dn.7.12
 E quanto aos outros animais, seu domínio foi tirado; porém lhes fora dada prolongação de vida até um certo tempo.
 \v Dn.7.13
-Eu estava vendo em minhas visões de noite, e eis que estava vindo nas nuvens do céu como um filho do homem; e ele chegou até o Ancião de dias, e o fizeram chegar diante dele.
+{rp|n4}Eu estava vendo em minhas visões de noite, e eis que estava vindo nas nuvens do céu como um filho do homem; e ele chegou até o Ancião de dias, e o fizeram chegar diante dele.
+{tr}Eu estava vendo em minhas visões de noite, e eis que estava vindo nas nuvens do céu como um filho do homem; e Ele chegou até o Ancião de dias, e O fizeram chegar diante dEle.
 \v Dn.7.14
 E foi lhe dado domínio, honra, e reino, de modo que todos os povos, nações e línguas lhe serviram; seu domínio é um domínio eterno, que não passará, e seu reino não será destruído.
 \v Dn.7.15
@@ -803,29 +812,38 @@ o
 \*added
  buscar com oração e rogos, em jejum, saco, e cinza.
 \v Dn.9.4
-E orei ao SENHOR meu Deus, e declarei, dizendo: Ó Senhor, Deus grande e temível, que guarda o pacto e a misericórdia com os que o amam e guardam seus mandamentos;
+{rp|n4}E orei ao SENHOR meu Deus, e declarei, dizendo: Ó Senhor, Deus grande e temível, que guarda o pacto e a misericórdia com os que o amam e guardam seus mandamentos;
+{tr}E orei ao SENHOR meu Deus, e declarei, dizendo: Ó Senhor, Deus grande e temível, que guarda o pacto e a misericórdia com os que O amam e guardam Seus mandamentos;
 \v Dn.9.5
-Nós pecamos, cometemos maldade; agimos perversamente, e fomos rebeldes, por termos nos desviado de teus mandamentos e de teus juízos.
+{rp|n4}Nós pecamos, cometemos maldade; agimos perversamente, e fomos rebeldes, por termos nos desviado de teus mandamentos e de teus juízos.
+{tr}Nós pecamos, cometemos maldade; agimos perversamente, e fomos rebeldes, por termos nos desviado de Teus mandamentos e de Teus juízos.
 \v Dn.9.6
-Não demos ouvido a teus servos, os profetas, que em teu nome falaram a nossos reis, nossos príncipes, nossos pais, e a todo o povo da terra.
+{rp|n4}Não demos ouvido a teus servos, os profetas, que em teu nome falaram a nossos reis, nossos príncipes, nossos pais, e a todo o povo da terra.
+{tr}Não demos ouvido a Teus servos, os profetas, que em Teu nome falaram a nossos reis, nossos príncipes, nossos pais, e a todo o povo da terra.
 \v Dn.9.7
-A ti, Senhor, pertence a justiça, mas a nós a vergonha de rosto, tal como hoje 
+{rp|n4}A ti, Senhor, pertence a justiça, mas a nós a vergonha de rosto, tal como hoje 
+{tr}A Ti, Senhor, pertence a justiça, mas a nós a vergonha de rosto, tal como hoje 
 \added
 estamos
 \*added
-, todo homem de Judá, os moradores de Jerusalém, e todo Israel, os de perto e os de longe, em todas as terras para onde os tens lançado por causa de sua transgressão com que transgrediram contra ti.
+{rp|n4}, todo homem de Judá, os moradores de Jerusalém, e todo Israel, os de perto e os de longe, em todas as terras para onde os tens lançado por causa de sua transgressão com que transgrediram contra ti.
+{tr}, todo homem de Judá, os moradores de Jerusalém, e todo Israel, os de perto e os de longe, em todas as terras para onde os tens lançado por causa de sua transgressão com que transgrediram contra Ti.
 \v Dn.9.8
 Ó SENHOR, a nós 
 \added
 pertence
 \*added
- a vergonha de rosto, a nossos reis, nossos príncipes, e nossos pais; porque contra ti pecamos.
+{rp|n4} a vergonha de rosto, a nossos reis, nossos príncipes, e nossos pais; porque contra ti pecamos.
+{tr} a vergonha de rosto, a nossos reis, nossos príncipes, e nossos pais; porque contra Ti pecamos.
 \v Dn.9.9
-Ao SENHOR nosso Deus, pertence a misericórdia e os perdões, ainda que contra ele tenhamos nos rebelado;
+{rp|n4}Ao SENHOR nosso Deus, pertence a misericórdia e os perdões, ainda que contra ele tenhamos nos rebelado;
+{tr}Ao SENHOR nosso Deus, pertence a misericórdia e os perdões, ainda que contra Ele tenhamos nos rebelado;
 \v Dn.9.10
-E não obedecemos à voz do SENHOR nosso Deus, para andar em suas leis, as quais ele nos deu por meio de seus servos os profetas.
+{rp|n4}E não obedecemos à voz do SENHOR nosso Deus, para andar em suas leis, as quais ele nos deu por meio de seus servos os profetas.
+{tr}E não obedecemos à voz do SENHOR nosso Deus, para andar em Suas leis, as quais Ele nos deu por meio de Seus servos os profetas.
 \v Dn.9.11
-E todo Israel transgrediu tua lei, desviando-se para não ouvir tua voz; por isso a maldição, e o juramento que está escrito na lei de Moisés, servo de Deus, foram derramados sobre nós; porque contra ele pecamos.
+{rp|n4}E todo Israel transgrediu tua lei, desviando-se para não ouvir tua voz; por isso a maldição, e o juramento que está escrito na lei de Moisés, servo de Deus, foram derramados sobre nós; porque contra ele pecamos.
+{tr}E todo Israel transgrediu Tua lei, desviando-se para não ouvir Tua voz; por isso a maldição, e o juramento que está escrito na lei de Moisés, servo de Deus, foram derramados sobre nós; porque contra Ele pecamos.
 \v Dn.9.12
 E ele confirmou sua palavra que falou sobre nós, e sobre nossos juízes que nos julgavam, trazendo sobre nós tão grande mal,
 \fn
@@ -836,15 +854,18 @@ i.e., calamidade, desastre
 \*fn
  que nunca havia sido feito debaixo do céu como o que foi feito em Jerusalém.
 \v Dn.9.13
-Assim como está escrito na Lei de Moisés, todo aquele mal veio sobre nós; contudo não suplicamos à face do SENHOR nosso Deus, para nos convertermos de nossas maldades, e entender a tua verdade.
+{rp|n4}Assim como está escrito na Lei de Moisés, todo aquele mal veio sobre nós; contudo não suplicamos à face do SENHOR nosso Deus, para nos convertermos de nossas maldades, e entender a tua verdade.
+{tr}Assim como está escrito na Lei de Moisés, todo aquele mal veio sobre nós; contudo não suplicamos à face do SENHOR nosso Deus, para nos convertermos de nossas maldades, e entender a Tua verdade.
 \v Dn.9.14
 O SENHOR vigiou sobre o mal, e o trouxe sobre nós; porque justo é o SENHOR nosso Deus em todas suas obras que fez; pois não obedecemos a sua voz.
 \v Dn.9.15
-Agora pois, ó Senhor nosso Deus, que tiraste teu povo da terra do Egito com mão poderosa, e fizeste famoso o teu nome até hoje; temos pecado, agimos com maldade.
+{rp|n4}Agora pois, ó Senhor nosso Deus, que tiraste teu povo da terra do Egito com mão poderosa, e fizeste famoso o teu nome até hoje; temos pecado, agimos com maldade.
+{tr}Agora pois, ó Senhor nosso Deus, que tiraste Teu povo da terra do Egito com mão poderosa, e fizeste famoso o Teu nome até hoje; temos pecado, agimos com maldade.
 \v Dn.9.16
 Ó Senhor, segundo todas tuas justiças, desvie agora tua ira e teu furor de sobre a tua cidade Jerusalém, teu santo monte; pois por causa de nossos pecados, e pela maldades de nossos pais, Jerusalém e teu povo foram humilhados por todos os que estão ao nosso redor.
 \v Dn.9.17
-Agora pois, ó Deus nosso, ouve a oração de teu servo, e suas súplicas, e faze que teu rosto resplandeça sobre teu santuário assolado, por causa do Senhor.
+{rp|n4}Agora pois, ó Deus nosso, ouve a oração de teu servo, e suas súplicas, e faze que teu rosto resplandeça sobre teu santuário assolado, por causa do Senhor.
+{tr}Agora pois, ó Deus nosso, ouve a oração de Teu servo, e suas súplicas, e faze que Teu rosto resplandeça sobre Teu santuário assolado, por causa do Senhor.
 \v Dn.9.18
 Inclina, ó Deus meu, teus ouvidos, e ouve; abre teus olhos, e olha para nossas assolações, e para a cidade que é chamada pelo teu nome; pois não apresentamos nossas súplicas diante de ti 
 \added
@@ -852,7 +873,8 @@ confiando
 \*added
  em nossas justiças, mas sim em tuas muitas misericórdias.
 \v Dn.9.19
-Ouve, Senhor; ó Senhor, perdoa; presta atenção, Senhor, e faze sem demorar, por causa de ti mesmo, Deus meu; pois a tua cidade e teu povo são chamados pelo teu nome.
+{rp|n4}Ouve, Senhor; ó Senhor, perdoa; presta atenção, Senhor, e faze sem demorar, por causa de ti mesmo, Deus meu; pois a tua cidade e teu povo são chamados pelo teu nome.
+{tr}Ouve, Senhor; ó Senhor, perdoa; presta atenção, Senhor, e faze sem demorar, por causa de Ti mesmo, Deus meu; pois a Tua cidade e Teu povo são chamados pelo Teu nome.
 \v Dn.9.20
 Enquanto eu ainda estava falando e orando, e confessando meu pecado e o pecado de meu povo Israel, e apresentando minha súplica diante do SENHOR meu Deus, pelo monte santo de meu Deus;
 \v Dn.9.21

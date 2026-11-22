@@ -31,7 +31,8 @@ Porém o SENHOR me disse: Não digas: sou menino; porque a todos a quem eu te en
 \v Jr.1.8
 Não temas diante deles, porque estou contigo para te livrar, diz o SENHOR.
 \v Jr.1.9
-Então o SENHOR estendeu sua mão, e tocou em minha boca. E o SENHOR me disse: Eis que tenho posto minhas palavras em tua boca.
+{rp|n4}Então o SENHOR estendeu sua mão, e tocou em minha boca. E o SENHOR me disse: Eis que tenho posto minhas palavras em tua boca.
+{tr}Então o SENHOR estendeu Sua mão, e tocou em minha boca. E o SENHOR me disse: Eis que tenho posto minhas palavras em tua boca.
 \v Jr.1.10
 Olha que eu te pus neste dia sobre nações e sobre reinos, para arrancar e para derrubar, e para destruir e para arruinar, e para edificar e para plantar.
 \v Jr.1.11
@@ -46,7 +47,8 @@ Então o SENHOR me disse: Do norte o mal será solto sobre todos os moradores de
 Porque eis que eu convoco todas as famílias dos reinos do norte, diz o SENHOR; e virão, e cada um porá seu trono à entrada das portas de 
 Jerusalém, e junto a todos seus muros ao redor, e em todas as cidades de Judá.
 \v Jr.1.16
-E pronunciarei meus juízos contra eles por causa de toda a sua maldade, pois me deixaram, e queimaram incenso a deuses estranhos, e se encurvaram a objetos de suas 
+{rp|n4}E pronunciarei meus juízos contra eles por causa de toda a sua maldade, pois me deixaram, e queimaram incenso a deuses estranhos, e se encurvaram a objetos de suas 
+{tr}E pronunciarei Meus juízos contra eles por causa de toda a sua maldade, pois Me deixaram, e queimaram incenso a deuses estranhos, e se encurvaram a objetos de suas 
 \added
 próprias
 \*added
@@ -96,7 +98,8 @@ i.e. desastre, calamidade
 \v Jr.2.4
 Ouvi a palavra do SENHOR, ó casa de Jacó, e todas as famílias da casa de Israel.
 \v Jr.2.5
-Assim diz o SENHOR: Que maldade vossos pais acharam em mim, para terem se afastado de mim, 
+{rp|n4}Assim diz o SENHOR: Que maldade vossos pais acharam em mim, para terem se afastado de mim, 
+{tr}Assim diz o SENHOR: Que maldade vossos pais acharam em Mim, para terem se afastado de Mim, 
 \added
 de modo que
 \*added
@@ -118,7 +121,8 @@ quando
 \added
 nela
 \*added
-, contaminastes a minha terra, e fizestes da minha herança uma abominação.
+{rp|n4}, contaminastes a minha terra, e fizestes da minha herança uma abominação.
+{tr}, contaminastes a Minha terra, e fizestes da Minha herança uma abominação.
 \v Jr.2.8
 Os sacerdotes não disseram: Onde está o SENHOR? E os que deviam ensinar a lei
 \fn
@@ -127,11 +131,13 @@ os que deviam ensinar a lei
 \*key
 Lit. os que lidavam com a lei
 \*fn
- não me conheceram; e os líderes
+{rp|n4} não me conheceram; e os líderes
+{tr} não Me conheceram; e os líderes
 \fn
 lit. pastores
 \*fn
- se rebelaram contra mim, e os profetas profetizaram em 
+{rp|n4} se rebelaram contra mim, e os profetas profetizaram em 
+{tr} se rebelaram contra Mim, e os profetas profetizaram em 
 \added
 nome de
 \*added
@@ -149,11 +155,13 @@ mensageiros
 \*added
  a Quedar, e prestai atenção, e vede se aconteceu alguma coisa semelhante a esta,
 \v Jr.2.11
-Se alguma nação tenha mudado de deuses, ainda que eles não sejam deuses. Mas meu povo trocou sua glória pelo que não tem proveito algum.
+{rp|n4}Se alguma nação tenha mudado de deuses, ainda que eles não sejam deuses. Mas meu povo trocou sua glória pelo que não tem proveito algum.
+{tr}Se alguma nação tenha mudado de deuses, ainda que eles não sejam deuses. Mas Meu povo trocou sua glória pelo que não tem proveito algum.
 \v Jr.2.12
 Espantai-vos, céus, por causa disto, e horrorizai-vos; ficai bastante desolados, diz o SENHOR.
 \v Jr.2.13
-Pois meu povo fez dois males: deixaram a mim, 
+{rp|n4}Pois meu povo fez dois males: deixaram a mim, 
+{tr}Pois Meu povo fez dois males: deixaram a Mim, 
 \added
 que sou
 \*added
@@ -189,7 +197,8 @@ Eufrates
 ?
 \v Jr.2.19
 A tua maldade te castigará e tuas infidelidades te repreenderão; então conhece e vê como é mal e amargo teres abandonado ao SENHOR teu Deus, 
-e não teres tido temor a mim, diz o Senhor DEUS dos exércitos.
+{rp|n4}e não teres tido temor a mim, diz o Senhor DEUS dos exércitos.
+{tr}e não teres tido temor a Mim, diz o Senhor DEUS dos exércitos.
 \v Jr.2.20
 Pois muito tempo atrás, eu quebrei teu jugo, e rompi tuas amarras, e tu disseste: Não servirei. Porém sobre todo morro alto e abaixo de toda 
 árvore frondosa tu te deitavas 
@@ -198,9 +207,11 @@ como
 \*added
  prostituta.
 \v Jr.2.21
-E eu te plantei de boa vide; ela toda era semente confiável. Como, pois, te tornaste para mim ramos de vide estranha?
+{rp|n4}E eu te plantei de boa vide; ela toda era semente confiável. Como, pois, te tornaste para mim ramos de vide estranha?
+{tr}E eu te plantei de boa vide; ela toda era semente confiável. Como, pois, te tornaste para Mim ramos de vide estranha?
 \v Jr.2.22
-Ainda que te laves com potassa, e passes muito sabão sobre ti, teu pecado está marcado diante de mim, diz o Senhor DEUS.
+{rp|n4}Ainda que te laves com potassa, e passes muito sabão sobre ti, teu pecado está marcado diante de mim, diz o Senhor DEUS.
+{tr}Ainda que te laves com potassa, e passes muito sabão sobre ti, teu pecado está marcado diante de Mim, diz o Senhor DEUS.
 \v Jr.2.23
 Como podes dizer: Nunca me contaminei, nunca andei atrás dos baalins? Olha o teu caminho no vale; reconhece o que 
 fizeste, ó dromedária ligeira, que anda errante seus percursos,
@@ -216,7 +227,8 @@ de sua angústia dizem: Levanta-te, e livra-nos.
 \v Jr.2.28
 Onde estão os teus deuses que fizeste para ti? Eles que se levantem, se é que eles podem te livrar no tempo de tua aflição; porque, ó Judá, os teus deuses foram tantos quantos o número de tuas cidades.
 \v Jr.2.29
-Por que discutis comigo? Todos vós transgredistes contra mim, diz o SENHOR.
+{rp|n4}Por que discutis comigo? Todos vós transgredistes contra mim, diz o SENHOR.
+{tr}Por que discutis Comigo? Todos vós transgredistes contra Mim, diz o SENHOR.
 \v Jr.2.30
 Em vão afligi vossos filhos; eles não aceitaram correção. Vossa 
 \added
@@ -224,14 +236,17 @@ própria
 \*added
  espada matou vossos profetas como um leão destruidor.
 \v Jr.2.31
-Ó geração, considerai vós a palavra do SENHOR. Por acaso eu fui um deserto ou uma terra de escuridão a Israel? Então por que meu povo 
-tem dito: Somos senhores; nunca mais viremos a ti?
+{rp|n4}Ó geração, considerai vós a palavra do SENHOR. Por acaso eu fui um deserto ou uma terra de escuridão a Israel? Então por que meu povo 
+{tr}Ó geração, considerai vós a palavra do SENHOR. Por acaso eu fui um deserto ou uma terra de escuridão a Israel? Então por que Meu povo 
+{rp|n4}tem dito: Somos senhores; nunca mais viremos a ti?
+{tr}tem dito: Somos senhores; nunca mais viremos a Ti?
 \v Jr.2.32
 Por acaso a virgem se esquece de seus enfeites, 
 \added
 ou
 \*added
- a noiva de seus adornos? Porém meu povo se esqueceu de mim há inúmeros dias.
+{rp|n4} a noiva de seus adornos? Porém meu povo se esqueceu de mim há inúmeros dias.
+{tr} a noiva de seus adornos? Porém Meu povo se esqueceu de Mim há inúmeros dias.
 \v Jr.2.33
 Como enfeitas teu caminho para buscar amor! Pois até às malignas ensinaste teus caminhos.
 \v Jr.2.34
@@ -244,7 +259,8 @@ obscuro
 \*fn
  mas em todas estas coisas.
 \v Jr.2.35
-E dizes: Sou inocente, pois certamente sua ira já se afastou de mim. Eis que eu disputarei em juízo contigo, porque disseste: Não tenho pecado.
+{rp|n4}E dizes: Sou inocente, pois certamente sua ira já se afastou de mim. Eis que eu disputarei em juízo contigo, porque disseste: Não tenho pecado.
+{tr}E dizes: Sou inocente, pois certamente Sua ira já se afastou de mim. Eis que eu disputarei em juízo contigo, porque disseste: Não tenho pecado.
 \v Jr.2.36
 Por que tu te desvias tanto, mudando teus caminhos? Também serás envergonhada pelo Egito, tal como foste envergonhada pela Assíria.
 \v Jr.2.37
@@ -258,7 +274,8 @@ lit. deste, dele – trad. alt. também saíras do Egito
  com as mãos sobre tua cabeça; porque o SENHOR rejeitou tuas confianças, e nelas não terás sucesso.
 \v Jr.3.1
 Dizem: Se um homem deixar sua mulher, e ela for embora dele, e se juntar a outro homem, por acaso ele voltará a ela? Não será tal 
-terra contaminada por completo? Tu porém tem te prostituído com muitos amantes; mas volta-te a mim, diz o SENHOR.
+{rp|n4}terra contaminada por completo? Tu porém tem te prostituído com muitos amantes; mas volta-te a mim, diz o SENHOR.
+{tr}terra contaminada por completo? Tu porém tem te prostituído com muitos amantes; mas volta-te a Mim, diz o SENHOR.
 \v Jr.3.2
 Levanta teus olhos aos lugares altos, e vê onde não tenhas te prostituído; tu te sentavas para eles nos caminhos, como árabe no deserto; e assim contaminaste a terra com tuas prostituições e com tua malícia.
 \v Jr.3.3
@@ -283,28 +300,33 @@ isto
 Disse-me mais o SENHOR nos dias do rei Josias: Viste o que fez a rebelde Israel? Ela foi sobre todo monte alto e debaixo de toda árvore 
 frondosa, e ali ela se prostituiu.
 \v Jr.3.7
-E eu disse depois que ele fez tudo isto: Volta para mim; mas ela não voltou. E sua traiçoeira irmã Judá viu isto;
+{rp|n4}E eu disse depois que ele fez tudo isto: Volta para mim; mas ela não voltou. E sua traiçoeira irmã Judá viu isto;
+{tr}E eu disse depois que ele fez tudo isto: Volta para Mim; mas ela não voltou. E sua traiçoeira irmã Judá viu isto;
 \v Jr.3.8
 E eu vi, que por todas estas causas nas quais prostituiu a infiel Israel, eu a tinha mandado embora, e dado-lhe a carta de seu divórcio; porém a traiçoeira Judá sua irmã não temeu; ao contrário; ela também foi se prostituir.
 \v Jr.3.9
 E aconteceu que foi pela leviandade de sua prostituição que a terra foi contaminada, e ela adulterou com a pedra e com a madeira.
 \v Jr.3.10
-E mesmo com tudo isto, a traiçoeira, sua irmã Judá, não se converteu a mim de todo o seu coração, mas sim falsamente, diz o SENHOR.
+{rp|n4}E mesmo com tudo isto, a traiçoeira, sua irmã Judá, não se converteu a mim de todo o seu coração, mas sim falsamente, diz o SENHOR.
+{tr}E mesmo com tudo isto, a traiçoeira, sua irmã Judá, não se converteu a Mim de todo o seu coração, mas sim falsamente, diz o SENHOR.
 \v Jr.3.11
 E disse-me o SENHOR: Israel mostrou-se mais justa em sua alma, mais do que a traiçoeira Judá.
 \v Jr.3.12
-Vai, e proclama estas palavras ao norte, e diz: Volta-te, ó infiel Israel, diz o SENHOR; não farei cair minha ira sobre vós: pois sou misericordioso, diz o SENHOR; não guardarei 
+{rp|n4}Vai, e proclama estas palavras ao norte, e diz: Volta-te, ó infiel Israel, diz o SENHOR; não farei cair minha ira sobre vós: pois sou misericordioso, diz o SENHOR; não guardarei 
+{tr}Vai, e proclama estas palavras ao norte, e diz: Volta-te, ó infiel Israel, diz o SENHOR; não farei cair Minha ira sobre vós: pois sou misericordioso, diz o SENHOR; não guardarei 
 \added
 a ira
 \*added
  para sempre.
 \v Jr.3.13
 Tão somente reconhece tua maldade, pois transgrediste contra o SENHOR teu Deus, e espalhaste teus caminhos aos estrangeiros debaixo de 
-toda árvore frondosa, e não ouviste minha voz, diz o SENHOR.
+{rp|n4}toda árvore frondosa, e não ouviste minha voz, diz o SENHOR.
+{tr}toda árvore frondosa, e não ouviste Minha voz, diz o SENHOR.
 \v Jr.3.14
 Convertei-vos, filhos infiéis, diz o SENHOR, pois sou vosso marido; e eu os tomarei um de uma cidade, e dois de uma família, e vos levarei a Sião;
 \v Jr.3.15
-E vos darei pastores conforme meu coração, que vos apascentem de conhecimento e de inteligência.
+{rp|n4}E vos darei pastores conforme meu coração, que vos apascentem de conhecimento e de inteligência.
+{tr}E vos darei pastores conforme Meu coração, que vos apascentem de conhecimento e de inteligência.
 \v Jr.3.16
 E será que, quando vos multiplicardes e frutificardes na terra naqueles dias, diz o SENHOR, nunca mais dirão: Arca do pacto do SENHOR; nem virá 
 ao pensamento, nem se lembrarão dela, nem a visitarão, nem será feita novamente.
@@ -316,7 +338,8 @@ Naqueles tempos os da casa de Judá andarão com a casa de Israel, e virão junt
 Mas eu disse: Como te porei por filhos, e te darei a terra desejável, a rica propriedade dos exércitos das nações? E disse: tu me 
 chamarás: Meu pai, e não te desviarás de detrás de mim.
 \v Jr.3.20
-Porém, tal como a esposa trai o seu companheiro, assim traístes contra mim, ó casa de Israel, diz o SENHOR.
+{rp|n4}Porém, tal como a esposa trai o seu companheiro, assim traístes contra mim, ó casa de Israel, diz o SENHOR.
+{tr}Porém, tal como a esposa trai o seu companheiro, assim traístes contra Mim, ó casa de Israel, diz o SENHOR.
 \v Jr.3.21
 Uma voz se ouve sobre os lugares altos: é o pranto das súplicas dos filhos de Israel; porque perverteram seu caminho, 
 \added
@@ -344,13 +367,16 @@ lit. escutamos
 \*fn
  a voz do SENHOR nosso Deus.
 \v Jr.4.1
-Se te converteres, ó Israel, diz o SENHOR, converte-te a mim; e se tirares tuas abominações de diante de mim, não andarás mais sem rumo.
+{rp|n4}Se te converteres, ó Israel, diz o SENHOR, converte-te a mim; e se tirares tuas abominações de diante de mim, não andarás mais sem rumo.
+{tr}Se te converteres, ó Israel, diz o SENHOR, converte-te a Mim; e se tirares tuas abominações de diante de Mim, não andarás mais sem rumo.
 \v Jr.4.2
-E jurarás, dizendo, Vive o SENHOR, com verdade, com juízo, e com justiça; e nele as nações se bendirão, e nele se orgulharão.
+{rp|n4}E jurarás, dizendo, Vive o SENHOR, com verdade, com juízo, e com justiça; e nele as nações se bendirão, e nele se orgulharão.
+{tr}E jurarás, dizendo, Vive o SENHOR, com verdade, com juízo, e com justiça; e nEle as nações se bendirão, e nEle se orgulharão.
 \v Jr.4.3
 Porque assim diz o SENHOR aos homens de Judá e de Jerusalém: Fazei lavoura para vós, e não semeeis sobre espinhos.
 \v Jr.4.4
-Circuncidai-vos ao SENHOR, e tirai os prepúcios de vosso coração, ó homens de Judá e moradores de Jerusalém; para que minha ira não venha a sair como fogo, e se incendeie, e não haja quem apague, pela maldade de vossas obras.
+{rp|n4}Circuncidai-vos ao SENHOR, e tirai os prepúcios de vosso coração, ó homens de Judá e moradores de Jerusalém; para que minha ira não venha a sair como fogo, e se incendeie, e não haja quem apague, pela maldade de vossas obras.
+{tr}Circuncidai-vos ao SENHOR, e tirai os prepúcios de vosso coração, ó homens de Judá e moradores de Jerusalém; para que Minha ira não venha a sair como fogo, e se incendeie, e não haja quem apague, pela maldade de vossas obras.
 \v Jr.4.5
 Anunciai em Judá, e fazei ouvir em Jerusalém, e dizei: Tocai trombeta na terra. Clamai em alta voz, e dizei: Ajuntai-vos, e entremos 
 nas cidades fortes.
@@ -373,9 +399,11 @@ Naquele tempo se dirá a este povo e a Jerusalém: Um vento seco dos lugares alt
 \added
 veio
 \*added
- ao caminho da filha do meu povo; não para padejar, nem para limpar;
+{rp|n4} ao caminho da filha do meu povo; não para padejar, nem para limpar;
+{tr} ao caminho da filha do Meu povo; não para padejar, nem para limpar;
 \v Jr.4.12
-Um vento forte demais para estas coisas virá de mim; agora também eu pronunciarei juízos contra eles.
+{rp|n4}Um vento forte demais para estas coisas virá de mim; agora também eu pronunciarei juízos contra eles.
+{tr}Um vento forte demais para estas coisas virá de Mim; agora também eu pronunciarei juízos contra eles.
 \v Jr.4.13
 Eis que ele virá subindo como as nuvens, e suas carruagens como o redemoinho de vento; seus cavalos serão mais 
 velozes que as águias; ai de nós, porque somos assolados!
@@ -390,7 +418,8 @@ i.e., soldados que fazem cercos contra cidades
 \*fn
  vêm de uma terra remota, e levantam sua voz contra as cidades de Judá.
 \v Jr.4.17
-Como guardas dos campos, assim eles estão ao redor contra ela; pois ela se rebelou contra mim, diz o SENHOR.
+{rp|n4}Como guardas dos campos, assim eles estão ao redor contra ela; pois ela se rebelou contra mim, diz o SENHOR.
+{tr}Como guardas dos campos, assim eles estão ao redor contra ela; pois ela se rebelou contra Mim, diz o SENHOR.
 \v Jr.4.18
 Teu caminho e teus atos te causaram estas coisas; esta é tua maldade, tão amarga, que chega ao teu coração.
 \v Jr.4.19
@@ -404,7 +433,8 @@ e
 \*added
  ouvirei a voz da trombeta?
 \v Jr.4.22
-De fato meu povo está louco, já não me conhecem; são filhos tolos, sem entendimento; são “sábios” para fazer o mal, mas para fazer o bem nada sabem.
+{rp|n4}De fato meu povo está louco, já não me conhecem; são filhos tolos, sem entendimento; são “sábios” para fazer o mal, mas para fazer o bem nada sabem.
+{tr}De fato Meu povo está louco, já não Me conhecem; são filhos tolos, sem entendimento; são “sábios” para fazer o mal, mas para fazer o bem nada sabem.
 \v Jr.4.23
 Vi a terra, e eis que estava sem forma e vazia; e 
 \added
@@ -496,18 +526,21 @@ também
 \v Jr.5.6
 Por isso um leão do bosque os ferirá; um lobo do deserto os destruirá; um leopardo vigiará sobre suas cidades; qualquer um que delas sair, será despedaçado; pois suas transgressões se multiplicaram, foram numerosas suas infidelidades.
 \v Jr.5.7
-Como te perdoaria por isto? Teus filhos me deixaram, e juram pelo que não é Deus. Eu os saciei, porém eles adulteraram, e se aglomeraram em casa de prostitutas.
+{rp|n4}Como te perdoaria por isto? Teus filhos me deixaram, e juram pelo que não é Deus. Eu os saciei, porém eles adulteraram, e se aglomeraram em casa de prostitutas.
+{tr}Como te perdoaria por isto? Teus filhos Me deixaram, e juram pelo que não é Deus. Eu os saciei, porém eles adulteraram, e se aglomeraram em casa de prostitutas.
 \v Jr.5.8
 \added
 Como
 \*added
  cavalos bem alimentados, levantam-se pela manhã; cada um relinchava à mulher de seu próximo.
 \v Jr.5.9
-Não teria eu de fazer visitação sobre isto?diz o SENHOR. De uma nação como esta não vingaria minha alma?
+{rp|n4}Não teria eu de fazer visitação sobre isto?diz o SENHOR. De uma nação como esta não vingaria minha alma?
+{tr}Não teria eu de fazer visitação sobre isto?diz o SENHOR. De uma nação como esta não vingaria Minha alma?
 \v Jr.5.10
 Subi seus muros, e destruí; mas não destruais por completo. Tirai os ramos de seus muros, porque não pertencem ao SENHOR.
 \v Jr.5.11
-Pois a casa de Israel e a casa de Judá traíram enganosamente contra mim, diz o SENHOR.
+{rp|n4}Pois a casa de Israel e a casa de Judá traíram enganosamente contra mim, diz o SENHOR.
+{tr}Pois a casa de Israel e a casa de Judá traíram enganosamente contra Mim, diz o SENHOR.
 \v Jr.5.12
 Negaram ao SENHOR, e disseram: Não é ele;
 \fn
@@ -524,7 +557,8 @@ como
 \*added
  o vento, pois a palavra não está neles; assim acontecerá a eles mesmos.
 \v Jr.5.14
-Portanto assim diz o SENHOR Deus dos exércitos: Visto que falastes esta palavra, eis que tornarei minhas palavras em tua boca em fogo, e 
+{rp|n4}Portanto assim diz o SENHOR Deus dos exércitos: Visto que falastes esta palavra, eis que tornarei minhas palavras em tua boca em fogo, e 
+{tr}Portanto assim diz o SENHOR Deus dos exércitos: Visto que falastes esta palavra, eis que tornarei Minhas palavras em tua boca em fogo, e 
 a este povo será lenha; e 
 \added
 o fogo
@@ -540,7 +574,8 @@ E comerão tua colheita e teu pão, que teus filhos e tuas filhas comeriam; come
 \v Jr.5.18
 Porém naqueles dias, diz o SENHOR, não vos acabarei por completo.
 \v Jr.5.19
-E será que quando disserdes: Por que o SENHOR nosso Deus fez conosco todas estas coisas? Então lhes dirás: Assim como vós me abandonastes 
+{rp|n4}E será que quando disserdes: Por que o SENHOR nosso Deus fez conosco todas estas coisas? Então lhes dirás: Assim como vós me abandonastes 
+{tr}E será que quando disserdes: Por que o SENHOR nosso Deus fez conosco todas estas coisas? Então lhes dirás: Assim como vós Me abandonastes 
 e servistes a deuses estrangeiros em vossa terra, assim também servireis a estrangeiros numa terra que não é vossa.
 \v Jr.5.20
 Anunciai isto na casa de Jacó, e fazei com que isto se ouça em Judá, dizendo:
@@ -551,7 +586,8 @@ lit. sem coração
 \*fn
  que têm olhos e não veem, que têm ouvidos e não ouvem:
 \v Jr.5.22
-Por acaso não me temereis?diz o SENHOR; Não vos assombrareis perante mim, que pus a areia por limite ao mar por ordenança eterna, a qual não 
+{rp|n4}Por acaso não me temereis?diz o SENHOR; Não vos assombrareis perante mim, que pus a areia por limite ao mar por ordenança eterna, a qual não 
+{tr}Por acaso não Me temereis?diz o SENHOR; Não vos assombrareis perante Mim, que pus a areia por limite ao mar por ordenança eterna, a qual não 
 passará? Ainda que se levantarem suas ondas, mas elas não prevalecerão; ainda que bramem, não a passarão.
 \v Jr.5.23
 Porém este povo tem coração teimoso e rebelde; viraram-se, e se foram.
@@ -561,7 +597,8 @@ ceifa ele nos guarda.
 \v Jr.5.25
 Vossas perversidades têm desviado estas coisas; e vossos pecados afastaram de vós o bem.
 \v Jr.5.26
-Porque foram achados perversos em meu povo; eles espiavam como quem põe laços; puseram armadilhas para prenderem homens.
+{rp|n4}Porque foram achados perversos em meu povo; eles espiavam como quem põe laços; puseram armadilhas para prenderem homens.
+{tr}Porque foram achados perversos em Meu povo; eles espiavam como quem põe laços; puseram armadilhas para prenderem homens.
 \v Jr.5.27
 Como uma gaiola cheia de pássaros, assim estão suas casas cheias de engano: assim eles se fizeram grandes e ricos.
 \v Jr.5.28
@@ -575,11 +612,13 @@ Por acaso eu não
 \added
 os
 \*added
- puniria por causa disto? Diz o SENHOR; e de tal nação não se vingará minha alma?
+{rp|n4} puniria por causa disto? Diz o SENHOR; e de tal nação não se vingará minha alma?
+{tr} puniria por causa disto? Diz o SENHOR; e de tal nação não se vingará Minha alma?
 \v Jr.5.30
 Uma coisa espantosa e horrível está sendo feita na terra:
 \v Jr.5.31
-Os profetas profetizam falsamente, e os sacerdotes exercem liderança por suas próprias mãos; e meu povo assim o quer. Mas o que fareis quando isto chegar ao fim?
+{rp|n4}Os profetas profetizam falsamente, e os sacerdotes exercem liderança por suas próprias mãos; e meu povo assim o quer. Mas o que fareis quando isto chegar ao fim?
+{tr}Os profetas profetizam falsamente, e os sacerdotes exercem liderança por suas próprias mãos; e Meu povo assim o quer. Mas o que fareis quando isto chegar ao fim?
 \v Jr.6.1
 Fugi, ó filhos de Benjamim, do meio de Jerusalém; e tocai trombeta em Tecoa, e levantai um sinal de fumaça sobre Bete-Haquerém; porque do norte já se vê o desastre e grande destruição.
 \v Jr.6.2
@@ -607,9 +646,11 @@ Levantai-vos, e subamos de noite, e destruamos seus palácios.
 Porque assim diz o SENHOR dos exércitos: Cortai árvores, e levantai cercos junto a Jerusalém; esta é a cidade que tem de ser punida; opressão 
 há no meio dela.
 \v Jr.6.7
-Tal como a fonte jorra suas águas, assim também ela constantemente jorra sua malícia; violência e destruição se ouve nela; continuamente há enfermidade e feridas perante mim.
+{rp|n4}Tal como a fonte jorra suas águas, assim também ela constantemente jorra sua malícia; violência e destruição se ouve nela; continuamente há enfermidade e feridas perante mim.
+{tr}Tal como a fonte jorra suas águas, assim também ela constantemente jorra sua malícia; violência e destruição se ouve nela; continuamente há enfermidade e feridas perante Mim.
 \v Jr.6.8
-Corrige-te, Jerusalém, para que minha alma não se afaste de ti, para que eu não te torne desolada, uma terra não habitada.
+{rp|n4}Corrige-te, Jerusalém, para que minha alma não se afaste de ti, para que eu não te torne desolada, uma terra não habitada.
+{tr}Corrige-te, Jerusalém, para que Minha alma não se afaste de ti, para que eu não te torne desolada, uma terra não habitada.
 \v Jr.6.9
 Assim diz o SENHOR dos exércitos: Sacudirão por completo o restante de Israel tal como a vide; volta tua mão aos cestos como alguém que colhe uvas.
 \v Jr.6.10
@@ -629,7 +670,8 @@ e
 \*added
  o velho com o cheio de dias.
 \v Jr.6.12
-E suas casas passarão a ser de outros, suas propriedades e juntamente suas mulheres; porque estenderei minha mão contra os moradores da terra, 
+{rp|n4}E suas casas passarão a ser de outros, suas propriedades e juntamente suas mulheres; porque estenderei minha mão contra os moradores da terra, 
+{tr}E suas casas passarão a ser de outros, suas propriedades e juntamente suas mulheres; porque estenderei Minha mão contra os moradores da terra, 
 diz o SENHOR.
 \v Jr.6.13
 Porque desde o menor deles até o maior deles, cada um deseja com ganância; e desde o profeta até o sacerdote, todos agem com falsidade.
@@ -638,7 +680,8 @@ E curam a ferida
 \fn
 lit. quebrantamento
 \*fn
- da filha de meu povo apenas superficialmente, dizendo, Paz, paz; sem que haja paz.
+{rp|n4} da filha de meu povo apenas superficialmente, dizendo, Paz, paz; sem que haja paz.
+{tr} da filha de Meu povo apenas superficialmente, dizendo, Paz, paz; sem que haja paz.
 \v Jr.6.15
 Eles se envergonham de fazerem abominação? Não, não se envergonham de maneira nenhuma, nem sequer sabem ter vergonha. Por isso cairão entre os 
 que caem; tropeçarão quando eu os visitar, diz o SENHOR.
@@ -650,7 +693,8 @@ Também pus vigilantes sobre vós, que dissessem: Prestai atenção à voz da tr
 \v Jr.6.18
 Portanto ouvi, ó nações, e saiba disto, ó multidão que nelas está;
 \v Jr.6.19
-Ouve tu, ó terra: Eis que eu trarei mal sobre este povo: o fruto de seus pensamentos; pois não dão atenção a minhas palavras, e rejeitam a minha lei.
+{rp|n4}Ouve tu, ó terra: Eis que eu trarei mal sobre este povo: o fruto de seus pensamentos; pois não dão atenção a minhas palavras, e rejeitam a minha lei.
+{tr}Ouve tu, ó terra: Eis que eu trarei mal sobre este povo: o fruto de seus pensamentos; pois não dão atenção a Minhas palavras, e rejeitam a Minha lei.
 \v Jr.6.20
 Afinal, para que vem a mim o incenso de Sabá, e a boa cana aromática de uma terra distante? Vossos holocaustos 
 não 
@@ -687,7 +731,8 @@ Eu te pus por avaliador
 \fn
 i.e., avaliador da qualidade dos metais – trad. alt. torre
 \*fn
- e por fortaleza entre meu povo, para que reconheças, e examines o caminho deles.
+{rp|n4} e por fortaleza entre meu povo, para que reconheças, e examines o caminho deles.
+{tr} e por fortaleza entre Meu povo, para que reconheças, e examines o caminho deles.
 \v Jr.6.28
 Todos eles são os mais teimosos rebeldes, que vivem enganando; são 
 \added
@@ -722,29 +767,37 @@ E
 \added
 então
 \*added
- vireis e vos poreis perante mim nesta casa, que se chama pelo meu nome, e direis: Libertos somos, para fazer todas estas abominações?
+{rp|n4} vireis e vos poreis perante mim nesta casa, que se chama pelo meu nome, e direis: Libertos somos, para fazer todas estas abominações?
+{tr} vireis e vos poreis perante Mim nesta casa, que se chama pelo Meu nome, e direis: Libertos somos, para fazer todas estas abominações?
 \v Jr.7.11
-Por acaso esta casa, que se chama pelo meu nome, é uma caverna de assaltantes perante vossos olhos? Eis que também vi 
+{rp|n4}Por acaso esta casa, que se chama pelo meu nome, é uma caverna de assaltantes perante vossos olhos? Eis que também vi 
+{tr}Por acaso esta casa, que se chama pelo Meu nome, é uma caverna de assaltantes perante vossos olhos? Eis que também vi 
 \added
 isso
 \*added
 , diz o SENHOR.
 \v Jr.7.12
-Porém ide agora a meu lugar, que era em Siló, onde fiz habitar meu nome no princípio; e vede o que lhe fiz pela maldade do meu povo Israel.
+{rp|n4}Porém ide agora a meu lugar, que era em Siló, onde fiz habitar meu nome no princípio; e vede o que lhe fiz pela maldade do meu povo Israel.
+{tr}Porém ide agora a Meu lugar, que era em Siló, onde fiz habitar Meu nome no princípio; e vede o que lhe fiz pela maldade do Meu povo Israel.
 \v Jr.7.13
 Portanto agora, visto que vós tendes feito todas estas obras, diz o SENHOR, e vos falei, insistindo em falar, mas não ouvistes, e eu os chamei, mas não respondestes;
 \v Jr.7.14
-Farei também a esta casa, que se chama pelo meu nome, em que vós confiais, e a este lugar que dei a vós e a vossos pais, tal como fiz a Siló:
+{rp|n4}Farei também a esta casa, que se chama pelo meu nome, em que vós confiais, e a este lugar que dei a vós e a vossos pais, tal como fiz a Siló:
+{tr}Farei também a esta casa, que se chama pelo Meu nome, em que vós confiais, e a este lugar que dei a vós e a vossos pais, tal como fiz a Siló:
 \v Jr.7.15
-E eu vos lançarei fora de minha presença, tal como lancei a todos os vossos irmãos, toda a geração de Efraim.
+{rp|n4}E eu vos lançarei fora de minha presença, tal como lancei a todos os vossos irmãos, toda a geração de Efraim.
+{tr}E eu vos lançarei fora de Minha presença, tal como lancei a todos os vossos irmãos, toda a geração de Efraim.
 \v Jr.7.16
-Por isso não ores tu por este povo, nem levantes por eles clamor nem oração, nem rogues a mim, pois eu não te ouvirei.
+{rp|n4}Por isso não ores tu por este povo, nem levantes por eles clamor nem oração, nem rogues a mim, pois eu não te ouvirei.
+{tr}Por isso não ores tu por este povo, nem levantes por eles clamor nem oração, nem rogues a Mim, pois eu não te ouvirei.
 \v Jr.7.17
 Não vês o que eles costumam fazer nas cidades de Judá e nas ruas de Jerusalém?
 \v Jr.7.18
-Os filhos coletam a lenha, e os pais acendem o fogo, e as mulheres amassam a massa, para fazerem bolos à rainha dos céus e dedicarem ofertas de bebidas a deuses estrangeiros, para me provocarem à ira.
+{rp|n4}Os filhos coletam a lenha, e os pais acendem o fogo, e as mulheres amassam a massa, para fazerem bolos à rainha dos céus e dedicarem ofertas de bebidas a deuses estrangeiros, para me provocarem à ira.
+{tr}Os filhos coletam a lenha, e os pais acendem o fogo, e as mulheres amassam a massa, para fazerem bolos à rainha dos céus e dedicarem ofertas de bebidas a deuses estrangeiros, para Me provocarem à ira.
 \v Jr.7.19
-Por acaso eles me provocam à ira?diz o SENHOR, eles não 
+{rp|n4}Por acaso eles me provocam à ira?diz o SENHOR, eles não 
+{tr}Por acaso eles Me provocam à ira?diz o SENHOR, eles não 
 \added
 acabam provocando mais
 \*added
@@ -759,7 +812,8 @@ comei carne.
 Pois não falei a vossos pais, nem lhes mandei, no dia em que os tirei da terra do Egito, coisa alguma sobre 
 holocaustos ou sacrifícios;
 \v Jr.7.23
-porém isto lhes mandei, dizendo: Escutai a minha voz, e eu serei vosso Deus, e vós sereis meu povo; e andai em todo 
+{rp|n4}porém isto lhes mandei, dizendo: Escutai a minha voz, e eu serei vosso Deus, e vós sereis meu povo; e andai em todo 
+{tr}porém isto lhes mandei, dizendo: Escutai a Minha voz, e eu serei vosso Deus, e vós sereis Meu povo; e andai em todo 
 o caminho que eu vos mandar, para que o bem vos aconteça.
 \v Jr.7.24
 Mas eles não ouviram, nem inclinaram seus ouvidos; ao invés disso, caminharam em 
@@ -768,9 +822,11 @@ seus próprios
 \*added
  conselhos, na teimosia de seu coração maligno, e foram para trás, e não para frente.
 \v Jr.7.25
-Desde o dia em que vossos pais saíram da terra do Egito até hoje, eu vos enviei a todos os meus servos os profetas, e enviando-os dia após dia.
+{rp|n4}Desde o dia em que vossos pais saíram da terra do Egito até hoje, eu vos enviei a todos os meus servos os profetas, e enviando-os dia após dia.
+{tr}Desde o dia em que vossos pais saíram da terra do Egito até hoje, eu vos enviei a todos os Meus servos os profetas, e enviando-os dia após dia.
 \v Jr.7.26
-Mas eles não me ouviram, nem inclinaram seu ouvidos; ao invés disso, teimaram ainda mais,
+{rp|n4}Mas eles não me ouviram, nem inclinaram seu ouvidos; ao invés disso, teimaram ainda mais,
+{tr}Mas eles não Me ouviram, nem inclinaram seu ouvidos; ao invés disso, teimaram ainda mais,
 \fn
 \key
 teimaram ainda mais
@@ -789,9 +845,11 @@ trad. alt. fidelidade
 \v Jr.7.29
 Tosquia o teu cabelo, e lança-o fora, e levanta pranto sobre os lugares altos; porque o SENHOR tem rejeitado e abandonado a nação que causou sua ira.
 \v Jr.7.30
-Porque os filhos de Judá fizeram o mal perante meus olhos, diz o SENHOR; puseram suas abominações na casa que se chama pelo meu nome, para contaminá-la.
+{rp|n4}Porque os filhos de Judá fizeram o mal perante meus olhos, diz o SENHOR; puseram suas abominações na casa que se chama pelo meu nome, para contaminá-la.
+{tr}Porque os filhos de Judá fizeram o mal perante Meus olhos, diz o SENHOR; puseram suas abominações na casa que se chama pelo Meu nome, para contaminá-la.
 \v Jr.7.31
-E edificaram os altos de Tofete, que ficam no vale do filho de Hinom, para queimarem no fogo seus filhos e suas filhas, o que eu nunca mandei, nem pensei em meu coração.
+{rp|n4}E edificaram os altos de Tofete, que ficam no vale do filho de Hinom, para queimarem no fogo seus filhos e suas filhas, o que eu nunca mandei, nem pensei em meu coração.
+{tr}E edificaram os altos de Tofete, que ficam no vale do filho de Hinom, para queimarem no fogo seus filhos e suas filhas, o que eu nunca mandei, nem pensei em Meu coração.
 \v Jr.7.32
 Por isso eis que virão dias, diz o SENHOR, que não se dirá mais Tofete, nem Vale do filho de Hinom, mas sim Vale da Matança; e serão enterrados 
 em Tofete, por não haver lugar.
@@ -839,7 +897,8 @@ E curam a ferida
 \fn
 lit. quebrantamento
 \*fn
- da filha de meu povo apenas superficialmente, dizendo: Paz, paz; sem que haja paz.
+{rp|n4} da filha de meu povo apenas superficialmente, dizendo: Paz, paz; sem que haja paz.
+{tr} da filha de Meu povo apenas superficialmente, dizendo: Paz, paz; sem que haja paz.
 \v Jr.8.12
 Por acaso eles se envergonham de terem feito abominação? Não, eles não se envergonharam; eles nem sequer sabem o que é ter vergonha; por isso 
 cairão entre os que caírem, tropeçarão no tempo em que eu os castigar,
@@ -914,20 +973,23 @@ Eles estendem suas línguas, como
 \added
 se
 \*added
- lhes fossem arcos, para atirarem mentira; e se fortaleceram na terra, mas não por meio da verdade; porque se avançam de mal em mal, e não me 
+{rp|n4} lhes fossem arcos, para atirarem mentira; e se fortaleceram na terra, mas não por meio da verdade; porque se avançam de mal em mal, e não me 
+{tr} lhes fossem arcos, para atirarem mentira; e se fortaleceram na terra, mas não por meio da verdade; porque se avançam de mal em mal, e não Me 
 conhecem, diz o SENHOR.
 \v Jr.9.4
 Guardai-vos cada um de seu amigo, nem em irmão algum tende confiança: porque todo irmão só faz enganar, e todo amigo anda com falsidades.
 \v Jr.9.5
 E cada um engana a seu amigo, e não falam a verdade; ensinaram sua língua a falar mentira, e agem perversamente até se cansarem.
 \v Jr.9.6
-Tua habitação é em meio ao engano; por meio do engano se negam a me conhecer, diz o SENHOR.
+{rp|n4}Tua habitação é em meio ao engano; por meio do engano se negam a me conhecer, diz o SENHOR.
+{tr}Tua habitação é em meio ao engano; por meio do engano se negam a Me conhecer, diz o SENHOR.
 \v Jr.9.7
 Portanto assim diz o SENHOR dos exércitos: Eis que eu os fundirei, e os provarei; pois de que 
 \added
 outra maneira
 \*added
- agiria eu com a filha de meu povo?
+{rp|n4} agiria eu com a filha de meu povo?
+{tr} agiria eu com a filha de Meu povo?
 \v Jr.9.8
 A língua deles é uma flecha mortífera, que fala engano; com sua boca fala paz com seu próximo, mas em seu interior lhe arma ciladas.
 \v Jr.9.9
@@ -938,7 +1000,8 @@ puniria
 \*key
 lit. visitaria
 \*fn
- por estas coisas? Diz o SENHOR. Por acaso minha alma não se vingaria de tal nação?
+{rp|n4} por estas coisas? Diz o SENHOR. Por acaso minha alma não se vingaria de tal nação?
+{tr} por estas coisas? Diz o SENHOR. Por acaso Minha alma não se vingaria de tal nação?
 \v Jr.9.10
 Sobre os montes levantarei choro e pranto, e lamentação as moradas do deserto; porque foram desoladas até não haver quem 
 \added
@@ -962,7 +1025,8 @@ nela
 \*added
  passe?
 \v Jr.9.13
-E disse o SENHOR: Foi porque abandonaram minha lei, que dei diante deles, nem deram ouvidos a minha voz, nem caminharam conforme a ela;
+{rp|n4}E disse o SENHOR: Foi porque abandonaram minha lei, que dei diante deles, nem deram ouvidos a minha voz, nem caminharam conforme a ela;
+{tr}E disse o SENHOR: Foi porque abandonaram Minha lei, que dei diante deles, nem deram ouvidos a Minha voz, nem caminharam conforme a ela;
 \v Jr.9.14
 Ao invés disso, eles seguiram atrás da teimosia de seu coração, e atrás dos Baalins, que seus pais lhes ensinaram.
 \v Jr.9.15
@@ -1020,11 +1084,13 @@ capacidade de fazer
 \v Jr.10.6
 Pois ninguém há semelhante a ti, SENHOR! Grande és tu, e grande é teu nome em poder!
 \v Jr.10.7
-Quem não temeria a ti, ó Rei das nações? Porque a ti pertence 
+{rp|n4}Quem não temeria a ti, ó Rei das nações? Porque a ti pertence 
+{tr}Quem não temeria a Ti, ó Rei das nações? Porque a Ti pertence 
 \added
 o temor
 \*added
-; porque entre todos os sábios das nações, e em todos seus reinos, não há semelhante a ti.
+{rp|n4}; porque entre todos os sábios das nações, e em todos seus reinos, não há semelhante a ti.
+{tr}; porque entre todos os sábios das nações, e em todos seus reinos, não há semelhante a Ti.
 \v Jr.10.8
 E juntamente se tornaram irracionais e tolos. Ensino inútil é o 
 \added
@@ -1049,7 +1115,8 @@ Assim lhes direis: Os deuses que não fizeram os céus nem a terra perecerão da
 \added
 Mas o SENHOR
 \*added
- é aquele que fez a terra com seu poder, que preparou o mundo com sua sabedoria, e estendeu os céus com seu entendimento.
+{rp|n4} é aquele que fez a terra com seu poder, que preparou o mundo com sua sabedoria, e estendeu os céus com seu entendimento.
+{tr} é aquele que fez a terra com Seu poder, que preparou o mundo com Sua sabedoria, e estendeu os céus com Seu entendimento.
 \v Jr.10.13
 Quando ele pronuncia sua voz, 
 \added
@@ -1069,7 +1136,8 @@ lit. visitação
 \*fn
  virão a perecer.
 \v Jr.10.16
-A Porção de Jacó não é como eles; porque ele é o Formador de tudo, e Israel é a tribo de sua herança; EU-SOU dos exércitos é o seu nome.
+{rp|n4}A Porção de Jacó não é como eles; porque ele é o Formador de tudo, e Israel é a tribo de sua herança; EU-SOU dos exércitos é o seu nome.
+{tr}A Porção de Jacó não é como eles; porque Ele é o Formador de tudo, e Israel é a tribo de Sua herança; EU-SOU dos exércitos é o Seu nome.
 \v Jr.10.17
 Recolhe tuas mercadorias da terra; tu que habitas em cerco,
 \v Jr.10.18
@@ -1111,12 +1179,14 @@ Corrige-me, SENHOR, porém com moderação;
 \fn
 moderação = lit. juízo
 \*fn
- não em tua ira, para que não me destruas.
+{rp|n4} não em tua ira, para que não me destruas.
+{tr} não em Tua ira, para que não me destruas.
 \fn
 destruas = lit. reduzas [a nada], i.e. aniquiles
 \*fn
 \v Jr.10.25
-Derrama tua ira sobre as nações que não te conhecem, e sobre os povos que não invocam o teu nome; pois devoraram a Jacó; eles o devoraram, consumiram e assolaram sua morada.
+{rp|n4}Derrama tua ira sobre as nações que não te conhecem, e sobre os povos que não invocam o teu nome; pois devoraram a Jacó; eles o devoraram, consumiram e assolaram sua morada.
+{tr}Derrama Tua ira sobre as nações que não Te conhecem, e sobre os povos que não invocam o Teu nome; pois devoraram a Jacó; eles o devoraram, consumiram e assolaram sua morada.
 \v Jr.11.1
 Palavra que veio do SENHOR, a Jeremias, dizendo:
 \v Jr.11.2
@@ -1128,35 +1198,42 @@ i.e. obedecer – também nos versos seguintes
 \*fn
  as palavras deste pacto,
 \v Jr.11.4
-Que mandei a vossos pais no dia que os tirei da terra do Egito, do forno de ferro, dizendo: Ouvi a minha voz, e as fazei conforme a tudo quanto 
-eu vos mando; então vós sereis meu povo, e eu serei vosso Deus;
+{rp|n4}Que mandei a vossos pais no dia que os tirei da terra do Egito, do forno de ferro, dizendo: Ouvi a minha voz, e as fazei conforme a tudo quanto 
+{tr}Que mandei a vossos pais no dia que os tirei da terra do Egito, do forno de ferro, dizendo: Ouvi a Minha voz, e as fazei conforme a tudo quanto 
+{rp|n4}eu vos mando; então vós sereis meu povo, e eu serei vosso Deus;
+{tr}eu vos mando; então vós sereis Meu povo, e eu serei vosso Deus;
 \v Jr.11.5
 Para que eu confirme o juramento que fiz a vossos pais, que lhes daria uma terra em que mana leite e mel, tal como hoje.E eu respondi, e disse: Amém, SENHOR!
 \v Jr.11.6
 E disse-me o SENHOR: Proclama todas estas palavras nas cidades de Judá e nas ruas de Jerusalém, dizendo: Ouvi as palavras deste pacto, e praticai-as;
 \v Jr.11.7
 Porque insistentemente adverti a vossos pais o dia que eu os tirei da terra do Egito até o dia de hoje, repetidamente advertindo, dizendo: Ouvi 
-minha voz.
+{rp|n4}minha voz.
+{tr}Minha voz.
 \v Jr.11.8
 Porém não ouviram, nem inclinaram seus ouvidos; ao invés disso, seguiram cada um a teimosia de seu coração maligno. Por isso trouxe sobre eles todas as palavras deste pacto, que mandei que cumprissem, mas não cumpriram.
 \v Jr.11.9
 E disse-me o SENHOR: Achou-se conspiração entre os homens de Judá, e entre os moradores de Jerusalém.
 \v Jr.11.10
-Voltaram às maldades de seus primeiros pais, que se recusaram a ouvir minhas palavras; ao invés disso, eles seguiram deuses estrangeiros, para lhes servirem; a casa de Israel e a casa de Judá violaram meu pacto, que eu tinha feito com seus pais.
+{rp|n4}Voltaram às maldades de seus primeiros pais, que se recusaram a ouvir minhas palavras; ao invés disso, eles seguiram deuses estrangeiros, para lhes servirem; a casa de Israel e a casa de Judá violaram meu pacto, que eu tinha feito com seus pais.
+{tr}Voltaram às maldades de seus primeiros pais, que se recusaram a ouvir Minhas palavras; ao invés disso, eles seguiram deuses estrangeiros, para lhes servirem; a casa de Israel e a casa de Judá violaram Meu pacto, que eu tinha feito com seus pais.
 \v Jr.11.11
-Portanto, assim diz o SENHOR: Eis que trarei sobre eles calamidade, da qual não poderão escapar; e clamarão a mim, mas eu não os ouvirei.
+{rp|n4}Portanto, assim diz o SENHOR: Eis que trarei sobre eles calamidade, da qual não poderão escapar; e clamarão a mim, mas eu não os ouvirei.
+{tr}Portanto, assim diz o SENHOR: Eis que trarei sobre eles calamidade, da qual não poderão escapar; e clamarão a Mim, mas eu não os ouvirei.
 \v Jr.11.12
 Então as cidades de Judá e os moradores de Jerusalém irão, e clamarão aos deuses a quem queimam incensos; porém de maneira nenhuma poderão os salvar no tempo de sua calamidade.
 \v Jr.11.13
 Porque teus deuses foram tão numerosos quanto tuas cidades, ó Judá; e tão numerosos quanto tuas ruas, ó Jerusalém, vós pusestes altares da vergonha, altares para queimar incensos a Baal.
 \v Jr.11.14
-Tu, pois, não ores por este povo, nem levantes por eles clamor nem oração; porque eu não ouvirei no dia em que clamarem a mim em meio a calamidade deles.
+{rp|n4}Tu, pois, não ores por este povo, nem levantes por eles clamor nem oração; porque eu não ouvirei no dia em que clamarem a mim em meio a calamidade deles.
+{tr}Tu, pois, não ores por este povo, nem levantes por eles clamor nem oração; porque eu não ouvirei no dia em que clamarem a Mim em meio a calamidade deles.
 \v Jr.11.15
 Que 
 \added
 direito
 \*added
- tem minha amada em minha casa, visto que muitos têm feito tão grandes abominações? Podem carnes “santificadas” te livrar, de modo que te alegras 
+{rp|n4} tem minha amada em minha casa, visto que muitos têm feito tão grandes abominações? Podem carnes “santificadas” te livrar, de modo que te alegras 
+{tr} tem Minha amada em Minha casa, visto que muitos têm feito tão grandes abominações? Podem carnes “santificadas” te livrar, de modo que te alegras 
 com tua maldade?
 \fn
 \key
@@ -1172,13 +1249,15 @@ Porém agora
 , à voz de grande tumulto, ele acendeu fogo sobre ela, e seus ramos foram quebrados.
 \v Jr.11.17
 Pois o SENHOR dos exércitos, que te plantou, pronunciou calamidade contra ti, por causa da maldade da casa de Israel e da casa de Judá, que 
-fizeram entre si mesmos, para me provocarem à ira queimando
+{rp|n4}fizeram entre si mesmos, para me provocarem à ira queimando
+{tr}fizeram entre si mesmos, para Me provocarem à ira queimando
 \fn
 i.e. oferecendo
 \*fn
  incenso a Baal.
 \v Jr.11.18
-E o SENHOR me fez saber, e conhecer; então tu me fizeste ver suas ações.
+{rp|n4}E o SENHOR me fez saber, e conhecer; então tu me fizeste ver suas ações.
+{tr}E o SENHOR me fez saber, e conhecer; então Tu me fizeste ver suas ações.
 \v Jr.11.19
 E eu estava como cordeiro manso, que levam para degolar, pois não entendia que tramavam planos contra mim, dizendo: Destruamos a árvore com seu 
 fruto, e o cortemos da terra dos viventes, e não haja mais lembrança de seu nome.
@@ -1190,7 +1269,8 @@ sentimentos e pensamentos
 \*key
 lit. rins e coração
 \*fn
- veja eu tua vingança deles; porque a ti mostrei minha causa.
+{rp|n4} veja eu tua vingança deles; porque a ti mostrei minha causa.
+{tr} veja eu Tua vingança deles; porque a Ti mostrei minha causa.
 \v Jr.11.21
 Portanto assim diz o SENHOR quanto aos homens de Anatote, que buscam 
 \added
@@ -1247,11 +1327,13 @@ trad. alt. se [até] em terra de paz tu tropeças
 \v Jr.12.6
 Porque até teus irmãos e a casa de teu pai passaram a agir traiçoeiramente contra ti, até eles gritaram atrás de ti. Não creias neles, quando te falarem coisas boas.
 \v Jr.12.7
-Deixei minha casa, abandonei minha herança, entreguei a amada de minha alma nas mãos de seus inimigos.
+{rp|n4}Deixei minha casa, abandonei minha herança, entreguei a amada de minha alma nas mãos de seus inimigos.
+{tr}Deixei Minha casa, abandonei Minha herança, entreguei a amada de Minha alma nas mãos de seus inimigos.
 \v Jr.12.8
 Minha herança se tornou para mim como um leão na floresta: ela levantou sua voz contra mim; por isso que eu a odeio.
 \v Jr.12.9
-Não é minha herança para mim uma ave de rapina de muitas cores?
+{rp|n4}Não é minha herança para mim uma ave de rapina de muitas cores?
+{tr}Não é Minha herança para Mim uma ave de rapina de muitas cores?
 \fn
 \key
 ave de rapina de muitas cores
@@ -1260,9 +1342,11 @@ obscuro – trads. alts.: “ave de rapina [ou] hiena”, “toca de hiena”
 \*fn
  Não estão contra ela aves de rapina ao redor? Vinde, ajuntai-vos, todas os animais do campo, vinde para devorá-la.
 \v Jr.12.10
-Muitos pastores destruíram minha vinha, pisaram meu campo; tornaram meu campo desejado em um deserto devastado.
+{rp|n4}Muitos pastores destruíram minha vinha, pisaram meu campo; tornaram meu campo desejado em um deserto devastado.
+{tr}Muitos pastores destruíram Minha vinha, pisaram Meu campo; tornaram Meu campo desejado em um deserto devastado.
 \v Jr.12.11
-Tornaram-no em desolação, e lamenta a mim, desolado; toda a terra está desolada, porque ninguém há que pense 
+{rp|n4}Tornaram-no em desolação, e lamenta a mim, desolado; toda a terra está desolada, porque ninguém há que pense 
+{tr}Tornaram-no em desolação, e lamenta a Mim, desolado; toda a terra está desolada, porque ninguém há que pense 
 \added
 nisso
 \*added
@@ -1277,11 +1361,13 @@ os arrancarei de sua terra, e arrancarei a casa de Judá do meio deles.
 \v Jr.12.15
 E será que, depois de os arrancar, voltarei, terei compaixão deles, e os farei voltar cada um à sua herança, e cada um à sua terra.
 \v Jr.12.16
-E será que, se cuidadosamente aprenderem os caminhos de meu povo, para jurar em meu nome, 
+{rp|n4}E será que, se cuidadosamente aprenderem os caminhos de meu povo, para jurar em meu nome, 
+{tr}E será que, se cuidadosamente aprenderem os caminhos de Meu povo, para jurar em Meu nome, 
 \added
 dizendo
 \*added
-: Vive o SENHOR, assim como ensinaram a meu povo a jurar por Baal; eles serão edificados em meio do meu povo.
+{rp|n4}: Vive o SENHOR, assim como ensinaram a meu povo a jurar por Baal; eles serão edificados em meio do meu povo.
+{tr}: Vive o SENHOR, assim como ensinaram a Meu povo a jurar por Baal; eles serão edificados em meio do Meu povo.
 \v Jr.12.17
 Porém, se não quiserem ouvir,
 \fn
@@ -1312,9 +1398,11 @@ Então veio a mim palavra do SENHOR, dizendo:
 \v Jr.13.9
 Assim diz o SENHOR: assim farei apodrecer a arrogância de Judá, e a grande arrogância de Jerusalém,
 \v Jr.13.10
-Este povo maligno, que recusa ouvir minhas palavras, que caminha conforme a teimosia de seu coração, e segue atrás de deuses estrangeiros para lhes servir, e para se encurvar a eles; e tal será como este cinto, que para nenhuma coisa presta.
+{rp|n4}Este povo maligno, que recusa ouvir minhas palavras, que caminha conforme a teimosia de seu coração, e segue atrás de deuses estrangeiros para lhes servir, e para se encurvar a eles; e tal será como este cinto, que para nenhuma coisa presta.
+{tr}Este povo maligno, que recusa ouvir Minhas palavras, que caminha conforme a teimosia de seu coração, e segue atrás de deuses estrangeiros para lhes servir, e para se encurvar a eles; e tal será como este cinto, que para nenhuma coisa presta.
 \v Jr.13.11
-Porque assim como o cinto está junto aos lombos do homem, assim fiz juntar a mim toda a casa de Israel e toda a casa de Judá, diz o SENHOR, para que me fossem por povo e por nome, e por louvor e por glória; porém não 
+{rp|n4}Porque assim como o cinto está junto aos lombos do homem, assim fiz juntar a mim toda a casa de Israel e toda a casa de Judá, diz o SENHOR, para que me fossem por povo e por nome, e por louvor e por glória; porém não 
+{tr}Porque assim como o cinto está junto aos lombos do homem, assim fiz juntar a Mim toda a casa de Israel e toda a casa de Judá, diz o SENHOR, para que Me fossem por povo e por nome, e por louvor e por glória; porém não 
 \added
 quiseram
 \*added
@@ -1353,7 +1441,8 @@ as
 \v Jr.13.20
 Levantai vossos olhos, e vede os que vêm do norte; onde está o rebanho que te foi dado, a ovelhas de tua glória?
 \v Jr.13.21
-O que dirás quando ele te punir? Pois tu os ensinaste a serem príncipes e cabeça sobre ti. Por acaso as dores não te tomarão, como uma mulher em parto?
+{rp|n4}O que dirás quando ele te punir? Pois tu os ensinaste a serem príncipes e cabeça sobre ti. Por acaso as dores não te tomarão, como uma mulher em parto?
+{tr}O que dirás quando Ele te punir? Pois tu os ensinaste a serem príncipes e cabeça sobre ti. Por acaso as dores não te tomarão, como uma mulher em parto?
 \v Jr.13.22
 E quando disseres em teu coração: Por que estas coisas me aconteceram? 
 \added
@@ -1385,7 +1474,8 @@ que te reservo
 \*key
 lit. de minha parte
 \*fn
- diz o SENHOR; pois tu te esqueceste de mim, e confiaste na mentira.
+{rp|n4} diz o SENHOR; pois tu te esqueceste de mim, e confiaste na mentira.
+{tr} diz o SENHOR; pois tu te esqueceste de Mim, e confiaste na mentira.
 \v Jr.13.26
 Assim também eu descobrirei também tuas roupas até sobre teu rosto, e tua desonra ficará à mostra;
 \v Jr.13.27
@@ -1411,7 +1501,8 @@ E até as cervas nos campos geram filhotes, e os abandonam, pois não há erva.
 \v Jr.14.6
 E os asnos monteses se põem nos lugares altos, aspiram o vento como os chacais; seus olhos se enfraquecem, pois não há erva.
 \v Jr.14.7
-Ainda nossas maldades dão testemunho contra nós, SENHOR, age por amor de teu nome; pois nossas rebeldias se multiplicaram, contra ti pecamos.
+{rp|n4}Ainda nossas maldades dão testemunho contra nós, SENHOR, age por amor de teu nome; pois nossas rebeldias se multiplicaram, contra ti pecamos.
+{tr}Ainda nossas maldades dão testemunho contra nós, SENHOR, age por amor de Teu nome; pois nossas rebeldias se multiplicaram, contra Ti pecamos.
 \v Jr.14.8
 Ó tu, esperança de Israel, Redentor seu em tempo de angústia! Por que serias tu como um peregrino na terra, e como um caminhante que 
 \added
@@ -1419,11 +1510,13 @@ apenas
 \*added
  se recolhe para passar a noite?
 \v Jr.14.9
-Por que serias tu como um homem atônito,
+{rp|n4}Por que serias tu como um homem atônito,
+{tr}Por que serias Tu como um homem atônito,
 \fn
 obscuro – trads. alts. confuso, indefeso
 \*fn
- e como um guerreiro que não pode salvar? Tu porém estás no meio de nós, ó SENHOR, e nós somos chamados pelo teu nome! Não nos desampares.
+{rp|n4} e como um guerreiro que não pode salvar? Tu porém estás no meio de nós, ó SENHOR, e nós somos chamados pelo teu nome! Não nos desampares.
+{tr} e como um guerreiro que não pode salvar? Tu porém estás no meio de nós, ó SENHOR, e nós somos chamados pelo Teu nome! Não nos desampares.
 \v Jr.14.10
 Assim diz o SENHOR quanto a este povo: Já que amaram tanto se moverem, e detiveram seus pés, por isso o SENHOR não se agrada deles; agora se 
 lembrará da maldade deles, e punirá por causa de seus pecados.
@@ -1442,7 +1535,8 @@ próprios
 \*added
  corações.
 \v Jr.14.15
-Portanto assim diz o SENHOR quanto aos profetas que profetizam em meu nome, sem que eu tenha lhes enviado, que dizem “não haverá nem espada nem fome nesta terra”: Com espada e com fome tais profetas serão consumidos;
+{rp|n4}Portanto assim diz o SENHOR quanto aos profetas que profetizam em meu nome, sem que eu tenha lhes enviado, que dizem “não haverá nem espada nem fome nesta terra”: Com espada e com fome tais profetas serão consumidos;
+{tr}Portanto assim diz o SENHOR quanto aos profetas que profetizam em Meu nome, sem que eu tenha lhes enviado, que dizem “não haverá nem espada nem fome nesta terra”: Com espada e com fome tais profetas serão consumidos;
 \v Jr.14.16
 E o povo a quem eles profetizam será lançado fora nas ruas de Jerusalém, por causa da fome e da espada; e não haverá quem os enterre, eles, suas mulheres, seus filhos, e suas filhas; e sobre eles derramarei sua maldade.
 \v Jr.14.17
@@ -1465,7 +1559,8 @@ esperávamos
 \*added
  tempo de cura, e eis o terror!
 \v Jr.14.20
-Ó SENHOR, reconhecemos nossa perversidade, a maldade de nossos pais; pois pecamos contra ti.
+{rp|n4}Ó SENHOR, reconhecemos nossa perversidade, a maldade de nossos pais; pois pecamos contra ti.
+{tr}Ó SENHOR, reconhecemos nossa perversidade, a maldade de nossos pais; pois pecamos contra Ti.
 \v Jr.14.21
 Não 
 \added
@@ -1510,7 +1605,8 @@ E eu os padejarei com pá até as portas da terra,
 \added
 e os
 \*added
- deixarei sem filhos; destruirei meu povo, pois não voltaram atrás de seus caminhos.
+{rp|n4} deixarei sem filhos; destruirei meu povo, pois não voltaram atrás de seus caminhos.
+{tr} deixarei sem filhos; destruirei Meu povo, pois não voltaram atrás de seus caminhos.
 \v Jr.15.8
 Suas viúvas se multiplicaram mais que a areia dos mares; eu lhes trouxe sobre a mãe dos rapazes um destruidor ao meio dia; sobre ela eu fiz cair de angústia e terrores.
 \v Jr.15.9
@@ -1543,7 +1639,8 @@ E
 \added
 te
 \*added
- levarei com teus inimigos a uma terra que não conheces; porque fogo se acendeu em minha ira, que arderá sobre vós.
+{rp|n4} levarei com teus inimigos a uma terra que não conheces; porque fogo se acendeu em minha ira, que arderá sobre vós.
+{tr} levarei com teus inimigos a uma terra que não conheces; porque fogo se acendeu em Minha ira, que arderá sobre vós.
 \v Jr.15.15
 Tu sabes, ó SENHOR; lembra-te de mim, visita-me, e vinga-me de meus perseguidores. Na lentidão de tua ira não me elimines; tu sabes que é por causa de ti que sofro insultos.
 \v Jr.15.16
@@ -1557,7 +1654,8 @@ com eles
 \v Jr.15.18
 Por que minha dor é contínua, e minha ferida intratável, que não permite cura? Por acaso serias tu para mim como uma ilusão, como águas que não se pode confiar?
 \v Jr.15.19
-Portanto assim diz o SENHOR: Se te converteres, eu te restaurarei, e diante de mim estarás; e se tirares o que é de precioso ao invés do vil, serás como minha boca. Convertam-se eles a ti, e tu não te convertas a eles.
+{rp|n4}Portanto assim diz o SENHOR: Se te converteres, eu te restaurarei, e diante de mim estarás; e se tirares o que é de precioso ao invés do vil, serás como minha boca. Convertam-se eles a ti, e tu não te convertas a eles.
+{tr}Portanto assim diz o SENHOR: Se te converteres, eu te restaurarei, e diante de Mim estarás; e se tirares o que é de precioso ao invés do vil, serás como Minha boca. Convertam-se eles a ti, e tu não te convertas a eles.
 \v Jr.15.20
 Pois eu te porei para este povo 
 \added
@@ -1575,7 +1673,8 @@ Porque assim diz o SENHOR quanto aos filhos e às filhas que nascerem neste luga
 \v Jr.16.4
 De dolorosas enfermidades morrerão; não serão pranteados nem sepultados; servirão de esterco sobre a face da terra; e com espada e com fome serão consumidos, e seus cadáveres servirão de alimento para as aves do céu e para os animais da terra.
 \v Jr.16.5
-Porque assim diz o SENHOR: Não entres em casa de luto, nem vás para lamentar, nem mostre compaixão deles; pois deste povo eu tirei minha paz, bondade e misericórdia, diz o SENHOR.
+{rp|n4}Porque assim diz o SENHOR: Não entres em casa de luto, nem vás para lamentar, nem mostre compaixão deles; pois deste povo eu tirei minha paz, bondade e misericórdia, diz o SENHOR.
+{tr}Porque assim diz o SENHOR: Não entres em casa de luto, nem vás para lamentar, nem mostre compaixão deles; pois deste povo eu tirei Minha paz, bondade e misericórdia, diz o SENHOR.
 \v Jr.16.6
 E nesta terra morrerão grandes e pequenos; não serão sepultados, nem pranteados, nem por eles se cortarão, ou rasparão seus cabelos;
 \v Jr.16.7
@@ -1587,9 +1686,11 @@ Porque assim diz o SENHOR dos exércitos, Deus de Israel: Eis que farei cessar n
 \v Jr.16.10
 E será que quando anunciares a este povo todas estas palavras, eles te dirão: Por que o SENHOR falou sobre nós este mal tão grande? E que maldade é a nossa, ou que pecado é o nosso, que cometemos contra o SENHOR nosso Deus?
 \v Jr.16.11
-Então lhes dirás: Porque vossos pais me deixaram, diz o SENHOR, e seguiram deuses estrangeiros, os serviram e a eles se prostraram; e me abandonaram, e não guardaram minha Lei;
+{rp|n4}Então lhes dirás: Porque vossos pais me deixaram, diz o SENHOR, e seguiram deuses estrangeiros, os serviram e a eles se prostraram; e me abandonaram, e não guardaram minha Lei;
+{tr}Então lhes dirás: Porque vossos pais Me deixaram, diz o SENHOR, e seguiram deuses estrangeiros, os serviram e a eles se prostraram; e Me abandonaram, e não guardaram Minha Lei;
 \v Jr.16.12
-E vós fizestes pior que vossos pais; pois eis que vós caminhais cada um atrás da teimosia de seu coração maligno, sem me obedecerem.
+{rp|n4}E vós fizestes pior que vossos pais; pois eis que vós caminhais cada um atrás da teimosia de seu coração maligno, sem me obedecerem.
+{tr}E vós fizestes pior que vossos pais; pois eis que vós caminhais cada um atrás da teimosia de seu coração maligno, sem Me obedecerem.
 \fn
 \key
 obedecerem
@@ -1605,23 +1706,29 @@ Mas sim: Vive o SENHOR, que trouxe os filhos de Israel da terra do norte, e de t
 \v Jr.16.16
 Eis que enviarei muitos pescadores, diz o SENHOR, que os pescarão; e depois enviarei muitos caçadores, que os caçarão de todo monte, e de todo morro, e até das fendas das rochas.
 \v Jr.16.17
-Pois meus olhos estão sobre todos seus caminhos; eles não estão escondidos de mim, nem a maldade deles está oculta de diante de meus olhos.
+{rp|n4}Pois meus olhos estão sobre todos seus caminhos; eles não estão escondidos de mim, nem a maldade deles está oculta de diante de meus olhos.
+{tr}Pois Meus olhos estão sobre todos seus caminhos; eles não estão escondidos de Mim, nem a maldade deles está oculta de diante de Meus olhos.
 \v Jr.16.18
-Mas primeiro pagarei em dobro a iniquidade e o pecado deles, pois contaminaram minha terra com os cadáveres de suas coisas detestáveis, e encheram minha herança de suas abominações.
+{rp|n4}Mas primeiro pagarei em dobro a iniquidade e o pecado deles, pois contaminaram minha terra com os cadáveres de suas coisas detestáveis, e encheram minha herança de suas abominações.
+{tr}Mas primeiro pagarei em dobro a iniquidade e o pecado deles, pois contaminaram Minha terra com os cadáveres de suas coisas detestáveis, e encheram Minha herança de suas abominações.
 \v Jr.16.19
-Ó SENHOR, fortaleza minha, e força minha, e meu refúgio no tempo da aflição; a ti virão nações desde os confins da terra, e dirão: Certamente o que nossos pais possuíam era mentira e inutilidade; não havia nessas coisas proveito algum.
+{rp|n4}Ó SENHOR, fortaleza minha, e força minha, e meu refúgio no tempo da aflição; a ti virão nações desde os confins da terra, e dirão: Certamente o que nossos pais possuíam era mentira e inutilidade; não havia nessas coisas proveito algum.
+{tr}Ó SENHOR, fortaleza minha, e força minha, e meu refúgio no tempo da aflição; a Ti virão nações desde os confins da terra, e dirão: Certamente o que nossos pais possuíam era mentira e inutilidade; não havia nessas coisas proveito algum.
 \v Jr.16.20
 Pode, por acaso, o homem fazer deuses para si? Eles, porém, não são deuses.
 \v Jr.16.21
-Portanto eis que desta vez lhes farei conhecer, lhes farei conhecer minha mão e meu poder, e saberão que EU-SOU é o meu nome.
+{rp|n4}Portanto eis que desta vez lhes farei conhecer, lhes farei conhecer minha mão e meu poder, e saberão que EU-SOU é o meu nome.
+{tr}Portanto eis que desta vez lhes farei conhecer, lhes farei conhecer Minha mão e Meu poder, e saberão que EU-SOU é o Meu nome.
 \v Jr.17.1
 O pecado de Judá está escrito com cinzel de ferro, com ponta de diamante; está esculpido na tábua de seu coração, e nas pontas de vossos altares;
 \v Jr.17.2
 Enquanto seus filhos se lembram de seus altares e de seus bosques, junto às árvores verdes, sobre os altos morros.
 \v Jr.17.3
-Ó minha montanha no campo! Tua riqueza e todos os teus tesouros darei como despojo por causa do pecado de teus altos em todos teus limites.
+{rp|n4}Ó minha montanha no campo! Tua riqueza e todos os teus tesouros darei como despojo por causa do pecado de teus altos em todos teus limites.
+{tr}Ó Minha montanha no campo! Tua riqueza e todos os teus tesouros darei como despojo por causa do pecado de teus altos em todos teus limites.
 \v Jr.17.4
-Assim por causa de ti deixarás de ter a herança que eu te dei, e te farei servir a teus inimigos em uma terra que não conheces; porque acendestes fogo em minha ira, que arderá para sempre.
+{rp|n4}Assim por causa de ti deixarás de ter a herança que eu te dei, e te farei servir a teus inimigos em uma terra que não conheces; porque acendestes fogo em minha ira, que arderá para sempre.
+{tr}Assim por causa de ti deixarás de ter a herança que eu te dei, e te farei servir a teus inimigos em uma terra que não conheces; porque acendestes fogo em Minha ira, que arderá para sempre.
 \v Jr.17.5
 Assim diz o SENHOR: Maldito o homem que confia no homem, e põe sua confiança na força humana,
 \fn
@@ -1672,9 +1779,11 @@ lit. elas o deixarão
 \v Jr.17.12
 Trono de glória, elevado desde o princípio, é o lugar de nosso santuário.
 \v Jr.17.13
-Ó SENHOR, esperança de Israel! Todos os que te abandonam serão envergonhados; e os que de mim se afastam, serão escritos no chão; pois abandonaram ao SENHOR, a fonte de águas vivas.
+{rp|n4}Ó SENHOR, esperança de Israel! Todos os que te abandonam serão envergonhados; e os que de mim se afastam, serão escritos no chão; pois abandonaram ao SENHOR, a fonte de águas vivas.
+{tr}Ó SENHOR, esperança de Israel! Todos os que Te abandonam serão envergonhados; e os que de Mim se afastam, serão escritos no chão; pois abandonaram ao SENHOR, a fonte de águas vivas.
 \v Jr.17.14
-Sara-me, ó SENHOR, e serei sarado; salva-me, e serei salvo; pois tu és meu louvor.
+{rp|n4}Sara-me, ó SENHOR, e serei sarado; salva-me, e serei salvo; pois tu és meu louvor.
+{tr}Sara-me, ó SENHOR, e serei sarado; salva-me, e serei salvo; pois Tu és meu louvor.
 \v Jr.17.15
 Eis que eles me dizem: Onde está a palavra do SENHOR? Cumpra-se ela agora!
 \fn
@@ -1714,7 +1823,8 @@ lit. endureceram sua cerviz (i.e. pescoço
 \*fn
  ) para não ouvirem, nem receberem correção.
 \v Jr.17.24
-Será, pois, se vós me ouvirdes cuidadosamente, diz o SENHOR, não fazendo entrar carga pelas portas desta cidade no dia do sábado, e santificardes o dia do sábado, não fazendo nele nenhuma obra;
+{rp|n4}Será, pois, se vós me ouvirdes cuidadosamente, diz o SENHOR, não fazendo entrar carga pelas portas desta cidade no dia do sábado, e santificardes o dia do sábado, não fazendo nele nenhuma obra;
+{tr}Será, pois, se vós Me ouvirdes cuidadosamente, diz o SENHOR, não fazendo entrar carga pelas portas desta cidade no dia do sábado, e santificardes o dia do sábado, não fazendo nele nenhuma obra;
 \v Jr.17.25
 Então entrarão pelas portas desta cidade reis e os príncipes que se sentem sobre o trono de Davi, 
 \added
@@ -1729,11 +1839,13 @@ pessoas
  virão das cidades de Judá, dos arredores de Jerusalém, da terra de Benjamim, dos campos, do monte, e do Negueve, 
 trazendo holocaustos, sacrifícios, ofertas de alimento e incensos, e trazendo sacrifícios de louvor à casa do SENHOR.
 \v Jr.17.27
-Porém se não me ouvirdes para santificardes o dia do sábado, e para não trazerdes carga nem fazê-la entrar pelas portas de Jerusalém no dia de sábado, eu acenderei fogo em suas portas, que consumirá os palácios de Jerusalém, e não se apagará.
+{rp|n4}Porém se não me ouvirdes para santificardes o dia do sábado, e para não trazerdes carga nem fazê-la entrar pelas portas de Jerusalém no dia de sábado, eu acenderei fogo em suas portas, que consumirá os palácios de Jerusalém, e não se apagará.
+{tr}Porém se não Me ouvirdes para santificardes o dia do sábado, e para não trazerdes carga nem fazê-la entrar pelas portas de Jerusalém no dia de sábado, eu acenderei fogo em suas portas, que consumirá os palácios de Jerusalém, e não se apagará.
 \v Jr.18.1
 Palavra que veio do SENHOR a Jeremias, dizendo:
 \v Jr.18.2
-Levanta-te, e desce à casa do oleiro; e ali te farei ouvir minhas palavras.
+{rp|n4}Levanta-te, e desce à casa do oleiro; e ali te farei ouvir minhas palavras.
+{tr}Levanta-te, e desce à casa do oleiro; e ali te farei ouvir Minhas palavras.
 \v Jr.18.3
 Então desci à casa do oleiro, e eis que ele estava fazendo uma obra sobre a roda.
 \v Jr.18.4
@@ -1741,7 +1853,8 @@ E o vaso de barro que ele estava fazendo se quebrou na mão do oleiro; então el
 \v Jr.18.5
 Então veio a mim palavra do SENHOR, dizendo:
 \v Jr.18.6
-Por acaso não poderei eu fazer de vós como este oleiro, ó casa de Israel?diz o SENHOR. Eis que tal como o barro na mão do oleiro, assim sois vós em minha mão, ó casa de Israel.
+{rp|n4}Por acaso não poderei eu fazer de vós como este oleiro, ó casa de Israel?diz o SENHOR. Eis que tal como o barro na mão do oleiro, assim sois vós em minha mão, ó casa de Israel.
+{tr}Por acaso não poderei eu fazer de vós como este oleiro, ó casa de Israel?diz o SENHOR. Eis que tal como o barro na mão do oleiro, assim sois vós em Minha mão, ó casa de Israel.
 \v Jr.18.7
 Caso em algum momento eu falar contra uma nação e contra um reino, para arrancar, dissipar, e destruir,
 \v Jr.18.8
@@ -1749,7 +1862,8 @@ Se tal nação se converter de sua maldade, contra a qual falei, eu mudarei de i
 \v Jr.18.9
 Caso em algum momento eu falar de uma nação e de um reino, para edificar e para plantar;
 \v Jr.18.10
-Se ela fizer o mal diante dos meus olhos, não obedecendo à minha voz, eu mudarei de ideia quanto ao bem que tinha dito lhe fazer.
+{rp|n4}Se ela fizer o mal diante dos meus olhos, não obedecendo à minha voz, eu mudarei de ideia quanto ao bem que tinha dito lhe fazer.
+{tr}Se ela fizer o mal diante dos Meus olhos, não obedecendo à Minha voz, eu mudarei de ideia quanto ao bem que tinha dito lhe fazer.
 \v Jr.18.11
 Então agora, fala, pois, a todo homem de Judá, e aos moradores de Jerusalém, dizendo: Assim diz o SENHOR: Eis que eu determino o mal contra vós, e faço planos contra vós; convertei-vos agora, cada um de seu mau caminho, e melhorai vossos caminhos e vossas ações.
 \v Jr.18.12
@@ -1763,7 +1877,8 @@ Portanto assim diz o SENHOR: Perguntai agora entre as nações, quem tenha ouvid
 \v Jr.18.14
 Por acaso pode faltar neve nas rochas das montanhas do Líbano? Ou pode deixar de haver as águas frias que correm de terras distantes?
 \v Jr.18.15
-Porém meu povo se esqueceu de mim, queimando incenso à inutilidade, e fazem- lhes tropeçar em seus caminhos, 
+{rp|n4}Porém meu povo se esqueceu de mim, queimando incenso à inutilidade, e fazem- lhes tropeçar em seus caminhos, 
+{tr}Porém Meu povo se esqueceu de Mim, queimando incenso à inutilidade, e fazem- lhes tropeçar em seus caminhos, 
 \added
 nas
 \*added
@@ -1781,7 +1896,8 @@ Por acaso se pagará ao bem com o mal? Pois já cavaram uma cova para a minha al
 \v Jr.18.21
 Portanto entrega os filhos deles à fome, e derrama-os pelo poder da espada; e restem suas mulheres sem filhos e viúvas; e seus maridos sejam postos a morte, e seus rapazes sejam feridos à espada na guerra.
 \v Jr.18.22
-Ouçam-se gritos de suas casas, quando tu trouxeres tropas contra eles de repente; pois cavaram uma cova para me prender, e armaram laços para meus pés.
+{rp|n4}Ouçam-se gritos de suas casas, quando tu trouxeres tropas contra eles de repente; pois cavaram uma cova para me prender, e armaram laços para meus pés.
+{tr}Ouçam-se gritos de suas casas, quando Tu trouxeres tropas contra eles de repente; pois cavaram uma cova para me prender, e armaram laços para meus pés.
 \v Jr.18.23
 Mas tu, SENHOR, conheces todo o plano deles contra mim para me matar; não perdoes sua maldade, nem apagues o pecado deles de diante de tua presença, e tropecem diante de ti; faze 
 \added
@@ -1799,7 +1915,8 @@ E sai ao vale do filho de Hinom, que fica à entrada da porta oriental; e ali de
 \v Jr.19.3
 E dize: Ouvi a palavra do SENHOR, ó reis de Judá, e moradores de Jerusalém. Assim diz o SENHOR dos exércitos, Deus de Israel: Eis que trarei calamidade sobre este lugar, de tal modo que quem o ouvir, lhe retinirão os ouvidos.
 \v Jr.19.4
-Pois me abandonaram, e profanaram
+{rp|n4}Pois me abandonaram, e profanaram
+{tr}Pois Me abandonaram, e profanaram
 \fn
 \key
 profanaram
@@ -1816,7 +1933,8 @@ como
 \added
 lhes
 \*added
- mandei, nem falei, nem jamais pensei em meu coração.
+{rp|n4} mandei, nem falei, nem jamais pensei em meu coração.
+{tr} mandei, nem falei, nem jamais pensei em Meu coração.
 \v Jr.19.6
 Por isso eis vêm dias, diz o SENHOR, que este lugar não se chamará mais Tofete, nem Vale do filho de Hinom, mas sim Vale da Matança.
 \v Jr.19.7
@@ -1866,7 +1984,8 @@ Assim diz o SENHOR dos exércitos, Deus de Israel: Eis que eu trago sobre esta c
 \fn
 mal = i.e., calamidade, desastre
 \*fn
- que falei contra ela; pois endureceram seu pescoço para não ouvirem minhas palavras.
+{rp|n4} que falei contra ela; pois endureceram seu pescoço para não ouvirem minhas palavras.
+{tr} que falei contra ela; pois endureceram seu pescoço para não ouvirem Minhas palavras.
 \v Jr.20.1
 E Pasur, filho de Imer, o sacerdote, que era o principal supervisor na casa do SENHOR, ouviu a Jeremias enquanto profetizava estas palavras.
 \v Jr.20.2
@@ -1919,7 +2038,8 @@ sentimentos e pensamentos = lit. rins e coração
 \*fn
  faz-me ver a tua vingança sobre eles; pois a ti revelei a minha causa.
 \v Jr.20.13
-Cantai ao SENHOR, louvai ao SENHOR; pois ele livra a alma do necessitado da mão dos malfeitores.
+{rp|n4}Cantai ao SENHOR, louvai ao SENHOR; pois ele livra a alma do necessitado da mão dos malfeitores.
+{tr}Cantai ao SENHOR, louvai ao SENHOR; pois Ele livra a alma do necessitado da mão dos malfeitores.
 \v Jr.20.14
 Maldito seja o dia em que nasci! O dia em que minha mãe me teve não seja bendito!
 \v Jr.20.15
@@ -1963,11 +2083,13 @@ Aquele que permanecer nesta cidade, morrerá a espada, ou pela fome, ou pela pes
 terá sua vida como despojo = i.e., ganhará o direito de se manter vivo
 \*fn
 \v Jr.21.10
-Porque pus meu rosto contra esta cidade para o mal, e não para o bem, diz o SENHOR; nas mãos do rei de Babilônia será entregue, e ele a queimará a fogo.
+{rp|n4}Porque pus meu rosto contra esta cidade para o mal, e não para o bem, diz o SENHOR; nas mãos do rei de Babilônia será entregue, e ele a queimará a fogo.
+{tr}Porque pus Meu rosto contra esta cidade para o mal, e não para o bem, diz o SENHOR; nas mãos do rei de Babilônia será entregue, e ele a queimará a fogo.
 \v Jr.21.11
 E à casa do rei de Judá dirás: Ouvi palavra do SENHOR.
 \v Jr.21.12
-Casa de Davi, assim diz o SENHOR: Julgai de manhã com justiça, e livrai a vítima de roubo da mão do opressor; para que minha ira não saia como fogo, e incendeie de modo que não haja quem apague, por causa da maldade de vossas ações.
+{rp|n4}Casa de Davi, assim diz o SENHOR: Julgai de manhã com justiça, e livrai a vítima de roubo da mão do opressor; para que minha ira não saia como fogo, e incendeie de modo que não haja quem apague, por causa da maldade de vossas ações.
+{tr}Casa de Davi, assim diz o SENHOR: Julgai de manhã com justiça, e livrai a vítima de roubo da mão do opressor; para que Minha ira não saia como fogo, e incendeie de modo que não haja quem apague, por causa da maldade de vossas ações.
 \v Jr.21.13
 Eis que eu 
 \added
@@ -1996,9 +2118,11 @@ obedecerdes
 \*key
 lit. ouvirdes
 \*fn
- estas palavras, por mim mesmo tenho jurado, diz o SENHOR, que esta casa se tornará deserta.
+{rp|n4} estas palavras, por mim mesmo tenho jurado, diz o SENHOR, que esta casa se tornará deserta.
+{tr} estas palavras, por Mim mesmo tenho jurado, diz o SENHOR, que esta casa se tornará deserta.
 \v Jr.22.6
-Porque assim diz o SENHOR quanto à casa do rei de Judá: Tu és para mim 
+{rp|n4}Porque assim diz o SENHOR quanto à casa do rei de Judá: Tu és para mim 
+{tr}Porque assim diz o SENHOR quanto à casa do rei de Judá: Tu és para Mim 
 \added
 como
 \*added
@@ -2034,7 +2158,8 @@ e
 \*added
  então teve o bem?
 \v Jr.22.16
-Ele julgou a causa do aflito e do necessitado, e então esteve bem. Por acaso conhecer a mim não é isto?diz o SENHOR.
+{rp|n4}Ele julgou a causa do aflito e do necessitado, e então esteve bem. Por acaso conhecer a mim não é isto?diz o SENHOR.
+{tr}Ele julgou a causa do aflito e do necessitado, e então esteve bem. Por acaso conhecer a Mim não é isto?diz o SENHOR.
 \v Jr.22.17
 Mas teus olhos e teu coração não são 
 \added
@@ -2070,13 +2195,15 @@ deste ouvidos
 \*key
 i.e. obedeceste
 \*fn
- à minha voz.
+{rp|n4} à minha voz.
+{tr} à Minha voz.
 \v Jr.22.22
 O vento apascentará a todos os teus pastores, e teus amantes irão ao cativeiro; então certamente te envergonharás e te humilharás por causa de toda a tua maldade.
 \v Jr.22.23
 Tu, que habitas no Líbano, que fazes teu ninho nos cedros: como gemerás quando te vierem as dores, os sofrimentos como de mulher em parto!
 \v Jr.22.24
-Vivo eu, diz o SENHOR, que se Conias, filho de Jeoaquim rei de Judá, fosse um anel em minha mão direita, até dali eu te arrancaria;
+{rp|n4}Vivo eu, diz o SENHOR, que se Conias, filho de Jeoaquim rei de Judá, fosse um anel em minha mão direita, até dali eu te arrancaria;
+{tr}Vivo eu, diz o SENHOR, que se Conias, filho de Jeoaquim rei de Judá, fosse um anel em Minha mão direita, até dali eu te arrancaria;
 \v Jr.22.25
 E eu te entregarei na mão dos que buscam a tua vida, e na mão daqueles a quem tu temes: na mão de Nabucodonosor rei da Babilônia, e nas mão dos Caldeus.
 \v Jr.22.26
@@ -2097,11 +2224,14 @@ i.e., dentre seus descendentes
 \*fn
  prosperará em se sentar sobre o trono de Davi, e em reinar em Judá.
 \v Jr.23.1
-Ai dos pastores que destroem e dispersam as ovelhas de meu rebanho!, diz o SENHOR.
+{rp|n4}Ai dos pastores que destroem e dispersam as ovelhas de meu rebanho!, diz o SENHOR.
+{tr}Ai dos pastores que destroem e dispersam as ovelhas de Meu rebanho!, diz o SENHOR.
 \v Jr.23.2
-Portanto assim diz o SENHOR Deus de Israel quanto aos pastores que apascentam meu povo: Vós dispersastes minhas ovelhas, e as afugentastes, e não cuidastes delas; eis que eu cuidarei contra vós pela maldade de vossas ações, diz o SENHOR.
+{rp|n4}Portanto assim diz o SENHOR Deus de Israel quanto aos pastores que apascentam meu povo: Vós dispersastes minhas ovelhas, e as afugentastes, e não cuidastes delas; eis que eu cuidarei contra vós pela maldade de vossas ações, diz o SENHOR.
+{tr}Portanto assim diz o SENHOR Deus de Israel quanto aos pastores que apascentam Meu povo: Vós dispersastes Minhas ovelhas, e as afugentastes, e não cuidastes delas; eis que eu cuidarei contra vós pela maldade de vossas ações, diz o SENHOR.
 \v Jr.23.3
-E eu mesmo recolherei o restante de minhas ovelhas de todas as terras para onde as afugentei, e as farei voltar a seus apriscos; e crescerão, e se multiplicarão.
+{rp|n4}E eu mesmo recolherei o restante de minhas ovelhas de todas as terras para onde as afugentei, e as farei voltar a seus apriscos; e crescerão, e se multiplicarão.
+{tr}E eu mesmo recolherei o restante de Minhas ovelhas de todas as terras para onde as afugentei, e as farei voltar a seus apriscos; e crescerão, e se multiplicarão.
 \v Jr.23.4
 E porei sobre elas pastores que as apascentem; e nunca mais temerão, nem se assombrarão, nem haverá falta de uma sequer, diz o SENHOR.
 \v Jr.23.5
@@ -2124,7 +2254,8 @@ Quanto aos profetas: meu coração está quebrantado em meu interior, todos os m
 \v Jr.23.10
 Pois a terra está cheia de adúlteros: e por causa da maldição a terra lamenta; as cabanas do deserto se secaram; pois o percurso deles tem sido mau, e a força deles não é correta.
 \v Jr.23.11
-Pois tanto o profeta como o sacerdote são corruptos; até em minha casa achei sua maldade, diz o SENHOR.
+{rp|n4}Pois tanto o profeta como o sacerdote são corruptos; até em minha casa achei sua maldade, diz o SENHOR.
+{tr}Pois tanto o profeta como o sacerdote são corruptos; até em Minha casa achei sua maldade, diz o SENHOR.
 \v Jr.23.12
 Portanto o caminho deles lhes será como lugares escorregadios na escuridão; serão empurrados, e nele cairão; porque eu trarei mal sobre eles 
 \added
@@ -2132,7 +2263,8 @@ no
 \*added
  ano de sua punição, diz o SENHOR.
 \v Jr.23.13
-Nos profetas de Samaria vi coisas desagradáveis: profetizavam por Baal, e faziam errar a meu povo Israel.
+{rp|n4}Nos profetas de Samaria vi coisas desagradáveis: profetizavam por Baal, e faziam errar a meu povo Israel.
+{tr}Nos profetas de Samaria vi coisas desagradáveis: profetizavam por Baal, e faziam errar a Meu povo Israel.
 \v Jr.23.14
 Mas nos profetas de Jerusalém tenho vejo coisas horríveis: cometem adultérios, e andam com falsidade, e fortalecem as mãos dos malfeitores, para que ninguém se converta de sua maldade. Para mim, todos eles são como Sodoma, e seus moradores como Gomorra.
 \v Jr.23.15
@@ -2173,7 +2305,8 @@ trad. alt. dias futuros
 \v Jr.23.21
 Eu não enviei aqueles profetas, porém eles foram correndo; eu não lhes falei, porém eles profetizaram.
 \v Jr.23.22
-Mas se eles tivessem estado em meu conselho, então teriam anunciado minhas palavras a meu povo; e teriam feito com que deixassem seu mau caminho e a maldade de suas ações.
+{rp|n4}Mas se eles tivessem estado em meu conselho, então teriam anunciado minhas palavras a meu povo; e teriam feito com que deixassem seu mau caminho e a maldade de suas ações.
+{tr}Mas se eles tivessem estado em Meu conselho, então teriam anunciado Minhas palavras a Meu povo; e teriam feito com que deixassem seu mau caminho e a maldade de suas ações.
 \v Jr.23.23
 Por acaso sou eu Deus 
 \added
@@ -2183,7 +2316,8 @@ apenas
 \v Jr.23.24
 Pode alguém se esconder num esconderijo, diz o SENHOR, que eu não o veja? Por acaso não sou eu, diz o SENHOR, que encho os céus e a terra?
 \v Jr.23.25
-Tenho ouvido o que aqueles profetas dizem, profetizando mentiras em meu nome, dizendo: Sonhei, sonhei.
+{rp|n4}Tenho ouvido o que aqueles profetas dizem, profetizando mentiras em meu nome, dizendo: Sonhei, sonhei.
+{tr}Tenho ouvido o que aqueles profetas dizem, profetizando mentiras em Meu nome, dizendo: Sonhei, sonhei.
 \v Jr.23.26
 Até quando 
 \added
@@ -2191,13 +2325,16 @@ será isto
 \*added
  no coração dos profetas que profetizam mentiras, dos que profetizam o engano de seu coração?
 \v Jr.23.27
-Que pretendem, por meio de seus sonhos que cada um conta a seu próximo, fazer com que meu povo se esqueça de meu nome, tal como seus pais se esqueceram de meu nome por causa de Baal.
+{rp|n4}Que pretendem, por meio de seus sonhos que cada um conta a seu próximo, fazer com que meu povo se esqueça de meu nome, tal como seus pais se esqueceram de meu nome por causa de Baal.
+{tr}Que pretendem, por meio de seus sonhos que cada um conta a seu próximo, fazer com que Meu povo se esqueça de Meu nome, tal como seus pais se esqueceram de Meu nome por causa de Baal.
 \v Jr.23.28
-O profeta que tiver sonho, conte o sonho; e aquele que tiver minha palavra, conte minha palavra de forma fiel. O que a palha tem a ver com o trigo?, diz o SENHOR.
+{rp|n4}O profeta que tiver sonho, conte o sonho; e aquele que tiver minha palavra, conte minha palavra de forma fiel. O que a palha tem a ver com o trigo?, diz o SENHOR.
+{tr}O profeta que tiver sonho, conte o sonho; e aquele que tiver Minha palavra, conte Minha palavra de forma fiel. O que a palha tem a ver com o trigo?, diz o SENHOR.
 \v Jr.23.29
 Por acaso não é minha palavra como o fogo?diz o SENHOR, E como um martelo que esmigalha a pedra?
 \v Jr.23.30
-Portanto eis que eu sou contra os profetas, diz o SENHOR, que furtam minhas palavras cada um de seu próximo.
+{rp|n4}Portanto eis que eu sou contra os profetas, diz o SENHOR, que furtam minhas palavras cada um de seu próximo.
+{tr}Portanto eis que eu sou contra os profetas, diz o SENHOR, que furtam Minhas palavras cada um de seu próximo.
 \v Jr.23.31
 Eis que eu sou contra os profetas, diz o SENHOR, que usam suas línguas, e declaram: 
 \added
@@ -2205,7 +2342,8 @@ Assim
 \*added
  ele disse.
 \v Jr.23.32
-Eis que eu sou contra os que profetizam sonhos mentirosos, diz o SENHOR, e os contam, e fazem meu povo errar com suas mentiras e com suas lisonjas. E eu não os enviei, nem lhes mandei; e proveito nenhum fizeram a este povo, diz o SENHOR.
+{rp|n4}Eis que eu sou contra os que profetizam sonhos mentirosos, diz o SENHOR, e os contam, e fazem meu povo errar com suas mentiras e com suas lisonjas. E eu não os enviei, nem lhes mandei; e proveito nenhum fizeram a este povo, diz o SENHOR.
+{tr}Eis que eu sou contra os que profetizam sonhos mentirosos, diz o SENHOR, e os contam, e fazem Meu povo errar com suas mentiras e com suas lisonjas. E eu não os enviei, nem lhes mandei; e proveito nenhum fizeram a este povo, diz o SENHOR.
 \v Jr.23.33
 E quando este povo, ou o profeta, ou o sacerdote, te peguntar, dizendo: Qual é a revelação, a carga
 \fn
@@ -2220,13 +2358,15 @@ E quanto ao profeta, o sacerdote, ou alguém do povo, que disser: Carga do SENHO
 \v Jr.23.35
 Assim direis cada um a seu próximo, e cada um a seu irmão: O que o SENHOR respondeu?, e, O que o SENHOR falou?
 \v Jr.23.36
-E nunca mais mencionareis a carga do SENHOR; porque a palavra de cada um lhe servirá por carga; pois pervertestes as palavras do Deus vivente, do SENHOR dos exércitos, nosso Deus.
+{rp|n4}E nunca mais mencionareis a carga do SENHOR; porque a palavra de cada um lhe servirá por carga; pois pervertestes as palavras do Deus vivente, do SENHOR dos exércitos, nosso Deus.
+{tr}E nunca mais mencionareis a carga do SENHOR; porque a palavra de cada um Lhe servirá por carga; pois pervertestes as palavras do Deus vivente, do SENHOR dos exércitos, nosso Deus.
 \v Jr.23.37
 Assim dirás ao profeta: O que o SENHOR te respondeu? e, O que o SENHOR falou?
 \v Jr.23.38
 Mas se disserdes: Carga do SENHOR; então por isso o assim diz o SENHOR: Porque dissestes esta palavra, Carga do SENHOR, tendo eu vos mandado, dizendo: Não digais “Carga do SENHOR”,
 \v Jr.23.39
-Portanto eis que eu esquecerei totalmente; e lançarei fora de minha presença a vós, e à cidade que dei para vós e para vossos pais;
+{rp|n4}Portanto eis que eu esquecerei totalmente; e lançarei fora de minha presença a vós, e à cidade que dei para vós e para vossos pais;
+{tr}Portanto eis que eu esquecerei totalmente; e lançarei fora de Minha presença a vós, e à cidade que dei para vós e para vossos pais;
 \v Jr.23.40
 E porei sobre vós humilhação perpétua e vergonha eterna, que nunca será esquecida.
 \v Jr.24.1
@@ -2252,9 +2392,11 @@ deles
 \*added
  .
 \v Jr.24.6
-E porei meus olhos sobre eles para o bem, e os farei voltar a esta terra; eu os edificarei, e não os destruirei; eu os plantarei, e não os arrancarei.
+{rp|n4}E porei meus olhos sobre eles para o bem, e os farei voltar a esta terra; eu os edificarei, e não os destruirei; eu os plantarei, e não os arrancarei.
+{tr}E porei Meus olhos sobre eles para o bem, e os farei voltar a esta terra; eu os edificarei, e não os destruirei; eu os plantarei, e não os arrancarei.
 \v Jr.24.7
-E lhes darei coração para que me conheçam, que eu sou o SENHOR; e eles serão meu povo, e eu lhes serei seu Deus; porque se converterão a mim de todo seu coração.
+{rp|n4}E lhes darei coração para que me conheçam, que eu sou o SENHOR; e eles serão meu povo, e eu lhes serei seu Deus; porque se converterão a mim de todo seu coração.
+{tr}E lhes darei coração para que Me conheçam, que eu sou o SENHOR; e eles serão Meu povo, e eu lhes serei seu Deus; porque se converterão a Mim de todo seu coração.
 \v Jr.24.8
 E tal como os figos ruins, que de tão ruins não podem ser comidos, assim diz o SENHOR, assim 
 \added
@@ -2272,7 +2414,8 @@ A qual o profeta Jeremias falou a todo o povo de Judá, e a todos os moradores d
 \v Jr.25.3
 Desde o ano treze de Josias, filho de Amom, rei de Judá, até este dia, isto é, há vinte e três anos, tem vindo a mim a palavra do SENHOR; e eu tenho vos falado, insistentemente vos falando; porém vós não escutastes.
 \v Jr.25.4
-E o SENHOR enviou a vós todos seus servos os profetas, insistentemente os enviando; porém vos não escutastes, nem inclinastes vossos ouvidos para escutar,
+{rp|n4}E o SENHOR enviou a vós todos seus servos os profetas, insistentemente os enviando; porém vos não escutastes, nem inclinastes vossos ouvidos para escutar,
+{tr}E o SENHOR enviou a vós todos Seus servos os profetas, insistentemente os enviando; porém vos não escutastes, nem inclinastes vossos ouvidos para escutar,
 \v Jr.25.5
 Quando diziam: Convertei-vos agora, cada um de seu mau caminho, e da maldade de vossas ações, e habitai na terra que o SENHOR deu a vós e a vossos pais para todo o sempre;
 \v Jr.25.6
@@ -2280,11 +2423,14 @@ E não segui deuses estrangeiros, para os servirdes e encurvardes
 \fn
 encurvardes = i.e., adorardes
 \*fn
- a eles, nem me provoqueis à ira com a obra de vossas mãos; para que eu não vos faça mal.
+{rp|n4} a eles, nem me provoqueis à ira com a obra de vossas mãos; para que eu não vos faça mal.
+{tr} a eles, nem Me provoqueis à ira com a obra de vossas mãos; para que eu não vos faça mal.
 \v Jr.25.7
-Porém vós não me destes ouvidos, diz o SENHOR, para me provocardes à ira com a obra de vossas mãos, para o vosso mal.
+{rp|n4}Porém vós não me destes ouvidos, diz o SENHOR, para me provocardes à ira com a obra de vossas mãos, para o vosso mal.
+{tr}Porém vós não Me destes ouvidos, diz o SENHOR, para Me provocardes à ira com a obra de vossas mãos, para o vosso mal.
 \v Jr.25.8
-Portanto assim diz o SENHOR dos exércitos: Visto quanto não tendes ouvido minhas palavras,
+{rp|n4}Portanto assim diz o SENHOR dos exércitos: Visto quanto não tendes ouvido minhas palavras,
+{tr}Portanto assim diz o SENHOR dos exércitos: Visto quanto não tendes ouvido Minhas palavras,
 \v Jr.25.9
 Eis que eu enviarei, e tomarei a todas as famílias do norte, diz o SENHOR, e a Nabucodonosor rei de Babilônia, meu servo, e os trarei contra esta terra, e contra seus moradores, e contra todas estas nações ao redor; e os destruirei, e os farei de espanto, assovio, e de desolações perpétuas.
 \v Jr.25.10
@@ -2302,7 +2448,8 @@ por
 \v Jr.25.12
 E será que, quando os setenta anos forem completados, punirei ao rei da Babilônia e àquela nação por sua maldade, diz o SENHOR, assim como a terra dos Caldeus; e a tornarei em desolações para sempre.
 \v Jr.25.13
-E trarei sobre aquela terra todas as minhas palavras que falado contra ela: tudo o que está escrito neste livro, que Jeremias profetizou contra todas as nações.
+{rp|n4}E trarei sobre aquela terra todas as minhas palavras que falado contra ela: tudo o que está escrito neste livro, que Jeremias profetizou contra todas as nações.
+{tr}E trarei sobre aquela terra todas as Minhas palavras que falado contra ela: tudo o que está escrito neste livro, que Jeremias profetizou contra todas as nações.
 \v Jr.25.14
 Porque também deles se servirão muitas nações e grandes reis; assim lhes pagarei conforme seus feitos, conforme a obra de suas mãos.
 \v Jr.25.15
@@ -2348,9 +2495,11 @@ Pois tu lhes dirás: Assim diz o SENHOR dos exércitos, Deus de Israel: Bebei, e
 \v Jr.25.28
 E será que, se não querem tomar o copo de tua mão para beber, então tu lhes dirás: Assim diz o SENHOR dos exércitos: Certamente bebereis;
 \v Jr.25.29
-Pois eis que na cidade que se chama pelo meu nome eu começo a castigar; e vós ficaríeis impunes? Não ficareis impunes, porque eu estou chamando espada contra todos os moradores da terra, diz o SENHOR dos exércitos.
+{rp|n4}Pois eis que na cidade que se chama pelo meu nome eu começo a castigar; e vós ficaríeis impunes? Não ficareis impunes, porque eu estou chamando espada contra todos os moradores da terra, diz o SENHOR dos exércitos.
+{tr}Pois eis que na cidade que se chama pelo Meu nome eu começo a castigar; e vós ficaríeis impunes? Não ficareis impunes, porque eu estou chamando espada contra todos os moradores da terra, diz o SENHOR dos exércitos.
 \v Jr.25.30
-Tu, pois, profetizarás a eles todas estas palavras, e lhes dirás: O SENHOR bramará desde o alto, e levantará sua voz a sua santa morada; bramará intensamente sobre sua morada; dará forte grito, tal como os que pisam as uvas, contra todos os moradores da terra.
+{rp|n4}Tu, pois, profetizarás a eles todas estas palavras, e lhes dirás: O SENHOR bramará desde o alto, e levantará sua voz a sua santa morada; bramará intensamente sobre sua morada; dará forte grito, tal como os que pisam as uvas, contra todos os moradores da terra.
+{tr}Tu, pois, profetizarás a eles todas estas palavras, e lhes dirás: O SENHOR bramará desde o alto, e levantará Sua voz a Sua santa morada; bramará intensamente sobre Sua morada; dará forte grito, tal como os que pisam as uvas, contra todos os moradores da terra.
 \v Jr.25.31
 Chegará o estrondo até o extremo da terra; porque o SENHOR disputa com as nações; entrará em juízo com todos; 
 \fn
@@ -2400,9 +2549,11 @@ na
 \v Jr.26.3
 Pode ser que ouçam, e se convertam cada um de seu mal caminho; então eu me arrependeria do mal que pretendo lhes fazer pela maldade de suas ações.
 \v Jr.26.4
-Dize-lhes, pois: Assim diz o SENHOR: Se não me ouvirdes para andardes em minha Lei, a qual dei diante de vós,
+{rp|n4}Dize-lhes, pois: Assim diz o SENHOR: Se não me ouvirdes para andardes em minha Lei, a qual dei diante de vós,
+{tr}Dize-lhes, pois: Assim diz o SENHOR: Se não Me ouvirdes para andardes em Minha Lei, a qual dei diante de vós,
 \v Jr.26.5
-Para dar atenção às palavras de meus servos, os profetas, que eu vos envio, insistentemente os enviando, mas não os ouvistes;
+{rp|n4}Para dar atenção às palavras de meus servos, os profetas, que eu vos envio, insistentemente os enviando, mas não os ouvistes;
+{tr}Para dar atenção às palavras de Meus servos, os profetas, que eu vos envio, insistentemente os enviando, mas não os ouvistes;
 \v Jr.26.6
 Então farei desta casa como a Siló, e tornarei esta cidade em maldição a todas as nações da terra.
 \v Jr.26.7
@@ -2482,7 +2633,8 @@ E envia-os ao rei de Edom, ao rei de Moabe, ao rei dos filhos de Amom, ao rei de
 \v Jr.27.4
 E manda-lhes que digam a seus senhores: Assim diz o SENHOR dos exércitos, Deus de Israel: Assim direis a vossos senhores:
 \v Jr.27.5
-Eu fiz a terra, o homem, e os animais que estão sobre a face da terra, com meu grande poder e com meu braço estendido, e a dou a quem for do meu agrado.
+{rp|n4}Eu fiz a terra, o homem, e os animais que estão sobre a face da terra, com meu grande poder e com meu braço estendido, e a dou a quem for do meu agrado.
+{tr}Eu fiz a terra, o homem, e os animais que estão sobre a face da terra, com Meu grande poder e com Meu braço estendido, e a dou a quem for do Meu agrado.
 \fn
 \key
 for do meu agrado
@@ -2508,7 +2660,8 @@ Por que morreríeis, tu e teu povo, pela espada, pela fome, pela pestilência, t
 \v Jr.27.14
 Não escuteis as palavras dos profetas que vos falam, dizendo: Não servireis ao rei da Babilônia; pois eles vos profetizam mentiras.
 \v Jr.27.15
-Pois eu não os enviei, diz o SENHOR, e eles profetizam falsamente em meu nome, para que eu vos afugente, e pereçais, vós e os profetas que vos profetizam.
+{rp|n4}Pois eu não os enviei, diz o SENHOR, e eles profetizam falsamente em meu nome, para que eu vos afugente, e pereçais, vós e os profetas que vos profetizam.
+{tr}Pois eu não os enviei, diz o SENHOR, e eles profetizam falsamente em Meu nome, para que eu vos afugente, e pereçais, vós e os profetas que vos profetizam.
 \v Jr.27.16
 Também falei aos sacerdotes e a todo este povo, dizendo: Assim diz o SENHOR: Não escuteis as palavras de vossos profetas, que vos profetizam, dizendo: Eis que os vasos da casa do SENHOR voltarão da Babilônia em breve. Pois eles vos profetizam mentiras.
 \v Jr.27.17
@@ -2600,16 +2753,20 @@ E buscai a paz da cidade para onde eu vos levei, e orai por ela ao SENHOR; porqu
 \v Jr.29.8
 Porque assim diz o SENHOR dos exércitos, Deus de Israel: Os vossos profetas, que há entre vós, e vossos adivinhos não vos enganem; nem escutais a vossos sonhos, que vós sonhais.
 \v Jr.29.9
-Pois eles vos profetizam falsamente em meu nome; eu não os enviei, diz o SENHOR.
+{rp|n4}Pois eles vos profetizam falsamente em meu nome; eu não os enviei, diz o SENHOR.
+{tr}Pois eles vos profetizam falsamente em Meu nome; eu não os enviei, diz o SENHOR.
 \v Jr.29.10
-Porque assim diz o SENHOR: Certamente que, quando se cumprirem setenta anos na Babilônia, eu vos visitarei; e cumprirei sobre vós minha boa palavra, trazendo-vos de volta a este lugar.
+{rp|n4}Porque assim diz o SENHOR: Certamente que, quando se cumprirem setenta anos na Babilônia, eu vos visitarei; e cumprirei sobre vós minha boa palavra, trazendo-vos de volta a este lugar.
+{tr}Porque assim diz o SENHOR: Certamente que, quando se cumprirem setenta anos na Babilônia, eu vos visitarei; e cumprirei sobre vós Minha boa palavra, trazendo-vos de volta a este lugar.
 \v Jr.29.11
 Porque eu sei os pensamentos que penso quanto a vós, diz o SENHOR, pensamentos de paz, e não de calamidade, para 
 vos dar um futuro com esperança.
 \v Jr.29.12
-Então me invocareis, e ireis, e orareis a mim, e eu vos ouvirei;
+{rp|n4}Então me invocareis, e ireis, e orareis a mim, e eu vos ouvirei;
+{tr}Então Me invocareis, e ireis, e orareis a Mim, e eu vos ouvirei;
 \v Jr.29.13
-E vós me buscareis e achareis, quando me buscardes de todo o vosso coração.
+{rp|n4}E vós me buscareis e achareis, quando me buscardes de todo o vosso coração.
+{tr}E vós Me buscareis e achareis, quando Me buscardes de todo o vosso coração.
 \v Jr.29.14
 E serei achado por vós, diz o SENHOR, e vos restaurarei de vosso infortúnio, e vos ajuntarei de todas as nações, e de 
 todos os lugares para onde eu vos lancei, diz o SENHOR; e vos farei voltar ao lugar de onde vos fiz serdes 
@@ -2624,15 +2781,18 @@ Assim diz o SENHOR dos exércitos: Eis que enviarei contra eles espada, fome, e 
 \v Jr.29.18
 E os perseguirei com espada, com fome e com pestilência; e os farei de horror a todos os reinos da terra, de maldição e de espanto, e de assovio e de humilhação entre todas a nações às quais eu os tiver lançado;
 \v Jr.29.19
-Porque não deram ouvidos às minhas palavras, diz o SENHOR, que lhes enviei por meus servos os profetas, insistindo em os enviar; porém não escutastes, diz o SENHOR.
+{rp|n4}Porque não deram ouvidos às minhas palavras, diz o SENHOR, que lhes enviei por meus servos os profetas, insistindo em os enviar; porém não escutastes, diz o SENHOR.
+{tr}Porque não deram ouvidos às Minhas palavras, diz o SENHOR, que lhes enviei por Meus servos os profetas, insistindo em os enviar; porém não escutastes, diz o SENHOR.
 \v Jr.29.20
 Vós, pois, ouvi a palavra do SENHOR, todos os do cativeiro que enviei de Jerusalém à Babilônia.
 \v Jr.29.21
-Assim diz o SENHOR dos exércitos, Deus de Israel, quanto a Acabe filho de Colaías, e quanto a Zedequias filho de Maaseias, que vos profetizam falsamente em meu nome: Eis que os entregarei na mão de Nabucodonosor rei da Babilônia, e ele os ferirá diante de vossos olhos.
+{rp|n4}Assim diz o SENHOR dos exércitos, Deus de Israel, quanto a Acabe filho de Colaías, e quanto a Zedequias filho de Maaseias, que vos profetizam falsamente em meu nome: Eis que os entregarei na mão de Nabucodonosor rei da Babilônia, e ele os ferirá diante de vossos olhos.
+{tr}Assim diz o SENHOR dos exércitos, Deus de Israel, quanto a Acabe filho de Colaías, e quanto a Zedequias filho de Maaseias, que vos profetizam falsamente em Meu nome: Eis que os entregarei na mão de Nabucodonosor rei da Babilônia, e ele os ferirá diante de vossos olhos.
 \v Jr.29.22
 E todos os exilados de Judá que estão na Babilônia, os usarão como objeto de maldição, dizendo: Que o SENHOR faça a ti como a Zedequias e como a Acabe, aos quais o rei de Babilônia assou no fogo;
 \v Jr.29.23
-porque fizeram loucura em Israel, e cometeram adultério com as mulheres de seus próximos; e falaram falsamente em meu nome palavra que não lhes mandei; e disso eu sei, e sou testemunha, diz o SENHOR.
+{rp|n4}porque fizeram loucura em Israel, e cometeram adultério com as mulheres de seus próximos; e falaram falsamente em meu nome palavra que não lhes mandei; e disso eu sei, e sou testemunha, diz o SENHOR.
+{tr}porque fizeram loucura em Israel, e cometeram adultério com as mulheres de seus próximos; e falaram falsamente em Meu nome palavra que não lhes mandei; e disso eu sei, e sou testemunha, diz o SENHOR.
 \v Jr.29.24
 E a Semaías o neelamita falarás, dizendo:
 \v Jr.29.25
@@ -2665,13 +2825,15 @@ descendência
 \*key
 lit. semente
 \*fn
- ele não terá ninguém que habite entre este povo, nem verá o bem que eu farei a meu povo, diz o SENHOR; pois ele falou rebelião contra o SENHOR.
+{rp|n4} ele não terá ninguém que habite entre este povo, nem verá o bem que eu farei a meu povo, diz o SENHOR; pois ele falou rebelião contra o SENHOR.
+{tr} ele não terá ninguém que habite entre este povo, nem verá o bem que eu farei a Meu povo, diz o SENHOR; pois ele falou rebelião contra o SENHOR.
 \v Jr.30.1
 Palavra que veio do SENHOR a Jeremias, dizendo:
 \v Jr.30.2
 Assim diz o SENHOR Deus de Israel, dizendo: Escreve para ti em um livro todas as palavras que tenho te falado;
 \v Jr.30.3
-Porque eis que vêm dias, diz o SENHOR, em que restaurarei o meu povo, Israel e Judá, de seus infortúnios, diz o 
+{rp|n4}Porque eis que vêm dias, diz o SENHOR, em que restaurarei o meu povo, Israel e Judá, de seus infortúnios, diz o 
+{tr}Porque eis que vêm dias, diz o SENHOR, em que restaurarei o Meu povo, Israel e Judá, de seus infortúnios, diz o 
 SENHOR, e os trarei de volta à terra que dei a seus pais, e a possuirão.
 \v Jr.30.4
 E estas são as palavras que o SENHOR falou quanto a Israel e a Judá;
@@ -2765,11 +2927,14 @@ cidade será reedificada de suas ruínas, e o templo será posto no lugar de cos
 \v Jr.30.19
 E sairá deles louvor, e voz dos que estão cheios de alegria; e eu os multiplicarei, e não serão diminuídos; eu os glorificarei, e não serão menosprezados.
 \v Jr.30.20
-E seus filhos serão como no passado; e sua congregação será confirmada diante de mim; e punirei a todos os seus opressores.
+{rp|n4}E seus filhos serão como no passado; e sua congregação será confirmada diante de mim; e punirei a todos os seus opressores.
+{tr}E seus filhos serão como no passado; e sua congregação será confirmada diante de Mim; e punirei a todos os seus opressores.
 \v Jr.30.21
-E seu líder será dele, e seu governador saíra do meio dele; e eu o farei chegar perto, e ele se achegará a mim; pois quem jamais confiou em seu próprio coração para se achegar a mim? diz o SENHOR.
+{rp|n4}E seu líder será dele, e seu governador saíra do meio dele; e eu o farei chegar perto, e ele se achegará a mim; pois quem jamais confiou em seu próprio coração para se achegar a mim? diz o SENHOR.
+{tr}E seu líder será dele, e seu governador saíra do meio dele; e eu o farei chegar perto, e ele se achegará a Mim; pois quem jamais confiou em seu próprio coração para se achegar a Mim? diz o SENHOR.
 \v Jr.30.22
-E vós sereis meu povo, e eu serei vosso Deus.
+{rp|n4}E vós sereis meu povo, e eu serei vosso Deus.
+{tr}E vós sereis Meu povo, e eu serei vosso Deus.
 \v Jr.30.23
 Eis que a tempestade do SENHOR sai 
 \added
@@ -2779,7 +2944,8 @@ com
 \v Jr.30.24
 A ardente ira do SENHOR não retrocederá enquanto não tiver feito e cumprido os pensamentos de seu coração; no fim dos dias entendereis isto.
 \v Jr.31.1
-Naquele tempo, diz o SENHOR, eu serei o Deus de todas as famílias de Israel, e elas serão o meu povo.
+{rp|n4}Naquele tempo, diz o SENHOR, eu serei o Deus de todas as famílias de Israel, e elas serão o meu povo.
+{tr}Naquele tempo, diz o SENHOR, eu serei o Deus de todas as famílias de Israel, e elas serão o Meu povo.
 \v Jr.31.2
 Assim diz o SENHOR: O povo dos que escaparam da espada encontrou graça no deserto; 
 \added
@@ -2814,7 +2980,8 @@ lit. cabeça
 \v Jr.31.8
 Eis que eu os trarei da terra do norte, e os juntarei desde os confins da terra, entre os quais haverá cegos e aleijados, mulheres grávidas e as que tiveram parto juntamente; em grande multidão voltarão para cá.
 \v Jr.31.9
-Virão com choro, e com suplicações os trarei; e os guiarei a ribeiros de águas, por um caminho plano, em que não tropeçarão; porque sou um pai para Israel, e Efraim é meu primogênito.
+{rp|n4}Virão com choro, e com suplicações os trarei; e os guiarei a ribeiros de águas, por um caminho plano, em que não tropeçarão; porque sou um pai para Israel, e Efraim é meu primogênito.
+{tr}Virão com choro, e com suplicações os trarei; e os guiarei a ribeiros de águas, por um caminho plano, em que não tropeçarão; porque sou um pai para Israel, e Efraim é Meu primogênito.
 \v Jr.31.10
 Ouvi a palavra do SENHOR, ó nações, e 
 \added
@@ -2842,7 +3009,8 @@ fartura
 \*key
 lit. gordura
 \*fn
- e meu povo será saciado com o meu bem, diz o SENHOR.
+{rp|n4} e meu povo será saciado com o meu bem, diz o SENHOR.
+{tr} e Meu povo será saciado com o Meu bem, diz o SENHOR.
 \v Jr.31.15
 Assim diz o SENHOR: Uma voz foi ouvida em Ramá, lamentação e choro amargo: Raquel chora por seus filhos; não quer ser consolada por causa de seus filhos, pois já não existem.
 \v Jr.31.16
@@ -2912,9 +3080,11 @@ própria
 \v Jr.31.31
 Eis que vêm dias, diz o SENHOR, em que farei um novo pacto com a casa de Jacó e a casa de Judá;
 \v Jr.31.32
-Não como o pacto que fiz com seus pais, no dia em que os tomei pela mão para os tirar da terra do Egito; pois invalidaram meu pacto, ainda que eu tenha me casado com eles, diz o SENHOR.
+{rp|n4}Não como o pacto que fiz com seus pais, no dia em que os tomei pela mão para os tirar da terra do Egito; pois invalidaram meu pacto, ainda que eu tenha me casado com eles, diz o SENHOR.
+{tr}Não como o pacto que fiz com seus pais, no dia em que os tomei pela mão para os tirar da terra do Egito; pois invalidaram Meu pacto, ainda que eu tenha Me casado com eles, diz o SENHOR.
 \v Jr.31.33
-Mas este é o pacto que farei com a casa de Israel depois daqueles dias, diz o SENHOR: Darei minha lei em seu interior, e a escreverei em seus corações; e eu serei o Deus deles, e eles serão meu povo.
+{rp|n4}Mas este é o pacto que farei com a casa de Israel depois daqueles dias, diz o SENHOR: Darei minha lei em seu interior, e a escreverei em seus corações; e eu serei o Deus deles, e eles serão meu povo.
+{tr}Mas este é o pacto que farei com a casa de Israel depois daqueles dias, diz o SENHOR: Darei Minha lei em seu interior, e a escreverei em seus corações; e eu serei o Deus deles, e eles serão Meu povo.
 \v Jr.31.34
 E não ensinará mais ninguém a seu próximo, nem ninguém a seu irmão, dizendo: Conhece ao SENHOR; pois todos me conhecerão, desde o menor deles até o maior, diz o SENHOR; porque perdoarei a maldade deles, e nunca mais me lembrarei mais de seus pecados.
 \v Jr.31.35
@@ -2924,7 +3094,8 @@ e
 \*added
  as ordenanças da lua e das estrelas para a luz da noite; que divide o mar, e bramam suas ondas; EU-SOU dos exércitos é seu nome:
 \v Jr.31.36
-Se estas ordenanças se desviarem diante de mim, diz o SENHOR, também a semente de Israel deixará de ser nação diante de mim para sempre.
+{rp|n4}Se estas ordenanças se desviarem diante de mim, diz o SENHOR, também a semente de Israel deixará de ser nação diante de mim para sempre.
+{tr}Se estas ordenanças se desviarem diante de Mim, diz o SENHOR, também a semente de Israel deixará de ser nação diante de Mim para sempre.
 \v Jr.31.37
 Assim diz o SENHOR: Se os céus acima ser medidos, e 
 \added
@@ -3006,7 +3177,8 @@ Ah Senhor DEUS! Eis que tu fizeste os céus e a terra com teu grande poder, e co
 \v Jr.32.18
 Tu, que mostras bondade a milhares, e retribuis a maldade dos pais no seio de seus filhos depois deles; o grande, poderoso Deus; EU-SOU dos exércitos é o seu nome;
 \v Jr.32.19
-Grande em conselho, e magnífico em feitos; pois teus olhos estão abertos sobre todos os caminhos dos filhos dos homens, para dar a cada um conforme seus caminhos, e conforme o fruto de suas obras;
+{rp|n4}Grande em conselho, e magnífico em feitos; pois teus olhos estão abertos sobre todos os caminhos dos filhos dos homens, para dar a cada um conforme seus caminhos, e conforme o fruto de suas obras;
+{tr}Grande em conselho, e magnífico em feitos; pois Teus olhos estão abertos sobre todos os caminhos dos filhos dos homens, para dar a cada um conforme seus caminhos, e conforme o fruto de suas obras;
 \v Jr.32.20
 Que puseste sinais e maravilhas na terra do Egito até o dia de hoje, e em Israel, e entre os homens; e fizeste para ti um nome
 \fn
@@ -3017,7 +3189,8 @@ i.e., renome, fama
 \*fn
  tal como é este dia;
 \v Jr.32.21
-E tiraste teu povo Israel da terra do Egito com sinais e maravilhas, com mão forte e braço estendido, e com grande espanto;
+{rp|n4}E tiraste teu povo Israel da terra do Egito com sinais e maravilhas, com mão forte e braço estendido, e com grande espanto;
+{tr}E tiraste Teu povo Israel da terra do Egito com sinais e maravilhas, com mão forte e braço estendido, e com grande espanto;
 \v Jr.32.22
 E deste-lhes esta terra, da qual juraste a seus pais lhes dar, terra que mana leite e mel:
 \v Jr.32.23
@@ -3025,7 +3198,8 @@ E entraram, e tomaram posse
 \added
 dela
 \*added
-; porém não obedeceram à tua voz, nem andaram em tua lei; nada fizeram do que lhes mandaste fazer; por isso fizeste vir sobre eles todo este mal.
+{rp|n4}; porém não obedeceram à tua voz, nem andaram em tua lei; nada fizeram do que lhes mandaste fazer; por isso fizeste vir sobre eles todo este mal.
+{tr}; porém não obedeceram à Tua voz, nem andaram em Tua lei; nada fizeram do que lhes mandaste fazer; por isso fizeste vir sobre eles todo este mal.
 \v Jr.32.24
 Eis aqui os cercos! Já vieram à cidade para tomá-la; e a cidade está entregue nas mãos dos caldeus que lutam contra ela, por causa da espada, da fome e da pestilência; e o que falaste se cumpriu, e eis que tu estás vendo 
 \added
@@ -3037,33 +3211,42 @@ Porém tu, ó Senhor DEUS, me disseste: Compra para ti o campo por dinheiro, e f
 \v Jr.32.26
 Então veio a palavra do SENHOR a Jeremias, dizendo:
 \v Jr.32.27
-Eis que eu sou o SENHOR, Deus de toda carne: Existe, por acaso, algo difícil demais para mim?
+{rp|n4}Eis que eu sou o SENHOR, Deus de toda carne: Existe, por acaso, algo difícil demais para mim?
+{tr}Eis que eu sou o SENHOR, Deus de toda carne: Existe, por acaso, algo difícil demais para Mim?
 \v Jr.32.28
 Portanto assim diz o SENHOR: Eis que eu entrego esta cidade nas mãos dos caldeus, e na mão de Nabucodonosor rei de Babilônia, e ele a tomará;
 \v Jr.32.29
-E os caldeus que lutam contra esta cidade entrarão, e incendiarão esta cidade com fogo, e a queimarão, juntamente com as casas sobre cujas terraços ofereceram incenso a Baal e fizeram ofertas de bebidas a deuses estrangeiros, para me provocarem à ira;
+{rp|n4}E os caldeus que lutam contra esta cidade entrarão, e incendiarão esta cidade com fogo, e a queimarão, juntamente com as casas sobre cujas terraços ofereceram incenso a Baal e fizeram ofertas de bebidas a deuses estrangeiros, para me provocarem à ira;
+{tr}E os caldeus que lutam contra esta cidade entrarão, e incendiarão esta cidade com fogo, e a queimarão, juntamente com as casas sobre cujas terraços ofereceram incenso a Baal e fizeram ofertas de bebidas a deuses estrangeiros, para Me provocarem à ira;
 \v Jr.32.30
-Pois os filhos de Israel e os filhos de Judá têm feito somente o mal diante dos meus olhos desde sua juventude; porque os filhos de Israel nada têm feito, a não ser somente me provocar à ira com a obra de suas mãos, diz o SENHOR.
+{rp|n4}Pois os filhos de Israel e os filhos de Judá têm feito somente o mal diante dos meus olhos desde sua juventude; porque os filhos de Israel nada têm feito, a não ser somente me provocar à ira com a obra de suas mãos, diz o SENHOR.
+{tr}Pois os filhos de Israel e os filhos de Judá têm feito somente o mal diante dos Meus olhos desde sua juventude; porque os filhos de Israel nada têm feito, a não ser somente Me provocar à ira com a obra de suas mãos, diz o SENHOR.
 \v Jr.32.31
 Pois esta cidade tem me causado minha ira e meu furor desde o dia que a edificaram até hoje, de tal maneira que eu a removerei de minha presença;
 \v Jr.32.32
-Por toda a maldade dos filhos de Israel e dos filhos de Judá, que têm feito para me provocarem à ira; eles, seus reis, seus príncipes, seus sacerdotes, seus profetas, os homens de Judá, e os moradores de Jerusalém.
+{rp|n4}Por toda a maldade dos filhos de Israel e dos filhos de Judá, que têm feito para me provocarem à ira; eles, seus reis, seus príncipes, seus sacerdotes, seus profetas, os homens de Judá, e os moradores de Jerusalém.
+{tr}Por toda a maldade dos filhos de Israel e dos filhos de Judá, que têm feito para Me provocarem à ira; eles, seus reis, seus príncipes, seus sacerdotes, seus profetas, os homens de Judá, e os moradores de Jerusalém.
 \v Jr.32.33
-E viraram para mim as costas, e não o rosto. Ainda que eu tenha lhes ensinado, insistindo em ensinar, contudo se recusaram a ouvir para receberem correção;
+{rp|n4}E viraram para mim as costas, e não o rosto. Ainda que eu tenha lhes ensinado, insistindo em ensinar, contudo se recusaram a ouvir para receberem correção;
+{tr}E viraram para Mim as costas, e não o rosto. Ainda que eu tenha lhes ensinado, insistindo em ensinar, contudo se recusaram a ouvir para receberem correção;
 \v Jr.32.34
-Ao invés disso, puseram suas abominações na casa que se chama pelo meu nome, para a profanarem.
+{rp|n4}Ao invés disso, puseram suas abominações na casa que se chama pelo meu nome, para a profanarem.
+{tr}Ao invés disso, puseram suas abominações na casa que se chama pelo Meu nome, para a profanarem.
 \v Jr.32.35
 E edificaram os altos de Baal, que ficam no vale do filho de Hinom, para fazer seus filhos e suas filhas passarem 
 \added
 pelo fogo
 \*added
- a Moloque, o que nunca lhes mandei, nem pensei em meu coração, para que fizessem tal abominação, para fazerem pecar a Judá.
+{rp|n4} a Moloque, o que nunca lhes mandei, nem pensei em meu coração, para que fizessem tal abominação, para fazerem pecar a Judá.
+{tr} a Moloque, o que nunca lhes mandei, nem pensei em Meu coração, para que fizessem tal abominação, para fazerem pecar a Judá.
 \v Jr.32.36
 E portanto agora assim diz o SENHOR Deus de Israel, quanto a esta cidade, da qual vós dizeis: Já está entregue nas mãos do rei de Babilônia à espada, à fome, e à pestilência:
 \v Jr.32.37
-Eis que eu os ajuntarei de todas as terras para onde eu os tiver lançado com minha ira, meu furor e grande indignação; e os farei voltar a este lugar, e os farei habitar em segurança;
+{rp|n4}Eis que eu os ajuntarei de todas as terras para onde eu os tiver lançado com minha ira, meu furor e grande indignação; e os farei voltar a este lugar, e os farei habitar em segurança;
+{tr}Eis que eu os ajuntarei de todas as terras para onde eu os tiver lançado com Minha ira, Meu furor e grande indignação; e os farei voltar a este lugar, e os farei habitar em segurança;
 \v Jr.32.38
-E eles serão meu povo, e eu lhes serei seu Deus.
+{rp|n4}E eles serão meu povo, e eu lhes serei seu Deus.
+{tr}E eles serão Meu povo, e eu lhes serei seu Deus.
 \v Jr.32.39
 E lhes darei um 
 \added
@@ -3073,7 +3256,8 @@ só
 \added
 só
 \*added
- caminho, para que me temam todos os dias, para o bem deles, e de seus filhos depois deles.
+{rp|n4} caminho, para que me temam todos os dias, para o bem deles, e de seus filhos depois deles.
+{tr} caminho, para que Me temam todos os dias, para o bem deles, e de seus filhos depois deles.
 \v Jr.32.40
 E farei com eles um pacto eterno, que não lhes deixarei
 \fn
@@ -3100,9 +3284,11 @@ Assim diz o SENHOR que faz
 \added
 isto
 \*added
-; o SENHOR, que forma isto para o confirmar; EU-SOU é o seu nome:
+{rp|n4}; o SENHOR, que forma isto para o confirmar; EU-SOU é o seu nome:
+{tr}; o SENHOR, que forma isto para o confirmar; EU-SOU é o Seu nome:
 \v Jr.33.3
-Clama a mim, e eu te responderei; e te direi coisas grandes e difíceis
+{rp|n4}Clama a mim, e eu te responderei; e te direi coisas grandes e difíceis
+{tr}Clama a Mim, e eu te responderei; e te direi coisas grandes e difíceis
 \fn
 \key
 difíceis
@@ -3113,7 +3299,8 @@ trad. alt. secretas
 \v Jr.33.4
 Pois assim diz o SENHOR, Deus de Israel, quanto às casas desta cidade, e às casas dos reis de Judá, que foram derrubadas com as rampas de cerco e com espada:
 \v Jr.33.5
-Vieram lutar contra os caldeus, para enchê-las de cadáveres de homens, aos quais feri em minha ira e meu furor; pois escondi meu rosto desta cidade, por causa de toda a sua malícia.
+{rp|n4}Vieram lutar contra os caldeus, para enchê-las de cadáveres de homens, aos quais feri em minha ira e meu furor; pois escondi meu rosto desta cidade, por causa de toda a sua malícia.
+{tr}Vieram lutar contra os caldeus, para enchê-las de cadáveres de homens, aos quais feri em Minha ira e Meu furor; pois escondi Meu rosto desta cidade, por causa de toda a sua malícia.
 \v Jr.33.6
 Eis que eu lhes trarei saúde e cura, e os sararei; e lhes manifestarei abundância de paz e de verdade.
 \v Jr.33.7
@@ -3123,17 +3310,20 @@ E os purificarei de toda a sua maldade
 \added
 com
 \*added
- que pecaram contra mim; e perdoarei todas as suas maldades 
+{rp|n4} que pecaram contra mim; e perdoarei todas as suas maldades 
+{tr} que pecaram contra Mim; e perdoarei todas as suas maldades 
 \added
 com
 \*added
- que pecaram contra mim, e que se rebelaram contra mim.
+{rp|n4} que pecaram contra mim, e que se rebelaram contra mim.
+{tr} que pecaram contra Mim, e que se rebelaram contra Mim.
 \v Jr.33.9
 E 
 \added
 esta cidade
 \*added
- será para mim como nome de alegria, de louvor e de glória, entre todas as nações da terra, que ouvirem todo o bem que eu lhes faço; e se espantarão e tremerão por causa de todo o bem e de toda a paz que eu lhes darei.
+{rp|n4} será para mim como nome de alegria, de louvor e de glória, entre todas as nações da terra, que ouvirem todo o bem que eu lhes faço; e se espantarão e tremerão por causa de todo o bem e de toda a paz que eu lhes darei.
+{tr} será para Mim como nome de alegria, de louvor e de glória, entre todas as nações da terra, que ouvirem todo o bem que eu lhes faço; e se espantarão e tremerão por causa de todo o bem e de toda a paz que eu lhes darei.
 \v Jr.33.10
 Assim diz o SENHOR: Neste lugar, do qual dizeis que está desolado, sem homens nem animais, nas cidades de Judá e nas ruas de Jerusalém, que estão desoladas, sem homem, nem morador, nem animal, ainda se ouvirá
 \v Jr.33.11
@@ -3151,7 +3341,8 @@ Nas cidades das montanhas, nas cidades das planícies, nas cidades do Negueve, n
 \v Jr.33.14
 Eis que vêm dias, diz o SENHOR, em que eu confirmarei a boa palavra que prometi à casa de Israel e à casa de Judá.
 \v Jr.33.15
-Naqueles dias e naquele tempo farei brotar a Davi um Renovo de justiça; e ele fará juízo e justiça na terra.
+{rp|n4}Naqueles dias e naquele tempo farei brotar a Davi um Renovo de justiça; e ele fará juízo e justiça na terra.
+{tr}Naqueles dias e naquele tempo farei brotar a Davi um Renovo de justiça; e Ele fará juízo e justiça na terra.
 \v Jr.33.16
 Naqueles dias Judá será salvo, e Jerusalém habitará em segurança, e isto é o que a chamarão: O SENHOR 
 \added
@@ -3161,12 +3352,14 @@ Naqueles dias Judá será salvo, e Jerusalém habitará em segurança, e isto é
 \v Jr.33.17
 Pois assim diz o SENHOR: Não faltará a Davi homem que se sente sobre o trono da casa de Israel;
 \v Jr.33.18
-Nem aos sacerdotes levitas faltará homem diante de mim que ofereça holocaustos, queime oferta de cereais, e faça 
+{rp|n4}Nem aos sacerdotes levitas faltará homem diante de mim que ofereça holocaustos, queime oferta de cereais, e faça 
+{tr}Nem aos sacerdotes levitas faltará homem diante de Mim que ofereça holocaustos, queime oferta de cereais, e faça 
 sacrifícios todos os dias.
 \v Jr.33.19
 E veio a palavra do SENHOR a Jeremias, dizendo:
 \v Jr.33.20
-Assim diz o SENHOR: Se puderdes invalidar meu pacto do dia e meu pacto da noite, de tal modo que não haja dia e noite a seu tempo,
+{rp|n4}Assim diz o SENHOR: Se puderdes invalidar meu pacto do dia e meu pacto da noite, de tal modo que não haja dia e noite a seu tempo,
+{tr}Assim diz o SENHOR: Se puderdes invalidar Meu pacto do dia e Meu pacto da noite, de tal modo que não haja dia e noite a seu tempo,
 \v Jr.33.21
 Também se poderá invalidar meu pacto com meu servo Davi, para que não tenha filho que reine sobre seu trono, e com os levitas e sacerdotes, trabalhadores a meu serviço.
 \v Jr.33.22
@@ -3177,7 +3370,8 @@ descendência
 \*key
 lit. semente – também v. 26
 \*fn
- de Davi meu servo, e os levitas que me servem.
+{rp|n4} de Davi meu servo, e os levitas que me servem.
+{tr} de Davi Meu servo, e os levitas que Me servem.
 \v Jr.33.23
 E veio a palavra do SENHOR a Jeremias, dizendo:
 \v Jr.33.24
@@ -3185,15 +3379,18 @@ Por acaso não tens visto o que este povo fala? Eles dizem: As duas famílias
 \fn
 famílias = i.e., as famílias (povos) de Israel e de Judá
 \*fn
- que o SENHOR havia escolhido agora ele as rejeitou. E desprezam a meu povo, como se não o considerassem mais como nação.
+{rp|n4} que o SENHOR havia escolhido agora ele as rejeitou. E desprezam a meu povo, como se não o considerassem mais como nação.
+{tr} que o SENHOR havia escolhido agora ele as rejeitou. E desprezam a Meu povo, como se não o considerassem mais como nação.
 \v Jr.33.25
-Assim diz o SENHOR: Se meu pacto com o dia e a noite não durasse, se eu não tivesse estabelecido as leis do céu e a terra,
+{rp|n4}Assim diz o SENHOR: Se meu pacto com o dia e a noite não durasse, se eu não tivesse estabelecido as leis do céu e a terra,
+{tr}Assim diz o SENHOR: Se Meu pacto com o dia e a noite não durasse, se eu não tivesse estabelecido as leis do céu e a terra,
 \v Jr.33.26
 Então também rejeitaria a descendência
 \fn
 Lit. semente
 \*fn
- de Jacó, e de Davi meu servo, para que não tomasse da sua descendência aos que 
+{rp|n4} de Jacó, e de Davi meu servo, para que não tomasse da sua descendência aos que 
+{tr} de Jacó, e de Davi Meu servo, para que não tomasse da sua descendência aos que 
 governem sobre a descendência de Abraão, Isaque, e Jacó. Pois eu os restaurarei de seu infortúnio, e deles 
 terei misericórdia.
 \v Jr.34.1
@@ -3229,7 +3426,8 @@ Então veio a palavra do SENHOR a Jeremias, de parte do SENHOR, dizendo:
 \v Jr.34.13
 Assim diz o SENHOR, Deus de Israel: Eu fiz um pacto com vossos pais no dia em que os tirei da terra do Egito, da casa de servos, dizendo:
 \v Jr.34.14
-Ao fim de sete anos libertareis cada um a seu irmão hebreu que te for vendido, e tiver servido a ti por seis anos; e o deixarás livre de ti; mas vossos pais não me ouviram, nem inclinaram seu ouvidos.
+{rp|n4}Ao fim de sete anos libertareis cada um a seu irmão hebreu que te for vendido, e tiver servido a ti por seis anos; e o deixarás livre de ti; mas vossos pais não me ouviram, nem inclinaram seu ouvidos.
+{tr}Ao fim de sete anos libertareis cada um a seu irmão hebreu que te for vendido, e tiver servido a ti por seis anos; e o deixarás livre de ti; mas vossos pais não Me ouviram, nem inclinaram seu ouvidos.
 \v Jr.34.15
 E recentemente
 \fn
@@ -3238,13 +3436,17 @@ recentemente
 \*key
 trad. alt. hoje
 \*fn
- vós havíeis vos convertido, e tínheis feito o correto em meus olhos, proclamando cada um liberdade a seu próximo; e havíeis feito um pacto diante de minha presença, na casa sobre que se chama pelo meu nome:
+{rp|n4} vós havíeis vos convertido, e tínheis feito o correto em meus olhos, proclamando cada um liberdade a seu próximo; e havíeis feito um pacto diante de minha presença, na casa sobre que se chama pelo meu nome:
+{tr} vós havíeis vos convertido, e tínheis feito o correto em Meus olhos, proclamando cada um liberdade a seu próximo; e havíeis feito um pacto diante de Minha presença, na casa sobre que se chama pelo Meu nome:
 \v Jr.34.16
-Porém mudastes de ideia e profanastes o meu nome, e trouxestes de volta cada um a seu servo e cada um sua serva, os quais já havíeis libertado à vontade deles; e os sujeitastes para que sejam vossos servos e servas.
+{rp|n4}Porém mudastes de ideia e profanastes o meu nome, e trouxestes de volta cada um a seu servo e cada um sua serva, os quais já havíeis libertado à vontade deles; e os sujeitastes para que sejam vossos servos e servas.
+{tr}Porém mudastes de ideia e profanastes o Meu nome, e trouxestes de volta cada um a seu servo e cada um sua serva, os quais já havíeis libertado à vontade deles; e os sujeitastes para que sejam vossos servos e servas.
 \v Jr.34.17
-Portanto assim diz o SENHOR: Vós não me ouvistes em proclamar cada um liberdade a seu irmão, e cada um a seu companheiro; eis que eu vos proclamo liberdade, diz o SENHOR, para a espada, para a pestilência, e para a fome; e eu vos tornarei em motivo de espanto a todos os reinos da terra.
+{rp|n4}Portanto assim diz o SENHOR: Vós não me ouvistes em proclamar cada um liberdade a seu irmão, e cada um a seu companheiro; eis que eu vos proclamo liberdade, diz o SENHOR, para a espada, para a pestilência, e para a fome; e eu vos tornarei em motivo de espanto a todos os reinos da terra.
+{tr}Portanto assim diz o SENHOR: Vós não Me ouvistes em proclamar cada um liberdade a seu irmão, e cada um a seu companheiro; eis que eu vos proclamo liberdade, diz o SENHOR, para a espada, para a pestilência, e para a fome; e eu vos tornarei em motivo de espanto a todos os reinos da terra.
 \v Jr.34.18
-E entregarei os homens que transgrediram meu pacto, que não cumpriram as palavras do pacto que fizeram diante de mim, dividindo em duas partes o bezerro e passando entre de seus pedaços:
+{rp|n4}E entregarei os homens que transgrediram meu pacto, que não cumpriram as palavras do pacto que fizeram diante de mim, dividindo em duas partes o bezerro e passando entre de seus pedaços:
+{tr}E entregarei os homens que transgrediram Meu pacto, que não cumpriram as palavras do pacto que fizeram diante de Mim, dividindo em duas partes o bezerro e passando entre de seus pedaços:
 \v Jr.34.19
 Os príncipes de Judá e os príncipes de Jerusalém, os eunucos e os sacerdotes, e todo o povo da terra, que passaram entre os pedaços do bezerro,
 \v Jr.34.20
@@ -3301,13 +3503,17 @@ assim
 \v Jr.35.12
 Então veio a palavra do SENHOR a Jeremias, dizendo:
 \v Jr.35.13
-Assim diz o SENHOR dos exércitos, Deus de Israel: Vai, e dize aos homens de Judá, e aos moradores de Jerusalém: Por acaso nunca aceitareis ensino para obedecer a minhas palavras? Diz o SENHOR.
+{rp|n4}Assim diz o SENHOR dos exércitos, Deus de Israel: Vai, e dize aos homens de Judá, e aos moradores de Jerusalém: Por acaso nunca aceitareis ensino para obedecer a minhas palavras? Diz o SENHOR.
+{tr}Assim diz o SENHOR dos exércitos, Deus de Israel: Vai, e dize aos homens de Judá, e aos moradores de Jerusalém: Por acaso nunca aceitareis ensino para obedecer a Minhas palavras? Diz o SENHOR.
 \v Jr.35.14
-As palavras de Jonadabe, filho de Recabe, que mandou a seus filhos que não bebessem vinho, foram obedecidas; pois não o beberam até hoje, por terem ouvido ao mandamento de seu pai; e eu vos tenho falado, insistindo em falar, mas vós não me ouvistes.
+{rp|n4}As palavras de Jonadabe, filho de Recabe, que mandou a seus filhos que não bebessem vinho, foram obedecidas; pois não o beberam até hoje, por terem ouvido ao mandamento de seu pai; e eu vos tenho falado, insistindo em falar, mas vós não me ouvistes.
+{tr}As palavras de Jonadabe, filho de Recabe, que mandou a seus filhos que não bebessem vinho, foram obedecidas; pois não o beberam até hoje, por terem ouvido ao mandamento de seu pai; e eu vos tenho falado, insistindo em falar, mas vós não Me ouvistes.
 \v Jr.35.15
-E enviei a vós a todos os meus servos, os profetas, insistindo em enviá-los, para dizerem: Convertei-vos agora cada um de seu mal caminho, e fazei boas as vossas ações, e não sigais a outros deuses para lhes servi-los, e assim vivereis na terra que dei a vós e a vossos pais; porém não inclinastes vossos ouvidos, nem me obedecestes.
+{rp|n4}E enviei a vós a todos os meus servos, os profetas, insistindo em enviá-los, para dizerem: Convertei-vos agora cada um de seu mal caminho, e fazei boas as vossas ações, e não sigais a outros deuses para lhes servi-los, e assim vivereis na terra que dei a vós e a vossos pais; porém não inclinastes vossos ouvidos, nem me obedecestes.
+{tr}E enviei a vós a todos os Meus servos, os profetas, insistindo em enviá-los, para dizerem: Convertei-vos agora cada um de seu mal caminho, e fazei boas as vossas ações, e não sigais a outros deuses para lhes servi-los, e assim vivereis na terra que dei a vós e a vossos pais; porém não inclinastes vossos ouvidos, nem Me obedecestes.
 \v Jr.35.16
-Dado que os filhos de Jonadabe, filho de Recabe, guardaram o mandamento de seu pai que lhes mandou, mas este povo não me tem obedece,
+{rp|n4}Dado que os filhos de Jonadabe, filho de Recabe, guardaram o mandamento de seu pai que lhes mandou, mas este povo não me tem obedece,
+{tr}Dado que os filhos de Jonadabe, filho de Recabe, guardaram o mandamento de seu pai que lhes mandou, mas este povo não Me tem obedece,
 \v Jr.35.17
 Portanto assim diz o SENHOR Deus dos exércitos, Deus de Israel: Eis que eu trarei sobre Judá e sobre todos os moradores de Jerusalém todo o mal que falei contra eles; pois eu lhes falei, mas não ouviram; eu os chamei, mas não responderam.
 \v Jr.35.18
@@ -3317,7 +3523,8 @@ Portanto, assim diz o SENHOR dos exércitos, Deus de Israel: Nunca faltará home
 \added
 da descendência
 \*added
- de Jonadabe, filho de Recabe, que esteja diante de minha presença, todos os dias.
+{rp|n4} de Jonadabe, filho de Recabe, que esteja diante de minha presença, todos os dias.
+{tr} de Jonadabe, filho de Recabe, que esteja diante de Minha presença, todos os dias.
 \v Jr.36.1
 Sucedeu, no quarto ano de Jeoaquim, filho de Josias, rei de Judá, que veio esta palavra do SENHOR a Jeremias, dizendo:
 \v Jr.36.2
@@ -3415,7 +3622,8 @@ E o exército de Faraó havia saído do Egito. E os caldeus que tinham cercado a
 \v Jr.37.6
 Então veio palavra do SENHOR a Jeremias, o profeta, dizendo:
 \v Jr.37.7
-Assim diz o SENHOR Deus de Israel: Assim direis ao rei de Judá, que vos enviou a mim para me perguntar: Eis que o exército de Faraó que saiu para vosso socorro voltará a sua terra, ao Egito.
+{rp|n4}Assim diz o SENHOR Deus de Israel: Assim direis ao rei de Judá, que vos enviou a mim para me perguntar: Eis que o exército de Faraó que saiu para vosso socorro voltará a sua terra, ao Egito.
+{tr}Assim diz o SENHOR Deus de Israel: Assim direis ao rei de Judá, que vos enviou a Mim para Me perguntar: Eis que o exército de Faraó que saiu para vosso socorro voltará a sua terra, ao Egito.
 \v Jr.37.8
 E os caldeus voltarão, e lutarão contra esta cidade; e a tomarão, e a queimarão a fogo.
 \v Jr.37.9
@@ -3587,17 +3795,20 @@ Enviaram, pois, e tomaram a Jeremias do pátio da guarda, e o entregaram a Gedal
 \v Jr.39.15
 E tinha vindo a palavra do SENHOR a Jeremias, enquanto ele estava preso no pátio da guarda, dizendo:
 \v Jr.39.16
-Vai, e fala a Ebede-Meleque o cuxita, dizendo: Assim diz o SENHOR dos exércitos, Deus de Israel: Eis que trarei minhas palavras sobre esta cidade para o mal, e não para o bem; e serão naquele dia perante tua presença.
+{rp|n4}Vai, e fala a Ebede-Meleque o cuxita, dizendo: Assim diz o SENHOR dos exércitos, Deus de Israel: Eis que trarei minhas palavras sobre esta cidade para o mal, e não para o bem; e serão naquele dia perante tua presença.
+{tr}Vai, e fala a Ebede-Meleque o cuxita, dizendo: Assim diz o SENHOR dos exércitos, Deus de Israel: Eis que trarei Minhas palavras sobre esta cidade para o mal, e não para o bem; e serão naquele dia perante tua presença.
 \v Jr.39.17
 Porém naquele dia eu te livrarei, diz o SENHOR, e não serás entregue nas mãos dos homens a quem tu temes.
 \v Jr.39.18
-Pois certamente te livrarei, e não cairás à espada, mas sim que terás tua alma como despojo, porque confiaste em mim, diz o SENHOR.
+{rp|n4}Pois certamente te livrarei, e não cairás à espada, mas sim que terás tua alma como despojo, porque confiaste em mim, diz o SENHOR.
+{tr}Pois certamente te livrarei, e não cairás à espada, mas sim que terás tua alma como despojo, porque confiaste em Mim, diz o SENHOR.
 \v Jr.40.1
 Palavra que veio do SENHOR a Jeremias, depois que Nabuzaradã, capitão da guarda, o deixara ir de Ramá; quando o tomou, estando ele acorrentado com cadeias no meio de todos os presos de Jerusalém e de Judá que foram levados cativos à Babilônia.
 \v Jr.40.2
 Pois o capitão da guarda tomou a Jeremias, e lhe disse: O SENHOR teu Deus falou este mal contra este lugar;
 \v Jr.40.3
-E o SENHOR trouxe e fez o que havia falado; porque pecastes contra o SENHOR, e não obedecestes a sua voz, por isso vos aconteceu isto.
+{rp|n4}E o SENHOR trouxe e fez o que havia falado; porque pecastes contra o SENHOR, e não obedecestes a sua voz, por isso vos aconteceu isto.
+{tr}E o SENHOR trouxe e fez o que havia falado; porque pecastes contra o SENHOR, e não obedecestes a Sua voz, por isso vos aconteceu isto.
 \v Jr.40.4
 E agora, eis que soltei hoje das cadeias que estavam sobre tuas mãos. Se 
 \added
@@ -3772,13 +3983,15 @@ Será que a espada que vós temeis, ali ela vos tomará na terra do Egito, e a f
 \v Jr.42.17
 Assim será com todos os homens que dirigirem seus rostos para irem ao Egito, para ali peregrinar: morrerão pela espada, pela fome, e pela pestilência; não haverá um deles sequer que reste vivo, nem que escape do mal que eu trarei sobre eles.
 \v Jr.42.18
-Porque assim diz o SENHOR dos exércitos, Deus de Israel: Tal como se derramou minha ira e minha indignação sobre os moradores de Jerusalém, assim também se derramará minha indignação sobre vós, quando entrardes no Egito; e servireis de maldição e de espanto; de amaldiçoamento e de humilhação; e não vereis mais a este lugar.
+{rp|n4}Porque assim diz o SENHOR dos exércitos, Deus de Israel: Tal como se derramou minha ira e minha indignação sobre os moradores de Jerusalém, assim também se derramará minha indignação sobre vós, quando entrardes no Egito; e servireis de maldição e de espanto; de amaldiçoamento e de humilhação; e não vereis mais a este lugar.
+{tr}Porque assim diz o SENHOR dos exércitos, Deus de Israel: Tal como se derramou Minha ira e Minha indignação sobre os moradores de Jerusalém, assim também se derramará Minha indignação sobre vós, quando entrardes no Egito; e servireis de maldição e de espanto; de amaldiçoamento e de humilhação; e não vereis mais a este lugar.
 \v Jr.42.19
 O SENHOR já falou quanto vós, ó restantes de Judá: Não entreis no Egito; Tende certeza de que eu vos advirto hoje.
 \v Jr.42.20
 Porque levais vossas próprias almas ao erro; pois vós me enviastes ao SENHOR vosso Deus, dizendo: Ora por nós ao SENHOR nosso Deus; e conforme a tudo quanto o SENHOR nosso Deus disser, assim nos faz saber, e o faremos.
 \v Jr.42.21
-E eu já vos fiz saber hoje, porém não destes ouvidos à voz do SENHOR vosso Deus, nem a tudo pelo que ele me enviou a vós.
+{rp|n4}E eu já vos fiz saber hoje, porém não destes ouvidos à voz do SENHOR vosso Deus, nem a tudo pelo que ele me enviou a vós.
+{tr}E eu já vos fiz saber hoje, porém não destes ouvidos à voz do SENHOR vosso Deus, nem a tudo pelo que Ele me enviou a vós.
 \v Jr.42.22
 Agora, portanto, tende certeza de que pela espada, pela fome, e pela pestilência, morrereis no lugar onde desejastes entrar para ali peregrinardes.
 \v Jr.43.1
@@ -3831,21 +4044,25 @@ Palavra que veio a Jeremias quanto a todos os judeus habitantes na terra do Egit
 \v Jr.44.2
 Assim diz o SENHOR dos exércitos, Deus de Israel: Vós vistes todo o mal que eu trouxe sobre Jerusalém e sobre todas as cidades de Judá; e eis que hoje elas estão desoladas, e ninguém nelas habita;
 \v Jr.44.3
-Por causa da maldade deles, que fizeram para me irritar, indo oferecer incenso, 
+{rp|n4}Por causa da maldade deles, que fizeram para me irritar, indo oferecer incenso, 
+{tr}Por causa da maldade deles, que fizeram para Me irritar, indo oferecer incenso, 
 \added
 e
 \*added
  servindo a outros deuses que nunca conheceram, nem eles, nem vós, nem vossos pais.
 \v Jr.44.4
-E enviei até vós todos os meus servos, os profetas, persistindo em enviá-los, dizendo: Não façais, pois, esta coisa abominável, e eu odeio.
+{rp|n4}E enviei até vós todos os meus servos, os profetas, persistindo em enviá-los, dizendo: Não façais, pois, esta coisa abominável, e eu odeio.
+{tr}E enviei até vós todos os Meus servos, os profetas, persistindo em enviá-los, dizendo: Não façais, pois, esta coisa abominável, e eu odeio.
 \v Jr.44.5
 Porém não obedeceram, nem inclinaram seus ouvidos para se converterem de sua maldade, para não oferecer incenso a outros deuses.
 \v Jr.44.6
-Por isso se derramou minha indignação e minha ira, e acendeu-se nas cidades de Judá e nas ruas de Jerusalém, e tornaram-se em desolação e em destruição tal como está hoje.
+{rp|n4}Por isso se derramou minha indignação e minha ira, e acendeu-se nas cidades de Judá e nas ruas de Jerusalém, e tornaram-se em desolação e em destruição tal como está hoje.
+{tr}Por isso se derramou Minha indignação e Minha ira, e acendeu-se nas cidades de Judá e nas ruas de Jerusalém, e tornaram-se em desolação e em destruição tal como está hoje.
 \v Jr.44.7
 Agora pois, assim diz o SENHOR dos exércitos, Deus de Israel: Por que fazeis tão grande mal contra vossas almas, para serdes eliminados homem e mulher, criança e bebê de peito, do meio de Judá, sem que vos sobre um restante sequer;
 \v Jr.44.8
-Irritando-me com as obras de vossas mãos, oferecendo incenso a outros deuses na terra do Egito, para onde entrastes para morar; de modo que sereis eliminados, e servireis de maldição e de humilhação entre todas as nações da terra?
+{rp|n4}Irritando-me com as obras de vossas mãos, oferecendo incenso a outros deuses na terra do Egito, para onde entrastes para morar; de modo que sereis eliminados, e servireis de maldição e de humilhação entre todas as nações da terra?
+{tr}Irritando-Me com as obras de vossas mãos, oferecendo incenso a outros deuses na terra do Egito, para onde entrastes para morar; de modo que sereis eliminados, e servireis de maldição e de humilhação entre todas as nações da terra?
 \v Jr.44.9
 Por acaso já vos esquecestes das maldades de vossos pais, das maldades dos reis de Judá, das maldades de suas mulheres, e das vossas 
 \added
@@ -3853,9 +4070,11 @@ próprias
 \*added
  maldades, e das maldades de vossas mulheres, que foram feitas na terra de Judá e nas ruas de Jerusalém?
 \v Jr.44.10
-Até hoje não se contristaram, nem temeram, nem andaram em minha lei, nem em meus estatutos que pus diante de vós e diante de vossos pais.
+{rp|n4}Até hoje não se contristaram, nem temeram, nem andaram em minha lei, nem em meus estatutos que pus diante de vós e diante de vossos pais.
+{tr}Até hoje não se contristaram, nem temeram, nem andaram em Minha lei, nem em Meus estatutos que pus diante de vós e diante de vossos pais.
 \v Jr.44.11
-Portanto assim diz o SENHOR dos exércitos, Deus de Israel: Eis que eu dirijo meu rosto a vós para o mal, e para destruir a todo Judá.
+{rp|n4}Portanto assim diz o SENHOR dos exércitos, Deus de Israel: Eis que eu dirijo meu rosto a vós para o mal, e para destruir a todo Judá.
+{tr}Portanto assim diz o SENHOR dos exércitos, Deus de Israel: Eis que eu dirijo Meu rosto a vós para o mal, e para destruir a todo Judá.
 \v Jr.44.12
 E tomarei os restantes de Judá que dirigiram seus rostos para entrarem na terra do Egito para ali morar, e na terra do Egito serão todos consumidos; cairão a espada, e serão consumidos pela fome; desde o menor até o maior, pela espada e pela fome morrerão. E servirão de maldição e de espanto; de amaldiçoamento e de humilhação.
 \v Jr.44.13
@@ -3882,11 +4101,13 @@ E quando oferecemos incenso à rainha do céus, e lhe derramamos ofertas de bebi
 \v Jr.44.20
 Então Jeremias disse a todo o povo, aos homens e às mulheres, e a todo o povo que lhe tinha respondido isto, dizendo:
 \v Jr.44.21
-Por acaso não se lembrou o SENHOR, e não veio a sua mente o incenso que oferecestes nas cidades de Judá, e nas praças de Jerusalém, vós e vossos pais, vossos reis e vossos príncipes, e o povo da terra?
+{rp|n4}Por acaso não se lembrou o SENHOR, e não veio a sua mente o incenso que oferecestes nas cidades de Judá, e nas praças de Jerusalém, vós e vossos pais, vossos reis e vossos príncipes, e o povo da terra?
+{tr}Por acaso não se lembrou o SENHOR, e não veio a Sua mente o incenso que oferecestes nas cidades de Judá, e nas praças de Jerusalém, vós e vossos pais, vossos reis e vossos príncipes, e o povo da terra?
 \v Jr.44.22
 De tal maneira que o SENHOR não podia mais aguentar, por causa da maldade de vossas ações, por causa das abominações que fizestes; por isso vossa terra se tornou em desolação, em espanto, e em maldição, até não restar morador, tal como hoje está.
 \v Jr.44.23
-Pois oferecestes incenso e pecastes contra o SENHOR, e não obedecestes à voz do SENHOR, nem andastes em sua lei, seus estatutos, e seus testemunhos; por isso veio sobre vós este mal, tal como há hoje.
+{rp|n4}Pois oferecestes incenso e pecastes contra o SENHOR, e não obedecestes à voz do SENHOR, nem andastes em sua lei, seus estatutos, e seus testemunhos; por isso veio sobre vós este mal, tal como há hoje.
+{tr}Pois oferecestes incenso e pecastes contra o SENHOR, e não obedecestes à voz do SENHOR, nem andastes em Sua lei, Seus estatutos, e Seus testemunhos; por isso veio sobre vós este mal, tal como há hoje.
 \v Jr.44.24
 Disse mais Jeremias a todo o povo, e a todas as mulheres: Ouvi a palavra do SENHOR, todos vós de Judá, que estais na terra do Egito:
 \v Jr.44.25
@@ -3898,7 +4119,8 @@ Eis que eu os observarei para o mal, e não para o bem; e todos os homens de Jud
 \v Jr.44.28
 E os que escaparem do espada voltarão da terra do Egito para a terra de Judá, poucos em número; e todo o restante de Judá, que entrou em Egito para ali morar, saberá qual palavra se confirmará, se a minha ou a sua.
 \v Jr.44.29
-E isto tereis por sinal, diz o SENHOR, de que neste lugar eu vos castigo, para que saibais que certamente minhas palavras se confirmarão contra vós para o mal.
+{rp|n4}E isto tereis por sinal, diz o SENHOR, de que neste lugar eu vos castigo, para que saibais que certamente minhas palavras se confirmarão contra vós para o mal.
+{tr}E isto tereis por sinal, diz o SENHOR, de que neste lugar eu vos castigo, para que saibais que certamente Minhas palavras se confirmarão contra vós para o mal.
 \v Jr.44.30
 Assim diz o SENHOR: Eis que eu entregarei ao Faraó Ofra, rei do Egito, nas mãos de seus inimigos, e nas mão dos que buscam sua morte,
 \fn
@@ -4222,7 +4444,8 @@ Houve um grito desde Hesbom até Eleale e até Jaaz; deram sua voz desde Zoar at
 \v Jr.48.35
 E eu, diz o SENHOR, farei cessar de Moabe quem sacrifique no lugar alto, e quem ofereça incenso a seus deuses.
 \v Jr.48.36
-Portanto meu coração ressoará como flautas por causa de Moabe; também meu coração ressoará como flautas pelos homens de Quir-Heres; pois as riquezas que tinham acumulado se perderam;
+{rp|n4}Portanto meu coração ressoará como flautas por causa de Moabe; também meu coração ressoará como flautas pelos homens de Quir-Heres; pois as riquezas que tinham acumulado se perderam;
+{tr}Portanto Meu coração ressoará como flautas por causa de Moabe; também Meu coração ressoará como flautas pelos homens de Quir-Heres; pois as riquezas que tinham acumulado se perderam;
 \v Jr.48.37
 Pois em toda cabeça haverá calva, e toda barba será cortada; sobre todas mãos há arranhões, e sobre todos os lombos há sacos.
 \v Jr.48.38
@@ -4308,11 +4531,13 @@ lit. semente
 \*fn
  e também seus irmãos e seus vizinhos; e deixará de existir.
 \v Jr.49.11
-Deixa teus órfãos, eu os criarei; e em mim confiarão tuas viúvas.
+{rp|n4}Deixa teus órfãos, eu os criarei; e em mim confiarão tuas viúvas.
+{tr}Deixa teus órfãos, eu os criarei; e em Mim confiarão tuas viúvas.
 \v Jr.49.12
 Pois assim diz o SENHOR: Eis que os que não estavam condenados a beberem do cálice, certamente o beberão; e ficarias tu impune por completo? Não ficarás impune, e certamente beberás.
 \v Jr.49.13
-Pois jurei por mim mesmo, diz o SENHOR, que Bozra se tornará em espanto, humilhação, deserto e maldição; e todas as suas cidades se tornarão desolações perpétuas.
+{rp|n4}Pois jurei por mim mesmo, diz o SENHOR, que Bozra se tornará em espanto, humilhação, deserto e maldição; e todas as suas cidades se tornarão desolações perpétuas.
+{tr}Pois jurei por Mim mesmo, diz o SENHOR, que Bozra se tornará em espanto, humilhação, deserto e maldição; e todas as suas cidades se tornarão desolações perpétuas.
 \v Jr.49.14
 Ouvi uma notícia do SENHOR que um mensageiro foi às nações, 
 \added
@@ -4329,20 +4554,23 @@ Assim Edom servirá de espanto; todo aquele que passar por ela se espantará, e 
 \v Jr.49.18
 Tal como a destruição de Sodoma e de Gomorra, e de suas cidades vizinhas, diz o SENHOR, ninguém habitará ali, nem filho de homem morará nela.
 \v Jr.49.19
-Eis que será como o leão que sobe da mata do Jordão contra a morada do forte; porque repentinamente o farei correr dela, e ordenarei contra ela a quem eu escolher; pois quem é semelhante a mim? E quem manda em mim? E quem é o pastor que pode subsistir diante de mim?
+{rp|n4}Eis que será como o leão que sobe da mata do Jordão contra a morada do forte; porque repentinamente o farei correr dela, e ordenarei contra ela a quem eu escolher; pois quem é semelhante a mim? E quem manda em mim? E quem é o pastor que pode subsistir diante de mim?
+{tr}Eis que será como o leão que sobe da mata do Jordão contra a morada do forte; porque repentinamente o farei correr dela, e ordenarei contra ela a quem eu escolher; pois quem é semelhante a Mim? E quem manda em Mim? E quem é o pastor que pode subsistir diante de Mim?
 \v Jr.49.20
 Portanto ouvi o conselho do SENHOR, que ele determinou sobre Edom; e seus pensamentos, que decidiu sobre os moradores de Temã: Certamente os menores do rebanho os arrastarão, e destruirão suas moradas com eles.
 \v Jr.49.21
 A terra treme do estrondo da queda deles; e o grito de sua voz foi ouvida até no mar Vermelho.
 \v Jr.49.22
-Eis que como águia subirá e voará, e estenderá suas asas sobre Bozra; e o coração dos guerreiros de Edom será 
+{rp|n4}Eis que como águia subirá e voará, e estenderá suas asas sobre Bozra; e o coração dos guerreiros de Edom será 
+{tr}Eis que como águia subirá e voará, e estenderá Suas asas sobre Bozra; e o coração dos guerreiros de Edom será 
 naquele dia como o coração de mulher em dores de parto.
 \v Jr.49.23
 Sobre Damasco. Envergonharam-se Hamate e Arpade, porque ouviram más notícias; derreteram-se em mar de angústia, não podem se sossegar.
 \v Jr.49.24
 Enfraquecida está Damasco; virou-se para fugir, e foi tomada de medo; angústia e dores a tomaram, como de mulher que está de parto.
 \v Jr.49.25
-Como não foi abandonada a famosa cidade, a cidade de minha alegria?
+{rp|n4}Como não foi abandonada a famosa cidade, a cidade de minha alegria?
+{tr}Como não foi abandonada a famosa cidade, a cidade de Minha alegria?
 \v Jr.49.26
 Por isso seus rapazes cairão em suas ruas, e todos os homens de guerra serão mortos naquele dia, diz o SENHOR dos exércitos.
 \v Jr.49.27
@@ -4391,9 +4619,11 @@ mal
 \*key
 i.e. o desastre, a calamidade
 \*fn
- sobre eles, o furor de minha ira, diz o SENHOR; e mandarei a espada atrás deles, até que os acabe por completo.
+{rp|n4} sobre eles, o furor de minha ira, diz o SENHOR; e mandarei a espada atrás deles, até que os acabe por completo.
+{tr} sobre eles, o furor de Minha ira, diz o SENHOR; e mandarei a espada atrás deles, até que os acabe por completo.
 \v Jr.49.38
-E porei meu trono em Elão, e destruirei dali o rei e os príncipes, diz o SENHOR.
+{rp|n4}E porei meu trono em Elão, e destruirei dali o rei e os príncipes, diz o SENHOR.
+{tr}E porei Meu trono em Elão, e destruirei dali o rei e os príncipes, diz o SENHOR.
 \v Jr.49.39
 Mas será nos últimos dias, que restaurarei Elão de seu infortúnio, diz o SENHOR.
 \v Jr.50.1
@@ -4429,7 +4659,8 @@ Porque eis que eu levantarei e farei subir contra a Babilônia um ajuntamento de
 \v Jr.50.10
 E a Caldeia será objeto de saque; todos os que a saquearem serão fartos, diz o SENHOR.
 \v Jr.50.11
-Visto que vós vos alegrastes, que vos enchestes de prazer, vós saqueadores de minha propriedade; visto que vos inchastes como bezerra gorda, e relinchastes como cavalos;
+{rp|n4}Visto que vós vos alegrastes, que vos enchestes de prazer, vós saqueadores de minha propriedade; visto que vos inchastes como bezerra gorda, e relinchastes como cavalos;
+{tr}Visto que vós vos alegrastes, que vos enchestes de prazer, vós saqueadores de Minha propriedade; visto que vos inchastes como bezerra gorda, e relinchastes como cavalos;
 \v Jr.50.12
 \added
 Por isso
@@ -4485,7 +4716,8 @@ Vinde contra ela desde o lugar mais distante; abri seus celeiros; tornai-a em am
 \v Jr.50.27
 Matai à espada todos os seus novilhos; que ela desça ao matadouro. Ai deles! Porque veio o seu dia, o tempo de sua punição.
 \v Jr.50.28
-Eis a voz dos que fugiram e escaparam da terra de Babilônia, para anunciar em Sião a vingança do SENHOR nosso Deus, a vingança de seu templo.
+{rp|n4}Eis a voz dos que fugiram e escaparam da terra de Babilônia, para anunciar em Sião a vingança do SENHOR nosso Deus, a vingança de seu templo.
+{tr}Eis a voz dos que fugiram e escaparam da terra de Babilônia, para anunciar em Sião a vingança do SENHOR nosso Deus, a vingança de Seu templo.
 \v Jr.50.29
 Convocai contra a Babilônia os flecheiros, todos os que armam arcos; assentai o acampamento ao redor dela; ninguém escape dela, pagai-lhe conforme sua obra; conforme tudo o que ela fez, fazei-lhe; porque agiu arrogantemente contra o SENHOR, contra o Santo de Israel.
 \v Jr.50.30
@@ -4564,7 +4796,8 @@ Eles manejam arco e lança; são cruéis, e não terão compaixão; sua voz soar
 \v Jr.50.43
 O rei da Babilônia ouviu a notícia deles, e suas mãos perderam as forças; tomado foi por angústia e dor, como mulher de parto.
 \v Jr.50.44
-Eis que como leão subirá da mata do Jordão contra a morada do forte; pois repentinamente o farei correr dali. E ordenarei contra ela a quem eu escolher; pois quem é semelhante a mim? E quem manda em mim? Ou quem é o pastor que pode subsistir diante de mim?
+{rp|n4}Eis que como leão subirá da mata do Jordão contra a morada do forte; pois repentinamente o farei correr dali. E ordenarei contra ela a quem eu escolher; pois quem é semelhante a mim? E quem manda em mim? Ou quem é o pastor que pode subsistir diante de mim?
+{tr}Eis que como leão subirá da mata do Jordão contra a morada do forte; pois repentinamente o farei correr dali. E ordenarei contra ela a quem eu escolher; pois quem é semelhante a Mim? E quem manda em Mim? Ou quem é o pastor que pode subsistir diante de Mim?
 \v Jr.50.45
 Portanto ouvi o conselho do SENHOR, que decretou contra a Babilônia; e seus pensamentos, que ele determinou sobre a terra dos caldeus: Certamente os menores do rebanho serão arrastados, certamente destruirá sua habitação com deles.
 \fn
@@ -4638,7 +4871,8 @@ ganância
 obscuro – trad. alt. vida
 \*fn
 \v Jr.51.14
-O SENHOR dos exércitos jurou por si mesmo, 
+{rp|n4}O SENHOR dos exércitos jurou por si mesmo, 
+{tr}O SENHOR dos exércitos jurou por Si mesmo, 
 \added
 dizendo
 \*added
@@ -4656,9 +4890,11 @@ Todo homem tem se tornado bruto, e sem conhecimento; envergonha-se todo artífic
 \v Jr.51.18
 Elas são inúteis, obra de enganos; no tempo de seu castigo perecerão.
 \v Jr.51.19
-A porção de Jacó não é como eles; pois ele é o Formador de tudo; e Israel é a vara de sua herança; EU-SOU dos exércitos é o seu nome.
+{rp|n4}A porção de Jacó não é como eles; pois ele é o Formador de tudo; e Israel é a vara de sua herança; EU-SOU dos exércitos é o seu nome.
+{tr}A porção de Jacó não é como eles; pois Ele é o Formador de tudo; e Israel é a vara de Sua herança; EU-SOU dos exércitos é o Seu nome.
 \v Jr.51.20
-Tu és para mim um martelo, 
+{rp|n4}Tu és para mim um martelo, 
+{tr}Tu és para Mim um martelo, 
 \added
 e
 \*added
@@ -4676,7 +4912,8 @@ de bois
 \v Jr.51.24
 Mas retribuirei à Babilônia e a todos os moradores da Caldeia todo a sua maldade, que fizeram em Sião diante de vossos olhos, diz o SENHOR.
 \v Jr.51.25
-Eis que eu sou contra ti, ó monte destruidor, que destróis toda a terra, diz o SENHOR, e estenderei minha mão contra ti, e te farei rolar das rochas, e te tonarei um monte queimado.
+{rp|n4}Eis que eu sou contra ti, ó monte destruidor, que destróis toda a terra, diz o SENHOR, e estenderei minha mão contra ti, e te farei rolar das rochas, e te tonarei um monte queimado.
+{tr}Eis que eu sou contra ti, ó monte destruidor, que destróis toda a terra, diz o SENHOR, e estenderei Minha mão contra ti, e te farei rolar das rochas, e te tonarei um monte queimado.
 \v Jr.51.26
 E não tomarão de ti pedra para esquina, nem pedra para fundamentos; porque te tornarás em assolações perpétuas, diz o SENHOR.
 \v Jr.51.27
@@ -4730,7 +4967,8 @@ Suas cidades se tornaram desoladas, uma terra seca e deserta, terra que ninguém
 \v Jr.51.44
 E punirei a Bel na Babilônia, e tirarei de sua boca o que tragou; e nunca mais as nações virão a ele; e o muro da Babilônia cairá.
 \v Jr.51.45
-Saí do meio dela, ó povo meu, e livrai cada um sua alma do ardor da ira do SENHOR.
+{rp|n4}Saí do meio dela, ó povo meu, e livrai cada um sua alma do ardor da ira do SENHOR.
+{tr}Saí do meio dela, ó povo Meu, e livrai cada um sua alma do ardor da ira do SENHOR.
 \v Jr.51.46
 E para que vosso coração não perca as forças, e tenhais medo por causa das notícias que forem ouvidas pela terra; pois em um ano virá notícias, e depois em outro ano mais notícias; e haverá violência na terra, dominador sobre dominador.
 \v Jr.51.47
@@ -4755,7 +4993,8 @@ Direis, porém
 \v Jr.51.52
 Portanto eis que vêm dias, diz o SENHOR, em que punirei suas imagens de escultura, e em toda a sua terra gemerão os feridos.
 \v Jr.51.53
-Mesmo se a Babilônia subisse ao céu e se fortificasse no alto seu poder, ainda assim de mim virão destruidores contra ela, diz o SENHOR.
+{rp|n4}Mesmo se a Babilônia subisse ao céu e se fortificasse no alto seu poder, ainda assim de mim virão destruidores contra ela, diz o SENHOR.
+{tr}Mesmo se a Babilônia subisse ao céu e se fortificasse no alto seu poder, ainda assim de Mim virão destruidores contra ela, diz o SENHOR.
 \v Jr.51.54
 \added
 Ouve-se
