@@ -335,7 +335,8 @@ E Coz gerou a Anube, e a Zobeba, e as famílias de Aarel, filho de Harum.
 \v 1Cr.4.9
 E Jabez foi mais honrado que seus irmãos; sua mãe o chamara de Jabez, dizendo: Pois com dores eu o dei à luz.
 \v 1Cr.4.10
-Mas Jabez invocou ao Deus de Israel, dizendo: Ah, se tu me abençoares muito, e ampliares os meus limites, e se tua mão 
+{rp|n4}Mas Jabez invocou ao Deus de Israel, dizendo: Ah, se tu me abençoares muito, e ampliares os meus limites, e se tua mão 
+{tr}Mas Jabez invocou ao Deus de Israel, dizendo: Ah, se Tu me abençoares muito, e ampliares os meus limites, e se Tua mão 
 for comigo, e me protegeres do mal, para que eu não sofra! E Deus fez suceder o que ele havia pedido.
 \v 1Cr.4.11
 E Quelube, irmão de Suá gerou a Maquir, que foi o pai de Estom.
@@ -1029,7 +1030,8 @@ conduzias as tropas de Israel
 \*key
 fazias sair e entrar a Israel 
 \*fn
-Também o SENHOR teu Deus te disse: Tu apascentarás o meu povo Israel, e tu serás líder do meu povo Israel.
+{rp|n4}Também o SENHOR teu Deus te disse: Tu apascentarás o meu povo Israel, e tu serás líder do meu povo Israel.
+{tr}Também o SENHOR teu Deus te disse: Tu apascentarás o Meu povo Israel, e tu serás líder do Meu povo Israel.
 \v 1Cr.11.3
 Também vieram todos os anciãos de Israel ao rei em Hebrom, e Davi fez aliança com eles diante do SENHOR; e ungiram a Davi como rei sobre Israel, conforme a palavra do SENHOR por meio de Samuel.
 \v 1Cr.11.4
@@ -1333,7 +1335,8 @@ E a fama de Davi se espalhou por todas aquelas terras; e o SENHOR fez todas aque
 \v 1Cr.15.1
 Davi também fez casas para si em sua cidade, e preparou um lugar para a arca de Deus, e lhe armou uma tenda.
 \v 1Cr.15.2
-Então Davi disse: Ninguém pode trazer a arca de Deus, a não ser os levitas; porque o SENHOR os escolheu para que transportassem a arca do SENHOR, e para lhe servirem eternamente.
+{rp|n4}Então Davi disse: Ninguém pode trazer a arca de Deus, a não ser os levitas; porque o SENHOR os escolheu para que transportassem a arca do SENHOR, e para lhe servirem eternamente.
+{tr}Então Davi disse: Ninguém pode trazer a arca de Deus, a não ser os levitas; porque o SENHOR os escolheu para que transportassem a arca do SENHOR, e para Lhe servirem eternamente.
 \v 1Cr.15.3
 E Davi ajuntou a todo Israel em Jerusalém, para fazerem subir a arca do SENHOR a seu lugar, que ele tinha lhe preparado.
 \v 1Cr.15.4
@@ -1420,13 +1423,17 @@ Porém os sacerdotes Benaia e Jaaziel estavam continuamente com trombetas diante
 \v 1Cr.16.7
 Então naquele mesmo dia Davi pela primeira vez mandou celebrarem ao SENHOR por meio de Asafe e de seus irmãos:
 \v 1Cr.16.8
-Louvai ao SENHOR, invocai o seu nome, notificai entre os povos os seus feitos.
+{rp|n4}Louvai ao SENHOR, invocai o seu nome, notificai entre os povos os seus feitos.
+{tr}Louvai ao SENHOR, invocai o Seu nome, notificai entre os povos os Seus feitos.
 \v 1Cr.16.9
-Cantai a ele, cantai-lhe salmos; falai de todas as suas maravilhas.
+{rp|n4}Cantai a ele, cantai-lhe salmos; falai de todas as suas maravilhas.
+{tr}Cantai a Ele, cantai-Lhe salmos; falai de todas as Suas maravilhas.
 \v 1Cr.16.10
-Gloriai-vos em seu santo nome; alegre-se o coração dos que buscam ao SENHOR.
+{rp|n4}Gloriai-vos em seu santo nome; alegre-se o coração dos que buscam ao SENHOR.
+{tr}Gloriai-vos em Seu santo nome; alegre-se o coração dos que buscam ao SENHOR.
 \v 1Cr.16.11
-Procurai ao SENHOR e à sua força; buscai a sua face continuamente.
+{rp|n4}Procurai ao SENHOR e à sua força; buscai a sua face continuamente.
+{tr}Procurai ao SENHOR e à Sua força; buscai a Sua face continuamente.
 \v 1Cr.16.12
 Lembrai-vos de suas maravilhas que ele fez, de seus prodígios, e dos juízos de sua boca,
 \v 1Cr.16.13
@@ -1441,13 +1448,16 @@ de seu servo Israel, vós filhos de Jacó, seus escolhidos.
 \v 1Cr.16.14
 Ele é o SENHOR, o nosso Deus; seus juízos estão em toda a terra.
 \v 1Cr.16.15
-Lembrai-vos perpetuamente de seu pacto, 
+{rp|n4}Lembrai-vos perpetuamente de seu pacto, 
+{tr}Lembrai-vos perpetuamente de Seu pacto, 
 \added
 e
 \*added
- da palavra que ele mandou até mil gerações;
+{rp|n4} da palavra que ele mandou até mil gerações;
+{tr} da palavra que Ele mandou até mil gerações;
 \v 1Cr.16.16
-Do pacto que estabeleceu com Abraão, e do seu juramento a Isaque;
+{rp|n4}Do pacto que estabeleceu com Abraão, e do seu juramento a Isaque;
+{tr}Do pacto que estabeleceu com Abraão, e do Seu juramento a Isaque;
 \v 1Cr.16.17
 O qual confirmou a Jacó por estatuto, a Israel por pacto eterno,
 \v 1Cr.16.18
@@ -1462,21 +1472,26 @@ A ninguém ele permitiu que os oprimisse; por causa deles repreendeu a reis,
 \added
 Dizendo
 \*added
-: Não toqueis em meus ungidos, nem façais mal a meus profetas.
+{rp|n4}: Não toqueis em meus ungidos, nem façais mal a meus profetas.
+{tr}: Não toqueis em Meus ungidos, nem façais mal a Meus profetas.
 \v 1Cr.16.23
-Cantai ao SENHOR, toda a terra, anunciai de dia em dia sua salvação.
+{rp|n4}Cantai ao SENHOR, toda a terra, anunciai de dia em dia sua salvação.
+{tr}Cantai ao SENHOR, toda a terra, anunciai de dia em dia Sua salvação.
 \v 1Cr.16.24
 Cantai entre as nações sua glória, e entre todos os povos suas maravilhas.
 \v 1Cr.16.25
-Porque o SENHOR é grande, e muito digno de ser louvado; ele é mais temível que todos os deuses.
+{rp|n4}Porque o SENHOR é grande, e muito digno de ser louvado; ele é mais temível que todos os deuses.
+{tr}Porque o SENHOR é grande, e muito digno de ser louvado; Ele é mais temível que todos os deuses.
 \v 1Cr.16.26
 Pois todos os deuses dos povos nada são; porém o SENHOR fez os céus.
 \v 1Cr.16.27
-Majestade e esplendor há diante de ele; força e alegria em sua morada.
+{rp|n4}Majestade e esplendor há diante de ele; força e alegria em sua morada.
+{tr}Majestade e esplendor há diante de Ele; força e alegria em Sua morada.
 \v 1Cr.16.28
 Reconhecei ao SENHOR, ó famílias das nações, reconhecei ao SENHOR a glória e o poder.
 \v 1Cr.16.29
-Dai ao SENHOR a glória de seu nome; trazei ofertas, e vinde perante ele; adorai ao SENHOR na beleza da santidade.
+{rp|n4}Dai ao SENHOR a glória de seu nome; trazei ofertas, e vinde perante ele; adorai ao SENHOR na beleza da santidade.
+{tr}Dai ao SENHOR a glória de Seu nome; trazei ofertas, e vinde perante Ele; adorai ao SENHOR na beleza da santidade.
 \v 1Cr.16.30
 Assombrai-vos diante dele, vós, toda a terra; o mundo 
 \added
@@ -1490,9 +1505,11 @@ Ressoe o mar, e a plenitude dela: Alegre-se o campo, e todo o que contém.
 \v 1Cr.16.33
 Então cantarão as árvores dos bosques diante do SENHOR, Porque vem a julgar a terra.
 \v 1Cr.16.34
-Celebrai a o SENHOR, porque é bom; Porque sua misericórdia é eterna.
+{rp|n4}Celebrai a o SENHOR, porque é bom; Porque sua misericórdia é eterna.
+{tr}Celebrai a o SENHOR, porque é bom; Porque Sua misericórdia é eterna.
 \v 1Cr.16.35
-E dizei: Salva-nos, ó Deus, saúde nossa: Junta-nos, e livra-nos das nações, Para que confessemos teu santo nome, e nos gloriemos em teus louvores.
+{rp|n4}E dizei: Salva-nos, ó Deus, saúde nossa: Junta-nos, e livra-nos das nações, Para que confessemos teu santo nome, e nos gloriemos em teus louvores.
+{tr}E dizei: Salva-nos, ó Deus, saúde nossa: Junta-nos, e livra-nos das nações, Para que confessemos Teu santo nome, e nos gloriemos em Teus louvores.
 \v 1Cr.16.36
 Bendito seja o SENHOR Deus de Israel, De eternidade a eternidade.
 \v 1Cr.16.37
@@ -1502,7 +1519,8 @@ E a Obede-Edom e a seus irmãos, sessenta e oito; e a Obede-Edom filho de Jedutu
 \v 1Cr.16.39
 Assim a Zadoque o sacerdote, e a seus irmãos os sacerdotes, diante do tabernáculo do SENHOR no alto que estava em Gibeão,
 \v 1Cr.16.40
-Para que sacrificassem continuamente, a manhã e tarde, holocaustos a o SENHOR no altar do holocausto, conforme a todo o que está escrito na lei do SENHOR, que ele prescreveu a Israel;
+{rp|n4}Para que sacrificassem continuamente, a manhã e tarde, holocaustos a o SENHOR no altar do holocausto, conforme a todo o que está escrito na lei do SENHOR, que ele prescreveu a Israel;
+{tr}Para que sacrificassem continuamente, a manhã e tarde, holocaustos a o SENHOR no altar do holocausto, conforme a todo o que está escrito na lei do SENHOR, que Ele prescreveu a Israel;
 \v 1Cr.16.41
 E com eles a Hemã e a Jedutum, e os outros escolhidos declarados por seus nomes, para glorificar a o SENHOR, porque é eterna sua misericórdia;
 \v 1Cr.16.42
@@ -1517,24 +1535,30 @@ E Natã disse a Davi: Faze tudo o que está em teu coração, porque Deus é con
 \v 1Cr.17.3
 Naquela mesma noite, a palavra de Deus veio a Natã, dizendo:
 \v 1Cr.17.4
-Vai e diz a Davi, meu servo: Assim diz o SENHOR: Tu não me edificarás uma casa em que eu habite;
+{rp|n4}Vai e diz a Davi, meu servo: Assim diz o SENHOR: Tu não me edificarás uma casa em que eu habite;
+{tr}Vai e diz a Davi, Meu servo: Assim diz o SENHOR: Tu não Me edificarás uma casa em que eu habite;
 \v 1Cr.17.5
 porque não habitei em casa alguma desde o dia em que trouxe os filhos de Israel até hoje; antes estive de tenda 
 em tenda, e de tabernáculo em tabernáculo.
 \v 1Cr.17.6
 Em todos os lugares por onde andei com todo o Israel, por acaso falei alguma palavra a algum dos juízes de Israel, 
-a quem mandei apascentar o meu povo, dizendo: Por que não me edificais uma casa de cedro?
+{rp|n4}a quem mandei apascentar o meu povo, dizendo: Por que não me edificais uma casa de cedro?
+{tr}a quem mandei apascentar o Meu povo, dizendo: Por que não Me edificais uma casa de cedro?
 \v 1Cr.17.7
-Portanto, agora dirás ao meu servo Davi: Assim diz o SENHOR dos Exércitos: Eu te tirei do curral, de detrás 
-das ovelhas, para que fosses líder sobre o meu povo Israel;
+{rp|n4}Portanto, agora dirás ao meu servo Davi: Assim diz o SENHOR dos Exércitos: Eu te tirei do curral, de detrás 
+{tr}Portanto, agora dirás ao Meu servo Davi: Assim diz o SENHOR dos Exércitos: Eu te tirei do curral, de detrás 
+{rp|n4}das ovelhas, para que fosses líder sobre o meu povo Israel;
+{tr}das ovelhas, para que fosses líder sobre o Meu povo Israel;
 \v 1Cr.17.8
 E estive contigo por onde quer que foste, exterminei todos os teus inimigos de diante de ti, e te fiz 
 um nome, como o nome dos grandes que estão na terra.
 \v 1Cr.17.9
-Assim preparei um lugar para o meu povo Israel, e o plantei para que habite em seu lugar, e não seja mais removido; 
+{rp|n4}Assim preparei um lugar para o meu povo Israel, e o plantei para que habite em seu lugar, e não seja mais removido; 
+{tr}Assim preparei um lugar para o Meu povo Israel, e o plantei para que habite em seu lugar, e não seja mais removido; 
 e nunca mais os filhos de perversidade o arrasarão, como antes,
 \v 1Cr.17.10
-E desde o tempo em que ordenei juízes sobre meu povo Israel; mas humilharei todos os teus inimigos. 
+{rp|n4}E desde o tempo em que ordenei juízes sobre meu povo Israel; mas humilharei todos os teus inimigos. 
+{tr}E desde o tempo em que ordenei juízes sobre Meu povo Israel; mas humilharei todos os teus inimigos. 
 Também te faço saber que o SENHOR te edificará uma dinastia.
 \v 1Cr.17.11
 E será que, quando os teus dias forem cumpridos, para te reunires aos teus pais, suscitarei o teu descendente 
@@ -1543,41 +1567,55 @@ Lit. semente
 \*fn
 depois de ti, a qual será dos teus filhos, e confirmarei o seu reino.
 \v 1Cr.17.12
-Ele me edificará uma casa, e eu confirmarei o seu trono para sempre.
+{rp|n4}Ele me edificará uma casa, e eu confirmarei o seu trono para sempre.
+{tr}Ele Me edificará uma casa, e eu confirmarei o seu trono para sempre.
 \v 1Cr.17.13
-Eu lhe serei por pai, e ele me será por filho; e não tirarei dele a minha misericórdia, como a tirei daquele que foi 
+{rp|n4}Eu lhe serei por pai, e ele me será por filho; e não tirarei dele a minha misericórdia, como a tirei daquele que foi 
+{tr}Eu lhe serei por pai, e ele Me será por filho; e não tirarei dele a Minha misericórdia, como a tirei daquele que foi 
 antes de ti;
 \v 1Cr.17.14
-mas eu o confirmarei na minha casa e no meu reino para sempre; e seu trono será firme para sempre.
+{rp|n4}mas eu o confirmarei na minha casa e no meu reino para sempre; e seu trono será firme para sempre.
+{tr}mas eu o confirmarei na Minha casa e no Meu reino para sempre; e seu trono será firme para sempre.
 \v 1Cr.17.15
 Conforme todas estas palavras, e conforme toda esta visão, assim Natã falou a Davi.
 \v 1Cr.17.16
 Então o rei Davi entrou, e ficou diante do SENHOR, e disse: Ó SENHOR Deus, quem sou eu, e qual é minha casa, que me 
 trouxeste até aqui?
 \v 1Cr.17.17
-E ainda isso te pareceu pouco, ó Deus, pois falaste da casa do teu servo para o futuro distante, e me consideraste 
+{rp|n4}E ainda isso te pareceu pouco, ó Deus, pois falaste da casa do teu servo para o futuro distante, e me consideraste 
+{tr}E ainda isso Te pareceu pouco, ó Deus, pois falaste da casa do Teu servo para o futuro distante, e me consideraste 
 como a um homem de alta importância, ó SENHOR Deus.
 \v 1Cr.17.18
-Que mais Davi pode te dizer acerca da honra dada ao teu servo? Pois tu conheces o teu servo.
+{rp|n4}Que mais Davi pode te dizer acerca da honra dada ao teu servo? Pois tu conheces o teu servo.
+{tr}Que mais Davi pode Te dizer acerca da honra dada ao Teu servo? Pois Tu conheces o Teu servo.
 \v 1Cr.17.19
-Ó SENHOR, para o bem do teu servo e segundo o teu coração, fizeste todas estas grandezas, para fazer notórias todas 
+{rp|n4}Ó SENHOR, para o bem do teu servo e segundo o teu coração, fizeste todas estas grandezas, para fazer notórias todas 
+{tr}Ó SENHOR, para o bem do Teu servo e segundo o Teu coração, fizeste todas estas grandezas, para fazer notórias todas 
 estas grandes coisas.
 \v 1Cr.17.20
-Ó SENHOR, não há semelhante a ti, nem há Deus além de ti, conforme tudo o que ouvimos com os nossos ouvidos.
+{rp|n4}Ó SENHOR, não há semelhante a ti, nem há Deus além de ti, conforme tudo o que ouvimos com os nossos ouvidos.
+{tr}Ó SENHOR, não há semelhante a Ti, nem há Deus além de Ti, conforme tudo o que ouvimos com os nossos ouvidos.
 \v 1Cr.17.21
-E que nação há na terra como o teu povo Israel, a quem Deus veio resgatar para constituir um povo seu, para te fazer 
-um nome por meio de obras grandes e temíveis, expulsando as nações de diante do teu povo, que tu resgataste do Egito?
+{rp|n4}E que nação há na terra como o teu povo Israel, a quem Deus veio resgatar para constituir um povo seu, para te fazer 
+{tr}E que nação há na terra como o Teu povo Israel, a quem Deus veio resgatar para constituir um povo Seu, para Te fazer 
+{rp|n4}um nome por meio de obras grandes e temíveis, expulsando as nações de diante do teu povo, que tu resgataste do Egito?
+{tr}um nome por meio de obras grandes e temíveis, expulsando as nações de diante do Teu povo, que Tu resgataste do Egito?
 \v 1Cr.17.22
 Porque tu constituíste ao teu povo Israel para ser teu povo para sempre; e tu, SENHOR, vieste a ser seu Deus.
 \v 1Cr.17.23
-Agora, pois, ó SENHOR, a palavra que falaste acerca do teu servo e de sua casa, seja confirmada para sempre, e faze 
+{rp|n4}Agora, pois, ó SENHOR, a palavra que falaste acerca do teu servo e de sua casa, seja confirmada para sempre, e faze 
+{tr}Agora, pois, ó SENHOR, a palavra que falaste acerca do Teu servo e de sua casa, seja confirmada para sempre, e faze 
 como disseste.
 \v 1Cr.17.24
-Que o teu nome permaneça e seja engrandecido para sempre, para que se diga: O SENHOR dos exércitos, Deus de Israel, é 
-Deus para Israel. E que a casa do teu servo Davi esteja firme diante de ti.
+{rp|n4}Que o teu nome permaneça e seja engrandecido para sempre, para que se diga: O SENHOR dos exércitos, Deus de Israel, é 
+{tr}Que o Teu nome permaneça e seja engrandecido para sempre, para que se diga: O SENHOR dos exércitos, Deus de Israel, é 
+{rp|n4}Deus para Israel. E que a casa do teu servo Davi esteja firme diante de ti.
+{tr}Deus para Israel. E que a casa do Teu servo Davi esteja firme diante de Ti.
 \v 1Cr.17.25
-Porque tu, meu Deus, revelaste ao ouvido do teu servo que lhe edificarás uma dinastia; por isso teu servo se dispôs a 
-orar diante de ti.
+{rp|n4}Porque tu, meu Deus, revelaste ao ouvido do teu servo que lhe edificarás uma dinastia; por isso teu servo se dispôs a 
+{tr}Porque Tu, meu Deus, revelaste ao ouvido do Teu servo que lhe edificarás uma dinastia; por isso Teu servo se dispôs a 
+{rp|n4}orar diante de ti.
+{tr}orar diante de Ti.
 \v 1Cr.17.26
 Agora, pois, ó SENHOR, tu és Deus, e anunciaste este bem ao teu servo;
 \v 1Cr.17.27
@@ -1650,7 +1688,8 @@ Depois pôs os outros nas mãos de seu irmão Abisai, que os pões em formação
 \v 1Cr.19.12
 E disse: Se os sírios forem mais fortes que eu, tu me socorrerás; e se os amonitas forem mais fortes que tu, eu te socorrerei.
 \v 1Cr.19.13
-Esforça-te, e sejamos corajosos por nosso povo, e pelas cidades de nosso Deus; e faça o SENHOR o que bem lhe parecer.
+{rp|n4}Esforça-te, e sejamos corajosos por nosso povo, e pelas cidades de nosso Deus; e faça o SENHOR o que bem lhe parecer.
+{tr}Esforça-te, e sejamos corajosos por nosso povo, e pelas cidades de nosso Deus; e faça o SENHOR o que bem Lhe parecer.
 \v 1Cr.19.14
 Aproximou-se, então, Joabe e o povo que tinha consigo, para lutar contra os sírios; mas eles fugiram diante dele.
 \v 1Cr.19.15
@@ -1716,7 +1755,8 @@ Escolhe para ti: ou três anos de fome; ou ser por três meses derrotado diante 
 dos teus adversários te alcance; ou que por três dias a espada do SENHOR, a pestilência na terra, e o anjo do SENHOR 
 destruam em todo o território de Israel. Olha, pois, o que responderá ao que me enviou.
 \v 1Cr.21.13
-Então Davi disse a Gade: Estou em grande angústia; rogo que eu caia na mão do SENHOR; porque as suas misericórdias 
+{rp|n4}Então Davi disse a Gade: Estou em grande angústia; rogo que eu caia na mão do SENHOR; porque as suas misericórdias 
+{tr}Então Davi disse a Gade: Estou em grande angústia; rogo que eu caia na mão do SENHOR; porque as Suas misericórdias 
 são muitíssimas, mas que eu não caia nas mãos dos homens.
 \v 1Cr.21.14
 Assim o SENHOR deu pestilência em Israel, e caíram de Israel setenta mil homens.
@@ -1730,8 +1770,10 @@ desembainhada na sua mão, estendida contra Jerusalém. Então Davi e os ancião
 sobre os seus rostos.
 \v 1Cr.21.17
 E Davi disse a Deus: Não sou eu o que mandou contar o povo? Eu mesmo sou o que pequei, e fiz muito mal; mas estas 
-ovelhas, o que fizeram? Ó SENHOR, meu Deus, que a tua mão seja contra mim, e contra a casa do meu pai, mas 
-não haja praga contra o teu povo.
+{rp|n4}ovelhas, o que fizeram? Ó SENHOR, meu Deus, que a tua mão seja contra mim, e contra a casa do meu pai, mas 
+{tr}ovelhas, o que fizeram? Ó SENHOR, meu Deus, que a Tua mão seja contra mim, e contra a casa do meu pai, mas 
+{rp|n4}não haja praga contra o teu povo.
+{tr}não haja praga contra o Teu povo.
 \v 1Cr.21.18
 E o anjo do SENHOR mandou que Gade dissesse a Davi que subisse para levantar um altar ao SENHOR na era de Ornã, 
 o jebuseu.
@@ -1786,7 +1828,8 @@ Eis aqui, um filho te nascerá, o qual será homem de repouso, porque eu lhe dar
 \v 1Cr.22.10
 Ele edificará casa a meu nome, e ele me será a mim por filho, e eu lhe serei por pai; e afirmarei o trono de seu reino sobre Israel para sempre.
 \v 1Cr.22.11
-Agora, pois, filho meu, seja contigo o SENHOR, e sejas próspero, e edifiques casa a o SENHOR teu Deus, como ele disse de ti.
+{rp|n4}Agora, pois, filho meu, seja contigo o SENHOR, e sejas próspero, e edifiques casa a o SENHOR teu Deus, como ele disse de ti.
+{tr}Agora, pois, filho meu, seja contigo o SENHOR, e sejas próspero, e edifiques casa a o SENHOR teu Deus, como Ele disse de ti.
 \v 1Cr.22.12
 E o SENHOR te dê entendimento e prudência, e ele te dê mandamentos para Israel; e que tu guardes a lei do SENHOR teu Deus.
 \v 1Cr.22.13
@@ -1852,7 +1895,8 @@ Os filhos de Musi: Mali, Éder e Jeremote, eles três.
 \v 1Cr.23.24
 Estes são os filhos de Levi nas famílias de seus pais, cabeceiras de famílias em suas linhagens, contados por seus nomes, por suas cabeças, os quais faziam obra no ministério da casa do SENHOR, de vinte anos acima.
 \v 1Cr.23.25
-Porque Davi disse: o SENHOR Deus de Israel há dado repouso a seu povo Israel, e o habitar em Jerusalém para sempre.
+{rp|n4}Porque Davi disse: o SENHOR Deus de Israel há dado repouso a seu povo Israel, e o habitar em Jerusalém para sempre.
+{tr}Porque Davi disse: o SENHOR Deus de Israel há dado repouso a Seu povo Israel, e o habitar em Jerusalém para sempre.
 \v 1Cr.23.26
 E também os levitas não levarão mais o tabernáculo, e todos seus vasos para seu ministério.
 \v 1Cr.23.27
@@ -2100,7 +2144,8 @@ De a outra meia tribo de Manassés em Gileade, Ido filho de Zacarias; dos de Ben
 \v 1Cr.27.22
 E de Dã, Azarel filho de Jeroão. Estes foram os chefes das tribos de Israel.
 \v 1Cr.27.23
-E não tomou Davi o número dos que eram de vinte anos abaixo, porquanto o SENHOR havia dito que ele havia de multiplicar a Israel como as estrelas do céu.
+{rp|n4}E não tomou Davi o número dos que eram de vinte anos abaixo, porquanto o SENHOR havia dito que ele havia de multiplicar a Israel como as estrelas do céu.
+{tr}E não tomou Davi o número dos que eram de vinte anos abaixo, porquanto o SENHOR havia dito que Ele havia de multiplicar a Israel como as estrelas do céu.
 \v 1Cr.27.24
 Joabe filho de Zeruia havia começado a contar, mas não acabou, pois por isto veio a ira sobre Israel: e assim o número não foi posto no registro das crônicas do rei Davi.
 \v 1Cr.27.25
@@ -2136,7 +2181,8 @@ E de todos meus filhos (porque o SENHOR me deu muitos filhos,) elegeu a meu filh
 \v 1Cr.28.6
 E me disse: Salomão teu filho, ele edificará minha casa e meus átrios: porque a este me escolhi por filho, e eu lhe serei a ele por pai.
 \v 1Cr.28.7
-Assim eu confirmarei seu reino para sempre, se ele se esforçar a executar meus mandamentos e meus juízos, como este dia.
+{rp|n4}Assim eu confirmarei seu reino para sempre, se ele se esforçar a executar meus mandamentos e meus juízos, como este dia.
+{tr}Assim eu confirmarei seu reino para sempre, se ele se esforçar a executar Meus mandamentos e Meus juízos, como este dia.
 \v 1Cr.28.8
 Agora, pois, diante dos olhos de todo Israel, congregação do SENHOR, e em ouvidos de nosso Deus, guardai e inquiri todos os preceitos do SENHOR vosso Deus, para que possuais a boa terra, e a deixeis por herdade a vossos filhos depois de vós perpetuamente.
 \v 1Cr.28.9
@@ -2186,23 +2232,30 @@ E todo o que se achou com pedras preciosas, deu-as para o tesouro da casa do SEN
 \v 1Cr.29.9
 E folgou-se o povo de haver contribuído de sua vontade; porque com inteiro coração ofereceram a o SENHOR voluntariamente.
 \v 1Cr.29.10
-Assim folgou-se muito o rei Davi, e abençoou a o SENHOR diante de toda a congregação; e disse Davi: Bendito sejas tu, ó o SENHOR, Deus de Israel nosso pai, de um século a outro.
+{rp|n4}Assim folgou-se muito o rei Davi, e abençoou a o SENHOR diante de toda a congregação; e disse Davi: Bendito sejas tu, ó o SENHOR, Deus de Israel nosso pai, de um século a outro.
+{tr}Assim folgou-se muito o rei Davi, e abençoou a o SENHOR diante de toda a congregação; e disse Davi: Bendito sejas Tu, ó o SENHOR, Deus de Israel nosso pai, de um século a outro.
 \v 1Cr.29.11
 Tua é, ó o SENHOR, a magnificência, e o poder, e a glória, a vitória, e a honra; porque todas as coisas que estão nos céus e na terra são tuas. Teu, ó o SENHOR, é o reino, e a altura sobre todos os que estão por cabeça.
 \v 1Cr.29.12
-As riquezas e a glória estão diante de ti, e tu senhoreias a todos: e em tua mão está a potência e a fortaleza, e em tua mão a grandeza e força de todas as coisas.
+{rp|n4}As riquezas e a glória estão diante de ti, e tu senhoreias a todos: e em tua mão está a potência e a fortaleza, e em tua mão a grandeza e força de todas as coisas.
+{tr}As riquezas e a glória estão diante de Ti, e Tu senhoreias a todos: e em Tua mão está a potência e a fortaleza, e em Tua mão a grandeza e força de todas as coisas.
 \v 1Cr.29.13
-Agora, pois, Deus nosso, nós te confessamos, e louvamos teu glorioso nome.
+{rp|n4}Agora, pois, Deus nosso, nós te confessamos, e louvamos teu glorioso nome.
+{tr}Agora, pois, Deus nosso, nós Te confessamos, e louvamos Teu glorioso nome.
 \v 1Cr.29.14
-Porque quem sou eu, e quem é meu povo, para que pudéssemos oferecer de nossa vontade coisas semelhantes? Porque tudo é teu, e o que recebemos de tua mão te damos.
+{rp|n4}Porque quem sou eu, e quem é meu povo, para que pudéssemos oferecer de nossa vontade coisas semelhantes? Porque tudo é teu, e o que recebemos de tua mão te damos.
+{tr}Porque quem sou eu, e quem é meu povo, para que pudéssemos oferecer de nossa vontade coisas semelhantes? Porque tudo é Teu, e o que recebemos de Tua mão Te damos.
 \v 1Cr.29.15
-Porque nós, estrangeiros e peregrinos somos diante de ti, como todos nossos pais; e nossos dias qual sombra sobre a terra, e não dão espera.
+{rp|n4}Porque nós, estrangeiros e peregrinos somos diante de ti, como todos nossos pais; e nossos dias qual sombra sobre a terra, e não dão espera.
+{tr}Porque nós, estrangeiros e peregrinos somos diante de Ti, como todos nossos pais; e nossos dias qual sombra sobre a terra, e não dão espera.
 \v 1Cr.29.16
-Ó SENHOR Deus nosso, toda esta abundância que preparamos para edificar casa a teu santo nome, de tua mão é, e tudo é teu.
+{rp|n4}Ó SENHOR Deus nosso, toda esta abundância que preparamos para edificar casa a teu santo nome, de tua mão é, e tudo é teu.
+{tr}Ó SENHOR Deus nosso, toda esta abundância que preparamos para edificar casa a Teu santo nome, de Tua mão é, e tudo é Teu.
 \v 1Cr.29.17
 Eu sei, Deus meu, que tu esquadrinhas os corações, e que a retidão te agrada: por isso eu com retidão de meu coração voluntariamente te ei oferecido tudo isto, e agora vi com alegria que teu povo, que aqui se achou agora, deu para ti espontaneamente.
 \v 1Cr.29.18
-SENHOR, Deus de Abraão, de Isaque, e de Israel, nossos pais, conserva perpetuamente esta vontade do coração de teu povo, e encaminha seu coração a ti.
+{rp|n4}SENHOR, Deus de Abraão, de Isaque, e de Israel, nossos pais, conserva perpetuamente esta vontade do coração de teu povo, e encaminha seu coração a ti.
+{tr}SENHOR, Deus de Abraão, de Isaque, e de Israel, nossos pais, conserva perpetuamente esta vontade do coração de Teu povo, e encaminha seu coração a Ti.
 \v 1Cr.29.19
 E ao meu filho Salomão dá um coração íntegro, para que guarde os teus mandamentos, os teus testemunhos e os teus 
 estatutos, e para que faça todas as coisas, e te edifique a casa para a qual eu preparei.

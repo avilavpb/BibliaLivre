@@ -53,7 +53,8 @@ tenho derramado minha alma diante do SENHOR.
 Não consideres a tua serva como mulher ímpia, porque é da grandeza das minhas angústias e da minha aflição que tenho 
 falado até agora.
 \v 1Sm.1.17
-E Eli respondeu: “Vai em paz, e o Deus de Israel te conceda o pedido que lhe fizeste”.
+{rp|n4}E Eli respondeu: “Vai em paz, e o Deus de Israel te conceda o pedido que lhe fizeste”.
+{tr}E Eli respondeu: “Vai em paz, e o Deus de Israel te conceda o pedido que Lhe fizeste”.
 \v 1Sm.1.18
 E ela disse: “Que a tua serva ache favor diante de teus olhos”. Assim a mulher se foi seu caminho, e comeu, 
 e seu semblante já não era triste.
@@ -91,14 +92,17 @@ E mataram um bezerro, e trouxeram o menino a Eli.
 E ela disse: “Oh, meu senhor! Coma tua alma vive, meu senhor, eu sou aquela mulher que esteve aqui contigo, 
 orando ao SENHOR.
 \v 1Sm.1.27
-Eu orava por este menino, e o SENHOR me concedeu a minha petição, que lhe tinha pedido.
+{rp|n4}Eu orava por este menino, e o SENHOR me concedeu a minha petição, que lhe tinha pedido.
+{tr}Eu orava por este menino, e o SENHOR me concedeu a minha petição, que Lhe tinha pedido.
 \v 1Sm.1.28
 Por isso, eu também o entrego ao SENHOR; todos os dias que viver, será do SENHOR.” E ele adorou ali ao SENHOR.
 \v 1Sm.2.1
 Então Ana orou e disse: “Meu coração jubila no SENHOR, meu poder é exaltado pelo SENHOR; minha boca 
-se abre contra os meus inimigos, porque me alegro na tua salvação.
+{rp|n4}se abre contra os meus inimigos, porque me alegro na tua salvação.
+{tr}se abre contra os meus inimigos, porque me alegro na Tua salvação.
 \v 1Sm.2.2
-Não há santo como o SENHOR; porque não há outro além de ti; e nenhuma rocha há como o nosso Deus.
+{rp|n4}Não há santo como o SENHOR; porque não há outro além de ti; e nenhuma rocha há como o nosso Deus.
+{tr}Não há santo como o SENHOR; porque não há outro além de Ti; e nenhuma rocha há como o nosso Deus.
 \v 1Sm.2.3
 Não faleis com tanta soberba; não saiam palavras arrogantes da vossa boca; porque o SENHOR é o Deus do conhecimento 
 e é ele quem pesa as ações.
@@ -176,16 +180,22 @@ Mas o jovem Samuel ia crescendo e sendo bem estimando diante do SENHOR e diante 
 E veio um homem de Deus a Eli, e disse-lhe: “Assim diz o SENHOR: ‘Acaso não me manifestei à casa do teu pai, 
 quando estavam no Egito, na casa de Faraó?
 \v 1Sm.2.28
-E eu o escolhi para ser o meu sacerdote dentre todas as tribos de Israel, para que oferecesse sobre o meu altar, e 
-queimasse incenso, e para que vestisse o éfode diante de mim; e dei à casa do teu pai todas as ofertas dos filhos 
+{rp|n4}E eu o escolhi para ser o meu sacerdote dentre todas as tribos de Israel, para que oferecesse sobre o meu altar, e 
+{tr}E eu o escolhi para ser o Meu sacerdote dentre todas as tribos de Israel, para que oferecesse sobre o Meu altar, e 
+{rp|n4}queimasse incenso, e para que vestisse o éfode diante de mim; e dei à casa do teu pai todas as ofertas dos filhos 
+{tr}queimasse incenso, e para que vestisse o éfode diante de Mim; e dei à casa do teu pai todas as ofertas dos filhos 
 de Israel.
 \v 1Sm.2.29
-Por que pisaste os meus sacrifícios e as minhas ofertas, que eu mandei oferecer no tabernáculo? E por que honraste 
-aos teus filhos mais que a mim, para vos engordardes do principal de todas as ofertas do meu povo Israel?’
+{rp|n4}Por que pisaste os meus sacrifícios e as minhas ofertas, que eu mandei oferecer no tabernáculo? E por que honraste 
+{tr}Por que pisaste os Meus sacrifícios e as Minhas ofertas, que eu mandei oferecer no tabernáculo? E por que honraste 
+{rp|n4}aos teus filhos mais que a mim, para vos engordardes do principal de todas as ofertas do meu povo Israel?’
+{tr}aos teus filhos mais que a Mim, para vos engordardes do principal de todas as ofertas do Meu povo Israel?’
 \v 1Sm.2.30
 Por isso, o SENHOR, o Deus de Israel, diz: ‘Eu havia dito que a tua casa e a casa de teu pai andariam 
-diante de mim perpetuamente;’ mas agora diz o SENHOR: ‘Longe de mim tal coisa, porque eu honrarei aos que me honram, e 
-os que me desprezam serão rejeitados.
+{rp|n4}diante de mim perpetuamente;’ mas agora diz o SENHOR: ‘Longe de mim tal coisa, porque eu honrarei aos que me honram, e 
+{tr}diante de Mim perpetuamente;’ mas agora diz o SENHOR: ‘Longe de Mim tal coisa, porque eu honrarei aos que Me honram, e 
+{rp|n4}os que me desprezam serão rejeitados.
+{tr}os que Me desprezam serão rejeitados.
 \v 1Sm.2.31
 Eis que vêm dias em que cortarei o teu braço e o braço da casa de teu pai, para que não haja idoso em tua casa.
 \v 1Sm.2.32
@@ -196,8 +206,10 @@ alma; e toda a descendência da tua casa morrerá no início da idade adulta.
 \v 1Sm.2.34
 E te será por sinal isto que acontecerá aos teus dois filhos, Hofni e Fineias: ambos morrerão no mesmo dia.
 \v 1Sm.2.35
-E eu suscitarei para mim um sacerdote fiel, que faça segundo o meu coração e a minha alma; e eu lhe edificarei 
-uma casa firme, e andará diante de meu ungido para sempre.
+{rp|n4}E eu suscitarei para mim um sacerdote fiel, que faça segundo o meu coração e a minha alma; e eu lhe edificarei 
+{tr}E eu suscitarei para Mim um sacerdote fiel, que faça segundo o Meu coração e a Minha alma; e eu lhe edificarei 
+{rp|n4}uma casa firme, e andará diante de meu ungido para sempre.
+{tr}uma casa firme, e andará diante de Meu ungido para sempre.
 \v 1Sm.2.36
 E será que todo aquele que restar da tua casa virá a se inclinar diante dele por uma moeda de prata e um pedaço de pão, 
 e dirá: Rogo-te que me admitas em algum ofício sacerdotal, para que coma um pedaço de pão.’”
@@ -221,7 +233,8 @@ O SENHOR, então, chamou pela terceira vez a Samuel. E ele levantando-se veio a 
 \v 1Sm.3.9
 E disse Eli a Samuel: Vai, e deita-te: e se te chamar, dirás: Fala, SENHOR, que teu servo ouve. Assim se foi Samuel, e deitou-se em seu lugar.
 \v 1Sm.3.10
-E veio o SENHOR, e ficou ali, e chamou como das outras vezes: Samuel, Samuel! Então Samuel disse: Fala, que o teu servo está ouvindo.
+{rp|n4}E veio o SENHOR, e ficou ali, e chamou como das outras vezes: Samuel, Samuel! Então Samuel disse: Fala, que o teu servo está ouvindo.
+{tr}E veio o SENHOR, e ficou ali, e chamou como das outras vezes: Samuel, Samuel! Então Samuel disse: Fala, que o Teu servo está ouvindo.
 \v 1Sm.3.11
 E o SENHOR disse a Samuel: “Eis que farei uma coisa em Israel, que a quem a ouvir, lhe retinirão ambos os ouvidos.
 \v 1Sm.3.12
@@ -323,7 +336,8 @@ Por esta causa os sacerdotes de Dagom, e todos os que no templo de Dagom entram,
 \v 1Sm.5.6
 Porém agravou-se a mão do SENHOR sobre os de Asdode, e assolou-os, e feriu-os com chagas em Asdode e em todos seus termos.
 \v 1Sm.5.7
-E vendo isto os de Asdode, disseram: Não fique conosco a arca do Deus de Israel, porque sua mão é dura sobre nós, e sobre nosso deus Dagom.
+{rp|n4}E vendo isto os de Asdode, disseram: Não fique conosco a arca do Deus de Israel, porque sua mão é dura sobre nós, e sobre nosso deus Dagom.
+{tr}E vendo isto os de Asdode, disseram: Não fique conosco a arca do Deus de Israel, porque Sua mão é dura sobre nós, e sobre nosso deus Dagom.
 \v 1Sm.5.8
 Mandaram, pois, juntar a si todos os príncipes dos filisteus, e disseram: Que faremos da arca do Deus de Israel? E eles responderam: Passe-se a arca do Deus de Israel a Gate. E passaram ali a arca do Deus de Israel.
 \v 1Sm.5.9
@@ -341,9 +355,11 @@ Então os filisteus, chamando os sacerdotes e adivinhos, perguntaram: Que faremo
 \v 1Sm.6.3
 E eles disseram: Se enviais a arca do Deus de Israel, não a envieis vazia; mas lhe pagareis a expiação: e então sereis sãos, e conhecereis por que não se afastou de vós sua mão.
 \v 1Sm.6.4
-E eles disseram: E que será a expiação que lhe pagaremos? E eles responderam: Conforme o número dos príncipes dos filisteus, cinco chagas de ouro, e cinco ratos de ouro, porque a mesma praga que todos têm, têm também vossos príncipes.
+{rp|n4}E eles disseram: E que será a expiação que lhe pagaremos? E eles responderam: Conforme o número dos príncipes dos filisteus, cinco chagas de ouro, e cinco ratos de ouro, porque a mesma praga que todos têm, têm também vossos príncipes.
+{tr}E eles disseram: E que será a expiação que Lhe pagaremos? E eles responderam: Conforme o número dos príncipes dos filisteus, cinco chagas de ouro, e cinco ratos de ouro, porque a mesma praga que todos têm, têm também vossos príncipes.
 \v 1Sm.6.5
-Fareis, pois, as formas de vossas chagas, e as formas de vossos ratos que destroem a terra, e dareis glória ao Deus de Israel: talvez aliviará sua mão de sobre vós, e de sobre vossos deuses, e de sobre vossa terra.
+{rp|n4}Fareis, pois, as formas de vossas chagas, e as formas de vossos ratos que destroem a terra, e dareis glória ao Deus de Israel: talvez aliviará sua mão de sobre vós, e de sobre vossos deuses, e de sobre vossa terra.
+{tr}Fareis, pois, as formas de vossas chagas, e as formas de vossos ratos que destroem a terra, e dareis glória ao Deus de Israel: talvez aliviará Sua mão de sobre vós, e de sobre vossos deuses, e de sobre vossa terra.
 \v 1Sm.6.6
 Mas por que endureceis vosso coração, como os egípcios e Faraó endureceram seu coração? Depois que os houve assim tratado, não os deixaram que se fossem, e se foram?
 \v 1Sm.6.7
@@ -381,7 +397,8 @@ E vieram os de Quriate-Jearim, e levaram a arca do SENHOR, e meteram-na em casa 
 \v 1Sm.7.2
 E aconteceu que desde o dia que chegou a arca a Quriate-Jearim passaram muito dias, vinte anos; e toda a casa de Israel se lamentou, voltando a seguir o SENHOR.
 \v 1Sm.7.3
-E falou Samuel a toda a casa de Israel, dizendo: Se de todo vosso coração vos volteis ao SENHOR, tirai os deuses alheios e a Astarote de entre vós, e preparai vosso coração ao SENHOR, e a somente ele servi, e vos livrará da mão dos filisteus.
+{rp|n4}E falou Samuel a toda a casa de Israel, dizendo: Se de todo vosso coração vos volteis ao SENHOR, tirai os deuses alheios e a Astarote de entre vós, e preparai vosso coração ao SENHOR, e a somente ele servi, e vos livrará da mão dos filisteus.
+{tr}E falou Samuel a toda a casa de Israel, dizendo: Se de todo vosso coração vos volteis ao SENHOR, tirai os deuses alheios e a Astarote de entre vós, e preparai vosso coração ao SENHOR, e a somente Ele servi, e vos livrará da mão dos filisteus.
 \v 1Sm.7.4
 Então os filhos de Israel tiraram aos baalins e a Astarote, e serviram a somente o SENHOR.
 \v 1Sm.7.5
@@ -425,7 +442,8 @@ E descontentou a Samuel esta palavra que disseram: Dá-nos rei que nos julgue. E
 \v 1Sm.8.7
 E disse o SENHOR a Samuel: Ouve a voz do povo em tudo o que te disserem: porque não rejeitaram a ti, mas sim a mim me rejeitaram, para que eu não reine sobre eles.
 \v 1Sm.8.8
-Conforme todas as obras que fizeram desde o dia que os tirei do Egito até hoje, que me deixaram e serviram a deuses alheios, assim fazem também contigo.
+{rp|n4}Conforme todas as obras que fizeram desde o dia que os tirei do Egito até hoje, que me deixaram e serviram a deuses alheios, assim fazem também contigo.
+{tr}Conforme todas as obras que fizeram desde o dia que os tirei do Egito até hoje, que Me deixaram e serviram a deuses alheios, assim fazem também contigo.
 \v 1Sm.8.9
 Agora, pois, ouve sua voz: mas protesta contra eles declarando-lhes o direito do rei que há de reinar sobre eles.
 \v 1Sm.8.10
@@ -485,9 +503,11 @@ Eles então subiram à cidade; e quando em meio da cidade estiveram, eis que Sam
 \v 1Sm.9.15
 E um dia antes que Saul viesse, o SENHOR havia revelado ao ouvido de Samuel, dizendo:
 \v 1Sm.9.16
-Amanhã a esta mesma hora eu enviarei a ti um homem da terra de Benjamim, ao qual ungirás por príncipe sobre meu povo Israel, e salvará meu povo da mão dos filisteus: pois eu olhei a meu povo, porque seu clamor há chegado até mim.
+{rp|n4}Amanhã a esta mesma hora eu enviarei a ti um homem da terra de Benjamim, ao qual ungirás por príncipe sobre meu povo Israel, e salvará meu povo da mão dos filisteus: pois eu olhei a meu povo, porque seu clamor há chegado até mim.
+{tr}Amanhã a esta mesma hora eu enviarei a ti um homem da terra de Benjamim, ao qual ungirás por príncipe sobre Meu povo Israel, e salvará Meu povo da mão dos filisteus: pois eu olhei a Meu povo, porque seu clamor há chegado até Mim.
 \v 1Sm.9.17
-E logo que Samuel viu a Saul, o SENHOR lhe disse: Eis que este é o homem do qual te falei; este dominará a meu povo.
+{rp|n4}E logo que Samuel viu a Saul, o SENHOR lhe disse: Eis que este é o homem do qual te falei; este dominará a meu povo.
+{tr}E logo que Samuel viu a Saul, o SENHOR lhe disse: Eis que este é o homem do qual te falei; este dominará a Meu povo.
 \v 1Sm.9.18
 E chegando Saul a Samuel em meio da porta, disse-lhe: Rogo-te que me ensines onde está a casa do vidente.
 \v 1Sm.9.19
@@ -597,7 +617,8 @@ E disse Samuel a todo Israel: Eis que, eu ouvi vossa voz em todas as coisas que 
 \v 1Sm.12.2
 Agora, pois, eis que vosso rei vai diante de vós. Eu sou já velho e grisalho: mas meus filhos estão convosco, e eu andei diante de vós desde minha juventude até este dia.
 \v 1Sm.12.3
-Aqui estou; testemunhai contra mim diante do SENHOR e diante de seu ungido, se tomei o boi de alguém, ou se tomei o asno de alguém, ou se caluniei a alguém, ou se oprimi a alguém, ou se de alguém tomei suborno pelo qual tenha coberto meus olhos; e eu vos restituirei.
+{rp|n4}Aqui estou; testemunhai contra mim diante do SENHOR e diante de seu ungido, se tomei o boi de alguém, ou se tomei o asno de alguém, ou se caluniei a alguém, ou se oprimi a alguém, ou se de alguém tomei suborno pelo qual tenha coberto meus olhos; e eu vos restituirei.
+{tr}Aqui estou; testemunhai contra mim diante do SENHOR e diante de Seu ungido, se tomei o boi de alguém, ou se tomei o asno de alguém, ou se caluniei a alguém, ou se oprimi a alguém, ou se de alguém tomei suborno pelo qual tenha coberto meus olhos; e eu vos restituirei.
 \v 1Sm.12.4
 Então disseram: Nunca nos caluniaste, nem oprimi, nem tomaste algo da mão de nenhum homem.
 \v 1Sm.12.5
@@ -611,7 +632,8 @@ Depois que Jacó entrou em Egito e vossos pais clamaram ao SENHOR, o SENHOR envi
 \v 1Sm.12.9
 E esqueceram ao SENHOR seu Deus, e ele os vendeu na mão de Sísera capitão do exército de Hazor, e na mão dos filisteus, e na mão do rei de Moabe, os quais lhes fizeram guerra.
 \v 1Sm.12.10
-E eles clamaram ao SENHOR, e disseram: Pecamos, porque deixamos ao SENHOR, e servimos aos baalins e a Astarote: livra-nos, pois, agora da mão de nossos inimigos, e te serviremos.
+{rp|n4}E eles clamaram ao SENHOR, e disseram: Pecamos, porque deixamos ao SENHOR, e servimos aos baalins e a Astarote: livra-nos, pois, agora da mão de nossos inimigos, e te serviremos.
+{tr}E eles clamaram ao SENHOR, e disseram: Pecamos, porque deixamos ao SENHOR, e servimos aos baalins e a Astarote: livra-nos, pois, agora da mão de nossos inimigos, e Te serviremos.
 \v 1Sm.12.11
 Então o SENHOR enviou a Jerubaal, e a Bedã, e a Jefté, e a Samuel, e vos livrou da mão de vossos inimigos ao redor, e habitastes seguros.
 \v 1Sm.12.12
@@ -635,11 +657,13 @@ E Samuel respondeu ao povo: Não temais: vós cometestes todo este mal; mas com 
 \v 1Sm.12.21
 Não vos desvieis a fim de seguir as vaidades que não aproveitam nem livram, porque são vaidades.
 \v 1Sm.12.22
-Pois o SENHOR não desamparará a seu povo por seu grande nome: porque o SENHOR quis fazer-vos povo seu.
+{rp|n4}Pois o SENHOR não desamparará a seu povo por seu grande nome: porque o SENHOR quis fazer-vos povo seu.
+{tr}Pois o SENHOR não desamparará a Seu povo por Seu grande nome: porque o SENHOR quis fazer-vos povo Seu.
 \v 1Sm.12.23
 Assim que, longe seja de mim que peque eu contra o SENHOR cessando de rogar por vós; antes eu vos ensinarei pelo caminho bom e direito.
 \v 1Sm.12.24
-Somente temei ao SENHOR, e servi-o de verdade com todo vosso coração, porque considerai quão grandes coisas fez convosco.
+{rp|n4}Somente temei ao SENHOR, e servi-o de verdade com todo vosso coração, porque considerai quão grandes coisas fez convosco.
+{tr}Somente temei ao SENHOR, e servi-O de verdade com todo vosso coração, porque considerai quão grandes coisas fez convosco.
 \v 1Sm.12.25
 Mas se perseverardes em fazer mal, vós e vosso rei perecereis.
 \v 1Sm.13.1
@@ -667,7 +691,8 @@ Então Samuel disse: Que fizeste? E Saul respondeu: Porque vi que o povo se me i
 \v 1Sm.13.12
 Disse-me: Os filisteus descerão agora contra mim a Gilgal, e eu não implorei o favor do SENHOR. Esforcei-me pois, e ofereci holocausto.
 \v 1Sm.13.13
-Então Samuel disse a Saul: Loucamente fizeste; não guardaste o mandamento do SENHOR teu Deus, que ele te havia intimado; porque agora o SENHOR teria confirmado teu reino sobre Israel para sempre.
+{rp|n4}Então Samuel disse a Saul: Loucamente fizeste; não guardaste o mandamento do SENHOR teu Deus, que ele te havia intimado; porque agora o SENHOR teria confirmado teu reino sobre Israel para sempre.
+{tr}Então Samuel disse a Saul: Loucamente fizeste; não guardaste o mandamento do SENHOR teu Deus, que Ele te havia intimado; porque agora o SENHOR teria confirmado teu reino sobre Israel para sempre.
 \v 1Sm.13.14
 Mas agora teu reino não será durável: o SENHOR buscou para si homem segundo seu coração, ao qual o SENHOR mandou que seja líder sobre seu povo, porquanto tu não guardaste o que o SENHOR te mandou.
 \v 1Sm.13.15
@@ -794,7 +819,8 @@ Porque Quis pai de Saul, e Ner pai de Abner, foram filhos de Abiel.
 \v 1Sm.14.52
 E a guerra foi forte contra os filisteus todo o tempo de Saul; e a qualquer um que Saul via homem valente e homem de esforço, juntava-lhe consigo.
 \v 1Sm.15.1
-E Samuel disse a Saul: o SENHOR me enviou a que te ungisse por rei sobre seu povo Israel: ouve pois a voz das palavras do SENHOR.
+{rp|n4}E Samuel disse a Saul: o SENHOR me enviou a que te ungisse por rei sobre seu povo Israel: ouve pois a voz das palavras do SENHOR.
+{tr}E Samuel disse a Saul: o SENHOR me enviou a que te ungisse por rei sobre Seu povo Israel: ouve pois a voz das palavras do SENHOR.
 \v 1Sm.15.2
 Assim disse o SENHOR dos exércitos: Lembro-me do que fez Amaleque a Israel; que se lhe opôs no caminho, quando subia do Egito.
 \v 1Sm.15.3
@@ -864,11 +890,13 @@ Foi-se logo Samuel a Ramá, e Saul subiu a sua casa em Gibeá de Saul.
 \v 1Sm.15.35
 E nunca depois viu Samuel a Saul em toda sua vida: e Samuel chorava por Saul: mas o SENHOR se havia se arrependido de haver posto a Saul por rei sobre Israel.
 \v 1Sm.16.1
-E disse o SENHOR a Samuel: Até quando hás tu de chorar por Saul, havendo-o eu rejeitado para que não reine sobre Israel? Enche teu chifre de azeite, e vem, te enviarei a Jessé de Belém: porque de seus filhos me provi de rei.
+{rp|n4}E disse o SENHOR a Samuel: Até quando hás tu de chorar por Saul, havendo-o eu rejeitado para que não reine sobre Israel? Enche teu chifre de azeite, e vem, te enviarei a Jessé de Belém: porque de seus filhos me provi de rei.
+{tr}E disse o SENHOR a Samuel: Até quando hás tu de chorar por Saul, havendo-o eu rejeitado para que não reine sobre Israel? Enche teu chifre de azeite, e vem, te enviarei a Jessé de Belém: porque de seus filhos Me provi de rei.
 \v 1Sm.16.2
 E disse Samuel: Como irei? Se Saul o entender, me matará. O SENHOR respondeu: Toma contigo uma bezerra das vacas, e dize: A sacrificar ao SENHOR vim.
 \v 1Sm.16.3
-E chama a Jessé ao sacrifício, e eu te ensinarei o que hás de fazer; e ungirás a mim ao que eu te disser.
+{rp|n4}E chama a Jessé ao sacrifício, e eu te ensinarei o que hás de fazer; e ungirás a mim ao que eu te disser.
+{tr}E chama a Jessé ao sacrifício, e eu te ensinarei o que hás de fazer; e ungirás a Mim ao que eu te disser.
 \v 1Sm.16.4
 Fez pois Samuel como lhe disse o SENHOR: e logo que ele chegou a Belém, os anciãos da cidade lhe saíram a receber com medo, e disseram: É pacífica tua vinda?
 \v 1Sm.16.5
@@ -1003,7 +1031,8 @@ Então disse Davi ao filisteu: Tu vens a mim com espada e lança e escudo; mas e
 \v 1Sm.17.46
 o SENHOR te entregará hoje em minha mão, e eu te vencerei, e tirarei tua cabeça de ti: e darei hoje os corpos dos filisteus às aves do céu e aos animais da terra: e saberá a terra toda que há Deus em Israel.
 \v 1Sm.17.47
-E saberá toda esta congregação que o SENHOR não salva com espada e lança; porque do SENHOR é la guerra, e ele vos entregará em nossas mãos.
+{rp|n4}E saberá toda esta congregação que o SENHOR não salva com espada e lança; porque do SENHOR é la guerra, e ele vos entregará em nossas mãos.
+{tr}E saberá toda esta congregação que o SENHOR não salva com espada e lança; porque do SENHOR é la guerra, e Ele vos entregará em nossas mãos.
 \v 1Sm.17.48
 E aconteceu que, quando o filisteu se levantou para ir e chegar-se contra Davi, Davi se deu pressa, e correu ao combate contra o filisteu.
 \v 1Sm.17.49
@@ -1594,7 +1623,8 @@ Então Samuel disse: E para que perguntas a mim, havendo-se afastado de ti o SEN
 \v 1Sm.28.17
 o SENHOR pois fez como falou por meio de mim; pois cortou o SENHOR o reino de tua mão, e o deu a teu companheiro Davi.
 \v 1Sm.28.18
-Como tu não obedeceste à voz do SENHOR, nem cumpriste o furor de sua ira sobre Amaleque, por isso o SENHOR te fez isto hoje.
+{rp|n4}Como tu não obedeceste à voz do SENHOR, nem cumpriste o furor de sua ira sobre Amaleque, por isso o SENHOR te fez isto hoje.
+{tr}Como tu não obedeceste à voz do SENHOR, nem cumpriste o furor de Sua ira sobre Amaleque, por isso o SENHOR te fez isto hoje.
 \v 1Sm.28.19
 E o SENHOR entregará a Israel também contigo nas mãos dos filisteus: e amanhã estareis comigo, tu e teus filhos; e ainda o acampamento de Israel o SENHOR entregará nas mãos dos filisteus.
 \v 1Sm.28.20

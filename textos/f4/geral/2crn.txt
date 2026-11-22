@@ -31,7 +31,8 @@ Confirme-se, pois, agora, ó SENHOR Deus, tua palavra dada a Davi meu pai; porqu
 \v 2Cr.1.10
 Dá-me agora sabedoria e conhecimento, para sair e entrar diante deste povo: porque quem poderá julgar este teu povo tão grande?
 \v 2Cr.1.11
-E disse Deus a Salomão: Porquanto isto foi em teu coração, que não pediste riquezas, riqueza, ou glória, nem a alma dos que te querem mal, nem pediste muitos dias, mas sim que pediste para ti sabedoria e conhecimento para julgar meu povo, sobre o qual te constituí por rei.
+{rp|n4}E disse Deus a Salomão: Porquanto isto foi em teu coração, que não pediste riquezas, riqueza, ou glória, nem a alma dos que te querem mal, nem pediste muitos dias, mas sim que pediste para ti sabedoria e conhecimento para julgar meu povo, sobre o qual te constituí por rei.
+{tr}E disse Deus a Salomão: Porquanto isto foi em teu coração, que não pediste riquezas, riqueza, ou glória, nem a alma dos que te querem mal, nem pediste muitos dias, mas sim que pediste para ti sabedoria e conhecimento para julgar Meu povo, sobre o qual te constituí por rei.
 \v 2Cr.1.12
 Sabedoria e conhecimento te são dados; e também te darei riquezas, bens, e glória, que nunca houve nos reis que foram antes de ti, nem depois de ti haverá tais.
 \v 2Cr.1.13
@@ -67,7 +68,8 @@ Eis aqui eu tenho que edificar casa ao nome do SENHOR meu Deus, para consagrá-l
 \v 2Cr.2.5
 E a casa que tenho que edificar, há de ser grande: porque o Deus nosso é grande sobre todos os deuses.
 \v 2Cr.2.6
-Mas quem será tão poderoso que lhe edifique casa? Os céus e os céus dos céus não lhe podem compreender; quem, pois, sou eu, que lhe edifique casa, a não ser para queimar perfumes diante dele?
+{rp|n4}Mas quem será tão poderoso que lhe edifique casa? Os céus e os céus dos céus não lhe podem compreender; quem, pois, sou eu, que lhe edifique casa, a não ser para queimar perfumes diante dele?
+{tr}Mas quem será tão poderoso que Lhe edifique casa? Os céus e os céus dos céus não Lhe podem compreender; quem, pois, sou eu, que Lhe edifique casa, a não ser para queimar perfumes diante dEle?
 \v 2Cr.2.7
 Envia-me, pois, agora um homem hábil, que saiba trabalhar em ouro, e em prata, e em bronze, e em ferro, em púrpura, e em carmesim, e em azul, e que saiba esculpir com os mestres que estão comigo em Judá e em Jerusalém, os quais preparou meu pai.
 \v 2Cr.2.8
@@ -77,7 +79,8 @@ Para que me preparem muita madeira, porque a casa que tenho de edificar há de s
 \v 2Cr.2.10
 E eis que para os operários teus servos, cortadores da madeira, ei dado vinte mil coros de trigo em grão, e vinte mil coros de cevada, e vinte mil batos de vinho, e vinte mil batos de azeite.
 \v 2Cr.2.11
-Então Hirão rei de Tiro respondeu por carta, a qual enviou a Salomão: Porque o SENHOR amou a seu povo, te pôs por rei sobre eles.
+{rp|n4}Então Hirão rei de Tiro respondeu por carta, a qual enviou a Salomão: Porque o SENHOR amou a seu povo, te pôs por rei sobre eles.
+{tr}Então Hirão rei de Tiro respondeu por carta, a qual enviou a Salomão: Porque o SENHOR amou a Seu povo, te pôs por rei sobre eles.
 \v 2Cr.2.12
 E ademais dizia Hirão: Bendito seja o SENHOR o Deus de Israel, que fez os céus e a terra, e que deu ao rei Davi filho sábio, entendido, de bom senso e prudente, que edifique casa ao SENHOR, e casa para seu reino.
 \v 2Cr.2.13
@@ -203,7 +206,8 @@ E quando os sacerdotes saíram do santuário, (porque todos os sacerdotes que se
 \v 2Cr.5.12
 E os levitas cantores, todos os de Asafe, os de Hemã, e os de Jedutum, juntamente com seus filhos e seus irmãos, vestidos de linho fino, estavam com címbalos e saltérios e harpas ao oriente do altar; e com eles cento vinte sacerdotes que tocavam trombetas);
 \v 2Cr.5.13
-Soavam, pois, as trombetas, e cantavam com a voz todos a uma, para louvar e confessar ao SENHOR: e quando levantavam a voz com trombetas e címbalos e instrumentos de música, quando louvavam ao SENHOR, dizendo: Porque é bom, porque sua misericórdia é para sempre; então a casa, 
+{rp|n4}Soavam, pois, as trombetas, e cantavam com a voz todos a uma, para louvar e confessar ao SENHOR: e quando levantavam a voz com trombetas e címbalos e instrumentos de música, quando louvavam ao SENHOR, dizendo: Porque é bom, porque sua misericórdia é para sempre; então a casa, 
+{tr}Soavam, pois, as trombetas, e cantavam com a voz todos a uma, para louvar e confessar ao SENHOR: e quando levantavam a voz com trombetas e címbalos e instrumentos de música, quando louvavam ao SENHOR, dizendo: Porque é bom, porque Sua misericórdia é para sempre; então a casa, 
 \added
 isto é
 \*added
@@ -214,7 +218,8 @@ a casa de Deus.
 \v 2Cr.6.1
 Então Salomão disse: “O SENHOR disse que habitaria na escuridão.
 \v 2Cr.6.2
-Porém eu edifiquei uma casa para tua morada, um lugar em que habites para sempre.”
+{rp|n4}Porém eu edifiquei uma casa para tua morada, um lugar em que habites para sempre.”
+{tr}Porém eu edifiquei uma casa para Tua morada, um lugar em que habites para sempre.”
 \v 2Cr.6.3
 Então o rei virou o seu rosto e abençoou toda a congregação de Israel; e toda a congregação de Israel estava em pé.
 \v 2Cr.6.4
@@ -225,16 +230,19 @@ Davi, dizendo:
 para nela edificar uma casa onde o meu nome estivesse, nem escolhi homem para que fosse príncipe sobre o meu 
 povo Israel.
 \v 2Cr.6.6
-Mas escolhi Jerusalém para que nela esteja meu nome, e escolhi Davi para que estivesse sobre o meu povo Israel.’
+{rp|n4}Mas escolhi Jerusalém para que nela esteja meu nome, e escolhi Davi para que estivesse sobre o meu povo Israel.’
+{tr}Mas escolhi Jerusalém para que nela esteja Meu nome, e escolhi Davi para que estivesse sobre o Meu povo Israel.’
 \v 2Cr.6.7
 E Davi, meu pai, teve no coração edificar uma casa ao nome do SENHOR Deus de Israel.
 \v 2Cr.6.8
 Mas o SENHOR disse ao meu pai, Davi: ‘Acerca de haver tido no teu coração edificar casa ao meu nome, bem fizeste em 
 ter isso no teu coração.
 \v 2Cr.6.9
-Porém tu não edificarás a casa, mas sim, teu filho, que procederá dos teus lombos, ele edificará uma casa ao meu nome.’
+{rp|n4}Porém tu não edificarás a casa, mas sim, teu filho, que procederá dos teus lombos, ele edificará uma casa ao meu nome.’
+{tr}Porém tu não edificarás a casa, mas sim, teu filho, que procederá dos teus lombos, ele edificará uma casa ao Meu nome.’
 \v 2Cr.6.10
-E o SENHOR cumpriu sua palavra que dissera, pois eu me levantei no lugar do meu pai Davi, assentei-me no trono de 
+{rp|n4}E o SENHOR cumpriu sua palavra que dissera, pois eu me levantei no lugar do meu pai Davi, assentei-me no trono de 
+{tr}E o SENHOR cumpriu Sua palavra que dissera, pois eu me levantei no lugar do meu pai Davi, assentei-me no trono de 
 Israel, como o SENHOR havia dito, e edifiquei uma casa ao nome do SENHOR Deus de Israel.
 \v 2Cr.6.11
 E nela pus a arca, em que está o pacto do SENHOR que estabeleceu com os filhos de Israel.”
@@ -245,8 +253,10 @@ Porque Salomão havia feito uma plataforma de bronze, de cinco côvados de compr
 três côvados de altura, e a havia posto no meio do pátio; e pôs-se encima dela, e ficou de joelhos diante de toda a 
 congregação de Israel, e, estendendo suas mãos ao céu,
 \v 2Cr.6.14
-disse: “Ó SENHOR, Deus de Israel, não há Deus semelhante a ti no céu nem na terra, que guardas o pacto e a 
-misericórdia aos teus servos que caminham perante ti de todo seu coração;
+{rp|n4}disse: “Ó SENHOR, Deus de Israel, não há Deus semelhante a ti no céu nem na terra, que guardas o pacto e a 
+{tr}disse: “Ó SENHOR, Deus de Israel, não há Deus semelhante a Ti no céu nem na terra, que guardas o pacto e a 
+{rp|n4}misericórdia aos teus servos que caminham perante ti de todo seu coração;
+{tr}misericórdia aos Teus servos que caminham perante Ti de todo seu coração;
 \v 2Cr.6.15
 que guardaste ao teu servo Davi, meu pai, o que lhe disseste; tu o disseste de tua boca, e pela tua mão o cumpriste, 
 como é hoje.
@@ -255,78 +265,113 @@ Agora, pois, ó SENHOR, Deus de Israel, guarda ao teu servo Davi, meu pai, o que
 de ti homem diante de mim, que se assente sobre o trono de Israel, contanto que os teus descendentes guardem o seu 
 caminho, andando na minha lei, como tu antaste diante de mim.
 \v 2Cr.6.17
-Agora, pois, ó SENHOR Deus de Israel, verifique-se a tua palavra que disseste ao teu servo Davi.
+{rp|n4}Agora, pois, ó SENHOR Deus de Israel, verifique-se a tua palavra que disseste ao teu servo Davi.
+{tr}Agora, pois, ó SENHOR Deus de Israel, verifique-se a Tua palavra que disseste ao Teu servo Davi.
 \v 2Cr.6.18
-Mas, de fato, Deus habitará com os seres humanos na terra? Eis que os céus e os céus dos céus não podem te conter; 
+{rp|n4}Mas, de fato, Deus habitará com os seres humanos na terra? Eis que os céus e os céus dos céus não podem te conter; 
+{tr}Mas, de fato, Deus habitará com os seres humanos na terra? Eis que os céus e os céus dos céus não podem Te conter; 
 quanto menos esta casa que edifiquei!
 \v 2Cr.6.19
-Porém tu prestarás atenção à oração de teu servo, e à sua súplica, ó SENHOR, meu Deus, para ouvires o clamor e a 
-oração que teu servo ora diante de ti.
+{rp|n4}Porém tu prestarás atenção à oração de teu servo, e à sua súplica, ó SENHOR, meu Deus, para ouvires o clamor e a 
+{tr}Porém Tu prestarás atenção à oração de Teu servo, e à sua súplica, ó SENHOR, meu Deus, para ouvires o clamor e a 
+{rp|n4}oração que teu servo ora diante de ti.
+{tr}oração que Teu servo ora diante de Ti.
 \v 2Cr.6.20
-Que teus olhos estejam abertos dia e de noite sobre esta casa, sobre o lugar do qual disseste: 'Meu nome estará ali'; 
-para ouvires a oração que o teu servo orar neste lugar.
+{rp|n4}Que teus olhos estejam abertos dia e de noite sobre esta casa, sobre o lugar do qual disseste: 'Meu nome estará ali'; 
+{tr}Que Teus olhos estejam abertos dia e de noite sobre esta casa, sobre o lugar do qual disseste: 'Meu nome estará ali'; 
+{rp|n4}para ouvires a oração que o teu servo orar neste lugar.
+{tr}para ouvires a oração que o Teu servo orar neste lugar.
 \v 2Cr.6.21
-Ouve, pois, as súplicas do teu servo, e do teu povo Israel, quando orarem neste lugar, que tu ouvires desde os céus, 
-desde o lugar da tua morada; que ouças e perdoes.
+{rp|n4}Ouve, pois, as súplicas do teu servo, e do teu povo Israel, quando orarem neste lugar, que tu ouvires desde os céus, 
+{tr}Ouve, pois, as súplicas do Teu servo, e do Teu povo Israel, quando orarem neste lugar, que Tu ouvires desde os céus, 
+{rp|n4}desde o lugar da tua morada; que ouças e perdoes.
+{tr}desde o lugar da Tua morada; que ouças e perdoes.
 \v 2Cr.6.22
 Quando alguém pecar contra o seu próximo, e lhe impuser um juramento de maldição, e o juramento de maldição vier 
-diante do teu altar nesta casa,
+{rp|n4}diante do teu altar nesta casa,
+{tr}diante do Teu altar nesta casa,
 \v 2Cr.6.23
-Ouve, então, desde os céus, opera, e julga aos teus servos, retribuindo ao perverso, fazendo recair o seu proceder 
+{rp|n4}Ouve, então, desde os céus, opera, e julga aos teus servos, retribuindo ao perverso, fazendo recair o seu proceder 
+{tr}Ouve, então, desde os céus, opera, e julga aos Teus servos, retribuindo ao perverso, fazendo recair o seu proceder 
 sobre a sua cabeça, e justificando ao justo, dando-lhe conforme a sua justiça.
 \v 2Cr.6.24
-Se o teu povo Israel for derrotado diante dos inimigos, por haver pecado contra ti, e eles se converterem, e 
-confessarem o teu nome, e suplicarem perante ti nesta casa,
+{rp|n4}Se o teu povo Israel for derrotado diante dos inimigos, por haver pecado contra ti, e eles se converterem, e 
+{tr}Se o Teu povo Israel for derrotado diante dos inimigos, por haver pecado contra Ti, e eles se converterem, e 
+{rp|n4}confessarem o teu nome, e suplicarem perante ti nesta casa,
+{tr}confessarem o Teu nome, e suplicarem perante Ti nesta casa,
 \v 2Cr.6.25
-Então ouve desde os céus, e perdoa os pecados do teu povo Israel, e volta a trazê-los à terra que deste a eles e 
+{rp|n4}Então ouve desde os céus, e perdoa os pecados do teu povo Israel, e volta a trazê-los à terra que deste a eles e 
+{tr}Então ouve desde os céus, e perdoa os pecados do Teu povo Israel, e volta a trazê-los à terra que deste a eles e 
 aos seus ancestrais.
 \fn
 Lit. pais. Também nos vv. 30, 38
 \*fn
 \v 2Cr.6.26
-Se os céus se fecharem, e não houver chuva por haver pecado contra ti, e orarem voltados a este lugar, e confessarem 
-o teu nome, e se converterem dos seus pecados, quando tu os afligires,
+{rp|n4}Se os céus se fecharem, e não houver chuva por haver pecado contra ti, e orarem voltados a este lugar, e confessarem 
+{tr}Se os céus se fecharem, e não houver chuva por haver pecado contra Ti, e orarem voltados a este lugar, e confessarem 
+{rp|n4}o teu nome, e se converterem dos seus pecados, quando tu os afligires,
+{tr}o Teu nome, e se converterem dos seus pecados, quando Tu os afligires,
 \v 2Cr.6.27
-Então ouve desde os céus, e perdoa o pecado dos teus servos e do teu povo Israel, e ensina-lhes o bom caminho, em que 
-devem andar, e dá chuva sobre a tua terra, que deste por herança ao teu povo.
+{rp|n4}Então ouve desde os céus, e perdoa o pecado dos teus servos e do teu povo Israel, e ensina-lhes o bom caminho, em que 
+{tr}Então ouve desde os céus, e perdoa o pecado dos Teus servos e do Teu povo Israel, e ensina-lhes o bom caminho, em que 
+{rp|n4}devem andar, e dá chuva sobre a tua terra, que deste por herança ao teu povo.
+{tr}devem andar, e dá chuva sobre a Tua terra, que deste por herança ao Teu povo.
 \v 2Cr.6.28
 Se houver fome na terra, se houver pestilência, se houver ferrugem ou mofo, gafanhotos ou lagartas; se os seus 
 inimigos os cercarem na terra de suas cidades; qualquer praga ou enfermidade que seja;
 \v 2Cr.6.29
-toda oração e toda súplica que qualquer pessoa, ou todo o teu povo Israel, qualquer um que conhecer sua chaga e sua 
+{rp|n4}toda oração e toda súplica que qualquer pessoa, ou todo o teu povo Israel, qualquer um que conhecer sua chaga e sua 
+{tr}toda oração e toda súplica que qualquer pessoa, ou todo o Teu povo Israel, qualquer um que conhecer sua chaga e sua 
 dor, se estender suas mãos a esta casa,
 \v 2Cr.6.30
-então ouve desde os céus, o lugar da tua habitação, e perdoa, e dá a cada um conforme todos os seus caminhos, pois 
-conheces o seu coração (só tu conheces o coração dos filhos dos homens);
+{rp|n4}então ouve desde os céus, o lugar da tua habitação, e perdoa, e dá a cada um conforme todos os seus caminhos, pois 
+{tr}então ouve desde os céus, o lugar da Tua habitação, e perdoa, e dá a cada um conforme todos os seus caminhos, pois 
+{rp|n4}conheces o seu coração (só tu conheces o coração dos filhos dos homens);
+{tr}conheces o seu coração (só Tu conheces o coração dos filhos dos homens);
 \v 2Cr.6.31
-a fim de que te temam e andem nos teus caminhos, todos os dias que viverem na terra que tu deste aos nossos ancestrais.
+{rp|n4}a fim de que te temam e andem nos teus caminhos, todos os dias que viverem na terra que tu deste aos nossos ancestrais.
+{tr}a fim de que Te temam e andem nos Teus caminhos, todos os dias que viverem na terra que Tu deste aos nossos ancestrais.
 \v 2Cr.6.32
-E também ao estrangeiro, que não for do teu povo Israel, que vier de terras distantes por causa do teu grande nome, e 
-da tua mão poderosa, e de teu braço estendido; se eles vierem, e orarem voltados a esta casa,
+{rp|n4}E também ao estrangeiro, que não for do teu povo Israel, que vier de terras distantes por causa do teu grande nome, e 
+{tr}E também ao estrangeiro, que não for do Teu povo Israel, que vier de terras distantes por causa do Teu grande nome, e 
+{rp|n4}da tua mão poderosa, e de teu braço estendido; se eles vierem, e orarem voltados a esta casa,
+{tr}da Tua mão poderosa, e de Teu braço estendido; se eles vierem, e orarem voltados a esta casa,
 \v 2Cr.6.33
-então ouve desde os céus, o lugar da tua habitação, e faz conforme a tudo o que o estrangeiro te clamar; a fim de que 
-todos os povos da terra conheçam o teu nome, e te temam, como o teu povo Israel, e saibam que pelo teu nome é chamada 
+{rp|n4}então ouve desde os céus, o lugar da tua habitação, e faz conforme a tudo o que o estrangeiro te clamar; a fim de que 
+{tr}então ouve desde os céus, o lugar da Tua habitação, e faz conforme a tudo o que o estrangeiro Te clamar; a fim de que 
+{rp|n4}todos os povos da terra conheçam o teu nome, e te temam, como o teu povo Israel, e saibam que pelo teu nome é chamada 
+{tr}todos os povos da terra conheçam o Teu nome, e Te temam, como o Teu povo Israel, e saibam que pelo Teu nome é chamada 
 esta casa que edifiquei.
 \v 2Cr.6.34
-Quando o teu povo sair à guerra contra os seus inimigos, pelo caminho que tu os enviares, e orarem a ti voltados a 
-esta cidade que tu escolheste, a esta casa que edifiquei ao teu nome,
+{rp|n4}Quando o teu povo sair à guerra contra os seus inimigos, pelo caminho que tu os enviares, e orarem a ti voltados a 
+{tr}Quando o Teu povo sair à guerra contra os seus inimigos, pelo caminho que Tu os enviares, e orarem a Ti voltados a 
+{rp|n4}esta cidade que tu escolheste, a esta casa que edifiquei ao teu nome,
+{tr}esta cidade que Tu escolheste, a esta casa que edifiquei ao Teu nome,
 \v 2Cr.6.35
 ouve desde os céus a sua oração e a sua súplica, e ampara o seu direito.
 \v 2Cr.6.36
-Quando pecarem contra ti (pois não há ser humano que não peque), e te irares contra eles, e os entregares diante dos 
+{rp|n4}Quando pecarem contra ti (pois não há ser humano que não peque), e te irares contra eles, e os entregares diante dos 
+{tr}Quando pecarem contra Ti (pois não há ser humano que não peque), e Te irares contra eles, e os entregares diante dos 
 inimigos, para que os seus capturadores os levem cativos à uma terra distante ou próxima,
 \v 2Cr.6.37
-e naquela terra eles se arrependerem, se eles se converterem, e suplicarem a ti na terra do seu cativeiro, e disserem: 
+{rp|n4}e naquela terra eles se arrependerem, se eles se converterem, e suplicarem a ti na terra do seu cativeiro, e disserem: 
+{tr}e naquela terra eles se arrependerem, se eles se converterem, e suplicarem a Ti na terra do seu cativeiro, e disserem: 
 ‘Pecamos, fizemos perversidade, agimos com maldade;’
 \v 2Cr.6.38
-se eles se converterem a ti de todo o seu coração e de toda a sua alma na terra de seu cativeiro, para forem levados 
-cativos, e orarem voltados à sua terra que tu deste aos seus ancestrais, à cidade que tu escolheste, e à casa que 
-edifiquei ao teu nome;
+{rp|n4}se eles se converterem a ti de todo o seu coração e de toda a sua alma na terra de seu cativeiro, para forem levados 
+{tr}se eles se converterem a Ti de todo o seu coração e de toda a sua alma na terra de seu cativeiro, para forem levados 
+{rp|n4}cativos, e orarem voltados à sua terra que tu deste aos seus ancestrais, à cidade que tu escolheste, e à casa que 
+{tr}cativos, e orarem voltados à sua terra que Tu deste aos seus ancestrais, à cidade que Tu escolheste, e à casa que 
+{rp|n4}edifiquei ao teu nome;
+{tr}edifiquei ao Teu nome;
 \v 2Cr.6.39
-então desde os céus, o lugar da tua habitação, a sua oração e as suas súplicas, e ampara o seu direito, e perdoa ao 
-teu povo que houver pecado contra ti.
+{rp|n4}então desde os céus, o lugar da tua habitação, a sua oração e as suas súplicas, e ampara o seu direito, e perdoa ao 
+{tr}então desde os céus, o lugar da Tua habitação, a sua oração e as suas súplicas, e ampara o seu direito, e perdoa ao 
+{rp|n4}teu povo que houver pecado contra ti.
+{tr}Teu povo que houver pecado contra Ti.
 \v 2Cr.6.40
-Agora, pois, ó meu Deus, rogo-te que os teus olhos estejam abertos, e os teus ouvidos atentos à oração neste lugar.
+{rp|n4}Agora, pois, ó meu Deus, rogo-te que os teus olhos estejam abertos, e os teus ouvidos atentos à oração neste lugar.
+{tr}Agora, pois, ó meu Deus, rogo-Te que os Teus olhos estejam abertos, e os Teus ouvidos atentos à oração neste lugar.
 \v 2Cr.6.41
 Ó SENHOR Deus, levanta-te agora para vir ao teu repouso, tu e a arca da tua fortaleza; e que os teus sacerdotes, ó 
 SENHOR Deus, sejam revestidos de salvação, e os teus santos se alegrem no bem.
@@ -343,7 +388,8 @@ em terra sobre o pavimento, adoraram, e louvaram ao SENHOR,
 \added
 dizendo
 \*added
-: “Porque ele é bom, e sua bondade é para sempre.”
+{rp|n4}: “Porque ele é bom, e sua bondade é para sempre.”
+{tr}: “Porque Ele é bom, e Sua bondade é para sempre.”
 \v 2Cr.7.4
 Então o rei e todo o povo ofereceram sacrifícios diante do SENHOR.
 \v 2Cr.7.5
@@ -370,27 +416,34 @@ benefícios que o SENHOR havia feito a Davi, e a Salomão, e ao seu povo Israel.
 Assim Salomão concluiu a casa do SENHOR, e a casa do rei; e tudo o que Salomão teve vontade de fazer na casa do 
 SENHOR e na sua casa, ele o completou com sucesso.
 \v 2Cr.7.12
-E o SENHOR apareceu a Salomão de noite, e disse-lhe: “Eu ouvi a tua oração, e escolhi para mim este lugar como casa 
+{rp|n4}E o SENHOR apareceu a Salomão de noite, e disse-lhe: “Eu ouvi a tua oração, e escolhi para mim este lugar como casa 
+{tr}E o SENHOR apareceu a Salomão de noite, e disse-lhe: “Eu ouvi a tua oração, e escolhi para Mim este lugar como casa 
 de sacrifício.
 \v 2Cr.7.13
 Se eu fechar os céus, para que não haja chuva, ou se eu mandar os gafanhotos que consumam a terra, ou se eu enviar 
-pestilência entre o meu povo;
+{rp|n4}pestilência entre o meu povo;
+{tr}pestilência entre o Meu povo;
 \v 2Cr.7.14
-Se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face, e se converter dos seus maus 
+{rp|n4}Se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face, e se converter dos seus maus 
+{tr}Se o Meu povo, que se chama pelo Meu nome, se humilhar, e orar, e buscar a Minha face, e se converter dos seus maus 
 caminhos, então eu ouvirei desde os céus, perdoarei os seus pecados, e sararei a sua terra.
 \v 2Cr.7.15
-Agora meus olhos estarão abertos e meus ouvidos atentos à oração neste lugar;
+{rp|n4}Agora meus olhos estarão abertos e meus ouvidos atentos à oração neste lugar;
+{tr}Agora Meus olhos estarão abertos e Meus ouvidos atentos à oração neste lugar;
 \v 2Cr.7.16
 pois agora escolhi e santifiquei esta casa, para que o meu nome esteja nela para sempre; e os meus olhos e o meu 
 coração estarão ali todo o tempo.
 \v 2Cr.7.17
-E quanto a ti, se andares diante de mim, como andou Davi, teu pai, e fizeres conforme a tudo o que te mandei, e 
-guardares os meus estatutos e minhas ordenanças,
+{rp|n4}E quanto a ti, se andares diante de mim, como andou Davi, teu pai, e fizeres conforme a tudo o que te mandei, e 
+{tr}E quanto a ti, se andares diante de Mim, como andou Davi, teu pai, e fizeres conforme a tudo o que te mandei, e 
+{rp|n4}guardares os meus estatutos e minhas ordenanças,
+{tr}guardares os Meus estatutos e Minhas ordenanças,
 \v 2Cr.7.18
 então confirmarei o trono do teu reino, conforme o pacto que fiz com Davi, teu pai, dizendo: ‘Não faltará homem 
 procedente de ti que governe em Israel.’
 \v 2Cr.7.19
-Mas se vos desviardes, e deixardes meus estatutos e meus mandamentos que vos propus, e fordes, e servirdes a outros 
+{rp|n4}Mas se vos desviardes, e deixardes meus estatutos e meus mandamentos que vos propus, e fordes, e servirdes a outros 
+{tr}Mas se vos desviardes, e deixardes Meus estatutos e Meus mandamentos que vos propus, e fordes, e servirdes a outros 
 deuses, e os adorardes,
 \v 2Cr.7.20
 então os arrancarei da minha terra que lhes dei; e esta casa que santifiquei ao meu nome, eu a lançarei da 
@@ -533,7 +586,8 @@ E respondeu-lhes o rei asperamente; pois deixou o rei Roboão o conselho dos anc
 \v 2Cr.10.14
 E falou-lhes conforme ao conselho dos rapazes, dizendo: Meu pai agravou vosso jugo, e eu acrescentarei a vosso jugo: meu pai vos castigou com açoites, e eu com escorpiões.
 \v 2Cr.10.15
-E não escutou o rei ao povo; porque a causa era de Deus, para cumprir o SENHOR sua palavra que havia falado, por Aías silonita, a Jeroboão filho de Nebate.
+{rp|n4}E não escutou o rei ao povo; porque a causa era de Deus, para cumprir o SENHOR sua palavra que havia falado, por Aías silonita, a Jeroboão filho de Nebate.
+{tr}E não escutou o rei ao povo; porque a causa era de Deus, para cumprir o SENHOR Sua palavra que havia falado, por Aías silonita, a Jeroboão filho de Nebate.
 \v 2Cr.10.16
 E vendo todo Israel que o rei não lhes havia ouvido, respondeu o povo ao rei, dizendo: Que parte temos nós com Davi, nem herança no filho de Jessé? Israel, cada um a suas moradas! Davi, olha agora por tua casa! Assim se foi todo Israel a suas casas.
 \v 2Cr.10.17
@@ -597,13 +651,16 @@ Com mil e duzentos carros, e com sessenta mil cavaleiros: mas o povo que vinha c
 \v 2Cr.12.4
 E tomou as cidades fortes de Judá, e chegou até Jerusalém.
 \v 2Cr.12.5
-Então veio Semaías profeta a Roboão e aos príncipes de Judá, que estavam reunidos em Jerusalém por causa de Sisaque, e disse-lhes: Assim disse o SENHOR: Vós me deixastes, e eu também vos deixei em mãos de Sisaque.
+{rp|n4}Então veio Semaías profeta a Roboão e aos príncipes de Judá, que estavam reunidos em Jerusalém por causa de Sisaque, e disse-lhes: Assim disse o SENHOR: Vós me deixastes, e eu também vos deixei em mãos de Sisaque.
+{tr}Então veio Semaías profeta a Roboão e aos príncipes de Judá, que estavam reunidos em Jerusalém por causa de Sisaque, e disse-lhes: Assim disse o SENHOR: Vós Me deixastes, e eu também vos deixei em mãos de Sisaque.
 \v 2Cr.12.6
 E os príncipes de Israel e o rei se humilharam, e disseram: Justo é o SENHOR.
 \v 2Cr.12.7
-E quando viu o SENHOR que se haviam humilhado, foi palavra do SENHOR a Semaías, dizendo: Humilharam-se; não os destruirei; antes os salvarei em breve, e não se derramará minha ira contra Jerusalém por mão de Sisaque.
+{rp|n4}E quando viu o SENHOR que se haviam humilhado, foi palavra do SENHOR a Semaías, dizendo: Humilharam-se; não os destruirei; antes os salvarei em breve, e não se derramará minha ira contra Jerusalém por mão de Sisaque.
+{tr}E quando viu o SENHOR que se haviam humilhado, foi palavra do SENHOR a Semaías, dizendo: Humilharam-se; não os destruirei; antes os salvarei em breve, e não se derramará Minha ira contra Jerusalém por mão de Sisaque.
 \v 2Cr.12.8
-Porém serão seus servos; para que saibam que é servir a mim, e servir aos reinos das nações.
+{rp|n4}Porém serão seus servos; para que saibam que é servir a mim, e servir aos reinos das nações.
+{tr}Porém serão seus servos; para que saibam que é servir a Mim, e servir aos reinos das nações.
 \v 2Cr.12.9
 Subiu, pois, Sisaque, rei do Egito a Jerusalém, e tomou os tesouros da casa do SENHOR, e os tesouros da casa do rei; tudo o levou: e tomou os paveses de ouro que Salomão havia feito.
 \v 2Cr.12.10
@@ -639,11 +696,13 @@ E agora vós tratais de fortificar-vos contra o reino do SENHOR em mão dos filh
 \v 2Cr.13.9
 Não lançastes vós aos sacerdotes do SENHOR, aos filhos de Arão, e aos levitas, e vos haveis feito sacerdotes à maneira dos povos de outras terras, para que qualquer um venha a consagrar-se com um bezerro e sete carneiros, e assim seja sacerdote dos que não são Deuses?
 \v 2Cr.13.10
-Mas em quanto a nós, o SENHOR é nosso Deus, e não lhe deixamos: e os sacerdotes que ministram ao SENHOR são os filhos de Arão, e os levitas na obra;
+{rp|n4}Mas em quanto a nós, o SENHOR é nosso Deus, e não lhe deixamos: e os sacerdotes que ministram ao SENHOR são os filhos de Arão, e os levitas na obra;
+{tr}Mas em quanto a nós, o SENHOR é nosso Deus, e não Lhe deixamos: e os sacerdotes que ministram ao SENHOR são os filhos de Arão, e os levitas na obra;
 \v 2Cr.13.11
 Os quais queimam ao SENHOR os holocaustos cada manhã e cada tarde, e os perfumes aromáticos; e põem os pães sobre a mesa limpa, e o candelabro de ouro com suas lâmpadas para que ardam cada tarde: porque nós guardamos a ordenança do SENHOR nosso Deus; mas vós o deixastes.
 \v 2Cr.13.12
-E eis que Deus está conosco por cabeça, e seus sacerdotes com as trombetas do júbilo para que soem contra vós. Ó filhos de Israel, não luteis contra o SENHOR o Deus de vossos pais, porque não vos sucederá bem.
+{rp|n4}E eis que Deus está conosco por cabeça, e seus sacerdotes com as trombetas do júbilo para que soem contra vós. Ó filhos de Israel, não luteis contra o SENHOR o Deus de vossos pais, porque não vos sucederá bem.
+{tr}E eis que Deus está conosco por cabeça, e Seus sacerdotes com as trombetas do júbilo para que soem contra vós. Ó filhos de Israel, não luteis contra o SENHOR o Deus de vossos pais, porque não vos sucederá bem.
 \v 2Cr.13.13
 Porém Jeroboão preparou uma emboscada para vir a eles pela retaguarda: e estando assim diante deles, a emboscada estava à retaguarda de Judá.
 \v 2Cr.13.14
@@ -748,7 +807,8 @@ Então o rei Asa tomou a todo Judá, e levaram-se de Ramá a pedra e madeira com
 \v 2Cr.16.7
 Naquele tempo veio Hanani vidente a Asa rei de Judá, e disse-lhe: Por quanto te apoiaste no rei de Síria, e não te apoiaste no SENHOR teu Deus, por isso o exército do rei da Síria escapou de tuas mãos.
 \v 2Cr.16.8
-Os etíopes e os líbios, não eram um exército numerosíssimo, com carros e muitos cavaleiros? Contudo, porque te apoiaste no SENHOR, ele os entregou em tuas mãos.
+{rp|n4}Os etíopes e os líbios, não eram um exército numerosíssimo, com carros e muitos cavaleiros? Contudo, porque te apoiaste no SENHOR, ele os entregou em tuas mãos.
+{tr}Os etíopes e os líbios, não eram um exército numerosíssimo, com carros e muitos cavaleiros? Contudo, porque te apoiaste no SENHOR, Ele os entregou em tuas mãos.
 \v 2Cr.16.9
 Porque os olhos do SENHOR contemplam toda a terra, para corroborar aos que têm coração íntegro com ele. Loucamente 
 fizeste nisso; porque de agora em diante haverá guerra contra ti.
@@ -963,18 +1023,23 @@ Lit. semente
 \*fn
  de Abraão, teu amigo, para sempre?
 \v 2Cr.20.8
-E habitaram nela, e para ti edificaram nela um santuário ao teu nome, dizendo:
+{rp|n4}E habitaram nela, e para ti edificaram nela um santuário ao teu nome, dizendo:
+{tr}E habitaram nela, e para Ti edificaram nela um santuário ao Teu nome, dizendo:
 \v 2Cr.20.9
 Se o mal vier sobre nós, ou espada, ou castigo, ou pestilência, ou fome, nós nos apresentaremos diante desta casa, 
-e diante de ti, porque teu nome está nesta casa, e em nossas aflições clamaremos a ti, e tu nos ouvirás e livrarás.
+{rp|n4}e diante de ti, porque teu nome está nesta casa, e em nossas aflições clamaremos a ti, e tu nos ouvirás e livrarás.
+{tr}e diante de Ti, porque Teu nome está nesta casa, e em nossas aflições clamaremos a Ti, e Tu nos ouvirás e livrarás.
 \v 2Cr.20.10
 Agora, pois, eis que os filhos de Amom e de Moabe, e os dos montes de Seir, pelos os quais não permitiste que os 
 israelitas passassem quando vinham da terra do Egito, mas sim que se afastassem deles, e não os destruíssem;
 \v 2Cr.20.11
-Eis que eles nos retribuem, vindo para nos expulsar de tua propriedade, que tu nos deste para herdar.
+{rp|n4}Eis que eles nos retribuem, vindo para nos expulsar de tua propriedade, que tu nos deste para herdar.
+{tr}Eis que eles nos retribuem, vindo para nos expulsar de Tua propriedade, que Tu nos deste para herdar.
 \v 2Cr.20.12
-Ó Deus nosso! Acaso tu não os julgarás? Porque em nós não há força contra esta tão grande multidão que vem contra nós; 
-não sabemos o que fazer, mas a ti estão voltados os nossos olhos.”
+{rp|n4}Ó Deus nosso! Acaso tu não os julgarás? Porque em nós não há força contra esta tão grande multidão que vem contra nós; 
+{tr}Ó Deus nosso! Acaso Tu não os julgarás? Porque em nós não há força contra esta tão grande multidão que vem contra nós; 
+{rp|n4}não sabemos o que fazer, mas a ti estão voltados os nossos olhos.”
+{tr}não sabemos o que fazer, mas a Ti estão voltados os nossos olhos.”
 \v 2Cr.20.13
 E todos os de Judá estavam em pé diante do SENHOR, com seus meninos, e suas mulheres, e seus filhos.
 \v 2Cr.20.14
@@ -1430,7 +1495,8 @@ Portanto a ira do SENHOR veio sobre Judá e Jerusalém, e os entregou à afliç�
 \v 2Cr.29.9
 E eis que nossos pais caíram à espada, nossos filhos e nossas filhas e nossas mulheres estão em cativeiro por isso.
 \v 2Cr.29.10
-Agora, pois, eu determinei fazer aliança com o SENHOR o Deus de Israel, para que afaste de nós a ira de seu furor.
+{rp|n4}Agora, pois, eu determinei fazer aliança com o SENHOR o Deus de Israel, para que afaste de nós a ira de seu furor.
+{tr}Agora, pois, eu determinei fazer aliança com o SENHOR o Deus de Israel, para que afaste de nós a ira de Seu furor.
 \v 2Cr.29.11
 Filhos meus, não vos enganeis agora, porque o SENHOR vos escolheu para que estejais diante dele, e lhe sirvais, e sejais seus ministros, e lhe queimeis incenso.
 \v 2Cr.29.12
@@ -1498,7 +1564,8 @@ Foram, pois, mensageiros com cartas da mão do rei e de seus príncipes por todo
 \v 2Cr.30.7
 Não sejais como vossos pais e como vossos irmãos, que se rebelaram contra o SENHOR o Deus de seus pais, e ele os entregou a desolação, como vós vedes.
 \v 2Cr.30.8
-Não endureçais, pois, agora vossa cerviz como vossos pais: dai a mão ao SENHOR, e vinde a seu santuário, o qual ele santificou para sempre; e servi ao SENHOR vosso Deus, e a ira de seu furor se apartará de vós.
+{rp|n4}Não endureçais, pois, agora vossa cerviz como vossos pais: dai a mão ao SENHOR, e vinde a seu santuário, o qual ele santificou para sempre; e servi ao SENHOR vosso Deus, e a ira de seu furor se apartará de vós.
+{tr}Não endureçais, pois, agora vossa cerviz como vossos pais: dai a mão ao SENHOR, e vinde a Seu santuário, o qual Ele santificou para sempre; e servi ao SENHOR vosso Deus, e a ira de Seu furor se apartará de vós.
 \v 2Cr.30.9
 Porque se vos virardes ao SENHOR, vossos irmãos e vossos filhos acharão misericórdia diante dos que os têm cativos, e voltarão a esta terra: porque o SENHOR vosso Deus é clemente e misericordioso, e não desviará de vós seu rosto, se vós vos converterdes a ele.
 \v 2Cr.30.10
@@ -1552,7 +1619,8 @@ Também os filhos de Israel e de Judá, que habitavam nas cidades de Judá, dera
 \v 2Cr.31.7
 No mês terceiro começaram a fundar aqueles amontoados, e no mês sétimo acabaram.
 \v 2Cr.31.8
-E Ezequias e os príncipes vieram a ver os amontoados, e bendisseram ao SENHOR, e a seu povo Israel.
+{rp|n4}E Ezequias e os príncipes vieram a ver os amontoados, e bendisseram ao SENHOR, e a seu povo Israel.
+{tr}E Ezequias e os príncipes vieram a ver os amontoados, e bendisseram ao SENHOR, e a Seu povo Israel.
 \v 2Cr.31.9
 E perguntou Ezequias aos sacerdotes e aos levitas acerca dos amontoados.
 \v 2Cr.31.10
@@ -1666,7 +1734,8 @@ Edificou assim altares a todo o exército dos céus nos dois átrios da casa do 
 \v 2Cr.33.6
 E passou seus filhos por fogo no vale dos filhos de Hinom; e olhava adivinhações, predições supersticiosas, e feitiçarias, e consultava médiuns e interpretadores de espíritos; ele fez muito mal aos olhos do SENHOR, para irritar-lhe.
 \v 2Cr.33.7
-A mais disto pôs uma imagem de fundição, que fez, na casa de Deus, da qual havia dito Deus a Davi e a Salomão seu filho: Nesta casa e em Jerusalém, a qual eu escolhi sobre todas as tribos de Israel, porei meu nome para sempre:
+{rp|n4}A mais disto pôs uma imagem de fundição, que fez, na casa de Deus, da qual havia dito Deus a Davi e a Salomão seu filho: Nesta casa e em Jerusalém, a qual eu escolhi sobre todas as tribos de Israel, porei meu nome para sempre:
+{tr}A mais disto pôs uma imagem de fundição, que fez, na casa de Deus, da qual havia dito Deus a Davi e a Salomão seu filho: Nesta casa e em Jerusalém, a qual eu escolhi sobre todas as tribos de Israel, porei Meu nome para sempre:
 \v 2Cr.33.8
 E nunca mais tirarei o pé de Israel da terra que eu entreguei a vossos pais, a condição que guardem e façam todas as coisas que eu lhes ei mandado, toda a lei, estatutos, e ordenanças, por meio de Moisés.
 \v 2Cr.33.9
@@ -1756,11 +1825,13 @@ E ela respondeu: o SENHOR o Deus de Israel disse assim: Dizei ao homem que vos e
 \v 2Cr.34.24
 Eis que eu trago mal sobre este lugar, e sobre os moradores dele, e todas as maldições que estão escritas no livro que leram diante do rei de Judá:
 \v 2Cr.34.25
-Por quanto me deixaram, e sacrificaram a deuses alheios, provocando-me à ira em todas as obras de suas mãos; portanto meu furor destilará sobre este lugar, e não se apagará.
+{rp|n4}Por quanto me deixaram, e sacrificaram a deuses alheios, provocando-me à ira em todas as obras de suas mãos; portanto meu furor destilará sobre este lugar, e não se apagará.
+{tr}Por quanto Me deixaram, e sacrificaram a deuses alheios, provocando-Me à ira em todas as obras de suas mãos; portanto Meu furor destilará sobre este lugar, e não se apagará.
 \v 2Cr.34.26
 Mas ao rei de Judá, que vos enviou a consultar ao SENHOR, assim lhe direis: o SENHOR o Deus de Israel disse assim: Porquanto ouviste as palavras do livro,
 \v 2Cr.34.27
-E teu coração se enterneceu, e te humilhaste diante de Deus ao ouvir suas palavras sobre este lugar, e sobre seus moradores, e te humilhaste diante de mim, e rasgaste tuas vestes, e choraste em minha presença, eu também te ei ouvido, diz o SENHOR.
+{rp|n4}E teu coração se enterneceu, e te humilhaste diante de Deus ao ouvir suas palavras sobre este lugar, e sobre seus moradores, e te humilhaste diante de mim, e rasgaste tuas vestes, e choraste em minha presença, eu também te ei ouvido, diz o SENHOR.
+{tr}E teu coração se enterneceu, e te humilhaste diante de Deus ao ouvir suas palavras sobre este lugar, e sobre seus moradores, e te humilhaste diante de Mim, e rasgaste tuas vestes, e choraste em Minha presença, eu também te ei ouvido, diz o SENHOR.
 \v 2Cr.34.28
 Eis que eu te recolherei com teus pais, e serás recolhido em teus sepulcros em paz, e teus olhos não verão todo o mal que eu trago sobre este lugar, e sobre os moradores dele. E eles referiram ao rei a resposta.
 \v 2Cr.34.29
@@ -1778,7 +1849,8 @@ E Josias fez páscoa ao SENHOR em Jerusalém, e sacrificaram a páscoa aos cator
 \v 2Cr.35.2
 E pôs aos sacerdotes em seus empregos, e confirmou-os no ministério da casa do SENHOR.
 \v 2Cr.35.3
-E disse aos levitas que ensinavam a todo Israel, e que estavam dedicados ao SENHOR: Ponde a arca do santuário na casa que edificou Salomão filho de Davi, rei de Israel, para que não a carregueis mais sobre os ombros. Agora servireis ao SENHOR vosso Deus, e a seu povo Israel.
+{rp|n4}E disse aos levitas que ensinavam a todo Israel, e que estavam dedicados ao SENHOR: Ponde a arca do santuário na casa que edificou Salomão filho de Davi, rei de Israel, para que não a carregueis mais sobre os ombros. Agora servireis ao SENHOR vosso Deus, e a seu povo Israel.
+{tr}E disse aos levitas que ensinavam a todo Israel, e que estavam dedicados ao SENHOR: Ponde a arca do santuário na casa que edificou Salomão filho de Davi, rei de Israel, para que não a carregueis mais sobre os ombros. Agora servireis ao SENHOR vosso Deus, e a Seu povo Israel.
 \v 2Cr.35.4
 Preparai-vos segundo as famílias de vossos pais, por vossas ordens, conforme à prescrição de Davi rei de Israel, e de Salomão seu filho.
 \v 2Cr.35.5
@@ -1868,11 +1940,13 @@ E fez o que era mau aos olhos do SENHOR seu Deus, e não se humilhou diante do p
 \v 2Cr.36.13
 Rebelou-se também contra Nabucodonosor, ao qual havia jurado por Deus; e endureceu sua cerviz, e obstinou seu coração, para não voltar-se ao SENHOR o Deus de Israel.
 \v 2Cr.36.14
-E também todos os príncipes dos sacerdotes, e o povo, aumentaram a transgressão, seguindo todas as abominações das nações, e contaminando a casa do SENHOR, a qual ele havia santificado em Jerusalém.
+{rp|n4}E também todos os príncipes dos sacerdotes, e o povo, aumentaram a transgressão, seguindo todas as abominações das nações, e contaminando a casa do SENHOR, a qual ele havia santificado em Jerusalém.
+{tr}E também todos os príncipes dos sacerdotes, e o povo, aumentaram a transgressão, seguindo todas as abominações das nações, e contaminando a casa do SENHOR, a qual Ele havia santificado em Jerusalém.
 \v 2Cr.36.15
 E o SENHOR o Deus de seus pais enviou a eles por meio de seus mensageiros, enviando insistentemente: porque ele tinha misericórdia de seu povo, e de sua habitação.
 \v 2Cr.36.16
-Mas eles faziam escárnio dos mensageiros de Deus, e menosprezavam suas palavras, ridicularizando-se de seus profetas, até que subiu o furor do SENHOR contra seu povo, de maneira que não havia remédio.
+{rp|n4}Mas eles faziam escárnio dos mensageiros de Deus, e menosprezavam suas palavras, ridicularizando-se de seus profetas, até que subiu o furor do SENHOR contra seu povo, de maneira que não havia remédio.
+{tr}Mas eles faziam escárnio dos mensageiros de Deus, e menosprezavam Suas palavras, ridicularizando-se de Seus profetas, até que subiu o furor do SENHOR contra Seu povo, de maneira que não havia remédio.
 \v 2Cr.36.17
 Pelo qual trouxe contra eles ao rei dos caldeus, que matou à espada seus rapazes na casa de seu santuário, sem perdoar jovem, nem virgem, nem velho, nem decrépito; todos os entregou em suas mãos.
 \v 2Cr.36.18

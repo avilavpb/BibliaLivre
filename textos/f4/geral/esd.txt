@@ -13,7 +13,8 @@ EZR
 \v Esd.1.1
 No primeiro ano de Ciro rei da Pérsia, para que se cumprisse a palavra do SENHOR pela boca de Jeremias, o SENHOR despertou o espírito de Ciro rei da Pérsia, o qual mandou proclamar por todo o seu reino, e também por escrito, dizendo:
 \v Esd.1.2
-Assim diz Ciro, rei da Pérsia: O SENHOR, Deus dos céus, me deu todos os reinos da terra; e ele me mandou que lhe edificasse uma casa em Jerusalém, que está em Judá.
+{rp|n4}Assim diz Ciro, rei da Pérsia: O SENHOR, Deus dos céus, me deu todos os reinos da terra; e ele me mandou que lhe edificasse uma casa em Jerusalém, que está em Judá.
+{tr}Assim diz Ciro, rei da Pérsia: O SENHOR, Deus dos céus, me deu todos os reinos da terra; e Ele me mandou que Lhe edificasse uma casa em Jerusalém, que está em Judá.
 \v Esd.1.3
 Quem há entre vós de todo seu povo, seu Deus seja com ele, e suba a Jerusalém que está em Judá, e edifique a casa ao SENHOR Deus de Israel; ele é o Deus que 
 \added
@@ -231,7 +232,8 @@ com
 \v Esd.3.10
 E quando os construtores do templo do SENHOR puseram os fundamentos, então ordenaram aos sacerdotes, já com as vestimentas e com trombetas, e aos levitas filhos de Asafe com címbalos, para louvarem ao SENHOR, conforme a ordenança de Davi, rei de Israel.
 \v Esd.3.11
-E cantavam em revezamento, louvando e celebrando ao SENHOR: Porque ele é bom, porque sua bondade sobre Israel dura para sempre! E todo o povo gritava com grande júbilo, louvando ao SENHOR, por causa da fundação da casa do SENHOR.
+{rp|n4}E cantavam em revezamento, louvando e celebrando ao SENHOR: Porque ele é bom, porque sua bondade sobre Israel dura para sempre! E todo o povo gritava com grande júbilo, louvando ao SENHOR, por causa da fundação da casa do SENHOR.
+{tr}E cantavam em revezamento, louvando e celebrando ao SENHOR: Porque Ele é bom, porque Sua bondade sobre Israel dura para sempre! E todo o povo gritava com grande júbilo, louvando ao SENHOR, por causa da fundação da casa do SENHOR.
 \v Esd.3.12
 Porém muitos dos sacerdotes e dos levitas e dos chefes de famílias, já velhos, que haviam visto a primeira casa, quando viram a fundação desta casa, choravam em alta voz, mas muitos outros davam grandes gritos de alegria;
 \v Esd.3.13
@@ -464,7 +466,8 @@ seus
 \*added
  estatutos e juízos.
 \v Esd.7.11
-E este é a transcrição da carta que o rei Artaxerxes deu a Esdras, sacerdote e escriba, o escriba das palavras dos mandamentos do SENHOR, e de seus estatutos sobre Israel:
+{rp|n4}E este é a transcrição da carta que o rei Artaxerxes deu a Esdras, sacerdote e escriba, o escriba das palavras dos mandamentos do SENHOR, e de seus estatutos sobre Israel:
+{tr}E este é a transcrição da carta que o rei Artaxerxes deu a Esdras, sacerdote e escriba, o escriba das palavras dos mandamentos do SENHOR, e de Seus estatutos sobre Israel:
 \v Esd.7.12
 Artaxerxes, rei de reis, ao sacerdote Esdras, escriba da Lei de Deus do céu. 
 \added
@@ -566,11 +569,13 @@ E a Hasabias, e com ele a Jesaías dos filhos de Merari, seus irmãos e a seus f
 \v Esd.8.20
 E dos servos do templo, a quem Davi e os príncipes puseram para o trabalho dos Levitas, duzentos e vinte servos do templo; todos eles foram indicados por nome.
 \v Esd.8.21
-Então proclamei ali um jejum junto ao rio de Aava, para nos humilharmos diante de nosso Deus, para lhe pedirmos um caminho seguro para nós, nossos filhos, e todos os nossos bens.
+{rp|n4}Então proclamei ali um jejum junto ao rio de Aava, para nos humilharmos diante de nosso Deus, para lhe pedirmos um caminho seguro para nós, nossos filhos, e todos os nossos bens.
+{tr}Então proclamei ali um jejum junto ao rio de Aava, para nos humilharmos diante de nosso Deus, para Lhe pedirmos um caminho seguro para nós, nossos filhos, e todos os nossos bens.
 \v Esd.8.22
 Pois tive vergonha de pedir ao rei tropas e cavaleiros para nos defenderem do inimigo no caminho; porque tínhamos falado ao rei, dizendo: A mão de nosso Deus está para o bem sobre todos os que o buscam; mas sua força e ira está sobre todos os que o abandonam.
 \v Esd.8.23
-Assim jejuamos, e pedimos isto a nosso Deus; e ele atendeu a nossas orações.
+{rp|n4}Assim jejuamos, e pedimos isto a nosso Deus; e ele atendeu a nossas orações.
+{tr}Assim jejuamos, e pedimos isto a nosso Deus; e Ele atendeu a nossas orações.
 \v Esd.8.24
 Então separei doze dos chefes dos sacerdotes, a Serebias e Hasabias, e com eles dez de seus irmãos;
 \v Esd.8.25
@@ -653,7 +658,8 @@ eram do cativeiro; mas eu fiquei sentado, atônito, até o sacrifício da tarde.
 \v Esd.9.5
 E perto do sacrifício da tarde eu me levantei de minha aflição; e já tendo rasgado minha roupa e meu manto, inclinei-me de joelhos, e estendi minhas mãos ao SENHOR meu Deus,
 \v Esd.9.6
-E disse: Meu Deus, estou confuso e envergonhado de levantar a ti, meu Deus, o meu rosto; pois nossas perversidades se multiplicaram sobre nossa 
+{rp|n4}E disse: Meu Deus, estou confuso e envergonhado de levantar a ti, meu Deus, o meu rosto; pois nossas perversidades se multiplicaram sobre nossa 
+{tr}E disse: Meu Deus, estou confuso e envergonhado de levantar a Ti, meu Deus, o meu rosto; pois nossas perversidades se multiplicaram sobre nossa 
 \added
 cabeça
 \*added
@@ -667,17 +673,20 @@ se vê
 \*added
  hoje.
 \v Esd.9.8
-Mas agora, por um breve momento, houve favor da parte do SENHOR nosso Deus, para deixar um restante livre, e para nos dar uma estaca em seu santo lugar, a fim de iluminar nossos olhos, ó Deus nosso, e nos dar um pouco de alívio em nossa escravidão.
+{rp|n4}Mas agora, por um breve momento, houve favor da parte do SENHOR nosso Deus, para deixar um restante livre, e para nos dar uma estaca em seu santo lugar, a fim de iluminar nossos olhos, ó Deus nosso, e nos dar um pouco de alívio em nossa escravidão.
+{tr}Mas agora, por um breve momento, houve favor da parte do SENHOR nosso Deus, para deixar um restante livre, e para nos dar uma estaca em Seu santo lugar, a fim de iluminar nossos olhos, ó Deus nosso, e nos dar um pouco de alívio em nossa escravidão.
 \v Esd.9.9
 Porque somos escravos; porém em nossa escravidão nosso Deus não nos desamparou, mas, sim, inclinou sobre nós bondade diante dos reis da Pérsia, para nos dar alívio, para levantarmos a casa de nosso Deus, e restaurarmos suas ruínas, e para nos dar um muro em Judá e em Jerusalém.
 \v Esd.9.10
-Mas agora, ó Deus nosso, o que diremos depois disto? Porque abandonamos os teus mandamentos,
+{rp|n4}Mas agora, ó Deus nosso, o que diremos depois disto? Porque abandonamos os teus mandamentos,
+{tr}Mas agora, ó Deus nosso, o que diremos depois disto? Porque abandonamos os Teus mandamentos,
 \v Esd.9.11
 Os quais mandaste por meio de teus servos, os profetas, dizendo: A terra em que entrais para tomar posse é um terra imunda, por causa das imundícias dos povos daquelas terras, por suas abominações com que a encheram de um extremo ao outro de sua contaminação.
 \v Esd.9.12
 Agora, pois, não dareis vossas filhas aos seus filhos, nem tomareis suas filhas para vossos filhos, e nunca procurareis sua paz nem seu bem; para que vos fortaleçais, e comais o bem da terra, e a deixeis por herança a vossos filhos para sempre.
 \v Esd.9.13
-E depois de tudo o que nos sobreveio por causa de nossas más obras, e de nossa grande culpa, ainda que tu, Deus nosso, puniste menos do que 
+{rp|n4}E depois de tudo o que nos sobreveio por causa de nossas más obras, e de nossa grande culpa, ainda que tu, Deus nosso, puniste menos do que 
+{tr}E depois de tudo o que nos sobreveio por causa de nossas más obras, e de nossa grande culpa, ainda que Tu, Deus nosso, puniste menos do que 
 \added
 merecíamos
 \*added
@@ -721,7 +730,8 @@ Então todos os homens de Judá e de Benjamim se reuniram em Jerusalém em três
 \v Esd.10.10
 Assim o sacerdote Esdras se levantou, e lhes disse: Vós transgredistes, por terdes se casado com mulheres estrangeiras, aumentando assim a culpa de Israel. 
 \v Esd.10.11
-Agora, pois, confessai ao SENHOR, Deus de vossos pais, e fazei a sua vontade, e separai-vos dos povos das terras, e das mulheres estrangeiras.
+{rp|n4}Agora, pois, confessai ao SENHOR, Deus de vossos pais, e fazei a sua vontade, e separai-vos dos povos das terras, e das mulheres estrangeiras.
+{tr}Agora, pois, confessai ao SENHOR, Deus de vossos pais, e fazei a Sua vontade, e separai-vos dos povos das terras, e das mulheres estrangeiras.
 \v Esd.10.12
 E toda a congregação respondeu, dizendo em alta voz: Assim se faça, conforme a tua palavra.
 \v Esd.10.13

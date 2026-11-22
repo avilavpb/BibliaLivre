@@ -492,3 +492,4 @@ Marcação usada: o bloco `\added` … `\*added` do formato f4, com cada marcado
 
 - Mesmo método e mesmas convenções da segunda passada no NT. Também no AT as linhas alteradas viram `{rp|n4}`(original) + `{tr}`(nova), então a saída N4/RP não muda e a marcação `\nd` de SENHOR/DEUS continua no conversor.
 - **Pentateuco** (AT): 332 versículos, 499 pronomes. Ficam 385 versículos para revisão (`pronomes-divinos/pentateuco-pendentes.md`).
+- **Livros históricos (Josué–Ester)** (AT): 305 versículos, 582 pronomes. Ficam 440 versículos para revisão (`pronomes-divinos/historicos-pendentes.md`).
