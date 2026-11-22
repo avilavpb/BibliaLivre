@@ -473,3 +473,4 @@ Marcação usada: o bloco `\added` … `\*added` do formato f4, com cada marcado
 ### Blocos aplicados
 
 - **Evangelhos**: 994 versículos, 1.552 pronomes. Ficam 771 versículos para revisão (`pronomes-divinos/evangelhos-pendentes.md`).
+- **Atos**: 59 versículos, 86 pronomes. Ficam 64 versículos para revisão (`pronomes-divinos/atos-pendentes.md`).
