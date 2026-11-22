@@ -16,7 +16,8 @@ Paulo, e Silvano, e Timóteo, à igreja dos tessalonicenses, em Deus nosso Pai, 
 \added
 Haja entre vós
 \*added
- graça e paz de nosso Pai, e do Senhor Jesus Cristo.
+{rp|n4} graça e paz de nosso Pai, e do Senhor Jesus Cristo.
+{tr} graça e paz de Deus nosso Pai, e do Senhor Jesus Cristo.
 \v 2Ts.1.3
 Nós sempre devemos dar graças a Deus por vós, irmãos, como é o correto, porque vossa fé cresce muito, e o amor de cada um de todos vós pelos outros é cada vez maior;
 \v 2Ts.1.4

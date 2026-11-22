@@ -2849,7 +2849,7 @@ mais
 \*added
  que a roupa.
 \v Lc.12.24
-Considerai os corvos, que nem semeiam, nem colhem; não tem armazém, nem celeiro; e Deus os alimenta.
+Considerai os corvos, que nem semeiam, nem colhem; não têm armazém, nem celeiro; e Deus os alimenta. Quanto mais valeis vós do que as aves?
 \v Lc.12.25
 E quem de vós pode, com sua ansiedade, acrescentar um côvado à sua altura?
 \fn
@@ -3726,7 +3726,7 @@ E Jesus
 \fn
 Lit. ele
 \*fn
- lhes disse: “Em verdade vos digo, que ninguém há, que tenha deixado casa, ou pais, ou irmãos, ou mulher, ou filhos,
+ lhes disse: “Em verdade vos digo, que ninguém há, que tenha deixado casa, ou pais, ou irmãos, ou mulher, ou filhos, por causa do Reino de Deus,
 \v Lc.18.30
 que não venha a receber de volta muito mais neste tempo, e na era vindoura, a vida eterna”.
 \v Lc.18.31
@@ -3823,7 +3823,7 @@ E ouvindo eles estas coisas,
 \added
 Jesus
 \*added
- prosseguiu, e disse uma parábola, porque estava perto de Jerusalém, e pensavam que logo o Reino havia de 
+ prosseguiu, e disse uma parábola, porque estava perto de Jerusalém, e pensavam que logo o Reino de Deus havia de 
 se manifestar.
 \v Lc.19.12
 Disse, pois: “Um homem nobre partiu para uma terra distante, para tomar posse de um reino, e voltar.
@@ -3843,7 +3843,7 @@ E veio o segundo, dizendo: ‘Senhor, tua mina rendeu cinco minas’.
 \v Lc.19.19
 E disse também a este: ‘E tu estarás sobre cinco cidades’.
 \v Lc.19.20
-E veio outro, dizendo: ‘Eis aqui tua mina, que guardei num lenço;
+E veio outro, dizendo: ‘Senhor, eis aqui tua mina, que guardei num lenço;
 \v Lc.19.21
 pois tive medo de ti, que és um homem rigoroso, que tomas o que não depositaste, e colhes o que não semeaste’.
 \v Lc.19.22

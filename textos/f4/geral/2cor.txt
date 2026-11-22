@@ -117,13 +117,15 @@ isto é
 \*added
 , por mim, e Silvano, e Timóteo, não foi sim e não, mas nele foi o “sim”.
 \v 2Co.1.20
-Porque todas as promessas nele são “sim”, e nele 
+{rp|n4}Porque todas as promessas nele são “sim”, e nele 
+{tr}Porque todas as promessas de Deus nele são “sim”, e nele 
 \added
 se diga
 \*added
  Amém, para glória de Deus por meio de nós.
 \v 2Co.1.21
-Mas o que nos confirma convosco, e o que nos ungiu, é Deus.
+{rp|n4}Mas o que nos confirma convosco, e o que nos ungiu, é Deus.
+{tr}Mas o que nos confirma convosco em Cristo, e o que nos ungiu, é Deus.
 \v 2Co.1.22
 O qual também nos selou, e 
 \added

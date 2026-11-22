@@ -321,3 +321,29 @@ Correções sem efeito no sentido (espaço duplo, espaço antes de pontuação, 
 ### Espaço (1)
 
 Correções sem efeito no sentido (espaço duplo, espaço antes de pontuação, falta de espaço após vírgula/ponto, ",," etc.). Versículos: Mc 5.19.
+
+### Camada 1 – complemento (3)
+
+- **Flm 1.25** – Erro de digitação: "Cirsto" → "Cristo"
+- **1Rs 16.29** – Divisão de versículos: "E reinou Acabe filho de Onri sobre Israel em Samaria vinte e dois anos" estava no v. 30; passou para o v. 29, como no hebraico e na KJV
+- **Jo 1.18** – Grafia: "Ningúem" → "Ninguém"
+
+## Camada 2 – variantes (omissões e acréscimos em relação ao original)
+
+Comparação automática de cada versículo da BL TR com o TR de Scrivener 1894 (presença de κύριος/Ἰησοῦς/Χριστός/θεός × Senhor/Jesus/Cristo/Deus, e razão de comprimento BL × grego e BL × KJV com os versículos vizinhos), seguida de revisão manual. No NT, as correções entram em `textos/f4/geral` como linha `{tr}` nova, com a linha antiga marcada `{rp|n4}`, para não alterar a geração do N4/RP. No AT a base é comum.
+
+Total: 13 correções.
+
+- **Lc 18.29** – Faltava "por causa do Reino de Deus" (TR ἕνεκεν τῆς βασιλείας τοῦ θεοῦ; KJV "for the kingdom of God’s sake")
+- **Lc 19.11** – Faltava "de Deus" (TR ἡ βασιλεία τοῦ θεοῦ; KJV "the kingdom of God")
+- **Lc 19.20** – Faltava o vocativo "Senhor" (TR κύριε; KJV "Lord")
+- **At 13.21** – Faltava o sujeito "Deus" (TR ὁ θεὸς; KJV "God gave")
+- **2Co 1.20** – Faltava "de Deus" (TR ἐπαγγελίαι θεοῦ; KJV "the promises of God")
+- **2Co 1.21** – Faltava "em Cristo" (TR εἰς Χριστὸν; KJV "in Christ")
+- **Gl 3.11** – Faltava "diante de Deus" (TR παρὰ τῷ θεῷ; KJV "in the sight of God")
+- **1Ts 1.9** – Faltava "a Deus" (TR ἐπεστρέψατε πρὸς τὸν θεὸν; KJV "ye turned to God")
+- **2Ts 1.2** – Faltava "Deus" (TR ἀπὸ θεοῦ πατρὸς ἡμῶν; KJV "from God our Father")
+- **1Tm 1.14** – Acréscimo "Jesus Cristo" sem base no original (TR ἡ χάρις τοῦ κυρίου ἡμῶν; KJV "the grace of our Lord")
+- **Gn 18.10** – Omissão de oração inteira: faltava "E Sara escutava à porta da tenda, que estava atrás dele" (hebr. וְשָׂרָה שֹׁמַעַת פֶּתַח הָאֹהֶל וְהוּא אַחֲרָיו; KJV "And Sarah heard it in the tent door, which was behind him"; Almeida 1819 "e ouvia o Sara á porta da tenda, que estava atras delle")
+- **2Cr 12.1** – Omissão: faltava "e se havia fortalecido" (hebr. וּכְחֶזְקָתוֹ; KJV "and had strengthened himself"; Almeida 1819 "e avendo se fortalecido")
+- **Lc 12.24** – Omissão de oração: faltava "Quanto mais valeis vós do que as aves?" (TR πόσῳ μᾶλλον ὑμεῖς διαφέρετε τῶν πετεινῶν; KJV "how much more are ye better than the fowls?"; Almeida 1819 "quanto mais valeis vósoutros que as aves?"); também "tem" → "têm"

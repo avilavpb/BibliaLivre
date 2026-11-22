@@ -1796,7 +1796,8 @@ lhes
 \*added
  deu juízes, até o profeta Samuel.
 \v At.13.21
-E depois disto, pediram a um Rei, e ele lhes deu a Saul, filho de Quis, homem da tribo de Benjamim, 
+{rp|n4}E depois disto, pediram a um Rei, e ele lhes deu a Saul, filho de Quis, homem da tribo de Benjamim, 
+{tr}E depois disto, pediram a um Rei, e Deus lhes deu a Saul, filho de Quis, homem da tribo de Benjamim, 
 \added
 durante
 \*added
