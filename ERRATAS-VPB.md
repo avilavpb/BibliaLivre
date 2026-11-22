@@ -617,11 +617,11 @@ Como foi feito:
 - Duas buscas extras: "aquele" não marcado, e "se" logo depois de nome divino.
 - Mantidos em minúscula: o "se" passivo/impessoal ("para que se cumprisse", "faça-se Tua vontade"), os reflexivos e "aquele" humanos, "aquele" como adjetivo ("aquele dia", "aquele Jesus"), e a fala de adversários que tratam Jesus como homem (Pilatos em Mc 15.12; os judeus em Jo 19.7; os murmuradores em Lc 19.7).
 
-Resultado: 227 versículos, 242 mudanças.
+Resultado: 229 versículos, 245 mudanças.
 
 | Forma | Mudanças |
 |---|---|
-| Se | 125 |
+| Se | 128 |
 | Aquele | 83 |
 | dAquele | 25 |
 | nAquele | 9 |
