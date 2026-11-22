@@ -529,3 +529,4 @@ Pedido de Marcelo: revisão versículo a versículo, com julgamento. Para cada p
 - **1Tessalonicenses**: 1 versículos, 1 pronomes alterados na revisão manual; 1 casos anotados (`pronomes-divinos/revisao-1th-duvidosos.md`).
 - **2Tessalonicenses**: 0 versículos, 0 pronomes alterados na revisão manual; 1 casos anotados (`pronomes-divinos/revisao-2th-duvidosos.md`).
 - **1Timóteo**: 1 versículos, 2 pronomes alterados na revisão manual; 1 casos anotados (`pronomes-divinos/revisao-1ti-duvidosos.md`).
+- **2Timóteo**: 5 versículos, 10 pronomes alterados na revisão manual; 0 casos anotados (`pronomes-divinos/revisao-2ti-duvidosos.md`).

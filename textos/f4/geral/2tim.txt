@@ -53,7 +53,8 @@ Pois Deus não nos deu espírito de medo; mas sim de força, de amor, e de moder
 {tr}Portanto não te envergonhes do testemunho do nosso Senhor, nem de mim, que sou prisioneiro dEle; em vez disso, 
 participa das aflições do Evangelho segundo o poder de Deus.
 \v 2Tm.1.9
-Ele nos salvou, e chamou com um chamado santo; não conforme as nossas obras, mas sim, conforme a sua própria intenção,
+{rp|n4}Ele nos salvou, e chamou com um chamado santo; não conforme as nossas obras, mas sim, conforme a sua própria intenção,
+{tr}Ele nos salvou, e chamou com um chamado santo; não conforme as nossas obras, mas sim, conforme a Sua própria intenção,
 \fn
 Ou: seu próprio propósito
 \*fn
@@ -186,23 +187,28 @@ ele
 \v 2Tm.2.12
 se sofrermos, também com 
 \added
-ele
+{rp|n4}ele
+{tr}Ele
 \*added
- reinaremos; se o 
+{rp|n4} reinaremos; se o 
+{tr} reinaremos; se O 
 {tr|rp}negamos
 {n4}negarmos
 ,
 {trnc}\fn
 {trnc}N4: negarmos
 {trnc}\*fn
- também ele nos negará;
+{rp|n4} também ele nos negará;
+{tr} também Ele nos negará;
 \v 2Tm.2.13
-se formos infiéis, ele continua fiel;
+{rp|n4}se formos infiéis, ele continua fiel;
+{tr}se formos infiéis, Ele continua fiel;
 {n4} porque
 {trnc}\fn
 {trnc}N4 contém “porque” depois de “fiel”
 {trnc}\*fn
- ele não pode negar a si mesmo.
+{rp|n4} ele não pode negar a si mesmo.
+{tr} Ele não pode negar a Si mesmo.
 \v 2Tm.2.14
 Lembra-os disso, alertando-os diante 
 {tr|rp}do Senhor
@@ -237,7 +243,8 @@ Porém o fundamento de Deus continua firme, e tem este selo:
 \fn
 Ou: esta inscrição
 \*fn
- o Senhor conhece os que são seus, e que todo aquele que 
+{rp|n4} o Senhor conhece os que são seus, e que todo aquele que 
+{tr} o Senhor conhece os que são Seus, e que todo aquele que 
 faz uso do nome 
 {tr}de Cristo
 {rp|n4}do Senhor
@@ -396,7 +403,8 @@ a
 {trnc}\*fn
 {tr|rp} o
 {n4}O
- Senhor me livrará de toda obra má, e me preservará para o seu reino celestial. A ele 
+{rp|n4} Senhor me livrará de toda obra má, e me preservará para o seu reino celestial. A ele 
+{tr} Senhor me livrará de toda obra má, e me preservará para o Seu reino celestial. A Ele 
 \added
 seja
 \*added
