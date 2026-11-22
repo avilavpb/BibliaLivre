@@ -91,7 +91,8 @@ de quando éreis ignorantes
 lit. em vossa ignorância
 \*fn
 \v 1Pd.1.15
-Ao contrário; assim como aquele que vos chamou é santo, sede vós também santos em todo o 
+{rp|n4}Ao contrário; assim como aquele que vos chamou é santo, sede vós também santos em todo o 
+{tr}Ao contrário; assim como Aquele que vos chamou é santo, sede vós também santos em todo o 
 \added
 vosso
 \*added
@@ -262,7 +263,7 @@ Isaías 8:14
 \v 1Pd.2.9
 Mas vós sois a geração escolhida, o sacerdócio real, a nação santa, o povo adquirido; a fim de que anuncieis as 
 {rp|n4}virtudes daquele que vos chamou das trevas para a sua maravilhosa luz.
-{tr}virtudes daquele que vos chamou das trevas para a Sua maravilhosa luz.
+{tr}virtudes dAquele que vos chamou das trevas para a Sua maravilhosa luz.
 \v 1Pd.2.10
 Antes, vós não éreis povo, mas agora sois povo de Deus. 
 \added

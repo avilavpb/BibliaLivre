@@ -64,7 +64,7 @@ rio Jordão, confessando seus pecados.
 E João se vestia de pelos de camelo, e um cinto de couro em redor de sua cintura; e comia gafanhotos e mel silvestre.
 \v Mc.1.7
 {rp|n4}E pregava, dizendo: “Após mim vem aquele que é mais forte do que eu. A ele não sou digno de, encurvando-me, desamarrar 
-{tr}E pregava, dizendo: “Após mim vem aquele que é mais forte do que eu. A Ele não sou digno de, encurvando-me, desamarrar 
+{tr}E pregava, dizendo: “Após mim vem Aquele que é mais forte do que eu. A Ele não sou digno de, encurvando-me, desamarrar 
 {rp|n4}a correia de suas sandálias.
 {tr}a correia de Suas sandálias.
 \v Mc.1.8
@@ -154,7 +154,8 @@ E logo, saindo da sinagoga, foram à casa de Simão e de André, com Tiago e Jo�
 {rp|n4}E a sogra de Simão estava deitada com febre; e logo lhe disseram dela.
 {tr}E a sogra de Simão estava deitada com febre; e logo Lhe disseram dela.
 \v Mc.1.31
-Então, aproximando-se dela, tomou-a pela mão, e a levantou; e
+{rp|n4}Então, aproximando-se dela, tomou-a pela mão, e a levantou; e
+{tr}Então, aproximando-Se dela, tomou-a pela mão, e a levantou; e
 {tr|rp} imediatamente
  a febre a deixou, e ela começou a servi-los.
 \v Mc.1.32
@@ -167,7 +168,8 @@ E curou muitos que estavam doentes de diversas enfermidades, e expulsou muitos d
 {rp|n4}falarem, porque o conheciam.
 {tr}falarem, porque O conheciam.
 \v Mc.1.35
-E levantando-se de madrugada, estando ainda escuro, saiu, foi a um lugar deserto, e ali orava.
+{rp|n4}E levantando-se de madrugada, estando ainda escuro, saiu, foi a um lugar deserto, e ali orava.
+{tr}E levantando-Se de madrugada, estando ainda escuro, saiu, foi a um lugar deserto, e ali orava.
 \v Mc.1.36
 {rp|n4}E Simão e os que estavam com ele o seguiram.
 {tr}E Simão e os que estavam com ele O seguiram.
@@ -378,7 +380,7 @@ E olhando ao redor para eles com indignação, entristecido da dureza do coraç�
 {tr}E havendo os fariseus saído, logo formaram conselho com os herodianos contra Ele, sobre como O matariam.
 \v Mc.3.7
 {rp|n4}E Jesus retirou-se com os seus discípulos para o mar; e o seguiu uma grande multidão da Galileia, da Judeia,
-{tr}E Jesus retirou-se com os Seus discípulos para o mar; e O seguiu uma grande multidão da Galileia, da Judeia,
+{tr}E Jesus retirou-Se com os Seus discípulos para o mar; e O seguiu uma grande multidão da Galileia, da Judeia,
 \v Mc.3.8
 de Jerusalém, da Idumeia, dalém do Jordão; e das proximidades de Tiro e de Sidom uma grande multidão, tendo ouvido 
 {rp|n4}quão grandes coisas fazia, vieram a ele.
@@ -509,7 +511,8 @@ Então chegaram
 \v Mc.4.1
 {rp|n4}E outra vez ele começou a ensinar junto ao mar, e uma grande multidão ajuntou-se a ele, de maneira que ele, entrando 
 {tr}E outra vez Ele começou a ensinar junto ao mar, e uma grande multidão ajuntou-se a Ele, de maneira que Ele, entrando 
-num barco no mar, assentou-se; e toda a multidão estava em terra junto ao mar.
+{rp|n4}num barco no mar, assentou-se; e toda a multidão estava em terra junto ao mar.
+{tr}num barco no mar, assentou-Se; e toda a multidão estava em terra junto ao mar.
 \v Mc.4.2
 {rp|n4}E ensinava-lhes muitas coisas por parábolas; e dizia-lhes em seu ensino:
 {tr}E ensinava-lhes muitas coisas por parábolas; e dizia-lhes em Seu ensino:
@@ -793,7 +796,7 @@ disso, piorava,
 E imediatamente secou-se a fonte de seu sangue; e sentiu no corpo estar curada daquele flagelo.
 \v Mc.5.30
 {rp|n4}E imediatamente Jesus, conhecendo que o poder havia saído dele, virando-se na multidão, disse: “Quem tocou 
-{tr}E imediatamente Jesus, conhecendo que o poder havia saído dEle, virando-se na multidão, disse: “Quem tocou 
+{tr}E imediatamente Jesus, conhecendo que o poder havia saído dEle, virando-Se na multidão, disse: “Quem tocou 
 {rp|n4}minhas roupas?”
 {tr}Minhas roupas?”
 \v Mc.5.31
@@ -1048,7 +1051,8 @@ Jesus
  sozinho em terra.
 \v Mc.6.48
 E viu que se cansavam muito remando, porque o vento lhes era contrário; e perto da quarta vigília da noite, 
-aproximou-se deles andando sobre o mar, e queria passar adiante deles.
+{rp|n4}aproximou-se deles andando sobre o mar, e queria passar adiante deles.
+{tr}aproximou-Se deles andando sobre o mar, e queria passar adiante deles.
 \v Mc.6.49
 {rp|n4}Mas eles, vendo-o andar sobre o mar, pensaram que era uma fantasma, e deram grandes gritos,
 {tr}Mas eles, vendo-O andar sobre o mar, pensaram que era uma fantasma, e deram grandes gritos,
@@ -1197,9 +1201,11 @@ as ganâncias, as maldades, o engano, a devassidão, a inveja, a blasfêmia, a s
 \v Mc.7.23
 Todos estes males procedem de dentro, e contaminam o ser humano”.
 \v Mc.7.24
-E, havendo levantado-se dali, foi para a região de Tiro
+{rp|n4}E, havendo levantado-se dali, foi para a região de Tiro
+{tr}E, havendo levantado-Se dali, foi para a região de Tiro
 {tr|rp} e de Sidom
-. E, entrando numa casa, não queria que ninguém soubesse disso, mas não pôde se esconder.
+{rp|n4}. E, entrando numa casa, não queria que ninguém soubesse disso, mas não pôde se esconder.
+{tr}. E, entrando numa casa, não queria que ninguém soubesse disso, mas não pôde Se esconder.
 \v Mc.7.25
 {tr|rp}Porque
 {n4}E logo
@@ -1390,7 +1396,7 @@ pelos chefes dos sacerdotes, e pelos escribas, e que fosse morto, e depois de tr
 {tr}E dizia abertamente essa palavra. E Pedro O tomou à parte, e começou a repreendê-Lo.
 \v Mc.8.33
 {rp|n4}Mas ele, virando-se, e olhando para seus discípulos, repreendeu a Pedro, dizendo: “Retira-te de diante de mim, 
-{tr}Mas Ele, virando-se, e olhando para Seus discípulos, repreendeu a Pedro, dizendo: “Retira-te de diante de Mim, 
+{tr}Mas Ele, virando-Se, e olhando para Seus discípulos, repreendeu a Pedro, dizendo: “Retira-te de diante de Mim, 
 Satanás! Porque tu não compreendes as coisas de Deus, mas sim, as humanas”.
 \v Mc.8.34
 {rp|n4}E, chamando a si a multidão, com os seus discípulos, disse-lhes: “
@@ -1409,7 +1415,7 @@ Pois que aproveitaria ao ser humano, se ganhasse o mundo todo, e perdesse sua al
 Ou que o ser humano daria em resgate de sua alma?
 \v Mc.8.38
 {rp|n4}Porque quem se envergonhar de mim e de minhas palavras nesta geração adúltera e pecadora, também o Filho do homem se 
-{tr}Porque quem se envergonhar de Mim e de Minhas palavras nesta geração adúltera e pecadora, também o Filho do homem se 
+{tr}Porque quem se envergonhar de Mim e de Minhas palavras nesta geração adúltera e pecadora, também o Filho do homem Se 
 {rp|n4}envergonhará dele, quando vier na glória de seu Pai com os santos anjos”.
 {tr}envergonhará dele, quando vier na glória de Seu Pai com os santos anjos”.
 \v Mc.9.1
@@ -1417,7 +1423,7 @@ E dizia-lhes também: “Em verdade vos digo, que há alguns dos que aqui estão
 vejam o reino de Deus vindo com poder”.
 \v Mc.9.2
 {rp|n4}E seis dias depois, Jesus tomou consigo Pedro, Tiago, e João, e os levou à parte, em particular, para um alto monte; e 
-{tr}E seis dias depois, Jesus tomou consigo Pedro, Tiago, e João, e os levou à parte, em particular, para um alto monte; e 
+{tr}E seis dias depois, Jesus tomou Consigo Pedro, Tiago, e João, e os levou à parte, em particular, para um alto monte; e 
 {rp|n4}transfigurou-se diante deles.
 {tr}transfigurou-Se diante deles.
 \v Mc.9.3
@@ -1462,7 +1468,8 @@ Trad. alt. “e, como está escrito sobre o Filho do homem, ele deverá sofrer m
 Porém eu vos digo que Elias já veio, e fizeram-lhe tudo o que quiseram, como dele está escrito”.
 \v Mc.9.14
 E quando 
-{tr|rp}se aproximou
+{rp}se aproximou
+{tr}Se aproximou
 {n4}se aproximaram
  dos discípulos, 
 {rp}ele viu
@@ -1569,7 +1576,7 @@ deles seria
  o maior.
 \v Mc.9.35
 {rp|n4}E ele, assentando-se, chamou aos doze, e disse-lhes: “Se alguém quiser ser o primeiro, será o último de todos e o 
-{tr}E Ele, assentando-se, chamou aos doze, e disse-lhes: “Se alguém quiser ser o primeiro, será o último de todos e o 
+{tr}E Ele, assentando-Se, chamou aos doze, e disse-lhes: “Se alguém quiser ser o primeiro, será o último de todos e o 
 servo de todos”.
 \v Mc.9.36
 {rp|n4}E, tomando uma criança, a pôs no meio deles e, tomando-a entre seus braços, disse-lhes:
@@ -1578,7 +1585,7 @@ servo de todos”.
 {rp|n4}“Quem receber uma destas crianças em meu nome, recebe a mim; e quem me receber, não é a mim que 
 {tr}“Quem receber uma destas crianças em Meu nome, recebe a Mim; e quem Me receber, não é a Mim que 
 {rp|n4}recebe, mas sim, aquele que me enviou”.
-{tr}recebe, mas sim, aquele que Me enviou”.
+{tr}recebe, mas sim, Aquele que Me enviou”.
 \v Mc.9.38
 {rp|n4}E João lhe respondeu, dizendo: “Mestre, vimos um que em teu nome expulsava demônios, e ele não nos segue. E nós o 
 {tr}E João Lhe respondeu, dizendo: “Mestre, vimos um que em Teu nome expulsava demônios, e ele não nos segue. E nós o 
@@ -1919,7 +1926,8 @@ E trouxeram o jumentinho a Jesus; e lançaram sobre ele suas capas, e
 \added
 Jesus
 \*added
- assentou-se sobre ele.
+{rp|n4} assentou-se sobre ele.
+{tr} assentou-Se sobre ele.
 \v Mc.11.8
 E Muitos estendiam suas capas pelo caminho, e outros 
 {tr|rp}cortavam ramos das árvores, e os espalhavam pelo caminho.
@@ -2262,7 +2270,7 @@ seu sustento”.
 E Jesus, respondendo, disse-lhe: “Vês estes grandes edifícios? Não ficará pedra sobre pedra que não seja derrubada”. 
 \v Mc.13.3
 {rp|n4}E ele, assentando-se no monte das Oliveiras, de frente ao Templo, Pedro, Tiago, João, e André lhe perguntaram 
-{tr}E Ele, assentando-se no monte das Oliveiras, de frente ao Templo, Pedro, Tiago, João, e André Lhe perguntaram 
+{tr}E Ele, assentando-Se no monte das Oliveiras, de frente ao Templo, Pedro, Tiago, João, e André Lhe perguntaram 
 em particular:
 \v Mc.13.4
 “Dize-nos, quando serão essas coisas? E que sinal haverá de quando todas essas coisas forem se cumprir?”
@@ -2560,7 +2568,7 @@ também da mesma maneira.
 E disse-lhes: “Minha alma está profundamente triste até a morte; ficai aqui, e vigiai”.
 \v Mc.14.35
 {rp|n4}E havendo ele ido um pouco mais adiante, prostrou-se em terra. E orou para que, se fosse possível, passasse dele 
-{tr}E havendo Ele ido um pouco mais adiante, prostrou-se em terra. E orou para que, se fosse possível, passasse dEle 
+{tr}E havendo Ele ido um pouco mais adiante, prostrou-Se em terra. E orou para que, se fosse possível, passasse dEle 
 aquela hora.
 \v Mc.14.36
 {rp|n4}E disse: “Aba, Pai, todas as coisas te são possíveis; passa de mim este cálice; porém não 

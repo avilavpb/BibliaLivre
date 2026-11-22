@@ -344,7 +344,8 @@ estas coisas
 \v Cl.3.9
 Não mintais uns aos outros, pois já vos despistes do velho ser humano com os seus costumes,
 \v Cl.3.10
-e vos revestistes do novo, que se renova em conhecimento, conforme a imagem daquele que o criou.
+{rp|n4}e vos revestistes do novo, que se renova em conhecimento, conforme a imagem daquele que o criou.
+{tr}e vos revestistes do novo, que se renova em conhecimento, conforme a imagem dAquele que o criou.
 \v Cl.3.11
 Nisso não há grego, nem judeu, nem circunciso, nem incircunciso, bárbaro, cita, escravo, 
 \added

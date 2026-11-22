@@ -73,7 +73,8 @@ estão
 \*added
  na terra.
 \v Ef.1.11
-Nele também fomos feitos herança, havendo sido predestinados conforme o propósito daquele que faz todas as coisas 
+{rp|n4}Nele também fomos feitos herança, havendo sido predestinados conforme o propósito daquele que faz todas as coisas 
+{tr}Nele também fomos feitos herança, havendo sido predestinados conforme o propósito dAquele que faz todas as coisas 
 {rp|n4}segundo o conselho da sua vontade,
 {tr}segundo o conselho da Sua vontade,
 \v Ef.1.12
@@ -149,7 +150,7 @@ acima de todo governo, autoridade, poder, domínio, e de todo nome que se nomeia
 para a Igreja,
 \v Ef.1.23
 {rp|n4}que é o seu corpo, a plenitude daquele que enche tudo em todas as coisas.
-{tr}que é o Seu corpo, a plenitude daquele que enche tudo em todas as coisas.
+{tr}que é o Seu corpo, a plenitude dAquele que enche tudo em todas as coisas.
 \v Ef.2.1
 E vós estáveis mortos em
 {n4} vossas
@@ -535,7 +536,8 @@ Ou: estatura completa de Cristo
 O fim disso é que não mais sejamos crianças inconstantes, levadas de um lado para outro por todo vento de doutrina, 
 pelo engano dos pessoas que, para enganar, usam de fraudes com astúcia.
 \v Ef.4.15
-Pelo contrário, sigamos a verdade em amor, e cresçamos em tudo naquele que é a cabeça: Cristo.
+{rp|n4}Pelo contrário, sigamos a verdade em amor, e cresçamos em tudo naquele que é a cabeça: Cristo.
+{tr}Pelo contrário, sigamos a verdade em amor, e cresçamos em tudo nAquele que é a cabeça: Cristo.
 \v Ef.4.16
 É dele que todo o corpo, bem ajustado e unido por todos os ligamentos, conforme a operação de cada parte na medida 
 devida, proporciona o crescimento do corpo, para a sua própria edificação em amor.
@@ -608,7 +610,8 @@ e andai em amor, como também Cristo
 {trnc}\fn
 {trnc}N4: vos
 {trnc}\*fn
- amou, e se entregou por nós como oferta e sacrifício de cheiro suave a Deus.
+{rp|n4} amou, e se entregou por nós como oferta e sacrifício de cheiro suave a Deus.
+{tr} amou, e Se entregou por nós como oferta e sacrifício de cheiro suave a Deus.
 \v Ef.5.3
 Mas o pecado sexual, e toda impureza ou cobiça, nem mesmo se nomeie entre vós, como convém a santos;
 \v Ef.5.4
@@ -696,7 +699,8 @@ estejam
 {tr|rp} seus próprios
  maridos.
 \v Ef.5.25
-Maridos, amai as vossas próprias esposas, assim como também Cristo amou a Igreja, e se entregou por ela;
+{rp|n4}Maridos, amai as vossas próprias esposas, assim como também Cristo amou a Igreja, e se entregou por ela;
+{tr}Maridos, amai as vossas próprias esposas, assim como também Cristo amou a Igreja, e Se entregou por ela;
 \v Ef.5.26
 a fim de a santificar, havendo 
 \added

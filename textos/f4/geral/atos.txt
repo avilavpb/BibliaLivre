@@ -18,7 +18,7 @@ Eu fiz o primeiro livro, ó Teófilo, acerca de todas as coisas que Jesus começ
 havia escolhido.
 \v At.1.3
 {rp|n4}Depois de ele ter sofrido, também apresentou-se vivo diante deles com muitas provas incontestáveis, sendo visto por 
-{tr}Depois de Ele ter sofrido, também apresentou-se vivo diante deles com muitas provas incontestáveis, sendo visto por 
+{tr}Depois de Ele ter sofrido, também apresentou-Se vivo diante deles com muitas provas incontestáveis, sendo visto por 
 eles durante quarenta dias, e falando das coisas relativas ao reino de Deus.
 \v At.1.4
 E, reunindo-os, mandou-lhes que não se afastassem de Jerusalém, mas que esperassem a promessa do Pai que 
@@ -394,7 +394,7 @@ Portanto, arrependei-vos e convertei-vos, para que vossos pecados sejam apagados
 pela presença do Senhor,
 \v At.3.20
 {rp|n4}e que ele envie aquele que já de antes vos foi 
-{tr}e que Ele envie aquele que já de antes vos foi 
+{tr}e que Ele envie Aquele que já de antes vos foi 
 {tr|rp}pregado
 {n4}designado
 {trnc}\fn
@@ -476,7 +476,8 @@ feita
 \*added
  a um enfermo, de como ele foi curado,
 \v At.4.10
-seja conhecido a todos vós, e a todo o povo de Israel, que em nome de Jesus Cristo, o nazareno, aquele que 
+{rp|n4}seja conhecido a todos vós, e a todo o povo de Israel, que em nome de Jesus Cristo, o nazareno, aquele que 
+{tr}seja conhecido a todos vós, e a todo o povo de Israel, que em nome de Jesus Cristo, o nazareno, Aquele que 
 vós crucificastes, a quem Deus ressuscitou dos mortos, neste 
 \added
 nome
@@ -1024,7 +1025,8 @@ próprias
 \*added
  mãos.
 \v At.7.42
-E Deus se afastou, e os entregou, para que servissem ao exército do céu, como está escrito no livro dos profetas: 
+{rp|n4}E Deus se afastou, e os entregou, para que servissem ao exército do céu, como está escrito no livro dos profetas: 
+{tr}E Deus Se afastou, e os entregou, para que servissem ao exército do céu, como está escrito no livro dos profetas: 
 {rp|n4}‘Acaso foi para mim que trouxestes sacrifícios e ofertas no deserto por quarenta anos, ó casa de Israel?
 {tr}‘Acaso foi para Mim que trouxestes sacrifícios e ofertas no deserto por quarenta anos, ó casa de Israel?
 \v At.7.43
@@ -1034,7 +1036,8 @@ adorar. Portanto, eu vos expulsarei para além da Babilônia’.
 Amós 5:25-27
 \*ref
 \v At.7.44
-Estava entre os nossos pais no deserto o tabernáculo do testemunho, como havia ordenado aquele que disse a Moisés que 
+{rp|n4}Estava entre os nossos pais no deserto o tabernáculo do testemunho, como havia ordenado aquele que disse a Moisés que 
+{tr}Estava entre os nossos pais no deserto o tabernáculo do testemunho, como havia ordenado Aquele que disse a Moisés que 
 o fizesse segundo o modelo que tinha visto.
 \v At.7.45
 Nossos pais, também recebendo o tabernáculo,
@@ -1914,7 +1917,8 @@ sua
 \added
 Cristo
 \*added
-, mas eis que após mim vem aquele, cujas sandálias dos pés eu não sou digno de desatar.
+{rp|n4}, mas eis que após mim vem aquele, cujas sandálias dos pés eu não sou digno de desatar.
+{tr}, mas eis que após mim vem Aquele, cujas sandálias dos pés eu não sou digno de desatar.
 \v At.13.26
 Homens irmãos, filhos da descendência de Abraão, e os que dentre vós temem a Deus, a vós é enviada a palavra desta salvação.
 \v At.13.27
@@ -1981,7 +1985,8 @@ morreu = lit. adormeceu
 \*fn
 foi posto junto a seus pais, e viu degradação.
 \v At.13.37
-Mas aquele a quem Deus ressuscitou nenhuma degradação viu.
+{rp|n4}Mas aquele a quem Deus ressuscitou nenhuma degradação viu.
+{tr}Mas Aquele a quem Deus ressuscitou nenhuma degradação viu.
 \v At.13.38
 Seja-vos pois conhecido, homens irmãos, que por este vos é anunciado o perdão dos pecados.
 \v At.13.39
@@ -2857,7 +2862,8 @@ Então Paulo disse: João verdadeiramente batizou
 \added
 com
 \*added
- o batismo do arrependimento, dizendo ao povo que cressem naquele que viria após ele, isto é, em Jesus Cristo.
+{rp|n4} o batismo do arrependimento, dizendo ao povo que cressem naquele que viria após ele, isto é, em Jesus Cristo.
+{tr} o batismo do arrependimento, dizendo ao povo que cressem nAquele que viria após ele, isto é, em Jesus Cristo.
 \v At.19.5
 Ao ouvirem 
 \added
@@ -3440,7 +3446,8 @@ Mas aconteceu que, estando eu no caminho, e chegando perto de Damasco, quase ao 
 {rp|n4}E eu respondi: Quem és, Senhor? E ele me disse: Eu sou Jesus, o nazareno, a quem tu persegues.
 {tr}E eu respondi: Quem és, Senhor? E Ele me disse: Eu sou Jesus, o nazareno, a quem tu persegues.
 \v At.22.9
-E os que estavam comigo verdadeiramente viram a luz, e ficaram muito atemorizados; mas eles não ouviram a voz daquele que falava comigo.
+{rp|n4}E os que estavam comigo verdadeiramente viram a luz, e ficaram muito atemorizados; mas eles não ouviram a voz daquele que falava comigo.
+{tr}E os que estavam comigo verdadeiramente viram a luz, e ficaram muito atemorizados; mas eles não ouviram a voz dAquele que falava comigo.
 \v At.22.10
 E eu disse: Que farei, Senhor? E o Senhor me disse: Levanta-te, e vai a Damasco, e ali te será dito tudo o que te é ordenado fazer.
 \v At.22.11
@@ -3485,7 +3492,7 @@ E agora, por que estás parado? Levanta-te, e sê batizado, e lava teus pecados,
 E aconteceu a mim, tendo eu voltado a Jerusalém, e estando orando no Templo, veio-me um êxtase;
 \v At.22.18
 {rp|n4}E eu vi aquele que me dizia: Apressa-te, e sai logo de Jerusalém, porque não aceitarão teu testemunho sobre mim.
-{tr}E eu vi aquele que me dizia: Apressa-te, e sai logo de Jerusalém, porque não aceitarão teu testemunho sobre Mim.
+{tr}E eu vi Aquele que me dizia: Apressa-te, e sai logo de Jerusalém, porque não aceitarão teu testemunho sobre Mim.
 \v At.22.19
 {rp|n4}E eu disse: Senhor, eles sabem que eu prendia e açoitava nas sinagogas aqueles que criam em ti.
 {tr}E eu disse: Senhor, eles sabem que eu prendia e açoitava nas sinagogas aqueles que criam em Ti.

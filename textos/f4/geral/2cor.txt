@@ -326,7 +326,8 @@ Salmos 116:110
 \*ref
  nós também cremos, e, por isso, também falamos,
 \v 2Co.4.14
-pois sabemos que aquele que ressuscitou o Senhor Jesus também nos ressuscitará 
+{rp|n4}pois sabemos que aquele que ressuscitou o Senhor Jesus também nos ressuscitará 
+{tr}pois sabemos que Aquele que ressuscitou o Senhor Jesus também nos ressuscitará 
 {tr|rp}por meio de
 {n4}com
  Jesus, e 
@@ -396,7 +397,7 @@ Pois se nós enlouquecemos, é para Deus; se estamos sensatos, é para vós.
 Porque o amor de Cristo nos compele; pois concluímos que, se um morreu por todos, logo, todos morreram.
 \v 2Co.5.15
 {rp|n4}E ele morreu por todos, para que os que vivem não vivam mais para si, mas sim, para aquele que por eles morreu e 
-{tr}E Ele morreu por todos, para que os que vivem não vivam mais para si, mas sim, para aquele que por eles morreu e 
+{tr}E Ele morreu por todos, para que os que vivem não vivam mais para si, mas sim, para Aquele que por eles morreu e 
 ressuscitou.
 \v 2Co.5.16
 Portanto, daqui em diante a ninguém conhecemos segundo a carne, e ainda que também tenhamos conhecido a Cristo 
@@ -431,9 +432,10 @@ por isso
 , rogamos em Cristo: Reconciliai-vos com Deus.
 \v 2Co.5.21
 {rp|n4}Pois ele fez com que aquele que não conheceu pecado 
-{tr}Pois Ele fez com que aquele que não conheceu pecado 
+{tr}Pois Ele fez com que Aquele que não conheceu pecado 
 \added
-se tornasse
+{rp|n4}se tornasse
+{tr}Se tornasse
 \*added
 {rp|n4} pecado por nós; para que nós nele fôssemos feitos justiça de Deus.
 {tr} pecado por nós; para que nós nEle fôssemos feitos justiça de Deus.
@@ -736,7 +738,8 @@ e
 \*added
  deu aos pobres; sua justiça permanece para sempre.
 \v 2Co.9.10
-Ora, aquele que dá semente ao que semeia, e pão para comer, dê e multiplique a vossa sementeira, e aumente os 
+{rp|n4}Ora, aquele que dá semente ao que semeia, e pão para comer, dê e multiplique a vossa sementeira, e aumente os 
+{tr}Ora, Aquele que dá semente ao que semeia, e pão para comer, dê e multiplique a vossa sementeira, e aumente os 
 frutos da vossa justiça.
 \v 2Co.9.11
 Para que em tudo enriqueçais para toda generosidade, a qual, por meio de nós, opera gratidão a Deus.

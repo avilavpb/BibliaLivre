@@ -163,7 +163,8 @@ item
 \*added
 , tornou-se culpado de todos.
 \v Tg.2.11
-Porque aquele que disse: “Não cometerás adultério”,
+{rp|n4}Porque aquele que disse: “Não cometerás adultério”,
+{tr}Porque Aquele que disse: “Não cometerás adultério”,
 \ref
 Êxodo 20:14; Deuteronômio 5:18
 \*ref
@@ -377,7 +378,7 @@ Provérbios 3:34
 Sujeitai-vos, pois, a Deus; resisti ao diabo, e ele fugirá de vós.
 \v Tg.4.8
 {rp|n4}Aproximai-vos de Deus, e ele se aproximará de vós. Limpai as 
-{tr}Aproximai-vos de Deus, e Ele se aproximará de vós. Limpai as 
+{tr}Aproximai-vos de Deus, e Ele Se aproximará de vós. Limpai as 
 \added
 vossas
 \*added

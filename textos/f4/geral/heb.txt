@@ -67,9 +67,11 @@ O Filho
 {n4}\fn
 {n4}TR, RP: nossos pecados
 {n4}\*fn
- assentou-se à direita da Majestade nas alturas;
+{rp|n4} assentou-se à direita da Majestade nas alturas;
+{tr} assentou-Se à direita da Majestade nas alturas;
 \v Hb.1.4
-e se tornou muito superior aos anjos, assim como herdou um nome mais excelente que eles.
+{rp|n4}e se tornou muito superior aos anjos, assim como herdou um nome mais excelente que eles.
+{tr}e Se tornou muito superior aos anjos, assim como herdou um nome mais excelente que eles.
 \v Hb.1.5
 Pois a qual dos anjos 
 \added
@@ -179,7 +181,8 @@ ou: por um pouco [de tempo]
 \*fn
  menor que os anjos, a fim de que, pela graça de Deus, experimentasse a morte por todos.
 \v Hb.2.10
-Pois convinha a aquele, para quem e por quem são todas as coisas, que, quando trouxesse muitos filhos à glória, aperfeiçoasse por meio de aflições o Autor
+{rp|n4}Pois convinha a aquele, para quem e por quem são todas as coisas, que, quando trouxesse muitos filhos à glória, aperfeiçoasse por meio de aflições o Autor
+{tr}Pois convinha a Aquele, para quem e por quem são todas as coisas, que, quando trouxesse muitos filhos à glória, aperfeiçoasse por meio de aflições o Autor
 \fn
 \key
 Autor
@@ -189,7 +192,7 @@ ou: Príncipe, Primeiro
  da salvação deles.
 \v Hb.2.11
 {rp|n4}Porque tanto o que santifica como os que são santificados, todos são provenientes de um; por isso ele não se envergonha de lhes chamar de irmãos,
-{tr}Porque tanto o que santifica como os que são santificados, todos são provenientes de um; por isso Ele não se envergonha de lhes chamar de irmãos,
+{tr}Porque tanto o que santifica como os que são santificados, todos são provenientes de um; por isso Ele não Se envergonha de lhes chamar de irmãos,
 \v Hb.2.12
 {rp|n4}dizendo: Anunciarei o teu nome aos meus irmãos, cantarei louvores a ti no meio da congregação. 
 {tr}dizendo: Anunciarei o Teu nome aos Meus irmãos, cantarei louvores a Ti no meio da congregação. 
@@ -230,7 +233,7 @@ lit. semente
  de Abraão.
 \v Hb.2.17
 {rp|n4}Por isso era necessário que em tudo ele se tornasse semelhante aos irmãos, para ser misericordioso e fiel Sumo Sacerdote nas coisas 
-{tr}Por isso era necessário que em tudo Ele se tornasse semelhante aos irmãos, para ser misericordioso e fiel Sumo Sacerdote nas coisas 
+{tr}Por isso era necessário que em tudo Ele Se tornasse semelhante aos irmãos, para ser misericordioso e fiel Sumo Sacerdote nas coisas 
 \added
 relativas
 \*added
@@ -267,7 +270,8 @@ Portanto, santos irmãos, participantes do chamado celestial, considerai o Após
 {rp|n4}Pois ele é estimado como digno de maior glória do que Moisés, assim como mais honra do que a casa tem quem a construiu.
 {tr}Pois Ele é estimado como digno de maior glória do que Moisés, assim como mais honra do que a casa tem quem a construiu.
 \v Hb.3.4
-Porque toda casa é construída por alguém; mas aquele que construiu todas as coisas é Deus.
+{rp|n4}Porque toda casa é construída por alguém; mas aquele que construiu todas as coisas é Deus.
+{tr}Porque toda casa é construída por alguém; mas Aquele que construiu todas as coisas é Deus.
 \v Hb.3.5
 {rp|n4}De fato, Moisés foi fiel como servo em toda a casa de Deus, para testemunho das coisas que haviam de ser ditas;
 {tr}De fato, Moisés foi fiel como servo em toda a Sua casa, para testemunho das coisas que haviam de ser ditas;
@@ -385,7 +389,7 @@ ou: rebelaram-se
 {tr}\*fn
 \v Hb.3.17
 {rp|n4}E contra quais ele se indignou por quarenta anos? Não foi contra os que pecaram, cujos corpos caíram no deserto?
-{tr}E contra quais Ele se indignou por quarenta anos? Não foi contra os que pecaram, cujos corpos caíram no deserto?
+{tr}E contra quais Ele Se indignou por quarenta anos? Não foi contra os que pecaram, cujos corpos caíram no deserto?
 \v Hb.3.18
 {rp|n4}E a quem ele jurou que não entrariam no seu repouso, senão aos que foram desobedientes?
 {tr}E a quem Ele jurou que não entrariam no Seu repouso, senão aos que foram desobedientes?
@@ -460,7 +464,8 @@ julgar os pensamentos e intenções do coração.
 \v Hb.4.13
 {rp|n4}E não há criatura alguma encoberta diante dele; pelo contrário, todas as coisas estão nuas e expostas aos olhos 
 {tr}E não há criatura alguma encoberta diante dEle; pelo contrário, todas as coisas estão nuas e expostas aos olhos 
-daquele a quem temos de prestar contas.
+{rp|n4}daquele a quem temos de prestar contas.
+{tr}dAquele a quem temos de prestar contas.
 \v Hb.4.14
 Visto que temos um grande Sumo Sacerdote, Jesus, o Filho de Deus, que penetrou nos céus, mantenhamos firme a 
 \added
@@ -504,7 +509,7 @@ fraqueza
 E ninguém toma para si esta honra, a não ser aquele que é chamado por Deus, como Arão.
 \v Hb.5.5
 {rp|n4}Assim também Cristo não glorificou a si mesmo para se fazer Sumo Sacerdote; mas sim, àquele que lhe disse: Tu és 
-{tr}Assim também Cristo não glorificou a Si mesmo para se fazer Sumo Sacerdote; mas sim, àquele que Lhe disse: Tu és 
+{tr}Assim também Cristo não glorificou a Si mesmo para Se fazer Sumo Sacerdote; mas sim, àquele que Lhe disse: Tu és 
 {rp|n4}meu Filho, eu hoje te gerei.
 {tr}Meu Filho, eu hoje Te gerei.
 \v Hb.5.6
@@ -520,7 +525,7 @@ Salmos 110:4
 {rp|n4}Ele, nos dias de seu corpo carnal, ofereceu com grande clamor e lágrimas, tanto orações como súplicas para 
 {tr}Ele, nos dias de Seu corpo carnal, ofereceu com grande clamor e lágrimas, tanto orações como súplicas para 
 {rp|n4}aquele que podia o livrar da morte, e foi ouvido por causa da devoção.
-{tr}aquele que podia O livrar da morte, e foi ouvido por causa da devoção.
+{tr}Aquele que podia O livrar da morte, e foi ouvido por causa da devoção.
 \fn
 \key
 devoção
@@ -589,7 +594,8 @@ Contudo, se ela produz espinhos e cardos, é reprovada, e perto está da maldiç
 \v Hb.6.9
 Mas, ainda que estejamos falando assim, quanto a vós mesmos, amados, confiamos melhores coisas, relacionadas à salvação.
 \v Hb.6.10
-Pois Deus não é injusto para se esquecer da vossa obra, e do 
+{rp|n4}Pois Deus não é injusto para se esquecer da vossa obra, e do 
+{tr}Pois Deus não é injusto para Se esquecer da vossa obra, e do 
 {tr|rp} trabalho do
  amor
 {trnc}\fn
@@ -722,7 +728,8 @@ Portanto, se a perfeição tivesse sido de fato pelo sacerdócio Levítico (pois
 \v Hb.7.12
 Pois, ao se mudar o sacerdócio, necessariamente também se faz mudança de Lei.
 \v Hb.7.13
-Porque aquele de quem estas coisas são ditas pertence a outra tribo, da qual ninguém serviu ao altar;
+{rp|n4}Porque aquele de quem estas coisas são ditas pertence a outra tribo, da qual ninguém serviu ao altar;
+{tr}Porque Aquele de quem estas coisas são ditas pertence a outra tribo, da qual ninguém serviu ao altar;
 \v Hb.7.14
 visto ser evidente que o nosso Senhor é procedente de Judá, tribo da qual Moisés nada falou a respeito de 
 {tr|rp}sacerdócio
@@ -768,7 +775,7 @@ feito
 foi estabelecido
 \*added
 {rp|n4} com um juramento daquele que lhe disse: O Senhor jurou, e não se arrependerá: Tu és Sacerdote para sempre
-{tr} com um juramento daquele que Lhe disse: O Senhor jurou, e não se arrependerá: Tu és Sacerdote para sempre
+{tr} com um juramento dAquele que Lhe disse: O Senhor jurou, e não Se arrependerá: Tu és Sacerdote para sempre
 {tr|rp},
 {n4}\fn
 {n4}TR, RP contêm adicionalmente: “segundo a ordem de Melquisedeque”
@@ -1103,7 +1110,7 @@ entrou
 {tr} para oferecer a Si mesmo muitas vezes, como o sumo sacerdote entra a cada ano no santuário com sangue alheio;
 \v Hb.9.26
 {rp|n4}(de outra maneira lhe seria necessário padecer muitas vezes desde a fundação do mundo), mas agora, no fim dos tempos, ele se manifestou de uma vez por todas para aniquilar o pecado pelo sacrifício de si mesmo.
-{tr}(de outra maneira Lhe seria necessário padecer muitas vezes desde a fundação do mundo), mas agora, no fim dos tempos, Ele se manifestou de uma vez por todas para aniquilar o pecado pelo sacrifício de Si mesmo.
+{tr}(de outra maneira Lhe seria necessário padecer muitas vezes desde a fundação do mundo), mas agora, no fim dos tempos, Ele Se manifestou de uma vez por todas para aniquilar o pecado pelo sacrifício de Si mesmo.
 \v Hb.9.27
 E, como está ordenado aos seres humanos morrerem uma vez, e depois disso, o juízo,
 \v Hb.9.28
@@ -1192,7 +1199,8 @@ Mas
 \added
 Jesus
 \*added
-, depois que ofereceu um sacrifício pelos pecados, assentou-se para sempre à direita de Deus;
+{rp|n4}, depois que ofereceu um sacrifício pelos pecados, assentou-se para sempre à direita de Deus;
+{tr}, depois que ofereceu um sacrifício pelos pecados, assentou-Se para sempre à direita de Deus;
 \v Hb.10.13
 {rp|n4}e espera desde então, até que os seus inimigos sejam postos por escabelo dos seus pés.
 {tr}e espera desde então, até que os Seus inimigos sejam postos por escabelo dos Seus pés.
@@ -1253,7 +1261,8 @@ e já que temos um grande Sacerdote sobre a casa de Deus,
 \v Hb.10.22
 aproximemo-nos com um coração sincero em plena certeza de fé, tendo os corações aspergidos e purificados da má consciência, e o corpo lavado com água pura;
 \v Hb.10.23
-mantenhamos firme a esperança que declararmos ter, sem abalo algum, pois aquele que prometeu é fiel;
+{rp|n4}mantenhamos firme a esperança que declararmos ter, sem abalo algum, pois aquele que prometeu é fiel;
+{tr}mantenhamos firme a esperança que declararmos ter, sem abalo algum, pois Aquele que prometeu é fiel;
 \fn
 \key
 a esperança que declaramos ter
@@ -1309,7 +1318,7 @@ lit. considerou profano (ou banal)
  o sangue do Testamento no qual ele foi santificado, e insultou o Espírito da graça?
 \v Hb.10.30
 {rp|n4}Pois nós conhecemos aquele que disse: A vingança é minha; eu retribuirei
-{tr}Pois nós conhecemos aquele que disse: A vingança é Minha; eu retribuirei
+{tr}Pois nós conhecemos Aquele que disse: A vingança é Minha; eu retribuirei
 {tr|rp}, diz o Senhor
 .
 {trnc}\fn
@@ -1350,7 +1359,8 @@ o que foi prometido
 lit. a promessa
 \*fn
 \v Hb.10.37
-Pois ainda um pouco de tempo, e aquele que vem virá, e não tardará. 
+{rp|n4}Pois ainda um pouco de tempo, e aquele que vem virá, e não tardará. 
+{tr}Pois ainda um pouco de tempo, e Aquele que vem virá, e não tardará. 
 \ref
 Isaías 26:20, Habacuque 2:3 
 \*ref
@@ -1437,7 +1447,8 @@ Pela fé, também, a própria Sara recebeu a capacidade de conceber descendênci
 {trnc}\fn
 {trnc}N4 não contém “ela deu à luz
 {trnc}\*fn
- pois considerou fiel aquele que havia prometido.
+{rp|n4} pois considerou fiel aquele que havia prometido.
+{tr} pois considerou fiel Aquele que havia prometido.
 \fn
 O versículo também pode traduzido se referindo a Abraão: “Pela fé, com Sara, ele recebeu a capacidade de produzir descendência, e já 
 na idade avançada
@@ -1469,7 +1480,8 @@ sua
 \v Hb.11.15
 Ora, se estivessem pensando naquela de onde saíram, eles tinham oportunidade de voltar.
 \v Hb.11.16
-Mas agora desejam uma melhor, isto é, a celestial. Por isso Deus não se envergonha deles, de ser chamado o Deus deles, porque já lhes preparou uma cidade.
+{rp|n4}Mas agora desejam uma melhor, isto é, a celestial. Por isso Deus não se envergonha deles, de ser chamado o Deus deles, porque já lhes preparou uma cidade.
+{tr}Mas agora desejam uma melhor, isto é, a celestial. Por isso Deus não Se envergonha deles, de ser chamado o Deus deles, porque já lhes preparou uma cidade.
 \v Hb.11.17
 Pela fé, Abraão, quando foi provado, ofereceu Isaque; aquele que havia recebido as promessas ofereceu o 
 \added
@@ -1525,7 +1537,8 @@ Ele considerou que as humilhações por causa de Cristo eram riquezas maiores qu
 {trnc}\*fn
  Egito; pois sua atenção estava fixada na recompensa.
 \v Hb.11.27
-Pela fé, ele deixou o Egito sem temer a ira do rei, pois perseverou como que vendo aquele que é invisível.
+{rp|n4}Pela fé, ele deixou o Egito sem temer a ira do rei, pois perseverou como que vendo aquele que é invisível.
+{tr}Pela fé, ele deixou o Egito sem temer a ira do rei, pois perseverou como que vendo Aquele que é invisível.
 \v Hb.11.28
 Pela fé, ele celebrou a Páscoa e o derramamento do sangue, para que o destruidor dos primogênitos não os tocasse.
 \v Hb.11.29
@@ -1597,10 +1610,11 @@ e o pecado que facilmente nos envolve, e corramos com perseverança a corrida qu
 \v Hb.12.2
 {rp|n4}olhando para Jesus, Autor e aperfeiçoador da fé. Ele, pela alegria que lhe estava proposta, suportou a cruz, 
 {tr}olhando para Jesus, Autor e aperfeiçoador da fé. Ele, pela alegria que Lhe estava proposta, suportou a cruz, 
-desprezando a humilhação, e assentou-se à direita do trono de Deus.
+{rp|n4}desprezando a humilhação, e assentou-se à direita do trono de Deus.
+{tr}desprezando a humilhação, e assentou-Se à direita do trono de Deus.
 \v Hb.12.3
 {rp|n4}Considerai, pois, aquele que suportou tal hostilidade dos pecadores contra si mesmo, para que não fiqueis exaustos, 
-{tr}Considerai, pois, aquele que suportou tal hostilidade dos pecadores contra Si mesmo, para que não fiqueis exaustos, 
+{tr}Considerai, pois, Aquele que suportou tal hostilidade dos pecadores contra Si mesmo, para que não fiqueis exaustos, 
 nem vossas almas se debilitem.
 \v Hb.12.4
 Enquanto lutais contra o pecado, ainda não resististes ao ponto de ter o próprio sangue derramado,
@@ -1717,7 +1731,8 @@ Tende o cuidado de não rejeitardes ao que fala. Pois, se não escaparam aqueles
 \added
 os
 \*added
- advertia divinamente na terra, muito menos nós, se nos desviarmos daquele que 
+{rp|n4} advertia divinamente na terra, muito menos nós, se nos desviarmos daquele que 
+{tr} advertia divinamente na terra, muito menos nós, se nos desviarmos dAquele que 
 \added
 nos adverte
 \*added

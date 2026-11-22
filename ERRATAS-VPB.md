@@ -545,13 +545,13 @@ Pedido de Marcelo: revisão versículo a versículo, com julgamento. Para cada p
 Marcelo decidiu um a um os 34 versículos de `revertidos34.md`. Tudo foi aplicado só no TR; n4 ficou intocado e as versões rp/n4 não mudaram.
 
 **Novas convenções:**
-- O pronome reflexivo "se" referido a Deus vai com maiúscula: "transfigurou-Se", "indignou-Se", "entregava-Se", "Se fez pobre". Por enquanto só foi aplicado nestes versículos. Um levantamento automático no NT encontrou cerca de 29 versículos com candidatos fortes e mais 144 prováveis, que ainda precisam de revisão (lista em `pronomes-divinos/convencoes-se-aquele-candidatos.md`).
-- "Aquele"/"dAquele", quando o referente é divino, vai com maiúscula (2Pd 1.3, Ap 7.15). Também só foi aplicado aqui. O levantamento encontrou cerca de 104 versículos candidatos.
+- O pronome reflexivo "se" referido a Deus vai com maiúscula: "transfigurou-Se", "indignou-Se", "entregava-Se", "Se fez pobre". Depois aplicado ao NT inteiro (ver a seção "'Se' reflexivo e 'Aquele' divinos aplicados no NT inteiro", abaixo).
+- "Aquele"/"dAquele", quando o referente é divino, vai com maiúscula (2Pd 1.3, Ap 7.15). Depois aplicado ao NT inteiro, com "nAquele" (mesma seção abaixo).
 - Fala de adversários: quando quem fala trata Jesus como simples homem, o pronome fica em minúscula (Jo 7.11 "Onde ele está?"; Jo 7.35; Lc 23.2 "dizendo ser ele mesmo o Cristo"). Quando é o narrador que fala, vai maiúscula (Jo 7.11 "O buscavam"; Lc 23.2 "acusá-Lo").
 
 **Correções de texto decididas por Marcelo:**
 - Mc 10.14: "disse-lhe" passa a "disse-lhes". O grego TR tem εἶπεν αὐτοῖς, e Jesus fala aos discípulos.
-- Mt 6.4: tirado o "ele" de "ele te recompensará". Observação: o grego TR (Scrivener) tem αὐτὸς ἀποδώσει σοι ("Ele mesmo te recompensará"). A retirada é decisão de estilo de Marcelo, e o TR não a pede.
+- Mt 6.4: tirado o "ele" de "ele te recompensará". Observação: o grego TR (Scrivener) tem αὐτὸς ἀποδώσει σοι ("Ele mesmo te recompensará"). A retirada é decisão de Marcelo e fica assim, sem "Ele". Motivo dado por ele: com o "Ele" anterior, a frase ficaria "ele… Ele mesmo", o que é incorreto em português.
 - 1Jo 5.6: tirado o "lhe" ("o Espírito é o que dá testemunho"). O grego TR (τὸ πνεῦμά ἐστιν τὸ μαρτυροῦν) não tem esse pronome.
 - Tg 1.13: "e ele mesmo tenta ninguém" passa a "e Ele mesmo a ninguém tenta". Além do pronome, isso restaura a negação do grego TR (πειράζει δὲ αὐτὸς οὐδένα, "e Ele mesmo não tenta ninguém"). Sem "não" antes do verbo, "tenta ninguém" fica gramaticalmente errado em português.
 
@@ -572,7 +572,7 @@ Marcelo decidiu um a um os 34 versículos de `revertidos34.md`. Tudo foi aplicad
 13. **Mc.5.40** — E riram dEle. Mas Jesus, havendo-os posto todos fora, tomou Consigo o pai e a mãe da menina, e os que estavam com Ele; e entrou onde a menina estava deitada.
 14. **Mc.6.7** — E chamou a Si os doze, e começou a enviá-los de dois em dois; e deu-lhes poder sobre os espíritos imundos.
 15. **Mc.6.51** — E subiu no barco para estar com eles, e o vento se aquietou; e entre si ficaram muito espantados e maravilhados,
-16. **Mc.9.2** — E seis dias depois, Jesus tomou consigo Pedro, Tiago, e João, e os levou à parte, em particular, para um alto monte; e transfigurou-Se diante deles.
+16. **Mc.9.2** — E seis dias depois, Jesus tomou Consigo Pedro, Tiago, e João, e os levou à parte, em particular, para um alto monte; e transfigurou-Se diante deles.
 17. **Mc.10.14** — Porém Jesus, vendo, indignou-Se, e disse-lhes: “Deixai vir as crianças a Mim, e não as impeçais; porque delas é o Reino de Deus.
 18. **Mc.12.32** — E o escriba Lhe disse: “Muito bem, Mestre, com verdade disseste que há um só Deus, e não há outro além dEle.
 19. **Mt.6.4** — para que tua esmola seja em segredo, e teu Pai, que vê em segredo, te recompensará em público.
@@ -592,7 +592,7 @@ Marcelo decidiu um a um os 34 versículos de `revertidos34.md`. Tudo foi aplicad
 33. **Ap.7.15** — Por isso eles estão diante do trono de Deus, e servem a Ele dia e noite no Seu templo; e Aquele que está sentado sobre o trono armará Sua tenda e habitará com eles.
 34. **Tg.1.13** — Ninguém, quando for tentado, diga: “Sou tentado por Deus”; porque Deus não é tentado pelo mal, e Ele mesmo a ninguém tenta;
 
-Sem mudança, por decisão dele: 4 (Jo 7.35), 8 (Lc 18.9), 15 (Mc 6.51). No item 16 (Mc 9.2), Marcelo indicou só "-Se". O "consigo" de "tomou consigo" (antes proposto como "Consigo") ficou como estava, à espera de confirmação.
+Sem mudança, por decisão dele: 4 (Jo 7.35), 8 (Lc 18.9), 15 (Mc 6.51). No item 16 (Mc 9.2), Marcelo indicou primeiro só "-Se". Depois confirmou "tomou Consigo", que já está aplicado.
 
 ### Correções de texto decididas por Marcelo (22/11/2026)
 
@@ -605,3 +605,33 @@ Aplicadas só no TR (n4 intocado; as versões rp/n4 não mudaram).
 - **Hb 12.5:** "do encorajamento que ele fala convosco" passa a "do encorajamento de que Ele fala convosco".
 - **At 13.27:** "ao condenarem -No" passa a "ao condenarem-No".
 - **At 13.29:** "tirando -O… puseram -No" passa a "tirando-O… puseram-No". Nos dois versículos, o hífen saiu do itálico, sem espaço antes. O pronome continua em itálico (\added), por ser complemento sem palavra correspondente no grego.
+
+## "Se" reflexivo e "Aquele" divinos aplicados no NT inteiro
+
+Decisão de Marcelo: o "se" reflexivo referido a Deus (Pai, Filho, Espírito) vai com maiúscula ("Se", "-Se"), e "aquele"/"daquele"/"naquele" também, quando o referente é divino ("Aquele", "dAquele", "nAquele"). Só o TR foi alterado. RP e N4 ficaram iguais.
+
+Como foi feito:
+- Levantamento automático no NT de todo "-se", "se" proclítico e "[d|n]aquele" em versículos onde a LSV tem pronome divino com maiúscula: 711 versículos, 813 ocorrências.
+- Exclusão automática do "se" conjunção (análise sintática).
+- Revisão versículo a versículo dos restantes, usando a LSV só para decidir o referente.
+- Duas buscas extras: "aquele" não marcado, e "se" logo depois de nome divino.
+- Mantidos em minúscula: o "se" passivo/impessoal ("para que se cumprisse", "faça-se Tua vontade"), os reflexivos e "aquele" humanos, "aquele" como adjetivo ("aquele dia", "aquele Jesus"), e a fala de adversários que tratam Jesus como homem (Pilatos em Mc 15.12; os judeus em Jo 19.7; os murmuradores em Lc 19.7).
+
+Resultado: 227 versículos, 242 mudanças.
+
+| Forma | Mudanças |
+|---|---|
+| Se | 125 |
+| Aquele | 83 |
+| dAquele | 25 |
+| nAquele | 9 |
+
+Somam-se as 6 já feitas antes: Mc 9.2, Mc 10.14, 2Co 8.9 e 1Pd 2.23 ("Se"); 2Pd 1.3 ("dAquele"); Ap 7.15 ("Aquele").
+
+- Lista completa, com o texto TR depois da mudança: `pronomes-divinos/se-aquele-aplicados.tsv`.
+- Casos deixados em minúscula para decisão: `pronomes-divinos/se-aquele-duvidosos.md` (13). Substitui a antiga lista automática `convencoes-se-aquele-candidatos.md`, que foi removida.
+
+Também neste lote:
+- Mc 9.2: "tomou consigo" → "tomou Consigo", confirmado por Marcelo.
+- Rm 16.25: a linha estava marcada {tr|n4}. Foi dividida em {n4} (sem mudança) + {tr} (com "Aquele"), para não mexer no N4.
+

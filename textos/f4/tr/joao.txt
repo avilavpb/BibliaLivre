@@ -61,10 +61,10 @@ Mas a todos quantos O receberam, deu-lhes poder de serem feitos filhos de Deus: 
 \v Joao.1.13
 os quais não foram gerados do sangue, nem da vontade da carne, nem da vontade de homem, mas sim, de Deus.
 \v Joao.1.14
-E aquele que é a Palavra se fez carne, e habitou entre nós (e vimos Sua glória, como glória do unigênito do Pai), 
+E Aquele que é a Palavra se fez carne, e habitou entre nós (e vimos Sua glória, como glória do unigênito do Pai), 
 cheio de graça e de verdade.
 \v Joao.1.15
-E João dEle testemunhou, e clamou, dizendo: “Este é aquele de quem eu dizia: ‘O que vem após mim é antes de mim, 
+E João dEle testemunhou, e clamou, dizendo: “Este é Aquele de quem eu dizia: ‘O que vem após mim é antes de mim, 
 porque era primeiro do que eu’”.
 \v Joao.1.16
 E todos nós recebemos também de Sua plenitude, e graça sobre graça.
@@ -114,7 +114,7 @@ Lit. perguntaram-lhe e disseram-lhe
 \v Joao.1.26
 João respondeu-lhes, dizendo: “Eu batizo com água; mas no meio de vós está alguém que vós não conheceis;
 \v Joao.1.27
-este é aquele que vem após mim,
+este é Aquele que vem após mim,
  que já foi antes de mim,
 \fn
 N4 não contém “que já foi antes de mim”
@@ -131,13 +131,13 @@ RP, N4: Betânia
 \v Joao.1.29
 No dia seguinte, João viu Jesus vir a ele, e disse: “Eis o Cordeiro de Deus, que tira o pecado do mundo.
 \v Joao.1.30
-este é aquele de quem eu disse: Após mim vem um homem que já foi antes de mim; porque já era primeiro que eu.
+este é Aquele de quem eu disse: Após mim vem um homem que já foi antes de mim; porque já era primeiro que eu.
 \v Joao.1.31
 E eu não O conhecia; mas por isso eu vim batizando com água, para que Ele fosse revelado a Israel”.
 \v Joao.1.32
 E João testemunhou, dizendo: “Eu vi o Espírito descer do céu como pomba, e repousou sobre Ele.
 \v Joao.1.33
-E eu não O conhecia, mas aquele que me mandou a batizar com água, esse me disse: ‘Sobre aquele que tu vires o Espírito 
+E eu não O conhecia, mas Aquele que me mandou a batizar com água, esse me disse: ‘Sobre Aquele que tu vires o Espírito 
 descer e repousar sobre Ele, esse é o que batiza com Espírito Santo’.
 \v Joao.1.34
 E eu vi, e tenho testemunhado que este é o Filho de Deus.
@@ -160,7 +160,7 @@ aquilo
 \*added
 , e seguiram Jesus.
 \v Joao.1.38
-E Jesus, virando-se, e vendo que eles O seguiam, disse-lhes: “Que vós buscais?” E eles Lhe disseram: “Rabi, (que 
+E Jesus, virando-Se, e vendo que eles O seguiam, disse-lhes: “Que vós buscais?” E eles Lhe disseram: “Rabi, (que 
 traduzido, quer dizer, Mestre) onde moras?”
 \v Joao.1.39
 Ele lhes disse: “Vinde, e vede”. Eles foram, e viram onde Ele morava, e permaneceram com Ele naquele dia; e já era 
@@ -185,7 +185,7 @@ E Filipe era de Betsaida, a cidade de André e de Pedro.
 \v Joao.1.45
 Filipe achou Natanael, e disse-lhe: “Achamos 
 \added
-aquele
+Aquele
 \*added
  de quem Moisés escreveu na Lei, e os profetas: Jesus, filho de José, de Nazaré”.
 \v Joao.1.46
@@ -387,7 +387,7 @@ Lit. selou
 \*fn
  que Deus é verdadeiro.
 \v Joao.3.34
-Pois aquele que Deus enviou fala as palavras de Deus; porque Deus dá o Espírito sem medida.
+Pois Aquele que Deus enviou fala as palavras de Deus; porque Deus dá o Espírito sem medida.
 \fn
 Lit. “não dá o Espírito com medida”
 \*fn
@@ -486,7 +486,7 @@ Porém Ele lhes disse: “Uma comida tenho para comer, que vós não conheceis�
 \v Joao.4.33
 Os discípulos diziam, pois, uns aos outros: “Acaso alguém Lhe trouxe algo para comer?”
 \v Joao.4.34
-Jesus lhes disse: “Minha comida é fazer a vontade daquele que Me enviou, e cumprir
+Jesus lhes disse: “Minha comida é fazer a vontade dAquele que Me enviou, e cumprir
 \fn
 Ou: completar
 \*fn
@@ -598,7 +598,7 @@ Ele lhes respondeu: “Aquele que me curou, esse me disse: ‘Toma o teu leito, 
 \v Joao.5.12
 Perguntaram-lhe, pois: “Quem é o homem que te disse: ‘Toma o teu leito e anda’?”
 \v Joao.5.13
-E o que tinha sido curado não sabia quem era, porque Jesus se havia retirado, pois naquele lugar havia uma multidão.
+E o que tinha sido curado não sabia quem era, porque Jesus Se havia retirado, pois naquele lugar havia uma multidão.
 \v Joao.5.14
 Depois Jesus o achou no Templo, e disse-lhe: “Eis que tu já estás curado; não peques mais, para que não te aconteça 
 algo pior”.
@@ -620,7 +620,7 @@ também
  trabalho”.
 \v Joao.5.18
 Por isso os judeus ainda mais procuravam matá-Lo, porque não só violava o sábado, mas também dizia que Deus era Seu 
-próprio Pai, fazendo-se igual a Deus.
+próprio Pai, fazendo-Se igual a Deus.
 \v Joao.5.19
 Então Jesus respondeu, e disse-lhes: “Em verdade, em verdade vos digo, que o Filho não pode fazer coisa alguma por Si 
 mesmo, senão o que Ele vê o Pai fazer; porque todas as coisas que Ele faz, semelhantemente o Filho também as faz.
@@ -634,7 +634,7 @@ Pois também o Pai não julga ninguém, mas deu todo o julgamento ao Filho,
 \v Joao.5.23
 para que todos honrem o Filho como honram o Pai. Quem não honra o Filho, não honra o Pai que O enviou.
 \v Joao.5.24
-Em verdade, em verdade vos digo, que quem ouve Minha palavra, e crê naquele que Me enviou, tem vida eterna, e não 
+Em verdade, em verdade vos digo, que quem ouve Minha palavra, e crê nAquele que Me enviou, tem vida eterna, e não 
 entrará em condenação, mas passou da morte para a vida.
 \v Joao.5.25
 Em verdade, em verdade vos digo, que vem a hora, e é agora, quando os mortos ouvirão a voz do Filho de Deus, e os que 
@@ -679,7 +679,7 @@ faço, testemunham de Mim que o Pai Me enviou.
 \v Joao.5.37
 E o Pai que Me enviou, Ele mesmo testemunhou de Mim. Vós nunca ouvistes a voz dEle, nem vistes Sua aparência;
 \v Joao.5.38
-e não tendes a palavra dEle permanecendo em vós; porque vós não credes naquele que Ele enviou.
+e não tendes a palavra dEle permanecendo em vós; porque vós não credes nAquele que Ele enviou.
 \v Joao.5.39
 Vós investigais
 \fn
@@ -709,7 +709,7 @@ E uma grande multidão O seguia, porque viam os
  Seus
  sinais que Ele fazia nos enfermos.
 \v Joao.6.3
-E Jesus subiu ao monte, e assentou-se ali com os Seus discípulos.
+E Jesus subiu ao monte, e assentou-Se ali com os Seus discípulos.
 \v Joao.6.4
 E a Páscoa, a festa dos judeus, já estava próxima.
 \v Joao.6.5
@@ -739,7 +739,7 @@ haviam comido.
 Aquelas pessoas, vendo, pois, o sinal que Jesus tinha feito, disseram: “Este é verdadeiramente o Profeta que devia vir 
 ao mundo!”
 \v Joao.6.15
-Então Jesus, sabendo que estavam para vir tomá-Lo à força para fazê-Lo rei, voltou a retirar-se sozinho ao monte.
+Então Jesus, sabendo que estavam para vir tomá-Lo à força para fazê-Lo rei, voltou a retirar-Se sozinho ao monte.
 \v Joao.6.16
 E quando veio o entardecer, Seus discípulos desceram para o mar.
 \v Joao.6.17
@@ -778,7 +778,7 @@ vos dará; porque Deus Pai marcou a este com o Seu selo”.
 \v Joao.6.28
 Disseram-Lhe, pois: “Que faremos para realizar as obras de Deus?”
 \v Joao.6.29
-Jesus respondeu, e disse-lhes: “A obra de Deus é esta: que vós creiais naquele que Ele enviou”.
+Jesus respondeu, e disse-lhes: “A obra de Deus é esta: que vós creiais nAquele que Ele enviou”.
 \v Joao.6.30
 Disseram-Lhe pois: “Que sinal, pois, Tu realizas para que o vejamos, e creiamos em Ti? Que obra Tu fazes?
 \v Joao.6.31
@@ -790,7 +790,7 @@ Salmos 78:24
 Então Jesus lhes disse: “Em verdade, em verdade vos digo, que não foi Moisés que vos deu o pão do céu; mas Meu Pai vos dá 
 o verdadeiro pão do céu.
 \v Joao.6.33
-Pois o pão de Deus é aquele que desce do céu e dá vida ao mundo”.
+Pois o pão de Deus é Aquele que desce do céu e dá vida ao mundo”.
 \v Joao.6.34
 Disseram-Lhe, pois: “Senhor, dá-nos sempre deste pão”.
 \v Joao.6.35
@@ -800,12 +800,12 @@ Mas eu já vos disse que ainda que vós tenhais Me visto, não crestes.
 \v Joao.6.37
 Todo aquele que o Pai Me dá virá a Mim; e o que vem a Mim, de maneira nenhuma o lançarei fora.
 \v Joao.6.38
-Pois eu desci do céu, não para fazer a Minha vontade, mas sim, a vontade daquele que Me enviou;
+Pois eu desci do céu, não para fazer a Minha vontade, mas sim, a vontade dAquele que Me enviou;
 \v Joao.6.39
 e a vontade do Pai, que Me enviou, é esta: que de tudo quanto Ele Me deu, eu nada perca, mas que eu o ressuscite no 
 último dia.
 \v Joao.6.40
-E a vontade daquele que Me enviou é esta: que todo aquele que vê o Filho, e nEle crê, tenha a vida eterna; e eu o 
+E a vontade dAquele que Me enviou é esta: que todo aquele que vê o Filho, e nEle crê, tenha a vida eterna; e eu o 
 ressuscitarei no último dia”.
 \v Joao.6.41
 Então os judeus começaram a murmurar contra Ele, porque havia dito: “Eu sou o pão que desceu do céu”.
@@ -822,7 +822,7 @@ Isaías 54:13
 \*ref
 . Portanto, todo aquele que ouviu do Pai e aprendeu, esse vem a Mim.
 \v Joao.6.46
-Não que alguém tenha visto o Pai, senão aquele que vem de Deus; este tem visto o Pai.
+Não que alguém tenha visto o Pai, senão Aquele que vem de Deus; este tem visto o Pai.
 \v Joao.6.47
 Em verdade, em verdade vos digo, que aquele que crê
  em Mim
@@ -961,7 +961,7 @@ Porém, no meio da festa, Jesus subiu ao Templo e começou a ensinar.
 \v Joao.7.15
 E os judeus maravilhavam-se, dizendo: “Como este sabe as Escrituras, não as havendo aprendido?”
 \v Joao.7.16
-Jesus lhes respondeu, e disse: “Meu ensino não é Meu, mas sim, daquele que Me enviou.
+Jesus lhes respondeu, e disse: “Meu ensino não é Meu, mas sim, dAquele que Me enviou.
 \v Joao.7.17
 Se alguém quiser fazer a vontade dEle, esse reconhecerá acerca do ensino, se é de Deus, ou 
 \added
@@ -993,7 +993,7 @@ E eis aí que Ele fala livremente, e nada Lhe dizem; acaso os chefes reconhecera
 Mas este sabemos de onde é; porém, quando o Cristo vier, ninguém saberá de onde Ele é”.
 \v Joao.7.28
 Então Jesus falava em alta voz no Templo, ensinando, e dizendo: “E vós Me conheceis, e sabeis de onde sou; porém 
-eu vim, não de Mim mesmo; mas aquele que Me enviou é verdadeiro, o que vós não conheceis.
+eu vim, não de Mim mesmo; mas Aquele que Me enviou é verdadeiro, o que vós não conheceis.
 \v Joao.7.29
 Porém eu O conheço, porque dEle venho, e Ele Me enviou”.
 \v Joao.7.30
@@ -1016,7 +1016,7 @@ Então Jesus lhes disse: “Ainda estou convosco por um pouco de tempo, e
 \added
 depois
 \*added
- irei para aquele que Me enviou.
+ irei para Aquele que Me enviou.
 \v Joao.7.34
 Vós Me buscareis, mas não 
 \added
@@ -1033,7 +1033,7 @@ Me
 \*added
  achareis’; e ‘onde eu estou vós não podeis vir’?”
 \v Joao.7.37
-E no último e grande dia da festa, Jesus se pôs em pé, e falou em alta voz, dizendo: “Se alguém tem sede, venha a Mim, 
+E no último e grande dia da festa, Jesus Se pôs em pé, e falou em alta voz, dizendo: “Se alguém tem sede, venha a Mim, 
 e beba.
 \v Joao.7.38
 Quem crê em Mim, como diz a Escritura, rios de água viva fluirão do seu interior”.
@@ -1093,7 +1093,7 @@ E cada um foi para sua casa.
 \v Joao.8.1
 Porém Jesus foi para o monte das Oliveiras.
 \v Joao.8.2
-E pela manhã cedo voltou ao Templo, e todo o povo veio até Ele; e assentando-se, ensinava-os.
+E pela manhã cedo voltou ao Templo, e todo o povo veio até Ele; e assentando-Se, ensinava-os.
 \v Joao.8.3
 E os escribas e fariseus trouxeram-Lhe uma mulher tomada em adultério;
 \v Joao.8.4
@@ -1101,16 +1101,16 @@ E pondo-a no meio, disseram-Lhe: “Mestre, esta mulher foi tomada no próprio a
 \v Joao.8.5
 E na Lei, Moisés nos mandou que as tais sejam apedrejadas; Tu, pois, que dizes?”
 \v Joao.8.6
-E eles diziam isso tentando-O, para que tivessem de que O acusar. Mas Jesus, inclinando-se, escrevia com o 
+E eles diziam isso tentando-O, para que tivessem de que O acusar. Mas Jesus, inclinando-Se, escrevia com o 
 dedo na terra.
 \v Joao.8.7
-E como insistiam em perguntar-Lhe, Ele se endireitou, e disse-lhes: “Aquele dentre vós que está sem pecado, 
+E como insistiam em perguntar-Lhe, Ele Se endireitou, e disse-lhes: “Aquele dentre vós que está sem pecado, 
 \added
 seja
 \*added
  o primeiro a atirar pedra contra ela”.
 \v Joao.8.8
-E voltando a inclinar-se, escrevia na terra.
+E voltando a inclinar-Se, escrevia na terra.
 \v Joao.8.9
 Porém eles, quando ouviram 
 \added
@@ -1119,7 +1119,7 @@ isso
 , e acusados pela consciência, saíram um a um, começando dos mais velhos até os últimos; e só ficaram Jesus com a 
 mulher, que estava no meio.
 \v Joao.8.10
-E Jesus, endireitando-se, e não vendo ninguém além da mulher, disse-lhe: “Mulher, onde estão aqueles teus acusadores? 
+E Jesus, endireitando-Se, e não vendo ninguém além da mulher, disse-lhe: “Mulher, onde estão aqueles teus acusadores? 
 Ninguém te condenou?”
 \v Joao.8.11
 E ela disse: “Ninguém, Senhor”. E Jesus lhe disse: “Nem eu também te condeno; vai, e não peques mais”.
@@ -1165,7 +1165,7 @@ vossos pecados”.
 \v Joao.8.25
 Disseram-Lhe, pois: “Quem és Tu? Jesus lhes disse: “O mesmo que eu vos tenho dito desde o princípio.
 \v Joao.8.26
-Tenho muitas coisas para dizer e julgar acerca de vós; mas aquele que Me enviou é verdadeiro; e o que dEle eu ouvi, 
+Tenho muitas coisas para dizer e julgar acerca de vós; mas Aquele que Me enviou é verdadeiro; e o que dEle eu ouvi, 
 isso falo ao mundo”.
 \v Joao.8.27
 Eles não entenderam que Ele estava lhes falando acerca do Pai.
@@ -1173,7 +1173,7 @@ Eles não entenderam que Ele estava lhes falando acerca do Pai.
 Jesus, então, lhes disse: “Quando vós tiverdes levantado o Filho do homem, então entendereis que eu sou, e que nada 
 faço de Mim mesmo; mas assim digo, como o Meu Pai Me ensinou.
 \v Joao.8.29
-E aquele que Me enviou está Comigo. O Pai não Me deixou só, porque sempre faço o que Lhe agrada”.
+E Aquele que Me enviou está Comigo. O Pai não Me deixou só, porque sempre faço o que Lhe agrada”.
 \v Joao.8.30
 Havendo Ele falado essa coisas, muitos creram nEle.
 \v Joao.8.31
@@ -1272,8 +1272,8 @@ Então os judeus Lhe disseram: “Ainda não tens cinquenta anos, e viste Abraã
 \v Joao.8.58
 Jesus lhes disse: “Em verdade, em verdade vos digo, que antes que Abraão existisse, eu sou”.
 \v Joao.8.59
-Então pegaram pedras para atirarem nEle. Mas Jesus se escondeu, e saiu do Templo
-, passando por meio deles, e assim se retirou
+Então pegaram pedras para atirarem nEle. Mas Jesus Se escondeu, e saiu do Templo
+, passando por meio deles, e assim Se retirou
 .
 \fn
 N4 não contém “passando por meio deles, e assim se retirou”
@@ -1291,7 +1291,7 @@ Jesus respondeu: “Nem ele pecou, nem seus pais; mas sim, para que as obras de 
 \v Joao.9.4
 É necessário que 
 eu faça
- as obras daquele que Me enviou, enquanto é dia; a noite vem, quando ninguém pode trabalhar.
+ as obras dAquele que Me enviou, enquanto é dia; a noite vem, quando ninguém pode trabalhar.
 \v Joao.9.5
 Enquanto estou no mundo, eu sou a luz do mundo”.
 \v Joao.9.6
@@ -1386,7 +1386,7 @@ N4: Filho do homem
 \v Joao.9.36
 Ele respondeu, e disse: “Quem é, Senhor, para que eu creia nEle?”
 \v Joao.9.37
-E Jesus lhe disse: “Tu já O tens visto, e é aquele que está falando contigo”.
+E Jesus lhe disse: “Tu já O tens visto, e é Aquele que está falando contigo”.
 \v Joao.9.38
 E ele disse: “Creio, Senhor”; e O adorou.
 \v Joao.9.39
@@ -1509,7 +1509,7 @@ Se ela chamou de deuses àqueles, a quem a palavra de Deus foi dirigida, (e a Es
 \added
 a Mim
 \*added
-, aquele que o Pai santificou e enviou ao mundo, vós dizeis: ‘Tu blasfemas; porque disse: Sou Filho de Deus’?
+, Aquele que o Pai santificou e enviou ao mundo, vós dizeis: ‘Tu blasfemas; porque disse: Sou Filho de Deus’?
 \v Joao.10.37
 Se eu não faço as obras de Meu Pai, não creiam em Mim.
 \v Joao.10.38
@@ -1613,7 +1613,7 @@ dizendo: “Ela vai para ao sepulcro para chorar ali”.
 Tendo, pois, Maria chegado onde Jesus estava, e vendo-O, lançou-se aos pés dEle, dizendo-Lhe: “Senhor, se Tu 
 estivesses aqui, meu irmão não teria morrido”.
 \v Joao.11.33
-Quando, pois, Jesus a viu chorar, e os judeus, que vinham chorando com ela, comoveu-se muito em espírito, e 
+Quando, pois, Jesus a viu chorar, e os judeus, que vinham chorando com ela, comoveu-Se muito em espírito, e 
 ficou perturbado.
 \v Joao.11.34
 E disse: “Onde vós o pusestes?” Disseram-Lhe: “Senhor, vem, e vê”.
@@ -1624,7 +1624,7 @@ Disseram, pois, os judeus: “Vejam como Ele o amava!”
 \v Joao.11.37
 E alguns deles disseram: “Acaso ele, que abriu os olhos ao cego, não podia ter feito também que este não morresse?”
 \v Joao.11.38
-Então Jesus, comovendo-se outra vez em Si mesmo, foi ao sepulcro; e era uma caverna, e uma pedra estava posta 
+Então Jesus, comovendo-Se outra vez em Si mesmo, foi ao sepulcro; e era uma caverna, e uma pedra estava posta 
 sobre ela.
 \v Joao.11.39
 Jesus disse: “Tirai a pedra”. Marta, a irmã do morto, disse-Lhe: “Senhor, já cheira mal, porque já é de quatro dias”.
@@ -1675,7 +1675,7 @@ E não somente pela nação, mas também para os filhos dispersos de Deus, a fim
 \v Joao.11.53
 Assim, desde aquele dia, resolveram matá-Lo.
 \v Joao.11.54
-Por isso Jesus já não andava mais abertamente entre os judeus, mas retirou-se dali para a região junto do deserto, 
+Por isso Jesus já não andava mais abertamente entre os judeus, mas retirou-Se dali para a região junto do deserto, 
 para uma cidade chamada Efraim; e ali andava com os Seus discípulos.
 \v Joao.11.55
 E estava próxima a páscoa dos judeus, e muitos daquela região subiram a Jerusalém antes da páscoa para se purificarem.
@@ -1721,7 +1721,7 @@ porque, por causa dele, muitos dos judeus estavam indo e crendo em Jesus.
 \v Joao.12.12
 No dia seguinte, uma grande multidão que tinha vindo à festa, quando ouviu que Jesus estava chegando a Jerusalém,
 \v Joao.12.13
-tomaram ramos de plantas e saíram ao encontro dEle, e clamavam: “Hosana! Bendito aquele que vem no nome do 
+tomaram ramos de plantas e saíram ao encontro dEle, e clamavam: “Hosana! Bendito Aquele que vem no nome do 
 Senhor,
  o Rei de Israel!”
 \v Joao.12.14
@@ -1781,8 +1781,8 @@ Filho do homem seja levantado? Quem é este Filho do homem?”
 Então Jesus lhes disse: “Ainda por um pouco de tempo a luz está convosco. Andai enquanto tendes a luz, para que as 
 trevas não vos apanhem. E quem anda em trevas não sabe para onde vai.
 \v Joao.12.36
-Enquanto vós tendes a luz, crede na luz, para que vos torneis filhos da luz”. Jesus falou essas coisas e, retirando-se, 
-escondeu-se deles.
+Enquanto vós tendes a luz, crede na luz, para que vos torneis filhos da luz”. Jesus falou essas coisas e, retirando-Se, 
+escondeu-Se deles.
 \v Joao.12.37
 E ainda que Ele tenha feito tantos sinais diante deles, não creram nEle;
 \v Joao.12.38
@@ -1815,9 +1815,9 @@ E Jesus exclamou, e disse: “Quem crê em Mim, não crê
 \added
 só
 \*added
- em Mim, mas sim, naquele que Me enviou.
+ em Mim, mas sim, nAquele que Me enviou.
 \v Joao.12.45
-E quem vê a Mim, vê aquele que Me enviou.
+E quem vê a Mim, vê Aquele que Me enviou.
 \v Joao.12.46
 Eu, a luz, vim ao mundo, para que todo aquele que crê em Mim não permaneça nas trevas.
 \v Joao.12.47
@@ -1844,7 +1844,7 @@ filho
 Jesus, sabendo que o Pai já tinha dado em Suas mãos todas as coisas, e que Ele tinha vindo de Deus, e que para Deus 
 Ele iria,
 \v Joao.13.4
-levantou-se da ceia, e tirou as roupas externas e, pegando uma toalha, envolveu-se na cintura com ela;
+levantou-Se da ceia, e tirou as roupas externas e, pegando uma toalha, envolveu-Se na cintura com ela;
 \v Joao.13.5
 depois colocou água numa bacia, e começou a lavar os pés dos discípulos, e enxugá-los com a toalha com que 
 estava envolto na cintura.
@@ -1867,7 +1867,7 @@ limpos, porém não todos”.
 \v Joao.13.11
 Pois Ele bem sabia quem O iria trair; por isso disse: “Nem todos vós estais limpos”.
 \v Joao.13.12
-Depois que Ele lhes lavou os pés, e pôs Suas roupas externas, voltou a se assentar à mesa, e disse-lhes: “Vós 
+Depois que Ele lhes lavou os pés, e pôs Suas roupas externas, voltou a Se assentar à mesa, e disse-lhes: “Vós 
 entendeis o que eu vos fiz?
 \v Joao.13.13
 Vós Me chamais de Mestre e Senhor, e dizeis bem, porque eu o sou.
@@ -1893,9 +1893,9 @@ Salmos 41:9
 Desde agora eu o digo a vós mesmos, antes que aconteça, para que, quando acontecer, creiais que eu sou.
 \v Joao.13.20
 Em verdade, em verdade vos digo: se alguém receber aquele que eu enviar, a Mim Me recebe; e quem a Mim Me recebe, 
-recebe aquele que Me enviou”.
+recebe Aquele que Me enviou”.
 \v Joao.13.21
-Havendo Jesus dito isto, perturbou-se em espírito, e deu testemunho, dizendo: “Em verdade, em verdade vos digo, que um 
+Havendo Jesus dito isto, perturbou-Se em espírito, e deu testemunho, dizendo: “Em verdade, em verdade vos digo, que um 
 de vós Me trairá.
 \v Joao.13.22
 Por isso, os
@@ -2113,7 +2113,7 @@ escolhi do mundo, por isso o mundo vos odeia.
 Lembrai-vos da palavra que eu vos disse: o servo não é maior que o seu senhor. Se Me perseguiram, também vos 
 perseguirão; se guardaram a Minha palavra, também guardarão a vossa.
 \v Joao.15.21
-Mas farão a vós tudo isso por causa do Meu nome; porque não conhecem aquele que Me enviou.
+Mas farão a vós tudo isso por causa do Meu nome; porque não conhecem Aquele que Me enviou.
 \v Joao.15.22
 Se eu não tivesse vindo, nem lhes houvesse falado, eles não teriam pecado; mas agora já não têm desculpa para o 
 seu pecado.
@@ -2150,7 +2150,7 @@ E vos farão essas coisas porque não conheceram nem ao Pai, nem a Mim.
 Porém tenho vos dito isto a fim de que, quando aquela hora chegar, vos lembreis de que isso eu já vos tinha dito. E eu 
 não vos disse isso desde o princípio porque eu estava convosco.
 \v Joao.16.5
-Mas agora eu vou para aquele que Me enviou; e nenhum de vós Me pergunta: ‘Para onde vais?’
+Mas agora eu vou para Aquele que Me enviou; e nenhum de vós Me pergunta: ‘Para onde vais?’
 \v Joao.16.6
 Em vez disso, porque eu vos disse essas coisas, a tristeza encheu vosso coração.
 \v Joao.16.7
@@ -2334,12 +2334,12 @@ neles, e eu neles.
 Havendo Jesus dito essas coisas, saiu com os Seus discípulos para além do ribeiro de Cedrom, onde havia um jardim; 
 naquele lugar Ele entrou com os Seus discípulos.
 \v Joao.18.2
-E Judas, que O traía, também conhecia aquele lugar; porque Jesus muitas vezes se reunia ali com os Seus discípulos.
+E Judas, que O traía, também conhecia aquele lugar; porque Jesus muitas vezes Se reunia ali com os Seus discípulos.
 \v Joao.18.3
 Tendo, pois, Judas, trazido um destacamento de soldados e alguns guardas da parte dos chefes dos sacerdotes e dos 
 fariseus, chegou ali com lanternas, tochas, e armas.
 \v Joao.18.4
-Então Jesus, sabendo todas as coisas que estavam por vir sobre Ele, adiantou-se, e disse-lhes: “A quem vós buscais?”
+Então Jesus, sabendo todas as coisas que estavam por vir sobre Ele, adiantou-Se, e disse-lhes: “A quem vós buscais?”
 \v Joao.18.5
 Responderam-Lhe: “A Jesus Nazareno”. Jesus lhes disse: “Eu sou”. E Judas, que O traía, também estava com eles.
 \v Joao.18.6
@@ -2582,7 +2582,7 @@ Pois essas coisas aconteceram para que se cumprisse a Escritura: “Nenhum osso 
 Êxodo 12:46; Números 9:12; Salmos 34:20
 \*ref
 \v Joao.19.37
-E além disso, outra Escritura diz: “Verão aquele a quem traspassaram”.
+E além disso, outra Escritura diz: “Verão Aquele a quem traspassaram”.
 \ref
 Zacarias 12:10
 \*ref
@@ -2692,7 +2692,7 @@ Os outros discípulos disseram-lhe, pois: “Vimos o Senhor”. Porém ele lhes 
 cravos, e não puser o meu dedo no lugar dos cravos, e não puser minha mão em Seu lado, não crerei de maneira alguma”.
 \v Joao.20.26
 E oito dias depois, os discípulos estavam outra vez dentro, e com eles Tomé; e veio Jesus, estando as portas fechadas, 
-e apresentou-se no meio, e disse: “Paz seja convosco!”
+e apresentou-Se no meio, e disse: “Paz seja convosco!”
 \v Joao.20.27
 Depois disse a Tomé: “Põe teu dedo aqui, e vê Minhas mãos; e aproxima tua mão, e coloca-a no Meu lado; e não sejas 
 incrédulo, mas crê.
@@ -2708,7 +2708,7 @@ Jesus fez também ainda na presença de Seus discípulos muitos outros sinais qu
 Esses, porém, estão escritos para que vós creiais que Jesus é o Cristo, o Filho de Deus; e para que, crendo, tenhais 
 vida no nome dEle.
 \v Joao.21.1
-Depois disto, Jesus manifestou-se outra vez aos discípulos, junto ao mar de Tiberíades; e manifestou-se assim:
+Depois disto, Jesus manifestou-Se outra vez aos discípulos, junto ao mar de Tiberíades; e manifestou-Se assim:
 \v Joao.21.2
 Estavam juntos Simão Pedro, e Tomé, chamado Dídimo, e Natanael de Caná de Galileia, e os 
 \added
@@ -2744,7 +2744,7 @@ o Senhor.
 \v Joao.21.13
 Então Jesus veio, pegou o pão, e o deu a eles; e semelhantemente o peixe.
 \v Joao.21.14
-E essa era já a terceira vez que Jesus se manifestava aos Seus discípulos, depois de haver ressuscitado dos mortos.
+E essa era já a terceira vez que Jesus Se manifestava aos Seus discípulos, depois de haver ressuscitado dos mortos.
 \v Joao.21.15
 Havendo eles, pois, já comido, disse Jesus a Simão Pedro: “Simão 
 \added

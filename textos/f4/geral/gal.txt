@@ -30,7 +30,8 @@ Graça seja convosco, e também a paz de Deus
 \v Gl.1.5
 ao qual seja a glória para todo o sempre, Amém!
 \v Gl.1.6
-Admiro-me de que tão rapidamente desviastes daquele que vos chamou na graça de Cristo, em troca de outro evangelho.
+{rp|n4}Admiro-me de que tão rapidamente desviastes daquele que vos chamou na graça de Cristo, em troca de outro evangelho.
+{tr}Admiro-me de que tão rapidamente desviastes dAquele que vos chamou na graça de Cristo, em troca de outro evangelho.
 \v Gl.1.7
 Não que haja outro 
 \added
@@ -78,7 +79,8 @@ Mas quando
 {tr} que me separou desde o ventre da minha mãe, e por Sua graça me chamou
 {tr|rp})
 {n4},
- se agradou
+{rp|n4} se agradou
+{tr} Se agradou
 \v Gl.1.16
 {rp|n4}de revelar o seu Filho em mim, para eu evangelizar os gentios, de imediato, não fui pedir conselho com pessoa alguma;
 {tr}de revelar o Seu Filho em mim, para eu evangelizar os gentios, de imediato, não fui pedir conselho com pessoa alguma;
@@ -152,7 +154,8 @@ Lit. “Evangelho da incircuncisão”
 Lit. “o [Evangelho] da circuncisão”
 \*fn
 \v Gl.2.8
-(pois aquele que operou em Pedro para o apostolado da circuncisão, esse operou também em mim para os gentios)
+{rp|n4}(pois aquele que operou em Pedro para o apostolado da circuncisão, esse operou também em mim para os gentios)
+{tr}(pois Aquele que operou em Pedro para o apostolado da circuncisão, esse operou também em mim para os gentios)
 \v Gl.2.9
 e quando Tiago, Cefas, e João, que eram considerados como colunas, reconheceram a graça que me foi dada, eles estenderam as mãos direitas de comunhão a mim e a Barnabé, para que nós 
 \added
@@ -275,7 +278,8 @@ Trad. alt. Sofrestes
 \*fn
  tantas coisas em vão? Se é que foi mesmo em vão!
 \v Gl.3.5
-Ora, aquele que vos dá o Espírito e que opera maravilhas entre vós 
+{rp|n4}Ora, aquele que vos dá o Espírito e que opera maravilhas entre vós 
+{tr}Ora, Aquele que vos dá o Espírito e que opera maravilhas entre vós 
 \added
 faz isso
 \*added
@@ -571,7 +575,8 @@ porque, em Cristo Jesus, nem a circuncisão nem a incircuncisão tem valor algum
 \v Gl.5.7
 Estáveis correndo bem; quem vos impediu de obedecerdes à verdade?
 \v Gl.5.8
-Esta persuasão não parte daquele que vos chama.
+{rp|n4}Esta persuasão não parte daquele que vos chama.
+{tr}Esta persuasão não parte dAquele que vos chama.
 \v Gl.5.9
 Um pouco de fermento leveda toda a massa.
 \v Gl.5.10

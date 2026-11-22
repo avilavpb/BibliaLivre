@@ -105,7 +105,8 @@ os olhos.
 {rp|n4}Eu vos escrevo, filhinhos, porque pelo nome dele os vossos pecados são perdoados.
 {tr}Eu vos escrevo, filhinhos, porque pelo nome dEle os vossos pecados são perdoados.
 \v 1Jo.2.13
-Eu vos escrevo, pais, porque conheceis aquele que é desde o princípio. 
+{rp|n4}Eu vos escrevo, pais, porque conheceis aquele que é desde o princípio. 
+{tr}Eu vos escrevo, pais, porque conheceis Aquele que é desde o princípio. 
 Eu vos escrevo, jovens, porque vencestes o maligno. 
 Eu vos 
 {tr|rp}escrevo
@@ -116,7 +117,8 @@ Eu vos
 {trnc}\*fn
  filhinhos, porque conheceis o Pai.
 \v 1Jo.2.14
-Eu vos escrevi, pais, porque conheceis aquele que é desde o princípio. 
+{rp|n4}Eu vos escrevi, pais, porque conheceis aquele que é desde o princípio. 
+{tr}Eu vos escrevi, pais, porque conheceis Aquele que é desde o princípio. 
 Eu vos escrevi, jovens, porque sois fortes, a palavra de Deus está em vós, e vencestes o maligno.
 \v 1Jo.2.15
 Não ameis o mundo, nem as coisas que há no mundo. Se alguém ama o mundo, o amor do Pai não está nele.
@@ -196,7 +198,7 @@ assim
 {trnc}\*fn
 \v 1Jo.2.28
 {rp|n4}E agora, filhinhos, permanecei nele; a fim de que, quando ele se manifestar, tenhamos confiança, e não sejamos 
-{tr}E agora, filhinhos, permanecei nEle; a fim de que, quando Ele se manifestar, tenhamos confiança, e não sejamos 
+{tr}E agora, filhinhos, permanecei nEle; a fim de que, quando Ele Se manifestar, tenhamos confiança, e não sejamos 
 {rp|n4}envergonhados diante dele na sua vinda.
 {tr}envergonhados diante dEle na Sua vinda.
 \v 1Jo.2.29
@@ -221,7 +223,7 @@ Vede quão grande amor o Pai tem nos dado, que fôssemos chamados filhos de Deus
 {tr} conhece, pois não conhece a Ele.
 \v 1Jo.3.2
 {rp|n4}Amados, agora somos filhos de Deus, e ainda não está manifesto o que seremos. Porém sabemos que, quando ele se 
-{tr}Amados, agora somos filhos de Deus, e ainda não está manifesto o que seremos. Porém sabemos que, quando Ele se 
+{tr}Amados, agora somos filhos de Deus, e ainda não está manifesto o que seremos. Porém sabemos que, quando Ele Se 
 {rp|n4}manifestar, seremos semelhantes a ele, pois o veremos como ele é.
 {tr}manifestar, seremos semelhantes a Ele, pois O veremos como Ele é.
 \v 1Jo.3.3
@@ -245,7 +247,8 @@ Todo aquele que pratica o pecado também pratica injustiça, pois o pecado é in
 {rp|n4}Filhinhos, ninguém vos engane. Quem pratica a justiça é justo, assim como ele é justo.
 {tr}Filhinhos, ninguém vos engane. Quem pratica a justiça é justo, assim como Ele é justo.
 \v 1Jo.3.8
-Quem pratica o pecado é do diabo, pois o diabo peca desde o princípio. Para isto o Filho de Deus se manifestou, para 
+{rp|n4}Quem pratica o pecado é do diabo, pois o diabo peca desde o princípio. Para isto o Filho de Deus se manifestou, para 
+{tr}Quem pratica o pecado é do diabo, pois o diabo peca desde o princípio. Para isto o Filho de Deus Se manifestou, para 
 desfazer as obras do diabo.
 \v 1Jo.3.9
 {rp|n4}Todo aquele que é nascido de Deus não pratica o pecado, pois a sua semente reside nele; e não pode praticar o pecado, 
@@ -461,7 +464,8 @@ Pois todo aquele que é nascido de Deus vence o mundo; e esta é a vitória que 
 \v 1Jo.5.5
 Quem é o que vence o mundo, senão aquele que crê que Jesus é o Filho de Deus?
 \v 1Jo.5.6
-Este é aquele que veio por água e sangue: Jesus, o Cristo. Não só pela água, mas pela água e 
+{rp|n4}Este é aquele que veio por água e sangue: Jesus, o Cristo. Não só pela água, mas pela água e 
+{tr}Este é Aquele que veio por água e sangue: Jesus, o Cristo. Não só pela água, mas pela água e 
 \added
 pelo
 \*added
