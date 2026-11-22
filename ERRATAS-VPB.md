@@ -446,3 +446,30 @@ Marcação usada: o bloco `\added` … `\*added` do formato f4, com cada marcado
 - **Nome divino (conversor)** – `conversores/convert_to_usfm.js`: nos livros do AT, SENHOR e DEUS (Tetragrama) saem como `\nd SENHOR\nd*` / `\nd DEUS\nd*`, que os leitores USFM exibem em versalete. O texto f4 não muda. No NT não se aplica, e a inscrição "AO DEUS DESCONHECIDO" (At 17.23) fica fora. Saída TR conferida: 6.543 SENHOR e 311 DEUS marcados, 0 no NT. "EU-SOU" (20 ocorrências, também YHWH) ficou sem marcação, aguardando decisão.
 
 - Dn 9.26: "destruirá à cidade" → "destruirá a cidade" (crase indevida; objeto direto).
+
+## Pronomes divinos em maiúscula (decisão de Marcelo, 22/11/2026)
+
+### Convenção
+
+- Pronomes que se referem a Deus (Pai, Filho, Espírito) passam a começar com maiúscula: Ele, Lhe, Seu/Sua/Seus/Suas, Si, Consigo, Tu, Te, Ti, Teu/Tua…, Contigo, Me, Mim, Meu/Minha…, Comigo.
+- Oblíquos enclíticos: maiúscula só no pronome (adorá-Lo, segui-Lo, acusando-O, disse-Lhe, dá-Te, lembra-Te, Mostrai-Me).
+- Contrações, pelo mesmo princípio (maiúscula só no pronome): dEle, nEle. Esta é uma extensão da regra por analogia, ainda sem confirmação.
+- Fica para depois:
+  - "eu" e "nós/nos/nosso" ficam em minúscula. A referência usa maiúscula em "I" em todos os casos, então não indica nada.
+  - O pronome proclítico "o" antes do verbo ("o levou", "o seguia") não é tratado automaticamente, porque não se distingue do artigo sem revisão.
+- Só a TR muda. No NT, cada linha alterada vira `{rp|n4}`(original) + `{tr}`(nova), ou perde o marcador `tr` se já tinha um. As saídas RP e N4 foram conferidas e são idênticas às de antes.
+
+### Método
+
+- A referência para decidir *quais* pronomes são divinos é a LSV (Literal Standard Version, © 2020 Covenant Press, CC BY-SA 4.0, eBible.org). Nenhum texto dela foi copiado. A NKJV não pôde ser usada em escala: os termos do BibleGateway proíbem copiar e baixar e limitam citações a 250 versículos.
+- O alinhamento é por versículo e por pessoa gramatical (1ª, 2ª, 3ª). A aplicação automática só acontece quando todas estas condições valem:
+  1. A LSV tem pronome divino em maiúscula fora de início de frase ou citação. Depois de ponto, aspas, dois-pontos, vírgula, travessão ou "||", a maiúscula é ambígua e não conta.
+  2. Não há, no mesmo versículo da LSV, pronome da mesma pessoa em minúscula.
+  3. Não há outro referente compatível: it/its para ele/o; she/her/it para lhe; her/its/their para seu/sua.
+  4. O número de candidatos na BL é compatível. Na 3ª pessoa, fica entre o total de Him/His/Himself e o total incluindo He. Na 1ª e 2ª, não passa o número de referências divinas.
+- Cada versículo alterado foi conferido: a visão TR nova tem de ser igual à antiga com só aqueles pronomes em maiúscula.
+- Listas: `pronomes-divinos/<bloco>-aplicados.tsv` (antes/depois) e `pronomes-divinos/<bloco>-pendentes.md` (casos para revisão).
+
+### Blocos aplicados
+
+- **Evangelhos**: 994 versículos, 1.552 pronomes. Ficam 771 versículos para revisão (`pronomes-divinos/evangelhos-pendentes.md`).

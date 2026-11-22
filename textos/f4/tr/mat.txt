@@ -74,7 +74,7 @@ Jesus significa “O SENHOR salva”
 \v Mt.1.22
 Tudo isso aconteceu para que se cumprisse o que foi dito pelo Senhor por meio do profeta, que disse:
 \v Mt.1.23
-“Eis que a virgem conceberá, e dará à luz um filho, e chamarão seu nome Emanuel”, que traduzido é: “Deus conosco”. 
+“Eis que a virgem conceberá, e dará à luz um filho, e chamarão Seu nome Emanuel”, que traduzido é: “Deus conosco”. 
 \ref
 Isaías 7:14 
 \*ref
@@ -94,14 +94,14 @@ TR, RP: o filho dela, o primogênito - N4: um filho
 \v Mt.2.1
 E sendo Jesus já nascido em Belém da Judeia, nos dias do rei Herodes, eis que vieram uns magos do oriente a Jerusalém,
 \v Mt.2.2
-dizendo: “Onde está o Rei nascido dos judeus? Porque vimos sua estrela no oriente,
+dizendo: “Onde está o Rei nascido dos judeus? Porque vimos Sua estrela no oriente,
 \fn
 \key
 no oriente
 \*key
 trad. alt. quando ela surgiu – também no v. 9
 \*fn
- e viemos adorá-lo”.
+ e viemos adorá-Lo”.
 \v Mt.2.3
 E o rei Herodes, ouvindo 
 \added
@@ -114,7 +114,7 @@ E tendo reunido todos os chefes dos sacerdotes e escribas do povo, perguntou-lhe
 E eles lhe disseram: “Em Belém da Judeia, porque assim está escrito pelo profeta:
 \v Mt.2.6
 ‘E tu, Belém, terra de Judá, de maneira nenhuma és a menor entre as principais de Judá, porque de ti sairá o Guia 
-que apascentará meu povo Israel’”.
+que apascentará Meu povo Israel’”.
 \ref
 Miqueias 5:2 
 \*ref
@@ -142,7 +142,7 @@ mãe, e foge para o Egito; e fica lá até que eu te diga, porque Herodes buscar
 E ele, levantando-se, tomou o menino e sua mãe de noite, e foi para o Egito;
 \v Mt.2.15
 E esteve lá até a morte de Herodes, para que se cumprisse o que foi dito pelo Senhor por meio do profeta, que disse: 
-“Do Egito chamei meu Filho”.
+“Do Egito chamei Meu Filho”.
 \ref
 Oseias 11:1 
 \*ref
@@ -168,7 +168,7 @@ Jeremias 31:15
 \v Mt.2.19
 Porém, havendo Herodes morrido, eis que um anjo do Senhor apareceu no Egito a José em sonho,
 \v Mt.2.20
-Dizendo: “Levanta-te, toma o menino e a sua mãe, e vai para a terra de Israel, porque já morreram os que procuravam a 
+Dizendo: “Levanta-te, toma o menino e a Sua mãe, e vai para a terra de Israel, porque já morreram os que procuravam a 
 morte do menino”.
 \v Mt.2.21
 Então ele se levantou, tomou o menino e sua mãe, e veio para a terra de Israel.
@@ -237,7 +237,7 @@ RP não contém “e com fogo”.
 \*fn
 .
 \v Mt.3.12
-Em sua mão ele tem a pá; ele limpará a sua eira e recolherá o seu trigo no celeiro; mas queimará a palha com fogo que 
+Em Sua mão Ele tem a pá; Ele limpará a Sua eira e recolherá o Seu trigo no celeiro; mas queimará a palha com fogo que 
 nunca se apaga”.
 \v Mt.3.13
 Então Jesus veio da Galileia ao Jordão, até João, para ser batizado por ele.
@@ -247,16 +247,16 @@ João
 \fn
 N4 não contém “João”
 \*fn
- opunha-se a ele, dizendo: “Eu preciso ser batizado por ti, e tu vens a mim?”
+ opunha-se a Ele, dizendo: “Eu preciso ser batizado por Ti, e Tu vens a mim?”
 \v Mt.3.15
 Porém Jesus lhe respondeu: “Permite por agora, porque assim nos convém cumprir toda a justiça”. Então ele lhe permitiu.
 \v Mt.3.16
 E havendo Jesus sido batizado, subiu logo da água. E eis que os céus se
- lhe
+ Lhe
 \fn
 N4 não contém “lhe”
 \*fn
- abriram, e ele viu o Espírito de Deus descendo como uma pomba, vindo sobre ele.
+ abriram, e Ele viu o Espírito de Deus descendo como uma pomba, vindo sobre Ele.
 \v Mt.3.17
 E eis que uma voz dos céus dizia: “Este é o meu Filho amado, em quem me agrado”.
 \v Mt.4.1
@@ -265,12 +265,12 @@ Então Jesus foi levado pelo Espírito ao deserto, para ser tentado pelo diabo.
 E havendo jejuado quarenta dias e quarenta noites, depois teve fome.
 \v Mt.4.3
 E o tentador, aproximando-se
- dele, disse
+ dEle, disse
 :
 \fn
 TR, RP: aproximando-se dele, disse” - N4: aproximando-se, disse-lhe”
 \*fn
- “Se tu és o Filho de Deus, manda que estas pedras se tornem pães”.
+ “Se Tu és o Filho de Deus, manda que estas pedras se tornem pães”.
 \v Mt.4.4
 Porém 
 \added
@@ -302,9 +302,9 @@ ou: testarás
 Deuteronômio 6:16 
 \*ref
 \v Mt.4.8
-Outra vez o diabo o levou consigo a um monte muito alto, e mostrou-lhe todos os reinos do mundo, e a glória deles,
+Outra vez o diabo o levou Consigo a um monte muito alto, e mostrou-Lhe todos os reinos do mundo, e a glória deles,
 \v Mt.4.9
-e disse-lhe: “Tudo isto te darei se, prostrado, me adorares”.
+e disse-Lhe: “Tudo isto Te darei se, prostrado, me adorares”.
 \v Mt.4.10
 Então Jesus lhe disse: “Vai embora, Satanás! Porque está escrito: ‘Ao Senhor teu Deus adorarás, e só a ele cultuarás’”.
 \ref
@@ -344,7 +344,7 @@ RP, N4 não contêm “Jesus”
  andando junto ao mar da Galileia, viu dois irmãos: Simão, chamado Pedro, e seu irmão André, que lançavam a rede ao 
 mar, porque eram pescadores.
 \v Mt.4.19
-E disse-lhes: “Vinde após mim, e eu vos farei pescadores de gente”.
+E disse-lhes: “Vinde após Mim, e eu vos farei pescadores de gente”.
 \v Mt.4.20
 Então eles, deixando logo as redes, o seguiram.
 \v Mt.4.21
@@ -364,8 +364,8 @@ N4 não contém “Jesus”
  percorria toda a Galileia, ensinando em suas sinagogas, pregando o Evangelho do Reino, e curando toda enfermidade e 
 toda doença no povo.
 \v Mt.4.24
-E sua fama corria por toda a Síria, e traziam-lhe todos que sofriam de algum mal, acometidos de diversas 
-enfermidades e tormentos, e os endemoninhados, epiléticos, e paralíticos; e ele os curava.
+E Sua fama corria por toda a Síria, e traziam-Lhe todos que sofriam de algum mal, acometidos de diversas 
+enfermidades e tormentos, e os endemoninhados, epiléticos, e paralíticos; e Ele os curava.
 \v Mt.4.25
 E o seguiam muitas multidões da Galileia, de Decápolis, de Jerusalém, da Judeia, e dalém do Jordão.
 \v Mt.5.1
@@ -375,7 +375,7 @@ Jesus
 \*added
 , vendo as multidões, subiu ao monte; e assentando-se, aproximaram-se dele seus discípulos.
 \v Mt.5.2
-E, abrindo a sua boca, os ensinava, dizendo:
+E, abrindo a Sua boca, os ensinava, dizendo:
 \v Mt.5.3
 “Bem-aventurados os humildes de espírito, porque deles é o Reino dos céus.
 \v Mt.5.4
@@ -394,7 +394,7 @@ Bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus.
 Bem-aventurados os que sofrem perseguição por causa da justiça, porque deles é o Reino dos céus.
 \v Mt.5.11
 Bem-aventurados sois vós, quando vos insultarem, perseguirem, e, mentindo, falarem todo mal contra vós por 
-minha causa.
+Minha causa.
 \v Mt.5.12
 Jubilem e alegrem-se, porque grande é vossa recompensa nos céus; porque assim perseguiram os profetas que foram 
 antes de vós.
@@ -562,7 +562,7 @@ N4 não contém “vos maltratam e”
 \*fn
  vos perseguem,
 \v Mt.5.45
-para que sejais filhos do vosso Pai que está nos céus; porque ele faz o seu sol sair sobre maus e bons, e chover 
+para que sejais filhos do vosso Pai que está nos céus; porque Ele faz o Seu sol sair sobre maus e bons, e chover 
 sobre justos e injustos.
 \v Mt.5.46
 Pois, se amardes os que vos amam, que recompensa tereis? Não fazem os publicanos também o mesmo?
@@ -600,7 +600,7 @@ nas ruas, para serem honrados pelas pessoas; em verdade vos digo que já receber
 \v Mt.6.3
 Mas, quando tu deres esmola, não saiba tua mão esquerda o que faz a tua direita;
 \v Mt.6.4
-para que tua esmola seja em segredo, e teu Pai, que vê em segredo, ele te recompensará
+para que tua esmola seja em segredo, e teu Pai, que vê em segredo, Ele te recompensará
  em público
 .
 \fn
@@ -625,9 +625,9 @@ N4 não contém “em público”
 \v Mt.6.7
 E orando, não useis repetições inúteis como os gentios, que pensam que por muito falarem serão ouvidos.
 \v Mt.6.8
-Não sejais, pois, semelhantes a eles; porque vosso Pai sabe o que vós necessitais, antes de a ele pedirdes.
+Não sejais, pois, semelhantes a eles; porque vosso Pai sabe o que vós necessitais, antes de a Ele pedirdes.
 \v Mt.6.9
-Vós, portanto, orareis assim: Pai nosso, que estás nos céus, santificado seja o teu nome.
+Vós, portanto, orareis assim: Pai nosso, que estás nos céus, santificado seja o Teu nome.
 \v Mt.6.10
 Venha o teu Reino. Seja feita tua vontade, assim na terra, como no céu.
 \v Mt.6.11
@@ -636,7 +636,7 @@ O pão nosso de cada dia nos dá hoje.
 E perdoa-nos nossas dívidas, assim como nós perdoamos aos nossos devedores.
 \v Mt.6.13
 E não nos induzas à tentação, mas livra-nos do mal. 
- Porque teu é o Reino, o poder, e a glória, para sempre, Amém.
+ Porque Teu é o Reino, o poder, e a glória, para sempre, Amém.
 \fn
 N4 não contém “Porque teu é o Reino, o poder, e a glória, para sempre, Amém”
 \*fn
@@ -718,7 +718,7 @@ reino de Deus
 \fn
 N4 não contém “de Deus”, traduzindo por “[seu] reino e sua justiça”
 \*fn
- e sua justiça, e todas essas coisas vos serão acrescentadas.
+ e Sua justiça, e todas essas coisas vos serão acrescentadas.
 \v Mt.6.34
 Não andeis, pois, ansiosos pelo dia de amanhã, porque o amanhã se preocupará consigo mesmo. Basta a cada dia o seu mal.
 \v Mt.7.1
@@ -744,7 +744,7 @@ E quem há de vós que, se seu filho pedir pão, lhe dará uma pedra?
 E se pedir peixe, lhe dará uma serpente?
 \v Mt.7.11
 Ora, se vós, sendo maus, sabeis dar bons presentes a vossos filhos, quanto mais vosso Pai, que está nos céus, dará 
-boas coisas aos que lhe pedirem!
+boas coisas aos que Lhe pedirem!
 \v Mt.7.12
 Portanto, tudo o que quiserdes que os outros vos façam, fazei-lhes vós também assim; porque esta é a Lei e 
 os Profetas.
@@ -775,15 +775,15 @@ Toda árvore que não dá bom fruto é cortada e lançada ao fogo.
 \v Mt.7.20
 Portanto, vós os conhecereis pelos seus frutos.
 \v Mt.7.21
-Nem todo o que me diz: ‘Senhor, Senhor’ entrará no Reino dos céus; mas sim aquele que faz a vontade de meu Pai que 
+Nem todo o que Me diz: ‘Senhor, Senhor’ entrará no Reino dos céus; mas sim aquele que faz a vontade de Meu Pai que 
 está nos céus.
 \v Mt.7.22
-Muitos me dirão naquele dia: ‘Senhor, Senhor! Não profetizamos em teu nome? E em teu nome não expulsamos demônios? E 
-em teu nome não fizemos muitas maravilhas?’
+Muitos Me dirão naquele dia: ‘Senhor, Senhor! Não profetizamos em Teu nome? E em Teu nome não expulsamos demônios? E 
+em Teu nome não fizemos muitas maravilhas?’
 \v Mt.7.23
-E então claramente lhes direi: ‘Nunca vos conheci. Afastai-vos de mim, praticantes de injustiça!’
+E então claramente lhes direi: ‘Nunca vos conheci. Afastai-vos de Mim, praticantes de injustiça!’
 \v Mt.7.24
-Portanto, todo aquele que ouve estas minhas palavras e as pratica
+Portanto, todo aquele que ouve estas Minhas palavras e as pratica
 , eu o compararei
 \fn
 TR, RP: eu o compararei - N4: será comparado
@@ -793,22 +793,22 @@ TR, RP: eu o compararei - N4: será comparado
 E desceu a chuva, vieram correntezas, sopraram ventos, e atingiram aquela casa; e ela não caiu, porque estava fundada 
 sobre a rocha.
 \v Mt.7.26
-Porém todo aquele que ouve estas minhas palavras e não as pratica, eu o compararei ao homem insensato, que construiu 
+Porém todo aquele que ouve estas Minhas palavras e não as pratica, eu o compararei ao homem insensato, que construiu 
 sua casa sobre areia.
 \v Mt.7.27
 E desceu a chuva, vieram correntezas, sopraram ventos, e atingiram aquela casa; e ela caiu, e foi grande a sua queda”.
 \v Mt.7.28
-E aconteceu que, acabando Jesus de dizer essas palavras, as multidões se admiraram de sua doutrina,
+E aconteceu que, acabando Jesus de dizer essas palavras, as multidões se admiraram de Sua doutrina,
 \v Mt.7.29
-porque ele as ensinava como tendo autoridade, e não como os
+porque Ele as ensinava como tendo autoridade, e não como os
  escribas.
 \fn
 N4 contém “seus escribas”
 \*fn
 \v Mt.8.1
-E, descendo ele do monte, muitas multidões o seguiram.
+E, descendo Ele do monte, muitas multidões o seguiram.
 \v Mt.8.2
-E eis que um leproso veio e prostrou-se diante dele, dizendo: “Senhor, se quiseres, podes me limpar.
+E eis que um leproso veio e prostrou-se diante dEle, dizendo: “Senhor, se quiseres, podes me limpar.
 \v Mt.8.3
 E 
 Jesus
@@ -875,7 +875,7 @@ servi-los
 RP, N4 contêm “servi-lo”
 \*fn
 \v Mt.8.16
-E, chegado o entardecer, trouxeram-lhe muitos endemoninhados. Ele expulsou-lhes os espíritos com a palavra, e curou 
+E, chegado o entardecer, trouxeram-Lhe muitos endemoninhados. Ele expulsou-lhes os espíritos com a palavra, e curou 
 todos os que estavam enfermos,
 \v Mt.8.17
 para que se cumprisse o que foi dito pelo profeta Isaías, que disse: “Ele tomou sobre si nossas enfermidades, e levou 
@@ -889,25 +889,25 @@ muitas multidões
 \fn
 TR, RP: muitas multidões - N4: uma multidão
 \*fn
- ao redor de si, mandou que passassem para a outra margem.
+ ao redor de Si, mandou que passassem para a outra margem.
 \v Mt.8.19
-E um escriba, aproximando-se, disse-lhe: “Mestre, aonde quer que fores, eu te seguirei”.
+E um escriba, aproximando-se, disse-Lhe: “Mestre, aonde quer que fores, eu Te seguirei”.
 \v Mt.8.20
 E Jesus lhe disse: “As raposas têm tocas, e as aves do céu ninhos; mas o Filho do homem não tem onde recostar 
 a cabeça”.
 \v Mt.8.21
 E outro de
- seus
+ Seus
 \fn
 N4 não contém “seus”
 \*fn
- discípulos lhe disse: “Senhor, permite-me ir primeiro enterrar meu pai”.
+ discípulos Lhe disse: “Senhor, permite-me ir primeiro enterrar meu pai”.
 \v Mt.8.22
-Porém Jesus lhe disse: “Segue-me, e deixa aos mortos enterrar seus mortos”.
+Porém Jesus lhe disse: “Segue-Me, e deixa aos mortos enterrar seus mortos”.
 \v Mt.8.23
-E, entrando ele no barco, seus discípulos o seguiram.
+E, entrando Ele no barco, Seus discípulos o seguiram.
 \v Mt.8.24
-E eis que se levantou no mar uma tempestade tão grande que o barco era coberto pelas ondas; porém ele dormia.
+E eis que se levantou no mar uma tempestade tão grande que o barco era coberto pelas ondas; porém Ele dormia.
 \v Mt.8.25
 E
  seus discípulos
@@ -922,7 +922,7 @@ homens
 \*added
  de pouca fé?” Então, levantando-se, repreendeu os ventos e o mar; e houve grande calmaria.
 \v Mt.8.27
-E aqueles homens se maravilharam, dizendo: “Quem é este, que até os ventos e o mar lhe obedecem?”
+E aqueles homens se maravilharam, dizendo: “Quem é este, que até os ventos e o mar Lhe obedecem?”
 \v Mt.8.28
 E quando chegou ao outro lado, à região dos 
 gergesenos
@@ -930,10 +930,10 @@ gergesenos
 \fn
 TR, RP: gergesenos - N4: gadarenos
 \*fn
- vieram-lhe ao encontro dois endemoninhados, saídos dos sepulcros. Eram tão ferozes que ninguém podia passar por 
+ vieram-Lhe ao encontro dois endemoninhados, saídos dos sepulcros. Eram tão ferozes que ninguém podia passar por 
 aquele caminho.
 \v Mt.8.29
-E eis que gritaram, dizendo: “Que temos contigo, 
+E eis que gritaram, dizendo: “Que temos Contigo, 
 Jesus,
 \fn
 N4 não contém “Jesus"
@@ -942,14 +942,14 @@ N4 não contém “Jesus"
 \v Mt.8.30
 E, longe deles, havia uma manada de muitos porcos pastando.
 \v Mt.8.31
-E os demônios rogaram-lhe, dizendo: “Se nos expulsas, 
+E os demônios rogaram-Lhe, dizendo: “Se nos expulsas, 
 permite-nos
 \fn
 TR, RP: permite-nos - N4: manda-nos
 \*fn
  entrar naquela manada de porcos”.
 \v Mt.8.32
-E ele lhes disse: “Ide”. E eles, saindo, e entraram 
+E Ele lhes disse: “Ide”. E eles, saindo, e entraram 
 na manada de
  porcos;
 \fn
@@ -972,11 +972,11 @@ acontecera
 \*added
  aos endemoninhados.
 \v Mt.8.34
-E eis que toda aquela cidade saiu ao encontro de Jesus; e, vendo-o, rogaram-lhe que se retirasse do território deles.
+E eis que toda aquela cidade saiu ao encontro de Jesus; e, vendo-O, rogaram-Lhe que se retirasse do território deles.
 \v Mt.9.1
-E, entrando no barco, passou para o outro lado, e veio à sua própria cidade.
+E, entrando no barco, passou para o outro lado, e veio à Sua própria cidade.
 \v Mt.9.2
-E eis que lhe trouxeram um paralítico, deitado num leito. E Jesus, vendo a fé deles, disse ao paralítico: “Tem bom 
+E eis que Lhe trouxeram um paralítico, deitado num leito. E Jesus, vendo a fé deles, disse ao paralítico: “Tem bom 
 ânimo, filho! Teus pecados são perdoados”.
 \v Mt.9.3
 E eis que alguns dos escribas diziam entre si: “Ele blasfema”.
@@ -985,7 +985,7 @@ Mas Jesus, conhecendo seus pensamentos, disse: “Por que pensais o mal em vosso
 \v Mt.9.5
 Pois o que é mais fácil? Dizer: ‘Teus pecados são perdoados’, ou dizer: ‘Levanta-te, e anda’?
 \v Mt.9.6
-Assim, para que saibais que o Filho do homem tem autoridade na terra para perdoar pecados”, (ele, então, disse ao 
+Assim, para que saibais que o Filho do homem tem autoridade na terra para perdoar pecados”, (Ele, então, disse ao 
 paralítico): “Levanta-te, toma teu leito, e vai para tua casa”.
 \v Mt.9.7
 E aquele se levantou e foi para sua casa.
@@ -1002,7 +1002,7 @@ TR, RP: maravilharam-se - N4: tiveram medo
 \*fn
  e glorificaram a Deus, que havia dado tal autoridade aos homens.
 \v Mt.9.9
-E Jesus, passando dali, viu um homem sentado na coletoria de impostos, chamado Mateus; e disse-lhe: “Segue-me”. Então 
+E Jesus, passando dali, viu um homem sentado na coletoria de impostos, chamado Mateus; e disse-lhe: “Segue-Me”. Então 
 este se levantou e o seguiu.
 \v Mt.9.10
 E aconteceu que, estando 
@@ -1017,13 +1017,13 @@ Jesus
 \added
 à mesa
 \*added
- juntamente com Jesus e seus discípulos.
+ juntamente com Jesus e Seus discípulos.
 \v Mt.9.11
 E os fariseus, vendo 
 \added
 isso
 \*added
-, disseram aos seus discípulos: “Por que vosso Mestre come com publicanos e pecadores?”
+, disseram aos Seus discípulos: “Por que vosso Mestre come com publicanos e pecadores?”
 \v Mt.9.12
 Porém 
 Jesus
@@ -1049,13 +1049,13 @@ Porque eu não vim chamar os justos, mas sim, os pecadores
 N4 não contém “ao arrependimento”
 \*fn
 \v Mt.9.14
-Então os discípulos de João vieram a ele, dizendo: “Por que nós e os fariseus jejuamos
+Então os discípulos de João vieram a Ele, dizendo: “Por que nós e os fariseus jejuamos
  muitas vezes
 ,
 \fn
 N4 não contém “muitas vezes”
 \*fn
- mas teus discípulos não jejuam?”
+ mas Teus discípulos não jejuam?”
 \v Mt.9.15
 E Jesus lhes respondeu: “Podem, por acaso, os convidados do casamento
 \fn
@@ -1071,16 +1071,16 @@ E ninguém põe remendo de pano novo em roupa velha; porque tal remendo rasga a 
 Nem se põe vinho novo em odres velhos; pois senão os odres se rompem, o vinho se derrama, e os odres ficam 
 inutilizáveis; mas se põe o vinho novo em odres novos, e ambos juntamente se conservam”.
 \v Mt.9.18
-Estando ele dizendo essas coisas, eis que um chefe veio e prostrou-se diante dele, dizendo: “Minha filha 
-faleceu agora mesmo; mas vem, impõe tua mão sobre ela, e ela viverá”.
+Estando Ele dizendo essas coisas, eis que um chefe veio e prostrou-se diante dEle, dizendo: “Minha filha 
+faleceu agora mesmo; mas vem, impõe Tua mão sobre ela, e ela viverá”.
 \v Mt.9.19
 Então Jesus, levantando-se, seguiu-o com seus discípulos.
 \v Mt.9.20
 E eis que uma mulher, enferma de um fluxo de sangue havia doze anos, vindo por trás 
 \added
-dele
+dEle
 \*added
-, tocou a borda de seu manto;
+, tocou a borda de Seu manto;
 \v Mt.9.21
 porque dizia consigo: “Se eu apenas tocar seu manto, serei curada”.
 \v Mt.9.22
@@ -1106,16 +1106,16 @@ E essa notícia se espalhou por toda aquela região.
 \v Mt.9.27
 E Jesus, partindo dali, dois cegos o seguiram, clamando e dizendo: “Tem compaixão de nós, Filho de Davi!”
 \v Mt.9.28
-E quando chegou em casa, os cegos vieram a ele. E Jesus lhes disse: “Vós credes que posso fazer isso?” Eles lhe 
+E quando chegou em casa, os cegos vieram a Ele. E Jesus lhes disse: “Vós credes que posso fazer isso?” Eles Lhe 
 disseram: “Sim, Senhor”.
 \v Mt.9.29
 Então tocou os olhos deles, dizendo: “Seja feito convosco segundo a vossa fé”.
 \v Mt.9.30
 E os olhos deles se abriram. E Jesus os advertiu severamente, dizendo: “Tende atenção que ninguém saiba disso”.
 \v Mt.9.31
-Mas, havendo eles saído, divulgaram sua fama por toda aquela região.
+Mas, havendo eles saído, divulgaram Sua fama por toda aquela região.
 \v Mt.9.32
-E estando eles saindo, eis que lhe trouxeram um
+E estando eles saindo, eis que Lhe trouxeram um
  homem
 \fn
 N4 não contém “homem”
@@ -1125,7 +1125,7 @@ N4 não contém “homem”
 E quando o demônio foi expulso, o mudo falou. E as multidões ficaram maravilhadas, dizendo: “Nunca tal coisa se viu 
 em Israel!”
 \v Mt.9.34
-Mas os fariseus diziam: “É pelo chefe dos demônios que ele expulsa os demônios”.
+Mas os fariseus diziam: “É pelo chefe dos demônios que Ele expulsa os demônios”.
 \v Mt.9.35
 E Jesus percorria todas as cidades e aldeias, ensinando em suas sinagogas, pregando o Evangelho do Reino, e curando 
 toda enfermidade e toda doença
@@ -1142,9 +1142,9 @@ TR: desgarradas - RP, N4: afligidas
 \*fn
  e desamparadas, como ovelhas que não têm pastor.
 \v Mt.9.37
-Então disse aos seus discípulos: “Em verdade a colheita é grande, porém os trabalhadores, poucos.
+Então disse aos Seus discípulos: “Em verdade a colheita é grande, porém os trabalhadores, poucos.
 \v Mt.9.38
-Portanto, rogai ao Senhor da colheita que envie trabalhadores à sua colheita”.
+Portanto, rogai ao Senhor da colheita que envie trabalhadores à Sua colheita”.
 \v Mt.10.1
 E, chamando a si os seus doze discípulos, deu-lhes poder sobre os espíritos imundos, para os expulsarem, e curarem 
 toda enfermidade e toda doença.
@@ -1203,7 +1203,7 @@ as pombas.
 \v Mt.10.17
 Porém tende cuidado das pessoas; porque vos entregarão em tribunais, e vos açoitarão em suas sinagogas;
 \v Mt.10.18
-E até perante governadores e reis vós sereis levados por causa de mim, para dar testemunho a eles e aos gentios.
+E até perante governadores e reis vós sereis levados por causa de Mim, para dar testemunho a eles e aos gentios.
 \v Mt.10.19
 Mas quando vos entregarem, não estejais ansiosos de como ou que falareis; porque naquela mesma hora vos será dado o 
 que deveis falar.
@@ -1212,7 +1212,7 @@ Porque não sois vós que falais, mas sim, o Espírito de vosso Pai, que fala em
 \v Mt.10.21
 E irmão entregará irmão à morte, e pai o filho; e filhos se levantarão contra os pais, e os matarão.
 \v Mt.10.22
-E sereis odiados por todos por causa de meu nome; mas aquele que perseverar até o fim, esse será salvo.
+E sereis odiados por todos por causa de Meu nome; mas aquele que perseverar até o fim, esse será salvo.
 \v Mt.10.23
 Assim, quando vos perseguirem nessa cidade, fugi para outra; porque em verdade vos digo que não acabareis de 
 \added
@@ -1246,9 +1246,9 @@ E até os cabelos de vossas cabeças estão todos contados.
 \v Mt.10.31
 Assim, não tenhais medo; vós valeis mais que muitos pardais.
 \v Mt.10.32
-Portanto, qualquer que me reconhecer diante das pessoas, também eu o reconhecerei diante de meu Pai, que está nos céus.
+Portanto, qualquer que Me reconhecer diante das pessoas, também eu o reconhecerei diante de Meu Pai, que está nos céus.
 \v Mt.10.33
-Mas qualquer que me negar diante das pessoas, também eu o negarei diante de meu Pai, que está nos céus.
+Mas qualquer que Me negar diante das pessoas, também eu o negarei diante de Meu Pai, que está nos céus.
 \v Mt.10.34
 Não penseis que vim trazer paz à terra. Não vim trazer paz, mas sim, espada.
 \v Mt.10.35
@@ -1259,13 +1259,13 @@ E os inimigos do homem serão os de sua própria casa’.
 Miqueias 7:6 
 \*ref
 \v Mt.10.37
-Quem ama pai ou mãe mais que a mim não é digno de mim; e quem ama filho ou filha mais que a mim não é digno de mim;
+Quem ama pai ou mãe mais que a Mim não é digno de Mim; e quem ama filho ou filha mais que a Mim não é digno de Mim;
 \v Mt.10.38
-E quem não toma sua cruz e segue após mim não é digno de mim.
+E quem não toma sua cruz e segue após Mim não é digno de Mim.
 \v Mt.10.39
-Quem achar sua vida a perderá; e quem, por causa de mim, perder sua vida, a achará.
+Quem achar sua vida a perderá; e quem, por causa de Mim, perder sua vida, a achará.
 \v Mt.10.40
-Quem vos recebe, recebe a mim; e quem me recebe, recebe aquele que me enviou.
+Quem vos recebe, recebe a Mim; e quem Me recebe, recebe aquele que Me enviou.
 \v Mt.10.41
 Quem recebe um profeta na qualidade de profeta receberá recompensa de profeta; e quem recebe um justo na qualidade 
 justo receberá recompensa de justo.
@@ -1287,14 +1287,14 @@ E João, ouvindo na prisão as obras de Cristo, enviou
  dois de
  seus discípulos,
 \v Mt.11.3
-dizendo-lhe: “És tu aquele que havia de vir, ou esperamos outro?”
+dizendo-Lhe: “És Tu aquele que havia de vir, ou esperamos outro?”
 \v Mt.11.4
 E Jesus, respondendo, disse-lhes: “Ide e anunciai a João as coisas que vós ouvis e vedes:
 \v Mt.11.5
 os cegos veem, e os mancos andam; os leprosos são limpos, e os surdos ouvem; os mortos são ressuscitados, e aos 
 pobres é anunciado o Evangelho;
 \v Mt.11.6
-E bem-aventurado é aquele que não acha motivo de tropeço por minha causa”.
+E bem-aventurado é aquele que não acha motivo de tropeço por Minha causa”.
 \fn
 Ou: não se ofende em mim
 \*fn
@@ -1307,8 +1307,8 @@ palácios dos reis.
 \v Mt.11.9
 Mas que vós saístes para ver? Um profeta? Sim, eu vos digo, e muito mais que um profeta;
 \v Mt.11.10
-Porque este é aquele sobre o qual está escrito: ‘Eis que diante de tua face envio o meu mensageiro, que 
-preparará o teu caminho diante de ti.’ 
+Porque este é aquele sobre o qual está escrito: ‘Eis que diante de Tua face envio o Meu mensageiro, que 
+preparará o Teu caminho diante de Ti.’ 
 \ref
 Malaquias 3:1 
 \*ref
@@ -1354,7 +1354,7 @@ seus filhos
 TR, RP: seus filhos - N4: suas obras
 \*fn
 \v Mt.11.20
-Então ele começou a repreender as cidades em que a maioria de seus milagres haviam sido feitos, por não terem 
+Então Ele começou a repreender as cidades em que a maioria de Seus milagres haviam sido feitos, por não terem 
 se arrependido:
 \v Mt.11.21
 “Ai de ti, Corazim! Ai de ti, Betsaida! Porque se em Tiro e em Sidom tivessem sido feitos os milagres que em vós 
@@ -1377,22 +1377,22 @@ permanecido até hoje.
 \v Mt.11.24
 Porém eu vos digo que mais tolerável será para os da região de Sodoma, no dia de juízo, que para ti”.
 \v Mt.11.25
-Naquele tempo Jesus, respondendo, disse: “Graças te dou, Pai, Senhor do céu e da terra, porque escondeste estas coisas 
+Naquele tempo Jesus, respondendo, disse: “Graças Te dou, Pai, Senhor do céu e da terra, porque escondeste estas coisas 
 aos sábios e entendidos, e as revelaste às crianças.
 \v Mt.11.26
 Sim, Pai, porque assim te agradou em teus olhos.
 \v Mt.11.27
-Todas as coisas me foram entregues por meu Pai; e ninguém conhece o Filho, senão o Pai; nem ninguém conhece o Pai, 
+Todas as coisas Me foram entregues por Meu Pai; e ninguém conhece o Filho, senão o Pai; nem ninguém conhece o Pai, 
 senão o Filho, e a quem o Filho quiser revelar.
 \v Mt.11.28
-Vinde a mim todos vós que estais cansados e sobrecarregados, e eu vos farei descansar.
+Vinde a Mim todos vós que estais cansados e sobrecarregados, e eu vos farei descansar.
 \v Mt.11.29
-Tomai sobre vós meu jugo e aprendei de mim, que sou manso e humilde de coração; e achareis descanso para 
+Tomai sobre vós Meu jugo e aprendei de Mim, que sou manso e humilde de coração; e achareis descanso para 
 vossas almas.
 \v Mt.11.30
-Porque meu jugo é suave e minha carga é leve”.
+Porque Meu jugo é suave e Minha carga é leve”.
 \v Mt.12.1
-Naquele tempo, Jesus ia por campos de cereais num sábado. E seus discípulos tinham fome, e começaram a arrancar 
+Naquele tempo, Jesus ia por campos de cereais num sábado. E Seus discípulos tinham fome, e começaram a arrancar 
 espigas e a comer.
 \v Mt.12.2
 E os fariseus, vendo, disseram-lhe: “Eis que teus discípulos fazem o que não é lícito fazer no sábado”.
@@ -1449,20 +1449,20 @@ Muitas multidões
 \fn
 TR, RP: Muitas multidões - N4: Muitos
 \*fn
- o seguiram, e ele curou a todos.
+ o seguiram, e Ele curou a todos.
 \v Mt.12.16
 E mandava-lhes rigorosamente que não o divulgassem;
 \v Mt.12.17
 para que se cumprisse o que fora dito pelo profeta Isaías, que disse:
 \v Mt.12.18
-“Eis aqui meu servo, a quem escolhi, meu amado, em quem minha alma se agrada. Porei sobre ele meu Espírito, e ele 
+“Eis aqui meu servo, a quem escolhi, meu amado, em quem minha alma se agrada. Porei sobre Ele meu Espírito, e Ele 
 anunciará justiça às nações.
 \v Mt.12.19
 Ele não fará briga, nem gritará; ninguém ouvirá sua voz pelas ruas.
 \v Mt.12.20
 Não quebrará a cana rachada, nem apagará o pavio que fumega, até que leve a justiça à vitória.
 \v Mt.12.21
-E em seu nome as nações terão esperança”.
+E em Seu nome as nações terão esperança”.
 \ref
 Isaías 42:1-4 
 \*ref
@@ -1503,7 +1503,7 @@ Mas se eu expulso demônios pelo Espírito de Deus, então o reino de Deus já c
 Ou como pode alguém entrar na casa do valente, e saquear seus bens, sem primeiro amarrar ao valente? Somente depois 
 saquearia sua casa.
 \v Mt.12.30
-Quem não é comigo é contra mim; e quem não ajunta comigo, espalha.
+Quem não é Comigo é contra Mim; e quem não ajunta Comigo, espalha.
 \v Mt.12.31
 Portanto eu vos digo: todo pecado e blasfêmia serão perdoados aos seres humanos; mas a blasfêmia contra o Espírito 
 não será perdoada
@@ -1536,7 +1536,7 @@ Então uns dos escribas e dos fariseus responderam
 \fn
 N4: responderam-lhe
 \*fn
-, dizendo: “Mestre, queremos ver de ti algum sinal”.
+, dizendo: “Mestre, queremos ver de Ti algum sinal”.
 \v Mt.12.39
 Mas ele respondeu, e disse-lhes: “Uma geração má e adúltera pede sinal; mas não lhe será dado, exceto o sinal do 
 profeta Jonas.
@@ -1562,17 +1562,17 @@ estado
 \v Mt.12.46
 E, estando ele a falar às multidões, eis que sua mãe e seus irmãos estavam fora, querendo falar com ele.
 \v Mt.12.47
-E alguém lhe disse: “Eis que tua mãe e teus irmãos estão fora, querendo falar contigo”.
+E alguém Lhe disse: “Eis que tua mãe e teus irmãos estão fora, querendo falar contigo”.
 \v Mt.12.48
-Porém ele, respondendo, disse ao que lhe avisara: “Quem é minha mãe? E quem são meus irmãos?”
+Porém ele, respondendo, disse ao que lhe avisara: “Quem é Minha mãe? E quem são Meus irmãos?”
 \v Mt.12.49
-E, estendendo sua mão aos seus discípulos, disse: “Eis aqui minha mãe e meus irmãos;
+E, estendendo Sua mão aos Seus discípulos, disse: “Eis aqui minha mãe e meus irmãos;
 \v Mt.12.50
-pois quem fizer a vontade de meu Pai, que está nos céus, esse é meu irmão, e irmã, e mãe”.
+pois quem fizer a vontade de Meu Pai, que está nos céus, esse é Meu irmão, e irmã, e mãe”.
 \v Mt.13.1
 E Jesus, havendo saído de casa naquele dia, assentou-se junto ao mar.
 \v Mt.13.2
-E aproximaram-se dele tantas multidões, que ele, entrando num barco, assentou-se; e toda a multidão ficou na praia,
+E aproximaram-se dEle tantas multidões, que Ele, entrando num barco, assentou-se; e toda a multidão ficou na praia,
 \v Mt.13.3
 E falou-lhes muitas coisas por parábolas, dizendo: “Eis que o semeador saiu a semear.
 \v Mt.13.4
@@ -1602,7 +1602,7 @@ N4 não contém “para ouvir”
 \*fn
  ouça”.
 \v Mt.13.10
-E os discípulos, aproximando-se, disseram-lhe: “Por que lhes falas por parábolas?”
+E os discípulos, aproximando-se, disseram-Lhe: “Por que lhes falas por parábolas?”
 \v Mt.13.11
 E ele
  lhes
@@ -1676,7 +1676,7 @@ medidas de farinha, até que tudo esteja fermentado”.
 \v Mt.13.34
 Tudo isto Jesus falou por parábolas às multidões, e não lhes falava sem parábolas,
 \v Mt.13.35
-para que se cumprisse o que foi falado pelo profeta, que disse: “Abrirei minha boca em parábolas; publicarei 
+para que se cumprisse o que foi falado pelo profeta, que disse: “Abrirei Minha boca em parábolas; publicarei 
 coisas escondidas desde a fundação
  do mundo
 .
@@ -1692,7 +1692,7 @@ Jesus
 \fn
 N4 não contém “Jesus”
 \*fn
-, havendo despedido as multidões, foi para casa. E seus discípulos se aproximaram dele, dizendo: “Explica-nos a 
+, havendo despedido as multidões, foi para casa. E Seus discípulos se aproximaram dEle, dizendo: “Explica-nos a 
 parábola do joio do campo”.
 \v Mt.13.37
 E ele
@@ -1708,7 +1708,7 @@ E o inimigo, que o semeou, é o diabo; e a colheita é o fim deste mundo; e os q
 \v Mt.13.40
 De maneira que, como o joio é colhido e queimado no fogo, assim também será no fim deste mundo.
 \v Mt.13.41
-O Filho do homem enviará seus anjos, e eles recolherão do seu Reino todas os motivos de tropeço, e os que 
+O Filho do homem enviará Seus anjos, e eles recolherão do Seu Reino todas os motivos de tropeço, e os que 
 praticam injustiça,
 \v Mt.13.42
 e os lançarão na fornalha de fogo. Ali haverá choro e ranger de dentes.
@@ -1745,7 +1745,7 @@ E disse-lhes Jesus:
 N4 não contém “E disse-lhes Jesus”
 \*fn
  
- “Entendestes todas essas coisas?” Eles lhe responderam: “Sim
+ “Entendestes todas essas coisas?” Eles Lhe responderam: “Sim
 , Senhor
 ”.
 \fn
@@ -1763,7 +1763,7 @@ vem
 \*added
  essa sabedoria e esses milagres?
 \v Mt.13.55
-Não é este o filho do carpinteiro? E não se chama sua mãe Maria, e seus irmãos Tiago, José, Simão, e Judas?
+Não é este o filho do carpinteiro? E não se chama Sua mãe Maria, e Seus irmãos Tiago, José, Simão, e Judas?
 \v Mt.13.56
 Não estão todas as suas irmãs conosco? Ora, de onde lhe 
 \added
@@ -1820,9 +1820,9 @@ que vão às aldeias, e comprem para si de comer”.
 \v Mt.14.16
 Mas Jesus lhes disse: “Não é necessário que vão; dai-lhes vós mesmos de comer”.
 \v Mt.14.17
-Porém eles lhe disseram: “Não temos aqui senão cinco pães e dois peixes”.
+Porém eles Lhe disseram: “Não temos aqui senão cinco pães e dois peixes”.
 \v Mt.14.18
-E ele disse: “Trazei-os aqui a mim”.
+E Ele disse: “Trazei-os aqui a Mim”.
 \v Mt.14.19
 E, mandando às multidões que se assentassem sobre a grama, tomou os cinco pães e dois peixes, levantou os olhos ao 
 céu, e os abençoou. E, partindo os pães, deu-os aos discípulos, e os discípulos às multidões.
@@ -1837,11 +1837,11 @@ Jesus
 N4 não contém “Jesus”
 \*fn
  mandou que 
-seus
+Seus
 \fn
 RP, N4 não contém “seus”
 \*fn
- discípulos entrassem no barco, e fossem adiante dele para a outra margem, enquanto despedia as multidões.
+ discípulos entrassem no barco, e fossem adiante dEle para a outra margem, enquanto despedia as multidões.
 \v Mt.14.23
 E, despedidas as multidões, ele subiu ao monte à parte para orar. E, chegada a noite, estava ali só.
 \v Mt.14.24
@@ -1864,9 +1864,9 @@ E os discípulos, vendo-o andar sobre o mar, assustaram-se, dizendo: “É um fa
 \v Mt.14.27
 Mas Jesus logo lhes falou, dizendo: “Tende bom ânimo! Sou eu, não tenhais medo”.
 \v Mt.14.28
-E Pedro lhe respondeu, dizendo: “Senhor, se és tu, manda-me vir a ti sobre as águas”.
+E Pedro lhe respondeu, dizendo: “Senhor, se és Tu, manda-me vir a Ti sobre as águas”.
 \v Mt.14.29
-E ele disse: “Vem”. E Pedro, descendo do barco, andou sobre as águas, para ir até Jesus.
+E Ele disse: “Vem”. E Pedro, descendo do barco, andou sobre as águas, para ir até Jesus.
 \v Mt.14.30
 Mas, sentindo o vento
  forte
@@ -1891,7 +1891,7 @@ E, passando para a outra margem, chegaram à terra de Genesaré.
 E quando os homens daquele lugar o reconheceram, avisaram por toda aquela região em redor, e trouxeram-lhe todos 
 os que estavam enfermos.
 \v Mt.14.36
-E rogavam-lhe que tão somente tocassem a borda de sua roupa; e todos os que a tocavam eram curados.
+E rogavam-Lhe que tão somente tocassem a borda de Sua roupa; e todos os que a tocavam eram curados.
 \v Mt.15.1
 Então chegaram a Jesus uns 
 escribas e fariseus
@@ -1900,9 +1900,9 @@ N4:fariseus e escribas
 \*fn
  de Jerusalém, dizendo:
 \v Mt.15.2
-“Por que teus discípulos transgridem a tradição dos anciãos? Pois não lavam as mãos quando comem pão”.
+“Por que Teus discípulos transgridem a tradição dos anciãos? Pois não lavam as mãos quando comem pão”.
 \v Mt.15.3
-Porém ele, respondendo, disse-lhes: “E vós, por que transgredis o mandamento de Deus por vossa tradição?”
+Porém Ele, respondendo, disse-lhes: “E vós, por que transgredis o mandamento de Deus por vossa tradição?”
 \v Mt.15.4
 Pois Deus
  mandou, dizendo
@@ -1937,14 +1937,14 @@ TR, RP: o mandamento - N4: a palavra
 Hipócritas! Isaías bem profetizou sobre vós, dizendo:
 \v Mt.15.8
 ‘Este povo
- com sua boca se aproxima de mim, e
+ com sua boca se aproxima de Mim, e
 \fn
 N4 não contém “com sua boca se aproxima de mim, e”
 \*fn
  com os lábios
- me honra; mas seu coração está longe de mim.
+ Me honra; mas seu coração está longe de Mim.
 \v Mt.15.9
-Mas em vão me adoram, ensinando por doutrinas mandamentos humanos’”.
+Mas em vão Me adoram, ensinando por doutrinas mandamentos humanos’”.
 \ref
 Isaías 29:13 
 \*ref
@@ -1960,11 +1960,11 @@ N4 não contém “seus”
 \*fn
  discípulos, disseram-lhe: “Sabes que os fariseus se escandalizaram quando ouviram essa palavra?”
 \v Mt.15.13
-Mas ele, respondendo, disse: “Toda planta que meu Pai celestial não plantou será arrancada.
+Mas Ele, respondendo, disse: “Toda planta que Meu Pai celestial não plantou será arrancada.
 \v Mt.15.14
 Deixai-os, são guias cegos de cegos; e, se cego guiar cego, ambos cairão na cova”.
 \v Mt.15.15
-E Pedro, respondendo, disse-lhe: “Explica-nos 
+E Pedro, respondendo, disse-Lhe: “Explica-nos 
 :essa
 \fn
 TR, RP: essa - N4: a
@@ -1995,7 +1995,7 @@ São estas coisas que contaminam o ser humano; mas comer sem lavar as mãos não
 E, havendo Jesus partido dali, foi para as partes de Tiro e de Sidom.
 \v Mt.15.22
 E eis que uma mulher cananeia, vinda daquela região, clamou
--lhe
+-Lhe
 \fn
 N4 não contém “-lhe”
 \*fn
@@ -2004,9 +2004,9 @@ N4 não contém “-lhe”
 Mas ele não lhe respondeu palavra. E seus discípulos, aproximando-se dele, rogaram-lhe, dizendo: “Manda-a embora, 
 porque vem gritando atrás de nós”.
 \v Mt.15.24
-E ele, respondendo, disse: “Não fui enviado, senão para as ovelhas perdidas da casa de Israel”.
+E Ele, respondendo, disse: “Não fui enviado, senão para as ovelhas perdidas da casa de Israel”.
 \v Mt.15.25
-Então ela se aproximou e se prostrou diante dele, dizendo: “Senhor, socorre-me”.
+Então ela se aproximou e se prostrou diante dEle, dizendo: “Senhor, socorre-me”.
 \v Mt.15.26
 Porém ele, respondendo, disse: “Não é bom tomar o pão dos filhos e lançá-lo aos cachorrinhos”.
 \v Mt.15.27
@@ -2020,33 +2020,33 @@ Então Jesus lhe respondeu: “Ó mulher, grande
 \v Mt.15.29
 E havendo Jesus partido dali, veio ao mar da Galileia. E, subindo num monte, assentou-se ali.
 \v Mt.15.30
-E vieram a ele muitas multidões, trazendo mancos,
+E vieram a Ele muitas multidões, trazendo mancos,
  cegos, mudos,
  aleijados,
 \fn
 N4 coloca “aleijados” antes de “cegos”
 \*fn
- e muitos outros; e os lançaram aos pés de Jesus, e ele os curou.
+ e muitos outros; e os lançaram aos pés de Jesus, e Ele os curou.
 \v Mt.15.31
 De maneira que as multidões se maravilhavam, vendo os mudos falarem, os aleijados sãos, os mancos andarem, e os cegos 
 verem; e glorificavam o Deus de Israel.
 \v Mt.15.32
-E Jesus, chamando a si seus discípulos, disse: “Tenho compaixão da multidão, porque já há três dias que estão comigo, 
+E Jesus, chamando a si seus discípulos, disse: “Tenho compaixão da multidão, porque já há três dias que estão Comigo, 
 e não têm o que comer; e não quero deixá-los ir em jejum, para que não desmaiem no caminho”.
 \v Mt.15.33
 E os
- seus
+ Seus
 \fn
 N4 não contém “seus”
 \*fn
- discípulos lhe disseram: “De onde teríamos tantos pães no deserto, para saciar tão grande multidão?”
+ discípulos Lhe disseram: “De onde teríamos tantos pães no deserto, para saciar tão grande multidão?”
 \v Mt.15.34
 E Jesus lhes disse: “Quantos pães tendes?” E eles disseram: “Sete; e uns poucos peixinhos”.
 \v Mt.15.35
 E mandou às multidões que se assentassem pelo chão.
 \v Mt.15.36
 E, tomando os sete pães e os peixes, e dando graças, partiu-os, e deu aos
- seus
+ Seus
 \fn
 N4 não contém “seus”
 \*fn
@@ -2070,7 +2070,7 @@ TR, RP: Magdala - N4: Magadã
 \v Mt.16.1
 E, aproximando-se dele os fariseus e os saduceus, e tentando-o, pediram-lhe que lhes mostrasse algum sinal do céu.
 \v Mt.16.2
-Mas ele, respondendo, disse-lhes: Quando é chegada a tarde, vós dizeis: “ 
+Mas Ele, respondendo, disse-lhes: Quando é chegada a tarde, vós dizeis: “ 
 \added
 Haverá
 \*added
@@ -2095,7 +2095,7 @@ TR, RP: do profeta - N4: de
  Jonas. E, deixando-os, retirou-se.
 \v Mt.16.5
 E vindo os
- seus
+ Seus
 \fn
 N4 não contém “seus”
 \*fn
@@ -2132,7 +2132,7 @@ e saduceus”.
 Então entenderam que não havia dito que tomassem cuidado com o fermento do pão, mas com a doutrina dos fariseus 
 e saduceus.
 \v Mt.16.13
-E Jesus, chegando às partes da Cesareia de Filipe, perguntou a seus discípulos: “Quem as pessoas dizem que 
+E Jesus, chegando às partes da Cesareia de Filipe, perguntou a Seus discípulos: “Quem as pessoas dizem que 
 eu, 
 o Filho do homem
 , sou
@@ -2148,9 +2148,9 @@ Ele lhes disse: “E vós, quem dizeis que eu sou?”
 E Simão Pedro, respondendo, disse: “Tu és o Cristo, o Filho do Deus vivo”.
 \v Mt.16.17
 E Jesus, respondendo, disse-lhe: “Bem-aventurado és tu, Simão, filho de Jonas; porque não foi carne e sangue que te 
-revelou isso, mas meu Pai, que está nos céus.
+revelou isso, mas Meu Pai, que está nos céus.
 \v Mt.16.18
-E eu também te digo que tu és Pedro, e sobre esta pedra edificarei minha igreja; e as portas do Xeol
+E eu também te digo que tu és Pedro, e sobre esta pedra edificarei Minha igreja; e as portas do Xeol
 \fn
 Xeol é o lugar dos mortos. Lit. Hades
 \*fn
@@ -2165,11 +2165,11 @@ N4 não contém “E”
 tu desligares na terra será desligado nos céus”.
 \v Mt.16.20
 Então mandou aos
- seus
+ Seus
 \fn
 N4 não contém “seus”
 \*fn
- discípulos que a ninguém dissessem que ele era
+ discípulos que a ninguém dissessem que Ele era
  Jesus,
 \fn
 N4 não contém “Jesus”
@@ -2183,16 +2183,16 @@ N4: Jesus Cristo
  começou a mostrar a seus discípulos que ele tinha de ir a Jerusalém, e sofrer muito da parte dos anciãos, dos chefes 
 dos sacerdotes, e dos escribas, e ser morto, e ser ressuscitado ao terceiro dia.
 \v Mt.16.22
-E Pedro, tomando-o à parte, começou a repreendê-lo, dizendo: “Misericórdia de ti, Senhor! De modo nenhum isso 
-te aconteça”.
+E Pedro, tomando-O à parte, começou a repreendê-Lo, dizendo: “Misericórdia de Ti, Senhor! De modo nenhum isso 
+Te aconteça”.
 \v Mt.16.23
-Ele, porém, virando-se, disse a Pedro: “Afasta-te de diante de mim, Satanás! Tu me és pedra de tropeço, porque não 
+Ele, porém, virando-se, disse a Pedro: “Afasta-te de diante de Mim, Satanás! Tu Me és pedra de tropeço, porque não 
 compreendes as coisas de Deus, mas sim, as humanas”.
 \v Mt.16.24
-Então Jesus disse a seus discípulos: “Se alguém quiser vir após mim, negue-se a si mesmo, tome sobre si sua cruz, 
-e siga-me.
+Então Jesus disse a seus discípulos: “Se alguém quiser vir após Mim, negue-se a si mesmo, tome sobre si sua cruz, 
+e siga-Me.
 \v Mt.16.25
-Pois quem quiser salvar sua vida, a perderá; porém quem por minha causa perder sua vida, a achará.
+Pois quem quiser salvar sua vida, a perderá; porém quem por Minha causa perder sua vida, a achará.
 \v Mt.16.26
 Pois que proveito 
 há
@@ -2204,20 +2204,20 @@ N4: haverá
 Pois o Filho do homem virá na glória de seu Pai com seus anjos, e então recompensará a cada um segundo suas obras.
 \v Mt.16.28
 Em verdade vos digo, que há alguns dos que aqui estão, que não experimentarão a morte, até que vejam o Filho do homem 
-vir em seu Reino”.
+vir em Seu Reino”.
 \v Mt.17.1
 Seis dias depois, Jesus tomou consigo Pedro, Tiago, e seu irmão João, e os levou à parte a um alto monte.
 \v Mt.17.2
-E transfigurou-se diante deles; seu rosto brilhou como o sol, e suas roupas se tornaram brancas como a luz.
+E transfigurou-se diante deles; Seu rosto brilhou como o sol, e Suas roupas se tornaram brancas como a luz.
 \v Mt.17.3
-E eis que lhes apareceram Moisés e Elias, falando com ele.
+E eis que lhes apareceram Moisés e Elias, falando com Ele.
 \v Mt.17.4
 E Pedro, tomando a palavra, disse a Jesus: “Senhor, bom nos é estarmos aqui. Se queres, 
 façamos
 \fn
 N4: farei
 \*fn
- aqui três tendas: uma para ti, uma para Moisés, e uma para Elias”.
+ aqui três tendas: uma para Ti, uma para Moisés, e uma para Elias”.
 \v Mt.17.5
 Estando ele ainda estava falando, eis que uma nuvem brilhante os cobriu. E eis que uma voz da nuvem dizia: “Este é 
 meu Filho amado, em quem me agrado; a ele escutai”.
@@ -2232,11 +2232,11 @@ E estando eles descendo do monte, Jesus lhes mandou, dizendo: “Não conteis a 
 homem seja ressuscitado dos mortos”.
 \v Mt.17.10
 E os 
-seus
+Seus
 \fn
 N4 não contém “seus”
 \*fn
- discípulos lhe perguntaram, dizendo: “Por que, então, os escribas dizem que Elias tem de vir primeiro?”
+ discípulos Lhe perguntaram, dizendo: “Por que, então, os escribas dizem que Elias tem de vir primeiro?”
 \v Mt.17.11
 Jesus lhes
 \fn
@@ -2249,15 +2249,15 @@ Filho do homem sofrerá da parte deles”.
 \v Mt.17.13
 Então os discípulos entenderam que lhes falara de João Batista.
 \v Mt.17.14
-E quando chegaram à multidão, veio a ele um homem, pondo-se de joelhos diante dele, e dizendo:
+E quando chegaram à multidão, veio a Ele um homem, pondo-se de joelhos diante dEle, e dizendo:
 \v Mt.17.15
 “Senhor, tem misericórdia de meu filho, que tem convulsões, e sofre muito; porque muitas vezes cai no fogo, e muitas 
 vezes na água.
 \v Mt.17.16
-E o trouxe a teus discípulos, mas não puderam curá-lo”.
+E o trouxe a Teus discípulos, mas não puderam curá-lo”.
 \v Mt.17.17
 E Jesus, respondendo, disse: “Ó geração incrédula e perversa! Até quando estarei convosco? Até quando vos suportarei? 
-Trazei-o a mim aqui”.
+Trazei-o a Mim aqui”.
 \v Mt.17.18
 Então Jesus o repreendeu, e o demônio saiu dele; e o menino sarou desde aquela hora.
 \v Mt.17.19
@@ -2304,7 +2304,7 @@ N4 não contém “lhe”
  disse: “Dos estranhos”. Jesus lhe disse: “Logo, os filhos estão livres.
 \v Mt.17.27
 Mas, para não os escandalizarmos, vai ao mar, e lança o anzol. Tira o primeiro peixe que subir, e, abrindo-lhe a boca, 
-acharás uma moeda de quatro dracmas. Toma esta, e dê a eles por mim e por ti”.
+acharás uma moeda de quatro dracmas. Toma esta, e dê a eles por Mim e por ti”.
 \v Mt.18.1
 Naquela hora os discípulos se aproximaram de Jesus, dizendo: “Quem é o maior no Reino dos céus?”
 \v Mt.18.2
@@ -2315,9 +2315,9 @@ Reino dos céus.
 \v Mt.18.4
 Portanto, quem for humilde como esta criança, este é o maior no Reino dos céus.
 \v Mt.18.5
-E quem receber em meu nome uma criança como esta, recebe a mim.
+E quem receber em Meu nome uma criança como esta, recebe a Mim.
 \v Mt.18.6
-Mas qualquer um que for motivo de tropeço para um destes pequeninos que creem em mim, melhor lhe seria que uma grande 
+Mas qualquer um que for motivo de tropeço para um destes pequeninos que creem em Mim, melhor lhe seria que uma grande 
 pedra de moinho lhe fosse pendurada ao pescoço, e se afundasse no fundo do mar.
 \v Mt.18.7
 Ai do mundo por causa dos motivos de tropeço! Pois é necessário que os motivos de tropeço venham, mas ai da pessoa por quem o 
@@ -2336,7 +2336,7 @@ E se teu olho te faz pecar, arranca-o, e lança-o de ti. Melhor te é entrar com
 olhos, ser lançado no inferno de fogo.
 \v Mt.18.10
 Olhem que não desprezeis algum destes pequeninos; porque eu vos digo que seus anjos nos céus sempre veem a face 
-de meu Pai, que 
+de Meu Pai, que 
 \added
 está
 \*added
@@ -2390,13 +2390,13 @@ E digo-vos também
 \fn
 TR: também - RP, N4: também em verdade
 \*fn
- que, se dois de vós concordarem na terra, sobre qualquer coisa que pedirem, isso lhes será feito por meu Pai, que 
+ que, se dois de vós concordarem na terra, sobre qualquer coisa que pedirem, isso lhes será feito por Meu Pai, que 
 \added
 está
 \*added
  nos céus.
 \v Mt.18.20
-Pois onde dois ou três estiverem reunidos em meu nome, ali eu estou no meio deles”.
+Pois onde dois ou três estiverem reunidos em Meu nome, ali eu estou no meio deles”.
 \v Mt.18.21
 Então Pedro, aproximando-se dele, disse: “Senhor, até quantas vezes meu irmão pecará contra mim, e eu lhe 
 perdoarei? Até sete?”
@@ -2447,7 +2447,7 @@ Não devias, também tu, ter misericórdia de teu conservo, como eu tive miseric
 \v Mt.18.34
 E, indignado, seu senhor o entregou aos atormentadores, até que pagasse tudo o que lhe devia.
 \v Mt.18.35
-Assim, também, meu Pai celestial vos fará, se não perdoardes de coração cada um a seu irmão
+Assim, também, Meu Pai celestial vos fará, se não perdoardes de coração cada um a seu irmão
  suas ofensas
 ”.
 \fn
@@ -2527,17 +2527,17 @@ isto
 \*added
 , receba”.
 \v Mt.19.13
-Então lhe trouxeram crianças, para que lhes impusesse as mãos e orasse, mas os discípulos os repreendiam.
+Então Lhe trouxeram crianças, para que lhes impusesse as mãos e orasse, mas os discípulos os repreendiam.
 \v Mt.19.14
-Mas Jesus disse: “Deixai as crianças, e não as impeçais de vir a mim, porque delas é o Reino dos céus”.
+Mas Jesus disse: “Deixai as crianças, e não as impeçais de vir a Mim, porque delas é o Reino dos céus”.
 \v Mt.19.15
 E ele, havendo imposto-lhes as mãos, partiu dali.
 \v Mt.19.16
-E eis que um, aproximando-se, disse-lhe: “
+E eis que um, aproximando-se, disse-Lhe: “
 Bom 
 Mestre, que bem farei para ter a vida eterna?”
 \v Mt.19.17
-E ele lhe disse: “Por que tu me 
+E ele lhe disse: “Por que tu Me 
 chamas
  bom?
 \fn
@@ -2565,7 +2565,7 @@ TR, RP: teu pai e [tua] mãe - N4: pai e mãe
 \*fn
  e amarás teu próximo como a ti mesmo”.
 \v Mt.19.20
-O jovem lhe disse: “Tenho guardado tudo isso
+O jovem Lhe disse: “Tenho guardado tudo isso
  desde minha juventude
 .
 \fn
@@ -2574,11 +2574,11 @@ N4 não contém “desde minha juventude”
  Que me falta ainda?”
 \v Mt.19.21
 Disse-lhe Jesus: “Se queres ser perfeito, vai, vende o que tens, e dá aos pobres. E tu terás um tesouro no céu. 
-E vem, segue-me”.
+E vem, segue-Me”.
 \v Mt.19.22
 E o jovem, havendo ouvido essa palavra, retirou-se triste, porque possuía muitas propriedades.
 \v Mt.19.23
-Então Jesus disse a seus discípulos: “Em verdade vos digo que dificilmente um rico entrará no reino dos céus.
+Então Jesus disse a Seus discípulos: “Em verdade vos digo que dificilmente um rico entrará no reino dos céus.
 \v Mt.19.24
 E ainda digo que é mais fácil um camelo 
 passar
@@ -2588,7 +2588,7 @@ TR, RP: passar - N4: entrar
  pelo fundo de uma agulha do que o rico entrar no reino de Deus”.
 \v Mt.19.25
 Os
- seus
+ Seus
 \fn
 N4 não contém “seus”
 \*fn
@@ -2604,17 +2604,17 @@ para eles
 \*added
 , disse-lhes: “Para os seres humanos, isso é impossível; mas para Deus tudo é possível”.
 \v Mt.19.27
-Então Pedro, respondendo, disse-lhe: “Eis que deixamos tudo, e te seguimos; que, pois, haverá para nós?
+Então Pedro, respondendo, disse-Lhe: “Eis que deixamos tudo, e Te seguimos; que, pois, haverá para nós?
 \v Mt.19.28
-E Jesus lhes disse: “Em verdade vos digo que vós que me seguistes, na regeneração, quando o Filho do homem se 
-assentar no trono de sua glória, também vos assentareis sobre doze tronos, para julgar as doze tribos de Israel.
+E Jesus lhes disse: “Em verdade vos digo que vós que Me seguistes, na regeneração, quando o Filho do homem se 
+assentar no trono de Sua glória, também vos assentareis sobre doze tronos, para julgar as doze tribos de Israel.
 \v Mt.19.29
 E todo aquele que houver deixado casas, ou irmãos, ou irmãs, ou pai, ou mãe,
  ou esposa,
 \fn
 N4 não contém “ou esposa”
 \*fn
- ou filhos, ou terras por causa de meu nome, receberá 
+ ou filhos, ou terras por causa de Meu nome, receberá 
 cem
 \fn
 TR, RP: cem - N4: muitas
@@ -2731,19 +2731,19 @@ e
 \fn
 N4 não contém: “e ser batizados com o batismo com que eu sou batizado”. RP troca “e” por “ou”
 \*fn
- Eles lhe disseram: “Podemos”.
+ Eles Lhe disseram: “Podemos”.
 \v Mt.20.23
-E ele lhes disse: “Em verdade vós bebereis meu cálice
+E ele lhes disse: “Em verdade vós bebereis Meu cálice
 , e sereis batizados com o batismo com que sou batizado
 ;
 \fn
 N4 não contém: “e sereis batizados com o batismo com que sou batizado”
 \*fn
- mas assentar-se a minha direita, e a minha esquerda, não me cabe concedê-lo, mas 
+ mas assentar-se a Minha direita, e a Minha esquerda, não Me cabe concedê-lo, mas 
 \added
 será
 \*added
- para aqueles a quem por meu Pai está preparado”.
+ para aqueles a quem por Meu Pai está preparado”.
 \v Mt.20.24
 E quando os dez ouviram, indignaram-se contra os dois irmãos.
 \v Mt.20.25
@@ -2754,7 +2754,7 @@ Mas não será assim entre vós; mas quem quiser se tornar grande entre vós sej
 \v Mt.20.27
 e quem quiser ser o primeiro entre vós, seja vosso servo;
 \v Mt.20.28
-assim como o Filho do homem não veio para ser servido, mas para servir, e dar sua vida em resgate por muitos”.
+assim como o Filho do homem não veio para ser servido, mas para servir, e dar Sua vida em resgate por muitos”.
 \v Mt.20.29
 E eles, saindo de Jericó, uma grande multidão o seguia.
 \v Mt.20.30
@@ -2766,7 +2766,7 @@ misericórdia de nós!”
 \v Mt.20.32
 E Jesus, parando, chamou-os, e disse: “Que quereis que eu vos faça?”
 \v Mt.20.33
-Eles lhe disseram: “Senhor, que nossos olhos sejam abertos”.
+Eles Lhe disseram: “Senhor, que nossos olhos sejam abertos”.
 \v Mt.20.34
 E Jesus, comovido, tocou-lhes os olhos. E logo seus olhos viram, e o seguiram.
 \v Mt.21.1
@@ -2779,7 +2779,7 @@ RP: Betsfagé
  ao monte das Oliveiras, então Jesus mandou dois discípulos, dizendo-lhes:
 \v Mt.21.2
 “Ide à aldeia em vossa frente, e logo achareis uma jumenta presa, e um jumentinho com ela; desprendei-a, e 
-trazei-os a mim.
+trazei-os a Mim.
 \v Mt.21.3
 E se alguém vos disser algo, direis: ‘O Senhor está precisando deles, mas logo os devolverá’”.
 \v Mt.21.4
@@ -2820,7 +2820,7 @@ espalhavam pelo caminho.
 E as multidões que iam adiante, e as que seguiam, clamavam: “Hosana ao Filho de Davi! Bendito o que vem no nome do 
 Senhor! Hosana nas alturas!”
 \v Mt.21.10
-E ele, entrando em Jerusalém, toda a cidade se alvoroçou, dizendo: “Quem é este?”
+E Ele, entrando em Jerusalém, toda a cidade se alvoroçou, dizendo: “Quem é este?”
 \v Mt.21.11
 E as multidões diziam: “Este é Jesus, o Profeta de Nazaré de Galileia”.
 \v Mt.21.12
@@ -2849,12 +2849,12 @@ cegos e mancos
 \fn
 RP: mancos e cegos
 \*fn
- vieram a ele no Templo, e ele os curou.
+ vieram a Ele no Templo, e Ele os curou.
 \v Mt.21.15
-Os chefes dos sacerdotes e os escribas, vendo as maravilhas que ele fazia, e as crianças gritando no Templo: “Hosana 
+Os chefes dos sacerdotes e os escribas, vendo as maravilhas que Ele fazia, e as crianças gritando no Templo: “Hosana 
 ao Filho de Davi!”, ficaram indignados.
 \v Mt.21.16
-E disseram-lhe: “Ouves o que estas dizem?” E Jesus lhes respondeu: “Sim. Vós nunca leram: ‘Da boca das crianças e dos que 
+E disseram-Lhe: “Ouves o que estas dizem?” E Jesus lhes respondeu: “Sim. Vós nunca leram: ‘Da boca das crianças e dos que 
 mamam aperfeiçoaste o louvor?’”
 \ref
 Salmos 8:2 
@@ -2875,9 +2875,9 @@ figueira, mas se até disserdes a este monte: ‘Levanta-te, e lança-te no mar�
 E tudo o que vós pedirdes em oração, crendo, recebereis”.
 \v Mt.21.23
 E, havendo chegado ao Templo, estando ensinando, os chefes dos sacerdotes e os anciãos do povo aproximaram-se 
-dele, perguntando: “Com que autoridade fazes isto? E quem te deu esta autoridade?”
+dEle, perguntando: “Com que autoridade fazes isto? E quem Te deu esta autoridade?”
 \v Mt.21.24
-E Jesus, respondendo, disse-lhes: “Eu também vos farei uma pergunta. Se vós me disserdes, também eu vos direi com que 
+E Jesus, respondendo, disse-lhes: “Eu também vos farei uma pergunta. Se vós Me disserdes, também eu vos direi com que 
 autoridade faço isto.
 \v Mt.21.25
 De onde era o batismo de João? Do céu, ou dos seres humanos?” E eles pensaram entre si, dizendo: “Se dissermos: ‘Do 
@@ -2898,7 +2898,7 @@ vou
 \*added
 , senhor”, mas não foi.
 \v Mt.21.31
-Qual dos dois fez a vontade do pai?” Eles lhe responderam: “O primeiro”.
+Qual dos dois fez a vontade do pai?” Eles Lhe responderam: “O primeiro”.
  Jesus lhes disse: “Em verdade vos digo que os 
 publicanos e as prostitutas estão indo adiante de vós ao reino de Deus.
 \v Mt.21.32
@@ -2939,7 +2939,7 @@ Portanto eu vos digo que o reino de Deus será tirado de vós, e será dado a um
 \v Mt.21.44
 E quem cair sobre esta pedra será despedaçado; e sobre quem ela cair, ela o reduzirá a pó”.
 \v Mt.21.45
-E os chefes dos sacerdotes e os fariseus, ouvindo suas parábolas, entenderam que estava falando deles.
+E os chefes dos sacerdotes e os fariseus, ouvindo Suas parábolas, entenderam que estava falando deles.
 \v Mt.21.46
 E, procurando prendê-lo, temeram as multidões, porque elas o consideravam profeta.
 \v Mt.22.1
@@ -2994,24 +2994,24 @@ N4 não contém “tomai-o”
 \v Mt.22.14
 Porque muitos são chamados, porém poucos escolhidos”.
 \v Mt.22.15
-Então os fariseus, retirando-se, planejaram entre si como o apanhariam em cilada por alguma palavra.
+Então os fariseus, retirando-se, planejaram entre Si como o apanhariam em cilada por alguma palavra.
 \v Mt.22.16
 E enviaram-lhe seus discípulos, com os herodianos, e perguntaram: “Mestre, bem sabemos que és verdadeiro, e ensinas o 
-caminho de Deus na verdade, e não te importas com a opinião de ninguém, porque não dás atenção à aparência humana.
+caminho de Deus na verdade, e não Te importas com a opinião de ninguém, porque não dás atenção à aparência humana.
 \v Mt.22.17
-Dize-nos, pois, que te parece: é lícito pagar tributo a César, ou não?”
+Dize-nos, pois, que Te parece: é lícito pagar tributo a César, ou não?”
 \v Mt.22.18
-Mas Jesus, entendendo a malícia deles, disse: “Por que vós me testais, hipócritas?
+Mas Jesus, entendendo a malícia deles, disse: “Por que vós Me testais, hipócritas?
 \v Mt.22.19
-Mostrai-me a moeda do tributo”. E eles lhe apresentaram um denário.
+Mostrai-Me a moeda do tributo”. E eles Lhe apresentaram um denário.
 \v Mt.22.20
-E ele lhes disse: “De quem é esta imagem e a inscrição?”
+E Ele lhes disse: “De quem é esta imagem e a inscrição?”
 \v Mt.22.21
-Disseram-lhe: “De César”. Então ele lhes disse: “Dai, pois, a César o que é de César, e a Deus o que é de Deus”.
+Disseram-Lhe: “De César”. Então Ele lhes disse: “Dai, pois, a César o que é de César, e a Deus o que é de Deus”.
 \v Mt.22.22
-Eles, ouvindo isso, ficaram admirados; e, deixando-o, foram embora.
+Eles, ouvindo isso, ficaram admirados; e, deixando-O, foram embora.
 \v Mt.22.23
-No mesmo dia chegaram a ele os saduceus, que dizem não haver ressurreição, e perguntaram-lhe,
+No mesmo dia chegaram a Ele os saduceus, que dizem não haver ressurreição, e perguntaram-Lhe,
 \v Mt.22.24
 dizendo: “Mestre, Moisés disse: ‘Se um homem morrer sem ter filhos, seu irmão se casará com sua mulher, e gerará 
 descendência
@@ -3070,9 +3070,9 @@ E as multidões, ouvindo
 \added
 isso
 \*added
-, ficaram admiradas de sua doutrina.
+, ficaram admiradas de Sua doutrina.
 \v Mt.22.34
-E os fariseus, ouvindo que ele havia feito calar os saduceus, reuniram-se.
+E os fariseus, ouvindo que Ele havia feito calar os saduceus, reuniram-se.
 \v Mt.22.35
 E um deles, especialista da Lei, testando-o, perguntou-lhe, dizendo:
 \v Mt.22.36
@@ -3108,7 +3108,7 @@ Destes dois mandamentos dependem toda a Lei e os profetas”.
 \v Mt.22.41
 E, estando os fariseus reunidos, Jesus lhes perguntou,
 \v Mt.22.42
-dizendo: “Que vós pensais acerca do Cristo? De quem é filho?” Eles lhe disseram: “De Davi”.
+dizendo: “Que vós pensais acerca do Cristo? De quem é filho?” Eles Lhe disseram: “De Davi”.
 \v Mt.22.43
 \added
 Jesus
@@ -3127,9 +3127,9 @@ Salmos 110:1
 \v Mt.22.45
 Se Davi o chama Senhor, como é seu filho?”
 \v Mt.22.46
-E ninguém conseguia lhe responder palavra alguma; e desde aquele dia, ninguém mais ousou perguntar-lhe.
+E ninguém conseguia Lhe responder palavra alguma; e desde aquele dia, ninguém mais ousou perguntar-Lhe.
 \v Mt.23.1
-Então Jesus falou às multidões e a seus discípulos,
+Então Jesus falou às multidões e a Seus discípulos,
 \v Mt.23.2
 dizendo: “Os escribas e os fariseus se assentam na cadeira de Moisés.
 \v Mt.23.3
@@ -3284,7 +3284,7 @@ filhos, como a galinha ajunta seus pintinhos debaixo das asas, e vós não quise
 \v Mt.23.38
 Eis que vossa casa vos será deixada desolada.
 \v Mt.23.39
-Porque eu vos digo que desde agora vós não me vereis, até que digais: ‘Bendito o que vem no nome do Senhor’”. 
+Porque eu vos digo que desde agora vós não Me vereis, até que digais: ‘Bendito o que vem no nome do Senhor’”. 
 \ref
 Salmos 118:26 
 \*ref
@@ -3294,12 +3294,12 @@ Havendo Jesus saído do Templo, seus discípulos se aproximaram dele para lhe mo
 Mas Jesus lhes disse: “Não estais vendo tudo isto? Em verdade vos digo que não será deixada aqui pedra sobre pedra que 
 não seja derrubada”.
 \v Mt.24.3
-E, estando ele assentado no monte das Oliveiras, aproximaram-se dele os discípulos em particular, dizendo: “Dize-nos, 
-quando serão essas coisas, e que sinal haverá de tua vinda, e do fim desta era?”
+E, estando Ele assentado no monte das Oliveiras, aproximaram-se dEle os discípulos em particular, dizendo: “Dize-nos, 
+quando serão essas coisas, e que sinal haverá de Tua vinda, e do fim desta era?”
 \v Mt.24.4
 E Jesus, respondendo, disse-lhes: “Cuidado, que ninguém vos engane.
 \v Mt.24.5
-Porque muitos virão em meu nome, dizendo: ‘Eu sou o Cristo’, e enganarão a muitos.
+Porque muitos virão em Meu nome, dizendo: ‘Eu sou o Cristo’, e enganarão a muitos.
 \v Mt.24.6
 E vós ouvireis de guerras, e de rumores de guerras. Cuidado, que não vos espanteis; porque é necessário que
  tudo 
@@ -3321,7 +3321,7 @@ N4 não contém “e pestilências”
 Mas todas essas coisas são o princípio das dores.
 \v Mt.24.9
 Então vos entregarão para serdes afligidos, e vos matarão; e sereis odiados por todas as nações por causa 
-de meu nome.
+de Meu nome.
 \v Mt.24.10
 E muitos acharão motivo de tropeço, e trairão uns aos outros, e uns aos outros se odiarão.
 \v Mt.24.11
@@ -3394,12 +3394,12 @@ poderes dos céus serão abalados.
 Então aparecerá no céu o sinal do Filho do homem; e todas as tribos da terra lamentarão, e verão o Filho do homem, 
 vindo sobre as nuvens do céu, com poder e grande glória.
 \v Mt.24.31
-E enviará seus anjos com grande
+E enviará Seus anjos com grande
  som de
 \fn
 N4 não contém “som de”
 \*fn
- trombeta, e ajuntarão seus escolhidos desde os quatro ventos, de uma à outra extremidade dos céus.
+ trombeta, e ajuntarão Seus escolhidos desde os quatro ventos, de uma à outra extremidade dos céus.
 \v Mt.24.32
 Aprendei a parábola da figueira: quando seu ramo já se torna verde, e as folhas brotam, vós sabeis que o verão 
 está perto.
@@ -3408,14 +3408,14 @@ Assim também vós, quando virdes todas essas coisas, sabei que já está perto,
 \v Mt.24.34
 Em verdade vos digo que esta geração não passará, até que todas estas coisas aconteçam.
 \v Mt.24.35
-O céu e a terra passarão, mas minhas palavras não passarão.
+O céu e a terra passarão, mas Minhas palavras não passarão.
 \v Mt.24.36
 Porém daquele dia e hora, ninguém sabe, nem os anjos do céu,
 \fn
 N4 contém adicionalmente “nem o Filho”. Comparar com Marcos 13:32
 \*fn
  mas somente o
- meu
+ Meu
  Pai.
 \v Mt.24.37
 E, como foram os dias de Noé, assim também será a vinda do Filho do homem.
@@ -3562,25 +3562,25 @@ Pois a todo aquele que tiver, lhe será dado, e terá em abundância; mas ao que
 \v Mt.25.30
 ‘E lançai o servo inútil nas trevas exteriores; ali haverá pranto e ranger de dentes’.
 \v Mt.25.31
-E quando o Filho do homem vier em sua glória, e todos os
+E quando o Filho do homem vier em Sua glória, e todos os
  santos
 \fn
 N4 não contém “santos”
 \*fn
- anjos com ele, então se assentará sobre o trono de sua glória.
+ anjos com Ele, então se assentará sobre o trono de Sua glória.
 \v Mt.25.32
-E todas as nações serão reunidas diante dele, e separará uns dos outros, como o pastor separa as ovelhas dos bodes.
+E todas as nações serão reunidas diante dEle, e separará uns dos outros, como o pastor separa as ovelhas dos bodes.
 \v Mt.25.33
-E porá as ovelhas à sua direita, mas os bodes à esquerda.
+E porá as ovelhas à Sua direita, mas os bodes à esquerda.
 \v Mt.25.34
-Então o Rei dirá aos que estiverem à sua direita: ‘Vinde, benditos de meu Pai! Herdai o Reino que está preparado para 
+Então o Rei dirá aos que estiverem à Sua direita: ‘Vinde, benditos de Meu Pai! Herdai o Reino que está preparado para 
 vós desde a fundação do mundo.
 \v Mt.25.35
-Pois tive fome, e vós me destes de comer; tive sede, e vós me destes de beber; fui estrangeiro, e vós me acolhestes;
+Pois tive fome, e vós Me destes de comer; tive sede, e vós Me destes de beber; fui estrangeiro, e vós Me acolhestes;
 \v Mt.25.36
-estive nu, e vós me vestistes; estive doente, e vós cuidastes de mim; estive na prisão, e vós me visitastes’.
+estive nu, e vós Me vestistes; estive doente, e vós cuidastes de Mim; estive na prisão, e vós Me visitastes’.
 \v Mt.25.37
-Então os justos lhe responderão, dizendo: ‘Senhor, quando te vimos com fome, e 
+Então os justos Lhe responderão, dizendo: ‘Senhor, quando te vimos com fome, e 
 \added
 te
 \*added
@@ -3596,33 +3596,33 @@ te
 \*added
  acolhemos, ou nu, e te vestimos?
 \v Mt.25.39
-E quando te vimos doente, ou na prisão, e viemos te visitar?’
+E quando Te vimos doente, ou na prisão, e viemos Te visitar?’
 \v Mt.25.40
-E o Rei, respondendo, lhes dirá: ‘Em verdade vos digo: quando vós fizestes a um destes meus menores irmãos,  
-fizestes a mim’.
+E o Rei, respondendo, lhes dirá: ‘Em verdade vos digo: quando vós fizestes a um destes Meus menores irmãos,  
+fizestes a Mim’.
 \v Mt.25.41
-Então dirá também aos que estiverem à esquerda: ‘Afastai-vos de mim, malditos, para o fogo eterno, preparado para o 
+Então dirá também aos que estiverem à esquerda: ‘Afastai-vos de Mim, malditos, para o fogo eterno, preparado para o 
 diabo e seus anjos.
 \v Mt.25.42
-Pois tive fome, e vós não me destes de comer; tive sede, e vós não me destes de beber.
+Pois tive fome, e vós não Me destes de comer; tive sede, e vós não Me destes de beber.
 \v Mt.25.43
-Fui estrangeiro, e vós não me acolhestes; estive nu, e vós não me vestistes; estive doente, e na prisão, e vós não 
-me visitastes’.
+Fui estrangeiro, e vós não Me acolhestes; estive nu, e vós não Me vestistes; estive doente, e na prisão, e vós não 
+Me visitastes’.
 \v Mt.25.44
 Então também eles
  lhe
 \fn
 RP, N4 não contém “lhe”
 \*fn
- perguntarão: ‘Senhor, quando te vimos com fome, ou com sede, ou estrangeiro, ou nu, ou doente, ou na prisão, e não 
-te servimos?’
+ perguntarão: ‘Senhor, quando Te vimos com fome, ou com sede, ou estrangeiro, ou nu, ou doente, ou na prisão, e não 
+Te servimos?’
 \v Mt.25.45
 Então ele lhes responderá, dizendo: ‘Em verdade vos digo que, quando vós não fizestes a um destes menores, não 
-fizestes a mim’.
+fizestes a Mim’.
 \v Mt.25.46
 E estes irão para o tormento eterno, mas os justos para a vida eterna”.
 \v Mt.26.1
-E aconteceu que, quando Jesus concluiu todas essas palavras, disse a seus discípulos:
+E aconteceu que, quando Jesus concluiu todas essas palavras, disse a Seus discípulos:
 \v Mt.26.2
 “Vós bem sabeis que daqui a dois dias é a Páscoa, e o Filho do homem será entregue para ser crucificado”.
 \v Mt.26.3
@@ -3639,8 +3639,8 @@ Porém diziam: “Não na festa, para que não haja tumulto entre o povo”.
 \v Mt.26.6
 E, estando Jesus em Betânia, na casa de Simão, o leproso,
 \v Mt.26.7
-aproximou-se dele uma mulher com um vaso de alabastro, com óleo perfumado de grande valor, e o derramou sobre a cabeça 
-dele, enquanto estava assentado 
+aproximou-se dEle uma mulher com um vaso de alabastro, com óleo perfumado de grande valor, e o derramou sobre a cabeça 
+dEle, enquanto estava assentado 
 \added
 à mesa
 \*added
@@ -3660,11 +3660,11 @@ TR, RP: esse óleo perfumado - N4 - isso
 \*fn
  se poderia ter vendido por muito, e dar-se o dinheiro aos pobres”.
 \v Mt.26.10
-Porém Jesus, entendendo isso, disse-lhes: “Por que incomodais esta mulher? Pois ela me fez uma boa ação.
+Porém Jesus, entendendo isso, disse-lhes: “Por que incomodais esta mulher? Pois ela Me fez uma boa ação.
 \v Mt.26.11
-Porque sempre têm os pobres convosco, mas vós não me tereis para sempre.
+Porque sempre têm os pobres convosco, mas vós não Me tereis para sempre.
 \v Mt.26.12
-Pois ela, derramando este óleo perfumado sobre meu corpo, fez isso para o meu sepultamento.
+Pois ela, derramando este óleo perfumado sobre Meu corpo, fez isso para o Meu sepultamento.
 \v Mt.26.13
 Em verdade vos digo que, onde quer que este Evangelho for pregado, em todo o mundo, será dito o que ela fez, em 
 memória dela”.
@@ -3683,7 +3683,7 @@ E no primeiro
 \added
 dia da festa
 \*added
- dos pães sem fermento, os discípulos chegaram junto de Jesus, dizendo-lhe: “Onde queres que te preparemos para comer 
+ dos pães sem fermento, os discípulos chegaram junto de Jesus, dizendo-Lhe: “Onde queres que Te preparemos para comer 
 a Páscoa?”
 \v Mt.26.18
 E ele disse: “Ide à cidade até um certo homem, e dizei-lhe: ‘O Mestre diz: Meu tempo está perto. Em tua casa 
@@ -3701,11 +3701,11 @@ E, chegando o anoitecer, assentou-se
 N4: doze discípulos
 \*fn
 \v Mt.26.21
-E, estando eles a comer, disse: “Em verdade vos digo que um de vós me trairá”.
+E, estando eles a comer, disse: “Em verdade vos digo que um de vós Me trairá”.
 \v Mt.26.22
 Eles, ficando muito tristes, cada um deles começou a lhe dizer: “Acaso sou eu, Senhor?”
 \v Mt.26.23
-E ele, respondendo, disse: “O que comigo põe a mão no prato, esse me trairá.
+E ele, respondendo, disse: “O que Comigo põe a mão no prato, esse Me trairá.
 \v Mt.26.24
 Em verdade, o Filho do homem vai, como acerca dele está escrito; mas ai daquele homem por quem o Filho do homem é 
 traído! Bom seria ao tal homem se não houvesse nascido”.
@@ -3722,11 +3722,11 @@ abençoando-o
 \fn
 TR, N4: abençoando-o - RP: dando graças
 \*fn
- partiu-o. E o deu aos discípulos, e disse: “Tomai, comei; isto é meu corpo”.
+ partiu-o. E o deu aos discípulos, e disse: “Tomai, comei; isto é Meu corpo”.
 \v Mt.26.27
 Em seguida tomou o cálice e, dando graças, deu-o a eles, dizendo: “Bebei dele todos,
 \v Mt.26.28
-porque este é meu sangue, o 
+porque este é Meu sangue, o 
 \added
 sangue
 \*added
@@ -3742,20 +3742,20 @@ E digo-vos que, desde agora, não beberei deste fruto da vide, até aquele dia, 
 \added
 vinho
 \*added
- novo, no reino de meu Pai”.
+ novo, no reino de Meu Pai”.
 \v Mt.26.30
 E, havendo eles cantado um hino, saíram para o monte das Oliveiras.
 \v Mt.26.31
-Então Jesus lhes disse: “Esta noite, todos vós achareis motivo de tropeço em mim; porque está escrito: ‘Ferirei o 
+Então Jesus lhes disse: “Esta noite, todos vós achareis motivo de tropeço em Mim; porque está escrito: ‘Ferirei o 
 pastor, e as ovelhas do rebanho se dispersarão’.
 \v Mt.26.32
 Mas, depois que eu for ressuscitado, irei adiante de vós para a Galileia”.
 \v Mt.26.33
-Pedro, porém, respondendo, disse-lhe: “Ainda que todos achem motivo de tropeço em ti, eu nunca acharei”.
+Pedro, porém, respondendo, disse-Lhe: “Ainda que todos achem motivo de tropeço em Ti, eu nunca acharei”.
 \v Mt.26.34
-Jesus lhe disse: “Em verdade te digo que, nesta mesma noite, antes que o galo cante, tu me negarás três vezes”.
+Jesus lhe disse: “Em verdade te digo que, nesta mesma noite, antes que o galo cante, tu Me negarás três vezes”.
 \v Mt.26.35
-Pedro lhe disse: “Ainda que eu tenha de morrer contigo, em nenhuma maneira te negarei”. E todos os discípulos disseram 
+Pedro lhe disse: “Ainda que eu tenha de morrer Contigo, em nenhuma maneira Te negarei”. E todos os discípulos disseram 
 o mesmo.
 \v Mt.26.36
 Então Jesus chegou com eles a um lugar chamado Getsêmani, e disse aos discípulos: “Assentai-vos aqui, enquanto vou ali 
@@ -3767,20 +3767,20 @@ Então
 \fn
 RP: Então Jesus
 \*fn
- lhes disse: “Minha alma está cheia de tristeza até a morte. Ficai aqui, e vigiai comigo”.
+ lhes disse: “Minha alma está cheia de tristeza até a morte. Ficai aqui, e vigiai Comigo”.
 \v Mt.26.39
-E indo um pouco mais adiante, prostrou-se sobre seu rosto, orando, e dizendo: “Meu Pai, se é possível, passe de 
+E indo um pouco mais adiante, prostrou-se sobre Seu rosto, orando, e dizendo: “Meu Pai, se é possível, passe de 
 mim este cálice; porém, não 
 \added
 seja
 \*added
- como eu quero, mas sim, como tu 
+ como eu quero, mas sim, como Tu 
 \added
 queres
 \*added
 ”.
 \v Mt.26.40
-E voltou a seus discípulos, e os achou dormindo; e disse a Pedro: “Então, nem uma hora pudestes vigiar comigo?
+E voltou a Seus discípulos, e os achou dormindo; e disse a Pedro: “Então, nem uma hora pudestes vigiar Comigo?
 \v Mt.26.41
 Vigiai e orai, para que não entreis em tentação. Em verdade, o espírito 
 \added
@@ -3810,14 +3810,14 @@ N4: dizendo novamente
  as mesmas palavras.
 \v Mt.26.45
 Então veio aos
- seus
+ Seus
 \fn
 N4 não contém “seus”
 \*fn
  discípulos, e disse-lhes: “Agora dormi vós e descansai. Eis que chegou a hora, e o Filho do homem é entregue nas mãos 
 dos pecadores.
 \v Mt.26.46
-Levantai-vos, vamos! Eis que está chegando o que me trai”.
+Levantai-vos, vamos! Eis que está chegando o que Me trai”.
 \v Mt.26.47
 Estando ele ainda a falar, eis que chegou Judas, um dos doze, e com ele uma grande multidão, com espadas e bastões, da 
 parte dos chefes dos sacerdotes e dos anciãos do povo.
@@ -3837,7 +3837,7 @@ perecerão
 \v Mt.26.53
 Ou tu pensas que eu não poderia
  agora
- orar a meu Pai, e ele me daria
+ orar a Meu Pai, e Ele Me daria
  mais de doze legiões de anjos?
 \v Mt.26.54
 Como, pois, se cumpririam as Escrituras 
@@ -3856,7 +3856,7 @@ N4 não contém “convosco”
  ensinando no Templo, e não me prendestes.
 \v Mt.26.56
 Porém tudo isso aconteceu para que as escrituras dos profetas se cumpram”. Então todos os discípulos, 
-deixando-o, fugiram.
+deixando-O, fugiram.
 \v Mt.26.57
 E os que prenderam Jesus o trouxeram a Caifás, o sumo sacerdote, onde os escribas e os anciãos estavam reunidos.
 \v Mt.26.58
@@ -3867,7 +3867,7 @@ Os chefes dos sacerdotes
 \fn
 N4 não contém “e os anciãos”
 \*fn
- e todo o conselho buscavam falso testemunho contra Jesus, para poderem matá-lo,
+ e todo o conselho buscavam falso testemunho contra Jesus, para poderem matá-Lo,
 \v Mt.26.60
 mas não encontravam, ainda que muitas falsas testemunhas se apresentassem. Mas, por fim, vieram duas 
 falsas testemunhas
@@ -3878,11 +3878,11 @@ N4 não contém “falsas testemunhas” depois de “duas”
 \v Mt.26.61
 e disseram: “Este disse: ‘Posso derrubar o Templo de Deus e reconstruí-lo em três dias’”.
 \v Mt.26.62
-E o sumo sacerdote, levantando-se, disse-lhe: “Não respondes nada ao que estes testemunham contra ti?”
+E o sumo sacerdote, levantando-se, disse-Lhe: “Não respondes nada ao que estes testemunham contra Ti?”
 \v Mt.26.63
 Jesus, porém, ficava calado. E o sumo sacerdote
 , insistindo,
- disse-lhe: “Demando-te em juramento ao Deus vivo que nos digas se tu és o Cristo, o Filho de Deus”.
+ disse-Lhe: “Demando-Te em juramento ao Deus vivo que nos digas se Tu és o Cristo, o Filho de Deus”.
 \v Mt.26.64
 Jesus lhe disse: “Tu o disseste. Porém eu vos digo que, de agora em diante, vereis o Filho do homem assentado à 
 direita do Poderoso, e vindo sobre as nuvens do céu”.
@@ -3896,7 +3896,7 @@ Que vos parece?” E eles, respondendo, disseram: “É culpado de morte”.
 \v Mt.26.67
 Então cuspiram-lhe no rosto, e bateram nele. E outros lhe davam bofetadas,
 \v Mt.26.68
-dizendo: “Profetiza-nos, Cristo, quem é o que te bateu?”
+dizendo: “Profetiza-nos, Cristo, quem é o que Te bateu?”
 \v Mt.26.69
 Pedro estava sentado fora, no pátio. Uma serva aproximou-se dele, dizendo: “Tu também estavas com Jesus, o galileu”.
 \v Mt.26.70
@@ -3924,7 +3924,7 @@ esse
 \*added
  homem!” E imediatamente o galo cantou.
 \v Mt.26.75
-E Pedro lembrou-se da palavra de Jesus, que lhe havia dito: “Antes que o galo cante, tu me negarás três vezes”. E, 
+E Pedro lembrou-se da palavra de Jesus, que lhe havia dito: “Antes que o galo cante, tu Me negarás três vezes”. E, 
 saindo dali, chorou amargamente.
 \v Mt.27.1
 E, chegada a manhã, todos os chefes dos sacerdotes e anciãos do povo formavam juntamente conselho contra Jesus, para 
@@ -3978,7 +3978,7 @@ respondeu: “Tu o dizes”.
 \v Mt.27.12
 E, sendo ele acusado pelos chefes dos sacerdotes e pelos anciãos, nada respondeu.
 \v Mt.27.13
-Pilatos, então, disse-lhe: “Não estás ouvindo quantas coisas testemunham contra ti?”
+Pilatos, então, disse-Lhe: “Não estás ouvindo quantas coisas testemunham contra Ti?”
 \v Mt.27.14
 E não lhe respondeu uma só palavra, de maneira que o governador estava muito maravilhado.
 \v Mt.27.15
@@ -4001,7 +4001,7 @@ Pilatos lhes disse: “Que, pois, farei de Jesus, que é chamado Cristo?” Todo
  lhe
  disseram: “Seja crucificado!”
 \v Mt.27.23
-Mas o governador disse: “Pois que mal ele fez?” E gritavam mais, dizendo: “Seja crucificado!”
+Mas o governador disse: “Pois que mal Ele fez?” E gritavam mais, dizendo: “Seja crucificado!”
 \v Mt.27.24
 Pilatos, vendo, pois, que nada aproveitava, em vez disso o tumulto crescia, pegou água, lavou as mãos diante da 
 multidão, dizendo: “Estou inocente do sangue deste 
@@ -4020,7 +4020,7 @@ seja
 \v Mt.27.26
 Então soltou-lhes Barrabás; porém, havendo açoitado Jesus, entregou-o para ser crucificado.
 \v Mt.27.27
-E logo os soldados do governador, levando Jesus ao pretório, reuniram junto dele toda a tropa.
+E logo os soldados do governador, levando Jesus ao pretório, reuniram junto dEle toda a tropa.
 \v Mt.27.28
 E, despindo-o, o cobriram com um manto vermelho.
 \v Mt.27.29
@@ -4044,7 +4044,7 @@ N4: vinho
 \v Mt.27.35
 E, havendo-o crucificado, repartiram suas vestes, lançando sortes
 , para que se cumprisse o que foi dito pelo 
-profeta: “Repartiram entre si minhas vestes, e sobre minha túnica lançaram sortes”
+profeta: “Repartiram entre si Minhas vestes, e sobre Minha túnica lançaram sortes”
 .
 \fn
 RP, N4 não contêm “para que se cumprisse o que foi dito pelo profeta: Repartiram entre si minhas vestes, e sobre 
@@ -4058,7 +4058,7 @@ E, sentados, ali o guardavam.
 \v Mt.27.37
 E por cima de sua cabeça puseram escrita sua acusação: ESTE É JESUS, O REI DOS JUDEUS.
 \v Mt.27.38
-Então foram crucificados com ele dois ladrões, um à direita, e outro à esquerda.
+Então foram crucificados com Ele dois ladrões, um à direita, e outro à esquerda.
 \v Mt.27.39
 E os que passavam blasfemavam dele, balançando suas cabeças,
 \v Mt.27.40
@@ -4097,7 +4097,7 @@ E alguns dos que ali estavam, ouvindo, disseram: “Ele está chamando Elias”.
 \v Mt.27.48
 E logo um deles, correndo, tomou uma esponja; e, enchendo-a de vinagre, colocou-a numa cana, e dava-lhe de beber.
 \v Mt.27.49
-Porém os outros diziam: “Deixa, vejamos se Elias vem livrá-lo”.
+Porém os outros diziam: “Deixa, vejamos se Elias vem livrá-Lo”.
 \v Mt.27.50
 E Jesus, exclamando outra vez em alta voz, entregou o espírito.
 \v Mt.27.51
@@ -4109,7 +4109,7 @@ lit. dormido
 \*fn
  foram ressuscitados;
 \v Mt.27.53
-E, saindo dos sepulcros, depois da ressurreição dele, entraram na cidade santa, e apareceram a muitos.
+E, saindo dos sepulcros, depois da ressurreição dEle, entraram na cidade santa, e apareceram a muitos.
 \v Mt.27.54
 E o centurião, e os que com ele guardavam Jesus, vendo o terremoto e as coisas que haviam sucedido, temeram muito, e 
 disseram: “Verdadeiramente este era Filho de Deus”.
@@ -4181,7 +4181,7 @@ N4 não contém “o Senhor”
 E ide depressa, dizei a seus discípulos que ressuscitou dos mortos. E eis que vai adiante de vós para a Galileia; 
 ali o verão. Eis que eu vos disse.
 \v Mt.28.8
-Então elas, saindo depressa do sepulcro, com temor e grande alegria, correram para anunciar a seus discípulos.
+Então elas, saindo depressa do sepulcro, com temor e grande alegria, correram para anunciar a Seus discípulos.
 \v Mt.28.9
 E
 , estando elas indo anunciar a seus discípulos,
@@ -4191,7 +4191,7 @@ N4 não contém “estando elas indo anunciar a seus discípulos”
  eis que Jesus veio ao encontro delas, dizendo: “Saudações”. E elas, aproximando-se, abraçaram-lhe os pés, e 
 o adoraram.
 \v Mt.28.10
-Jesus, então, lhes disse: “Não temais. Ide, anunciai a meus irmãos para irem à Galileia; e lá me verão”.
+Jesus, então, lhes disse: “Não temais. Ide, anunciai a Meus irmãos para irem à Galileia; e lá Me verão”.
 \v Mt.28.11
 E elas, indo, eis que alguns da guarda, chegando à cidade, anunciaram aos chefes dos sacerdotes tudo o que 
 havia acontecido.
@@ -4208,7 +4208,7 @@ E os onze discípulos partiram para a Galileia, ao monte onde Jesus lhes havia o
 \v Mt.28.17
 E quando o viram, o adoraram; mas alguns duvidaram.
 \v Mt.28.18
-E Jesus, aproximando-se, falou-lhes: “Todo o poder me é dado no céu e na terra.
+E Jesus, aproximando-se, falou-lhes: “Todo o poder Me é dado no céu e na terra.
 \v Mt.28.19
 Portanto ide
 , fazei discípulos de todas as nações, batizando-os em nome do Pai, do Filho, e do 
