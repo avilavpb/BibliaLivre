@@ -635,3 +635,7 @@ Também neste lote:
 - Mc 9.2: "tomou consigo" → "tomou Consigo", confirmado por Marcelo.
 - Rm 16.25: a linha estava marcada {tr|n4}. Foi dividida em {n4} (sem mudança) + {tr} (com "Aquele"), para não mexer no N4.
 
+
+## Diretriz de tom no discurso divino direto (decisão de Marcelo, 23/11/2026)
+
+Registrada, ainda não aplicada ao texto. Ver `REGISTRO-VPB.md`: manter a segunda pessoa do plural (vós, vos, convosco, vosso) em todo discurso direto de Deus, de Cristo ou de um profeta que fala por eles, sem forçar "vós" onde o original não usa a segunda pessoa (ex.: Gn 1.26 "façamos" permanece).
