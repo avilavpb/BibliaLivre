@@ -504,3 +504,7 @@ Marcação usada: o bloco `\added` … `\*added` do formato f4, com cada marcado
 ### Jo 16.14: marcação de itálico (só TR)
 
 - **Jo 16.14** – Na fonte, o primeiro `\added` não fechava ("do [que é Meu, e [o]…"), o que deixava a TR com 4.846 aberturas e 4.845 fechamentos de itálico. Corrigido na TR para "do [que é Meu], e [o] anunciará" (TR ἐκ τοῦ ἐμοῦ λήψεται καὶ ἀναγγελεῖ ὑμῖν). O texto não muda, só o itálico.
+
+### Fim de itálico com pontuação na mesma linha (só TR)
+
+- **Mc 14.29** e **Lc 11.48** – A linha `\*added` trazia junto a pontuação final ("”." e "."). O conversor USFM fecha o itálico e descarta o resto da linha, então a pontuação sumia na saída. A pontuação passou para uma linha própria na TR. O texto não muda.

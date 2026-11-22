@@ -2425,7 +2425,9 @@ Mas depois que eu houver ressuscitado, irei adiante de vós para a Galileia”.
 {tr}E Pedro Lhe disse: “Ainda que todos achem motivo de tropeço, eu não 
 \added
 acharei
-\*added”.
+{rp|n4}\*added”.
+{tr}\*added
+{tr}”.
 \v Mc.14.30
 {rp|n4}Jesus lhe disse: “Em verdade te digo, que hoje, nesta noite, antes que o galo cante duas vezes, tu me negarás 
 {tr}Jesus lhe disse: “Em verdade te digo, que hoje, nesta noite, antes que o galo cante duas vezes, tu Me negarás 

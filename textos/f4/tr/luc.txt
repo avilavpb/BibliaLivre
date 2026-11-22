@@ -2772,7 +2772,8 @@ Ai de vós, que construís os sepulcros dos profetas, e vossos pais os mataram.
 Assim vós dais testemunho de que aprovais as obras de vossos pais; porque eles os mataram, e vós construís 
 \added
 seus sepulcros
-\*added.
+\*added
+.
 \v Lc.11.49
 Por isso, a sabedoria de Deus também diz: ‘Eu lhes mandarei profetas e apóstolos; e deles, 
 \added
