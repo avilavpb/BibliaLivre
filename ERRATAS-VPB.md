@@ -525,3 +525,4 @@ Pedido de Marcelo: revisão versículo a versículo, com julgamento. Para cada p
 - **Gálatas**: 1 versículos, 1 pronomes alterados na revisão manual; 1 casos anotados (`pronomes-divinos/revisao-gal-duvidosos.md`).
 - **Efésios**: 7 versículos, 11 pronomes alterados na revisão manual; 0 casos anotados (`pronomes-divinos/revisao-eph-duvidosos.md`).
 - **Filipenses**: 5 versículos, 13 pronomes alterados na revisão manual; 0 casos anotados (`pronomes-divinos/revisao-php-duvidosos.md`).
+- **Colossenses**: 5 versículos, 6 pronomes alterados na revisão manual; 2 casos anotados (`pronomes-divinos/revisao-col-duvidosos.md`).
