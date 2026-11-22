@@ -527,3 +527,4 @@ Pedido de Marcelo: revisão versículo a versículo, com julgamento. Para cada p
 - **Filipenses**: 5 versículos, 13 pronomes alterados na revisão manual; 0 casos anotados (`pronomes-divinos/revisao-php-duvidosos.md`).
 - **Colossenses**: 5 versículos, 6 pronomes alterados na revisão manual; 2 casos anotados (`pronomes-divinos/revisao-col-duvidosos.md`).
 - **1Tessalonicenses**: 1 versículos, 1 pronomes alterados na revisão manual; 1 casos anotados (`pronomes-divinos/revisao-1th-duvidosos.md`).
+- **2Tessalonicenses**: 0 versículos, 0 pronomes alterados na revisão manual; 1 casos anotados (`pronomes-divinos/revisao-2th-duvidosos.md`).
