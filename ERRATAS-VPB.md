@@ -496,3 +496,7 @@ Marcação usada: o bloco `\added` … `\*added` do formato f4, com cada marcado
 - **Livros poéticos (Jó–Cantares)** (AT): 907 versículos, 1420 pronomes. Ficam 1098 versículos para revisão (`pronomes-divinos/poeticos-pendentes.md`).
 - **Profetas maiores (Isaías–Daniel)** (AT): 704 versículos, 1145 pronomes. Ficam 694 versículos para revisão (`pronomes-divinos/maiores-pendentes.md`).
 - **Profetas menores (Oseias–Malaquias)** (AT): 190 versículos, 268 pronomes. Ficam 161 versículos para revisão (`pronomes-divinos/menores-pendentes.md`).
+
+### Mq 5.4: concordância (decisão de Marcelo, 22/11/2026)
+
+- **Mq 5.4** – "E eles se levantará" → "E Ele se levantará" (só TR). Os verbos hebraicos estão no singular (וְעָמַד וְרָעָה, qal perf. 3ª masc. sing.). "Ele" vai em maiúscula porque o referente é o governante do v. 2, como "Seu Deus" e "Ele será engrandecido" no mesmo versículo. O resto do versículo foi conferido: "e eles habitarão" está correto (וְיָשָׁבוּ, 3ª masc. pl.) e "governará" concorda com o sujeito singular.
