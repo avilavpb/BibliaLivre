@@ -453,10 +453,9 @@ Marcação usada: o bloco `\added` … `\*added` do formato f4, com cada marcado
 
 - Pronomes que se referem a Deus (Pai, Filho, Espírito) passam a começar com maiúscula: Ele, Lhe, Seu/Sua/Seus/Suas, Si, Consigo, Tu, Te, Ti, Teu/Tua…, Contigo, Me, Mim, Meu/Minha…, Comigo.
 - Oblíquos enclíticos: maiúscula só no pronome (adorá-Lo, segui-Lo, acusando-O, disse-Lhe, dá-Te, lembra-Te, Mostrai-Me).
-- Contrações, pelo mesmo princípio (maiúscula só no pronome): dEle, nEle. Esta é uma extensão da regra por analogia, ainda sem confirmação.
-- Fica para depois:
-  - "eu" e "nós/nos/nosso" ficam em minúscula. A referência usa maiúscula em "I" em todos os casos, então não indica nada.
-  - O pronome proclítico "o" antes do verbo ("o levou", "o seguia") não é tratado automaticamente, porque não se distingue do artigo sem revisão.
+- Contrações, pelo mesmo princípio (maiúscula só no pronome): dEle, nEle. **Confirmado por Marcelo (22/11/2026).**
+- "eu" e "nós/nos/nosso" ficam em minúscula. **Decisão de Marcelo (22/11/2026).**
+- Pronome oblíquo átono "o" antes do verbo, quando divino, também vai em maiúscula: "Deus O ungiu", "O levou". **Decisão de Marcelo (22/11/2026).** É tratado como explicado em "Segunda passada no NT", abaixo.
 - Só a TR muda. No NT, cada linha alterada vira `{rp|n4}`(original) + `{tr}`(nova), ou perde o marcador `tr` se já tinha um. As saídas RP e N4 foram conferidas e são idênticas às de antes.
 
 ### Método
@@ -476,3 +475,15 @@ Marcação usada: o bloco `\added` … `\*added` do formato f4, com cada marcado
 - **Atos**: 59 versículos, 86 pronomes. Ficam 64 versículos para revisão (`pronomes-divinos/atos-pendentes.md`).
 - **Epístolas paulinas e Hebreus**: 194 versículos, 266 pronomes. Ficam 129 versículos para revisão (`pronomes-divinos/paulinas-pendentes.md`).
 - **Epístolas gerais e Apocalipse**: 100 versículos, 152 pronomes. Ficam 86 versículos para revisão (`pronomes-divinos/gerais-pendentes.md`, com 1Pd 3.18).
+
+### Segunda passada no NT: "o" proclítico e critério mais estrito (22/11/2026)
+
+- **Como o "o" proclítico é detectado:** o etiquetador morfossintático spaCy `pt_core_news_md` tem de marcar o "o" como pronome e a palavra seguinte como verbo. Além disso, a palavra anterior tem de ser que/não/se/já/nunca/também/quem/ninguém/nem, ou o verbo tem de estar em forma finita. A LSV confirma o referente divino pelas mesmas condições de antes.
+- **Contagem por função:** passou a separar o sujeito ("ele" livre, contado contra "He") dos demais pronomes (o, lhe, seu, dele, "ele" depois de preposição etc., contados contra Him/His/Himself). "si mesmos" (plural) nunca é tratado como divino.
+- **Revisão do que já tinha sido aplicado:** 34 versículos com 3ª pessoa já aplicada não passam no critério novo e voltaram à minúscula na 3ª pessoa. Lista em `pronomes-divinos/nt-revertidos.tsv`. Entre eles há erros reais, como Lc 9.26 "dele o Filho do homem se envergonhará", Lc 18.9 "si mesmos" e Mc 6.51 "entre si". Outros podem estar certos (Jo 3.16, Ap 7.15) e ficam para revisão.
+- **Aplicados:** 111 versículos, 182 pronomes, sendo 128 "O" proclíticos e 54 outros pronomes que estavam travados só pela contagem. Lista em `pronomes-divinos/nt-procliticos-aplicados.tsv`.
+- **Pendentes do NT, refeitos sobre o texto atual:** 1.090 versículos (Evangelhos 792, Atos 70, Paulinas 141, Gerais/Ap 87).
+
+### Mq 5.2: "saídas" mantido
+
+- **Mq 5.2** – Decisão de Marcelo: mantém "suas saídas" (hebr. וּמוֹצָאֹתָיו), sem nota.

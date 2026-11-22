@@ -124,7 +124,7 @@ e que sejam iluminados os olhos do vosso
 {trnc}RP, N4: coração 
 {trnc}\*fn
 {rp|n4} para que conheçais qual é a esperança para a qual ele chamou, quais 
-{tr} para que conheçais qual é a esperança para a qual Ele chamou, quais 
+{tr} para que conheçais qual é a esperança para a qual ele chamou, quais 
 \added
 são
 \*added
@@ -133,18 +133,18 @@ são
 Lit. glória da herança
 \*fn
 {rp|n4} dele nos santos,
-{tr} dEle nos santos,
+{tr} dele nos santos,
 \v Ef.1.19
 {rp|n4}e qual é a superabundante grandeza do seu poder para nós, que cremos, conforme a operação da sua poderosa força,
 {tr}e qual é a superabundante grandeza do Seu poder para nós, que cremos, conforme a operação da Sua poderosa força,
 \v Ef.1.20
 {rp|n4}a qual ele operou em Cristo, ressuscitando-o dos mortos; e o colocou à direita dele nos céus,
-{tr}a qual Ele operou em Cristo, ressuscitando-O dos mortos; e o colocou à direita dEle nos céus,
+{tr}a qual Ele operou em Cristo, ressuscitando-O dos mortos; e O colocou à direita dEle nos céus,
 \v Ef.1.21
 acima de todo governo, autoridade, poder, domínio, e de todo nome que se nomeia, não só nesta era, mas também na futura.
 \v Ef.1.22
 {rp|n4}Ele também sujeitou todas as coisas debaixo dos seus pés, e o constituiu por cabeça sobre todas as coisas 
-{tr}Ele também sujeitou todas as coisas debaixo dos Seus pés, e o constituiu por cabeça sobre todas as coisas 
+{tr}Ele também sujeitou todas as coisas debaixo dos Seus pés, e O constituiu por cabeça sobre todas as coisas 
 para a Igreja,
 \v Ef.1.23
 que é o seu corpo, a plenitude daquele que enche tudo em todas as coisas.
@@ -186,10 +186,10 @@ nos
  fez sentar nos lugares celestiais, em Cristo Jesus;
 \v Ef.2.7
 {rp|n4}para mostrar nos tempos futuros as abundantes riquezas da sua graça, pela 
-{tr}para mostrar nos tempos futuros as abundantes riquezas da Sua graça, pela 
+{tr}para mostrar nos tempos futuros as abundantes riquezas da sua graça, pela 
 \added
 {rp|n4}sua
-{tr}Sua
+{tr}sua
 \*added
  bondade conosco em Cristo Jesus.
 \v Ef.2.8

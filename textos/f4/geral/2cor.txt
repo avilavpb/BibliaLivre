@@ -61,7 +61,7 @@ O qual nos livrou de tamanha morte, e
 ainda nos
 \*added
 {rp|n4} livra; nele esperamos que também ainda 
-{tr} livra; nEle esperamos que também ainda 
+{tr} livra; nele esperamos que também ainda 
 \added
 nos
 \*added
@@ -399,7 +399,8 @@ Porque o amor de Cristo nos compele; pois concluímos que, se um morreu por todo
 ressuscitou.
 \v 2Co.5.16
 Portanto, daqui em diante a ninguém conhecemos segundo a carne, e ainda que também tenhamos conhecido a Cristo 
-segundo a carne, todavia agora não o conhecemos 
+{rp|n4}segundo a carne, todavia agora não o conhecemos 
+{tr}segundo a carne, todavia agora não O conhecemos 
 \added
 assim
 \*added
@@ -603,7 +604,7 @@ isto
  como que mandando, mas sim para também, por meio do empenho dos outros, provar a sinceridade de vosso amor.
 \v 2Co.8.9
 {rp|n4}Porque já conheceis a graça de nosso Senhor Jesus Cristo, que, sendo rico, por causa de vós se fez pobre; para que com a pobreza dele, vós enriquecêsseis.
-{tr}Porque já conheceis a graça de nosso Senhor Jesus Cristo, que, sendo rico, por causa de vós se fez pobre; para que com a pobreza dEle, vós enriquecêsseis.
+{tr}Porque já conheceis a graça de nosso Senhor Jesus Cristo, que, sendo rico, por causa de vós se fez pobre; para que com a pobreza dele, vós enriquecêsseis.
 \v 2Co.8.10
 E nisto dou 
 \added

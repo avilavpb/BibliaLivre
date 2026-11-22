@@ -102,7 +102,7 @@ mão
 \*added
  direita sete estrelas; e de sua boca saía uma espada aguda de dois fios; e seu rosto como o sol brilhando em sua força.
 \v Ap.1.17
-E quando eu o vi, cai aos pés dEle como que morto; e Ele pôs Sua mão direita sobre mim, 
+E quando eu O vi, cai aos pés dEle como que morto; e Ele pôs Sua mão direita sobre mim, 
 \added
 e
 \*added
@@ -677,8 +677,8 @@ onde eles vieram?”
 E eu lhe disse: “Senhor, tu sabes.” E ele me disse: “Estes são os que vieram da grande tribulação; e lavaram 
 suas roupas compridas e as branquearam no sangue do Cordeiro.
 \v Ap.7.15
-Por isso eles estão diante do trono de Deus, e servem a Ele dia e noite no Seu templo; e aquele que está 
-sentado sobre o trono armará Sua tenda e habitará com eles.
+Por isso eles estão diante do trono de Deus, e servem a ele dia e noite no seu templo; e aquele que está 
+sentado sobre o trono armará sua tenda e habitará com eles.
 \v Ap.7.16
 Eles não mais terão fome, nem mais terão sede; nem o sol, nem calor algum cairá sobre eles.
 \v Ap.7.17
@@ -1569,7 +1569,7 @@ e
 \*added
  diziam: “Amém! Aleluia!”
 \v Ap.19.5
-E saiu uma voz do trono, dizendo: “Louvai ao nosso Deus, todos vós os servos dele, e vós que o temeis, tanto pequenos como grandes.”
+E saiu uma voz do trono, dizendo: “Louvai ao nosso Deus, todos vós os servos dEle, e vós que O temeis, tanto pequenos como grandes.”
 \v Ap.19.6
 E eu ouvi como a voz de uma grande multidão, e como a voz de muitas águas, e como a voz de fortes trovões, dizendo: “Aleluia! Porque o 
 Senhor Deus Todo-Poderoso reina!
@@ -1622,7 +1622,7 @@ RP contém adicionalmente: “nomes escritos [nelas], além de”
 \v Ap.19.13
 E Ele estava vestido de uma roupa tingida em sangue, e o nome dEle é chamado “Palavra de Deus”.
 \v Ap.19.14
-E os exércitos no céu o seguiam em cavalos brancos, vestidos de linho fino branco e puro.
+E os exércitos no céu O seguiam em cavalos brancos, vestidos de linho fino branco e puro.
 \v Ap.19.15
 E da boca dele saía uma espada afiada, para com ela ferir às nações; e ele as dominará com vara de ferro; e ele pisa 
 na prensa do vinho da ira e da indignação do Deus Todo-Poderoso.

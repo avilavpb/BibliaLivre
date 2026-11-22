@@ -63,7 +63,8 @@ Jesus Cristo, o justo.
 {rp|n4}E ele é o sacrifício para perdão dos nossos pecados; e não somente dos nossos, mas também dos de todo o mundo.
 {tr}E Ele é o sacrifício para perdão dos nossos pecados; e não somente dos nossos, mas também dos de todo o mundo.
 \v 1Jo.2.3
-E nisto sabemos que o conhecemos, se guardamos os seus mandamentos.
+{rp|n4}E nisto sabemos que o conhecemos, se guardamos os seus mandamentos.
+{tr}E nisto sabemos que O conhecemos, se guardamos os Seus mandamentos.
 \v 1Jo.2.4
 Aquele que diz: “Eu o conheço”, mas não guarda os seus mandamentos, é mentiroso, e nele não está a verdade.
 \v 1Jo.2.5
@@ -227,7 +228,8 @@ Todo aquele que pratica o pecado também pratica injustiça, pois o pecado é in
 {rp|n4} pecados; e nele não há pecado.
 {tr} pecados; e nEle não há pecado.
 \v 1Jo.3.6
-Todo aquele que nele permanece não pratica o pecado; todo aquele que costuma pecar não o viu nem o conheceu.
+{rp|n4}Todo aquele que nele permanece não pratica o pecado; todo aquele que costuma pecar não o viu nem o conheceu.
+{tr}Todo aquele que nEle permanece não pratica o pecado; todo aquele que costuma pecar não O viu nem O conheceu.
 \v 1Jo.3.7
 Filhinhos, ninguém vos engane. Quem pratica a justiça é justo, assim como ele é justo.
 \v 1Jo.3.8
@@ -447,7 +449,7 @@ Este é aquele que veio por água e sangue: Jesus, o Cristo. Não só pela água
 pelo
 \*added
 {rp|n4} sangue. E o Espírito é o que lhe dá testemunho, porque o Espírito é a verdade.
-{tr} sangue. E o Espírito é o que Lhe dá testemunho, porque o Espírito é a verdade.
+{tr} sangue. E o Espírito é o que lhe dá testemunho, porque o Espírito é a verdade.
 \v 1Jo.5.7
 Pois são três os que dão testemunho
 {tr} no céu

@@ -181,7 +181,8 @@ Pelo contrário, ele esvaziou a si mesmo, tomando a forma de servo, e se tornou 
 \v Fp.2.8
 e, quando se encontrava em forma humana, humilhou a si mesmo, sendo obediente até a morte, e morte de cruz.
 \v Fp.2.9
-Por isso Deus também o exaltou em maneira suprema, e lhe deu 
+{rp|n4}Por isso Deus também o exaltou em maneira suprema, e lhe deu 
+{tr}Por isso Deus também O exaltou em maneira suprema, e Lhe deu 
 {tr|rp}um
 {n4}o
  nome 

@@ -636,7 +636,7 @@ Ou: “livre”
 \v Rm.6.8
 Ora, se já morremos com Cristo, cremos que também com Ele viveremos.
 \v Rm.6.9
-Porque sabemos que, depois que Cristo foi ressuscitado dos mortos, já não morre mais; a morte já não mais o domina.
+Porque sabemos que, depois que Cristo foi ressuscitado dos mortos, já não morre mais; a morte já não mais O domina.
 \v Rm.6.10
 Pois, ao morrer, ele morreu para o pecado de uma vez por todas; mas, ao viver, vive para Deus.
 \v Rm.6.11
@@ -1125,7 +1125,7 @@ Deuteronômio 30:14
 \*ref
  Esta é a palavra da fé, que pregamos.
 \v Rm.10.9
-Pois, se com a tua boca declarares que Jesus é Senhor, e em teu coração creres que Deus o ressuscitou dos mortos, serás salvo.
+Pois, se com a tua boca declarares que Jesus é Senhor, e em teu coração creres que Deus O ressuscitou dos mortos, serás salvo.
 \v Rm.10.10
 Pois com o coração se crê para a justiça,
 \fn
@@ -1138,7 +1138,7 @@ Porque a Escritura diz: “Todo aquele que nEle crê não será envergonhado.”
 Isaías 28:16 
 \*ref
 \v Rm.10.12
-Pois não há diferença entre judeu e grego, porque um mesmo é o Senhor de todos, rico para todos os que o invocam.
+Pois não há diferença entre judeu e grego, porque um mesmo é o Senhor de todos, rico para todos os que O invocam.
 \v Rm.10.13
 Pois: “Todo aquele que invocar o nome do Senhor será salvo.”
 \ref

@@ -42,11 +42,11 @@ E havendo ele dito essas coisas, enquanto eles o viam, ele foi elevado às altur
 vistas deles.
 \v At.1.10
 {rp|n4}E estando eles com os olhos fixos ao céu, enquanto ele ia, eis que junto deles se puseram dois homens vestidos de branco,
-{tr}E estando eles com os olhos fixos ao céu, enquanto Ele ia, eis que junto deles se puseram dois homens vestidos de branco,
+{tr}E estando eles com os olhos fixos ao céu, enquanto ele ia, eis que junto deles se puseram dois homens vestidos de branco,
 \v At.1.11
 que também disseram: “Homens galileus, por que vós estais olhando para o céu? Este Jesus, que do meio de vós foi 
 {rp|n4}recebido acima no céu, assim ele virá, da maneira como vós o vistes ir ao céu”.
-{tr}recebido acima no céu, assim Ele virá, da maneira como vós o vistes ir ao céu”.
+{tr}recebido acima no céu, assim ele virá, da maneira como vós o vistes ir ao céu”.
 \v At.1.12
 Então eles voltaram a Jerusalém do monte que se chama das Oliveiras, que está à distância de Jerusalém de um caminho 
 de sábado.
@@ -258,7 +258,8 @@ Pois Davi não subiu aos céus; mas ele diz: ‘O Senhor disse ao meu Senhor: As
 Salmos 110:1
 \*ref
 \v At.2.36
-Portanto, que toda a casa de Israel saiba com certeza que a este Jesus, que vós crucificastes, Deus o fez Senhor 
+{rp|n4}Portanto, que toda a casa de Israel saiba com certeza que a este Jesus, que vós crucificastes, Deus o fez Senhor 
+{tr}Portanto, que toda a casa de Israel saiba com certeza que a este Jesus, que vós crucificastes, Deus O fez Senhor 
 e Cristo”.
 \v At.2.37
 E eles, ouvindo 
@@ -431,7 +432,8 @@ Lit. semente
 Gênesis 22:18; 26:4
 \*ref
 \v At.3.26
-Deus, ao ressuscitar seu Filho Jesus, primeiro o enviou a vós, para que vos abençoasse, afastando cada um de vós de 
+{rp|n4}Deus, ao ressuscitar seu Filho Jesus, primeiro o enviou a vós, para que vos abençoasse, afastando cada um de vós de 
+{tr}Deus, ao ressuscitar Seu Filho Jesus, primeiro O enviou a vós, para que vos abençoasse, afastando cada um de vós de 
 vossas maldades”.
 \v At.4.1
 E enquanto eles ainda estavam falando ao povo, vieram sobre eles os sacerdotes, o oficial do Templo, e os saduceus,
@@ -1576,9 +1578,9 @@ essa palavra vós sabeis que veio por toda a Judeia, começando da Galileia, dep
 acerca de
 \*added
 {rp|n4} Jesus de Nazaré, como Deus o ungiu com o Espírito Santo e com poder; ele andou fazendo o bem, e curando todos os 
-{tr} Jesus de Nazaré, como Deus o ungiu com o Espírito Santo e com poder; Ele andou fazendo o bem, e curando todos os 
+{tr} Jesus de Nazaré, como Deus o ungiu com o Espírito Santo e com poder; ele andou fazendo o bem, e curando todos os 
 {rp|n4} oprimidos pelo diabo, porque Deus era com ele.
-{tr} oprimidos pelo diabo, porque Deus era com Ele.
+{tr} oprimidos pelo diabo, porque Deus era com ele.
 \v At.10.39
 {rp|n4}E nós somos testemunhas de tudo o que ele fez, tanto na terra dos judeus, como em Jerusalém; porém o mataram, 
 {tr}E nós somos testemunhas de tudo o que Ele fez, tanto na terra dos judeus, como em Jerusalém; porém o mataram, 
@@ -1914,7 +1916,8 @@ E tendo eles cumprido todas as coisas que estavam escritas sobre ele, tirando
 \*added
  na sepultura.
 \v At.13.30
-Mas Deus o ressuscitou dos mortos.
+{rp|n4}Mas Deus o ressuscitou dos mortos.
+{tr}Mas Deus O ressuscitou dos mortos.
 \v At.13.31
 {rp|n4}O qual foi visto durante muitos dias pelos que haviam subido com ele da Galileia, que são suas testemunhas para com o povo.
 {tr}O qual foi visto durante muitos dias pelos que haviam subido com Ele da Galileia, que são Suas testemunhas para com o povo.

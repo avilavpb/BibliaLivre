@@ -108,7 +108,7 @@ entendimento
 \fn
 RP, N4: coração 
 \*fn
- para que conheçais qual é a esperança para a qual Ele chamou, quais 
+ para que conheçais qual é a esperança para a qual ele chamou, quais 
 \added
 são
 \*added
@@ -116,15 +116,15 @@ são
 \fn
 Lit. glória da herança
 \*fn
- dEle nos santos,
+ dele nos santos,
 \v Ef.1.19
 e qual é a superabundante grandeza do Seu poder para nós, que cremos, conforme a operação da Sua poderosa força,
 \v Ef.1.20
-a qual Ele operou em Cristo, ressuscitando-O dos mortos; e o colocou à direita dEle nos céus,
+a qual Ele operou em Cristo, ressuscitando-O dos mortos; e O colocou à direita dEle nos céus,
 \v Ef.1.21
 acima de todo governo, autoridade, poder, domínio, e de todo nome que se nomeia, não só nesta era, mas também na futura.
 \v Ef.1.22
-Ele também sujeitou todas as coisas debaixo dos Seus pés, e o constituiu por cabeça sobre todas as coisas 
+Ele também sujeitou todas as coisas debaixo dos Seus pés, e O constituiu por cabeça sobre todas as coisas 
 para a Igreja,
 \v Ef.1.23
 que é o seu corpo, a plenitude daquele que enche tudo em todas as coisas.
@@ -163,9 +163,9 @@ nos
 \*added
  fez sentar nos lugares celestiais, em Cristo Jesus;
 \v Ef.2.7
-para mostrar nos tempos futuros as abundantes riquezas da Sua graça, pela 
+para mostrar nos tempos futuros as abundantes riquezas da sua graça, pela 
 \added
-Sua
+sua
 \*added
  bondade conosco em Cristo Jesus.
 \v Ef.2.8

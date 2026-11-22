@@ -57,7 +57,8 @@ Lit. ele
 \v Joao.1.11
 Ele veio para o que era seu, e os seus não o receberam.
 \v Joao.1.12
-Mas a todos quantos o receberam, deu-lhes poder de serem feitos filhos de Deus: aos que creem no seu nome;
+{rp|n4}Mas a todos quantos o receberam, deu-lhes poder de serem feitos filhos de Deus: aos que creem no seu nome;
+{tr}Mas a todos quantos O receberam, deu-lhes poder de serem feitos filhos de Deus: aos que creem no Seu nome;
 \v Joao.1.13
 os quais não foram gerados do sangue, nem da vontade da carne, nem da vontade de homem, mas sim, de Deus.
 \v Joao.1.14
@@ -151,7 +152,7 @@ No dia seguinte, João viu Jesus vir a ele, e disse: “Eis o Cordeiro de Deus, 
 este é aquele de quem eu disse: Após mim vem um homem que já foi antes de mim; porque já era primeiro que eu.
 \v Joao.1.31
 {rp|n4}E eu não o conhecia; mas por isso eu vim batizando com água, para que ele fosse revelado a Israel”.
-{tr}E eu não o conhecia; mas por isso eu vim batizando com água, para que Ele fosse revelado a Israel”.
+{tr}E eu não O conhecia; mas por isso eu vim batizando com água, para que Ele fosse revelado a Israel”.
 \v Joao.1.32
 {rp|n4}E João testemunhou, dizendo: “Eu vi o Espírito descer do céu como pomba, e repousou sobre ele.
 {tr}E João testemunhou, dizendo: “Eu vi o Espírito descer do céu como pomba, e repousou sobre Ele.
@@ -189,7 +190,8 @@ quase a hora décima.
 i.e. aproximadamente 4 horas da tarde
 \*fn
 \v Joao.1.40
-André, irmão de Simão Pedro, era um dos dois que ouviram aquilo de João, e o haviam seguido.
+{rp|n4}André, irmão de Simão Pedro, era um dos dois que ouviram aquilo de João, e o haviam seguido.
+{tr}André, irmão de Simão Pedro, era um dos dois que ouviram aquilo de João, e O haviam seguido.
 \v Joao.1.41
 Este achou primeiro seu irmão Simão, e disse-lhe: “Já achamos o Messias” (que traduzido é, o Cristo).
 \v Joao.1.42
@@ -376,7 +378,7 @@ E como Moisés levantou a serpente no deserto, assim é necessário que Filho do
  tenha a vida eterna.
 \v Joao.3.16
 {rp|n4}Porque Deus amou o mundo de tal maneira, que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, 
-{tr}Porque Deus amou o mundo de tal maneira, que deu o Seu Filho unigênito, para que todo aquele que nEle crê não pereça, 
+{tr}Porque Deus amou o mundo de tal maneira, que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, 
 mas tenha a vida eterna.
 \v Joao.3.17
 {rp|n4}Porque Deus enviou seu Filho ao mundo, não para que condenasse o mundo; mas sim, para que o mundo fosse salvo por ele.
@@ -776,7 +778,7 @@ Ele era uma lâmpada ardente e brilhante; e vós, por um pouco de tempo, quisest
 {tr}faço, testemunham de Mim que o Pai Me enviou.
 \v Joao.5.37
 {rp|n4}E o Pai que me enviou, ele mesmo testemunhou de mim. Vós nunca ouvistes a voz dele, nem vistes sua aparência;
-{tr}E o Pai que Me enviou, Ele mesmo testemunhou de Mim. Vós nunca ouvistes a voz dEle, nem vistes Sua aparência;
+{tr}E o Pai que Me enviou, ele mesmo testemunhou de Mim. Vós nunca ouvistes a voz dele, nem vistes sua aparência;
 \v Joao.5.38
 {rp|n4}e não tendes a palavra dele permanecendo em vós; porque vós não credes naquele que ele enviou.
 {tr}e não tendes a palavra dEle permanecendo em vós; porque vós não credes naquele que Ele enviou.
@@ -810,7 +812,8 @@ Não penseis que sou eu que irei vos acusar diante do Pai; o que vos acusa é Mo
 \v Joao.6.1
 Depois disso, Jesus partiu para o outro lado do mar da Galileia, que é o de Tiberíades.
 \v Joao.6.2
-E uma grande multidão o seguia, porque viam os
+{rp|n4}E uma grande multidão o seguia, porque viam os
+{tr}E uma grande multidão O seguia, porque viam os
 {rp} seus
 {tr} Seus
 {rp|n4} sinais que ele fazia nos enfermos.
@@ -867,7 +870,8 @@ do barco; e tiveram medo.
 {rp|n4}Mas ele lhes disse: “Sou eu, não tenhais medo”.
 {tr}Mas Ele lhes disse: “Sou eu, não tenhais medo”.
 \v Joao.6.21
-Então eles o receberam de boa vontade no barco; e logo o barco chegou à terra para onde iam.
+{rp|n4}Então eles o receberam de boa vontade no barco; e logo o barco chegou à terra para onde iam.
+{tr}Então eles O receberam de boa vontade no barco; e logo o barco chegou à terra para onde iam.
 \v Joao.6.22
 No dia seguinte, a multidão que estava do outro lado do mar viu que não havia ali senão 
 {n4}um barquinho
@@ -1115,7 +1119,7 @@ E ele, havendo-lhes dito isto, ficou na Galileia.
 {tr}Mas, tendo Seus irmãos já subido, então Ele subiu também à festa, não publicamente, mas como em oculto.
 \v Joao.7.11
 {rp|n4}Assim, os judeus o buscavam na festa, e diziam: “Onde ele está?”
-{tr}Assim, os judeus o buscavam na festa, e diziam: “Onde Ele está?”
+{tr}Assim, os judeus o buscavam na festa, e diziam: “Onde ele está?”
 \v Joao.7.12
 E havia grande murmuração nas multidões acerca dele. Alguns diziam: “Ele é bom”; e outros diziam: “Não, mas ele engana 
 a multidão”.
@@ -1168,7 +1172,7 @@ E eis aí que ele fala livremente, e nada lhe dizem; acaso os chefes reconhecera
 {tr}eu vim, não de Mim mesmo; mas aquele que Me enviou é verdadeiro, o que vós não conheceis.
 \v Joao.7.29
 {rp|n4}Porém eu o conheço, porque dele venho, e ele me enviou”.
-{tr}Porém eu o conheço, porque dEle venho, e Ele Me enviou”.
+{tr}Porém eu O conheço, porque dEle venho, e Ele Me enviou”.
 \v Joao.7.30
 {rp|n4}Então procuravam prendê-lo, mas ninguém pôs a mão contra ele, porque a hora dele ainda não havia chegado.
 {tr}Então procuravam prendê-Lo, mas ninguém pôs a mão contra Ele, porque a hora dEle ainda não havia chegado.
@@ -1202,7 +1206,7 @@ me
  achareis; e onde eu estou vós não podeis vir”.
 \v Joao.7.35
 {rp|n4}Então os judeus disseram uns aos outros: “Para onde ele irá, que não o acharemos? Acaso ele irá aos dispersos entre os 
-{tr}Então os judeus disseram uns aos outros: “Para onde Ele irá, que não o acharemos? Acaso Ele irá aos dispersos entre os 
+{tr}Então os judeus disseram uns aos outros: “Para onde ele irá, que não o acharemos? Acaso ele irá aos dispersos entre os 
 gregos, e ensinará os gregos?
 \v Joao.7.36
 {rp|n4}Que palavra é esta que ele disse: ‘Vós me buscareis, mas não 
@@ -1246,7 +1250,8 @@ Lit. semente
 {rp|n4}E alguns deles queriam prendê-lo, mas ninguém pôs a mão contra ele.
 {tr}E alguns deles queriam prendê-Lo, mas ninguém pôs a mão contra Ele.
 \v Joao.7.45
-Então os guardas vieram até os chefes sacerdotes e fariseus; e estes lhes disseram: “Por que vós não o trouxestes?”
+{rp|n4}Então os guardas vieram até os chefes sacerdotes e fariseus; e estes lhes disseram: “Por que vós não o trouxestes?”
+{tr}Então os guardas vieram até os chefes sacerdotes e fariseus; e estes lhes disseram: “Por que vós não O trouxestes?”
 \v Joao.7.46
 Os guardas responderam: “Ninguém jamais falou assim como este homem.”
 \v Joao.7.47
@@ -1292,7 +1297,8 @@ E os escribas e fariseus trouxeram-lhe uma mulher tomada em adultério;
 \v Joao.8.5
 E na Lei, Moisés nos mandou que as tais sejam apedrejadas; tu, pois, que dizes?”
 \v Joao.8.6
-E eles diziam isso tentando-o, para que tivessem de que o acusar. Mas Jesus, inclinando-se, escrevia com o 
+{rp|n4}E eles diziam isso tentando-o, para que tivessem de que o acusar. Mas Jesus, inclinando-se, escrevia com o 
+{tr}E eles diziam isso tentando-O, para que tivessem de que O acusar. Mas Jesus, inclinando-se, escrevia com o 
 dedo na terra.
 \v Joao.8.7
 E como insistiam em perguntar-lhe, ele se endireitou, e disse-lhes: “Aquele dentre vós que está sem pecado, 
@@ -1349,7 +1355,8 @@ também
 {rp|n4}me conhecêsseis, também conheceríeis o meu Pai”.
 {tr}Me conhecêsseis, também conheceríeis o Meu Pai”.
 \v Joao.8.20
-Jesus falou estas palavras junto à arca do tesouro, ensinando no Templo; e ninguém o prendeu, porque sua hora ainda 
+{rp|n4}Jesus falou estas palavras junto à arca do tesouro, ensinando no Templo; e ninguém o prendeu, porque sua hora ainda 
+{tr}Jesus falou estas palavras junto à arca do tesouro, ensinando no Templo; e ninguém O prendeu, porque Sua hora ainda 
 não havia chegado.
 \v Joao.8.21
 {rp|n4}Então Jesus lhes disse outra vez: “Eu vou embora, e vós me buscareis, e morrereis no vosso pecado. Para onde eu vou 
@@ -1494,8 +1501,10 @@ Ou: não verá a morte para sempre
 Jesus respondeu: “Se eu me glorifico a mim mesmo, minha glória é nada; quem me glorifica é o meu Pai, o que vós 
 dizeis ser vosso Deus.
 \v Joao.8.55
-E vós não o conheceis, mas eu o conheço; e se eu disser que não o conheço, serei mentiroso como vós; mas eu o 
-conheço, e guardo a palavra dele.
+{rp|n4}E vós não o conheceis, mas eu o conheço; e se eu disser que não o conheço, serei mentiroso como vós; mas eu o 
+{tr}E vós não O conheceis, mas eu O conheço; e se eu disser que não O conheço, serei mentiroso como vós; mas eu O 
+{rp|n4}conheço, e guardo a palavra dele.
+{tr}conheço, e guardo a palavra dEle.
 \v Joao.8.56
 {rp|n4}Abraão, vosso pai, saltou de júbilo por ver o meu dia; ele viu, e se alegrou”.
 {tr}Abraão, vosso pai, saltou de júbilo por ver o Meu dia; ele viu, e se alegrou”.
@@ -1714,7 +1723,7 @@ i.e. Hanukkah, que celebra a vitória dos Macabeus, e a renovação da dedicaç�
 E Jesus andava passeando no Templo, no pórtico de Salomão.
 \v Joao.10.24
 {rp|n4}Então os judeus o rodearam e lhe disseram: “Até quando tu nos deixarás
-{tr}Então os judeus o rodearam e lhe disseram: “Até quando Tu nos deixarás
+{tr}Então os judeus O rodearam e Lhe disseram: “Até quando Tu nos deixarás
 \fn
 Lit. manterás nossa alma 
 \*fn
@@ -1893,7 +1902,8 @@ te chamando”.
 {rp|n4}Ela, ouvindo isso, imediatamente levantou-se, e foi até ele.
 {tr}Ela, ouvindo isso, imediatamente levantou-se, e foi até Ele.
 \v Joao.11.30
-(Pois Jesus ainda não havia chegado à aldeia, mas estava no lugar onde Marta o havia encontrado).
+{rp|n4}(Pois Jesus ainda não havia chegado à aldeia, mas estava no lugar onde Marta o havia encontrado).
+{tr}(Pois Jesus ainda não havia chegado à aldeia, mas estava no lugar onde Marta O havia encontrado).
 \v Joao.11.31
 Então os judeus que estavam na casa e a consolavam, vendo que Maria se levantara depressa, e saíra, seguiram-na, 
 dizendo: “Ela vai para ao sepulcro para chorar ali”.
@@ -1956,7 +1966,8 @@ lit. sinédrio – o mais importante conselho ou tribunal para os judeus
 \*fn
  e disseram: “Que faremos? Porque este homem faz muitos sinais.
 \v Joao.11.48
-Se o deixarmos assim, todos crerão nele, e os romanos virão e tirarão de nós tanto o lugar quanto a nação”.
+{rp|n4}Se o deixarmos assim, todos crerão nele, e os romanos virão e tirarão de nós tanto o lugar quanto a nação”.
+{tr}Se O deixarmos assim, todos crerão nEle, e os romanos virão e tirarão de nós tanto o lugar quanto a nação”.
 \v Joao.11.49
 E um deles, Caifás, que era sumo sacerdote naquele ano, lhes disse: “Vós não sabeis de nada;
 \v Joao.11.50
@@ -1999,7 +2010,8 @@ Porém Judas Iscariotes,
 \added
 filho
 \*added
- de Simão, um de seus discípulos, o que o havia de trair, disse:
+{rp|n4} de Simão, um de seus discípulos, o que o havia de trair, disse:
+{tr} de Simão, um de Seus discípulos, o que O havia de trair, disse:
 \v Joao.12.5
 “Por que esse óleo perfumado não foi vendido por trezentos denários, para ser dado aos pobres?”
 \v Joao.12.6
@@ -2049,7 +2061,7 @@ que
 E a multidão que estava com ele quando chamou Lázaro da sepultura e o ressuscitou dos mortos, dava testemunho.
 \v Joao.12.18
 {rp|n4}Por isso também a multidão saiu ao encontro dele, porque ouviram que ele havia feito esse sinal.
-{tr}Por isso também a multidão saiu ao encontro dEle, porque ouviram que Ele havia feito esse sinal.
+{tr}Por isso também a multidão saiu ao encontro dele, porque ouviram que ele havia feito esse sinal.
 \v Joao.12.19
 Então os fariseus disseram entre si: “Vós vedes que não estais conseguindo nada? Eis que o mundo vai atrás dele”.
 \v Joao.12.20
@@ -2781,11 +2793,11 @@ Santifica-os na
 {tr}E não rogo somente por estes, mas também por aqueles que crerão em Mim, por meio da palavra deles;
 \v Joao.17.21
 {rp|n4}a fim de que todos sejam um; assim como tu, Pai, em mim, e eu em ti, que também eles 
-{tr}a fim de que todos sejam um; assim como Tu, Pai, em mim, e eu em Ti, que também eles 
+{tr}a fim de que todos sejam um; assim como Tu, Pai, em Mim, e eu em Ti, que também eles 
 {tr|rp}sejam um
 {n4}estejam
 {rp|n4} em nós; para que o mundo creia que tu me enviaste.
-{tr} em nós; para que o mundo creia que Tu me enviaste.
+{tr} em nós; para que o mundo creia que Tu Me enviaste.
 \v Joao.17.22
 {rp|n4}E eu lhes dei a glória que tu me deste, para que sejam um, assim como nós somos um.
 {tr}E eu lhes dei a glória que Tu Me deste, para que sejam um, assim como nós somos um.
@@ -2810,7 +2822,8 @@ neles, e eu neles.
 Havendo Jesus dito essas coisas, saiu com os seus discípulos para além do ribeiro de Cedrom, onde havia um jardim; 
 naquele lugar ele entrou com os seus discípulos.
 \v Joao.18.2
-E Judas, que o traía, também conhecia aquele lugar; porque Jesus muitas vezes se reunia ali com os seus discípulos.
+{rp|n4}E Judas, que o traía, também conhecia aquele lugar; porque Jesus muitas vezes se reunia ali com os seus discípulos.
+{tr}E Judas, que O traía, também conhecia aquele lugar; porque Jesus muitas vezes se reunia ali com os Seus discípulos.
 \v Joao.18.3
 Tendo, pois, Judas, trazido um destacamento de soldados e alguns guardas da parte dos chefes dos sacerdotes e dos 
 fariseus, chegou ali com lanternas, tochas, e armas.
@@ -2818,7 +2831,8 @@ fariseus, chegou ali com lanternas, tochas, e armas.
 {rp|n4}Então Jesus, sabendo todas as coisas que estavam por vir sobre ele, adiantou-se, e disse-lhes: “A quem vós buscais?”
 {tr}Então Jesus, sabendo todas as coisas que estavam por vir sobre Ele, adiantou-se, e disse-lhes: “A quem vós buscais?”
 \v Joao.18.5
-Responderam-lhe: “A Jesus Nazareno”. Jesus lhes disse: “Eu sou”. E Judas, que o traía, também estava com eles.
+{rp|n4}Responderam-lhe: “A Jesus Nazareno”. Jesus lhes disse: “Eu sou”. E Judas, que o traía, também estava com eles.
+{tr}Responderam-Lhe: “A Jesus Nazareno”. Jesus lhes disse: “Eu sou”. E Judas, que O traía, também estava com eles.
 \v Joao.18.6
 Quando, pois, lhes disse: “Eu sou”, recuaram, e caíram por terra.
 \v Joao.18.7
@@ -2839,7 +2853,8 @@ nome do servo era Malco.
 {rp|n4}Jesus disse, pois, a Pedro: “Põe tua espada na bainha; acaso não beberei o cálice que o Pai me deu?”
 {tr}Jesus disse, pois, a Pedro: “Põe tua espada na bainha; acaso não beberei o cálice que o Pai Me deu?”
 \v Joao.18.12
-Então o destacamento de soldados, o comandante, e os guardas dos judeus juntamente prenderam Jesus, e o amarraram.
+{rp|n4}Então o destacamento de soldados, o comandante, e os guardas dos judeus juntamente prenderam Jesus, e o amarraram.
+{tr}Então o destacamento de soldados, o comandante, e os guardas dos judeus juntamente prenderam Jesus, e O amarraram.
 \v Joao.18.13
 E o levaram primeiramente a Anás, porque era sogro de Caifás, que era o sumo sacerdote daquele ano.
 \v Joao.18.14
@@ -2876,7 +2891,8 @@ sumo sacerdote?”
 {rp|n4}Jesus lhe respondeu: “Se falei mal, dê testemunho do mal; e se bem, por que tu bates em mim?”
 {tr}Jesus lhe respondeu: “Se falei mal, dê testemunho do mal; e se bem, por que tu bates em Mim?”
 \v Joao.18.24
-Então Anás o enviou, amarrado, ao sumo sacerdote Caifás.
+{rp|n4}Então Anás o enviou, amarrado, ao sumo sacerdote Caifás.
+{tr}Então Anás O enviou, amarrado, ao sumo sacerdote Caifás.
 \v Joao.18.25
 E Simão Pedro estava ali, e aquecia-se; disseram-lhe, pois: “Tu não és também um dos discípulos dele?” Ele negou, e 
 disse: “Não sou”.
@@ -2928,7 +2944,8 @@ Ou: revoltoso
 \v Joao.19.1
 Por isso, Pilatos tomou Jesus, e 
 \added
-o
+{rp|n4}o
+{tr}O
 \*added
  açoitou.
 \v Joao.19.2
@@ -3005,7 +3022,8 @@ lugar
 \*added
  chamado Caveira, que em hebraico se chama Gólgota.
 \v Joao.19.18
-Ali o crucificaram, e com ele outros dois, um de cada lado, e Jesus no meio.
+{rp|n4}Ali o crucificaram, e com ele outros dois, um de cada lado, e Jesus no meio.
+{tr}Ali O crucificaram, e com Ele outros dois, um de cada lado, e Jesus no meio.
 \v Joao.19.19
 E Pilatos escreveu também um título, e o pôs encima da cruz, e estava escrito: JESUS NAZARENO, O REI DOS JUDEUS.
 \v Joao.19.20
@@ -3112,7 +3130,8 @@ dia
  da semana, Maria Madalena foi ao sepulcro de madrugada, sendo ainda escuro; e viu a pedra já tirada do sepulcro.
 \v Joao.20.2
 Ela correu, pois e foi a Simão Pedro, e ao outro discípulo a quem Jesus amava, e disse-lhes: “Tiraram o Senhor do 
-sepulcro, e não sabemos onde o puseram”.
+{rp|n4}sepulcro, e não sabemos onde o puseram”.
+{tr}sepulcro, e não sabemos onde O puseram”.
 \v Joao.20.3
 Então Pedro e o outro discípulo saíram, e foram ao sepulcro.
 \v Joao.20.4

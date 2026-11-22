@@ -285,7 +285,7 @@ de Deus’”.
 Deuteronômio 8:3 
 \*ref
 \v Mt.4.5
-Então o diabo o levou à cidade santa, e o pôs sobre o ponto mais alto do Templo,
+Então o diabo O levou à cidade santa, e O pôs sobre o ponto mais alto do Templo,
 \v Mt.4.6
 e disse-lhe: “Se tu és o Filho de Deus, lança-te abaixo, porque está escrito que: ‘Mandará aos seus anjos acerca de 
 ti, e te tomarão pelas mãos, para que nunca com teu pé tropeces em pedra alguma’”.
@@ -311,7 +311,7 @@ Então Jesus lhe disse: “Vai embora, Satanás! Porque está escrito: ‘Ao Sen
 Deuteronômio 6:13 
 \*ref
 \v Mt.4.11
-Então o diabo o deixou; e eis que chegaram anjos, e o serviram.
+Então o diabo O deixou; e eis que chegaram anjos, e O serviram.
 \v Mt.4.12
 Jesus,
 \fn
@@ -346,7 +346,7 @@ mar, porque eram pescadores.
 \v Mt.4.19
 E disse-lhes: “Vinde após Mim, e eu vos farei pescadores de gente”.
 \v Mt.4.20
-Então eles, deixando logo as redes, o seguiram.
+Então eles, deixando logo as redes, O seguiram.
 \v Mt.4.21
 E passando dali, viu outros dois irmãos: Tiago, 
 \added
@@ -367,7 +367,7 @@ toda doença no povo.
 E Sua fama corria por toda a Síria, e traziam-Lhe todos que sofriam de algum mal, acometidos de diversas 
 enfermidades e tormentos, e os endemoninhados, epiléticos, e paralíticos; e Ele os curava.
 \v Mt.4.25
-E o seguiam muitas multidões da Galileia, de Decápolis, de Jerusalém, da Judeia, e dalém do Jordão.
+E O seguiam muitas multidões da Galileia, de Decápolis, de Jerusalém, da Judeia, e dalém do Jordão.
 \v Mt.5.1
 E 
 \added
@@ -600,7 +600,7 @@ nas ruas, para serem honrados pelas pessoas; em verdade vos digo que já receber
 \v Mt.6.3
 Mas, quando tu deres esmola, não saiba tua mão esquerda o que faz a tua direita;
 \v Mt.6.4
-para que tua esmola seja em segredo, e teu Pai, que vê em segredo, Ele te recompensará
+para que tua esmola seja em segredo, e teu Pai, que vê em segredo, ele te recompensará
  em público
 .
 \fn
@@ -806,7 +806,7 @@ porque Ele as ensinava como tendo autoridade, e não como os
 N4 contém “seus escribas”
 \*fn
 \v Mt.8.1
-E, descendo Ele do monte, muitas multidões o seguiram.
+E, descendo Ele do monte, muitas multidões O seguiram.
 \v Mt.8.2
 E eis que um leproso veio e prostrou-se diante dEle, dizendo: “Senhor, se quiseres, podes me limpar.
 \v Mt.8.3
@@ -905,7 +905,7 @@ N4 não contém “seus”
 \v Mt.8.22
 Porém Jesus lhe disse: “Segue-Me, e deixa aos mortos enterrar seus mortos”.
 \v Mt.8.23
-E, entrando Ele no barco, Seus discípulos o seguiram.
+E, entrando Ele no barco, Seus discípulos O seguiram.
 \v Mt.8.24
 E eis que se levantou no mar uma tempestade tão grande que o barco era coberto pelas ondas; porém Ele dormia.
 \v Mt.8.25
@@ -1104,7 +1104,7 @@ E quando a multidão foi posta para fora, entrou, pegou a mão dela, e a menina 
 \v Mt.9.26
 E essa notícia se espalhou por toda aquela região.
 \v Mt.9.27
-E Jesus, partindo dali, dois cegos o seguiram, clamando e dizendo: “Tem compaixão de nós, Filho de Davi!”
+E Jesus, partindo dali, dois cegos O seguiram, clamando e dizendo: “Tem compaixão de nós, Filho de Davi!”
 \v Mt.9.28
 E quando chegou em casa, os cegos vieram a Ele. E Jesus lhes disse: “Vós credes que posso fazer isso?” Eles Lhe 
 disseram: “Sim, Senhor”.
@@ -1166,7 +1166,7 @@ N4 não contém “Lebeu, por sobrenome”
 \*fn
 Tadeu;
 \v Mt.10.4
-Simão o zelote, e Judas Iscariotes, o mesmo que o traiu.
+Simão o zelote, e Judas Iscariotes, o mesmo que O traiu.
 \v Mt.10.5
 Jesus enviou esses doze, e lhes mandou, dizendo: “Não ireis pelo caminho dos gentios, nem entrareis em cidade 
 de samaritanos.
@@ -1442,16 +1442,16 @@ Pois quanto mais vale um ser humano do que uma ovelha! Portanto, é lícito faze
 \v Mt.12.13
 Então disse para aquele homem: “Estende tua mão”. Ele a estendeu, e foi-lhe restituída, sã como a outra.
 \v Mt.12.14
-E os fariseus, havendo saído, formaram uma conspiração contra ele, de como o matariam.
+E os fariseus, havendo saído, formaram uma conspiração contra Ele, de como O matariam.
 \v Mt.12.15
 Mas Jesus, sabendo disso, retirou-se dali. 
 Muitas multidões
 \fn
 TR, RP: Muitas multidões - N4: Muitos
 \*fn
- o seguiram, e Ele curou a todos.
+ O seguiram, e Ele curou a todos.
 \v Mt.12.16
-E mandava-lhes rigorosamente que não o divulgassem;
+E mandava-lhes rigorosamente que não O divulgassem;
 \v Mt.12.17
 para que se cumprisse o que fora dito pelo profeta Isaías, que disse:
 \v Mt.12.18
@@ -1884,11 +1884,11 @@ Homem
 \v Mt.14.32
 E quando subiram no barco, o vento se aquietou.
 \v Mt.14.33
-Então aproximaram-se os que estavam no barco e o adoraram, dizendo: “Verdadeiramente tu és o Filho de Deus”.
+Então aproximaram-se os que estavam no barco e O adoraram, dizendo: “Verdadeiramente tu és o Filho de Deus”.
 \v Mt.14.34
 E, passando para a outra margem, chegaram à terra de Genesaré.
 \v Mt.14.35
-E quando os homens daquele lugar o reconheceram, avisaram por toda aquela região em redor, e trouxeram-lhe todos 
+E quando os homens daquele lugar O reconheceram, avisaram por toda aquela região em redor, e trouxeram-Lhe todos 
 os que estavam enfermos.
 \v Mt.14.36
 E rogavam-Lhe que tão somente tocassem a borda de Sua roupa; e todos os que a tocavam eram curados.
@@ -2288,7 +2288,7 @@ N4 não contém todo o versículo 21
 \v Mt.17.22
 E, estando eles na Galileia, Jesus lhes disse: “O Filho do homem será entregue nas mãos de homens.
 \v Mt.17.23
-E o matarão, e será ressuscitado ao terceiro dia”. E eles se entristeceram muito.
+E O matarão, e será ressuscitado ao terceiro dia”. E eles se entristeceram muito.
 \v Mt.17.24
 E, entrando eles em Cafarnaum, aproximaram-se de Pedro os cobradores das duas dracmas, e perguntaram: “Vosso mestre 
 não paga as duas dracmas?”
@@ -2456,7 +2456,7 @@ N4 não contém “suas ofensas”
 \v Mt.19.1
 E aconteceu que Jesus, concluindo essas palavras, saiu da Galileia, e veio para a região da Judeia, dalém do Jordão.
 \v Mt.19.2
-E muitas multidões o seguiram, e curou-as ali.
+E muitas multidões O seguiram, e curou-as ali.
 \v Mt.19.3
 Então aproximaram-se dele os fariseus se e, provando-o, disseram
 -lhe
@@ -2706,7 +2706,7 @@ TR, RP: subindo - N4: para subir
 “Eis que estamos subindo a Jerusalém, e o Filho do homem será entregue aos chefes dos sacerdotes e aos escribas, e o 
 condenarão à morte.
 \v Mt.20.19
-E o entregarão aos gentios, para que escarneçam dele, e o açoitem, e crucifiquem; mas ao terceiro 
+E O entregarão aos gentios, para que escarneçam dEle, e o açoitem, e crucifiquem; mas ao terceiro 
 dia 
 ressuscitará
 ”.
@@ -2756,7 +2756,7 @@ e quem quiser ser o primeiro entre vós, seja vosso servo;
 \v Mt.20.28
 assim como o Filho do homem não veio para ser servido, mas para servir, e dar Sua vida em resgate por muitos”.
 \v Mt.20.29
-E eles, saindo de Jericó, uma grande multidão o seguia.
+E eles, saindo de Jericó, uma grande multidão O seguia.
 \v Mt.20.30
 E eis que dois cegos assentados junto ao caminho, ouvindo que Jesus passava, clamaram, dizendo: “Senhor, Filho de 
 Davi, tem misericórdia de nós!”
@@ -2941,7 +2941,7 @@ E quem cair sobre esta pedra será despedaçado; e sobre quem ela cair, ela o re
 \v Mt.21.45
 E os chefes dos sacerdotes e os fariseus, ouvindo Suas parábolas, entenderam que estava falando deles.
 \v Mt.21.46
-E, procurando prendê-lo, temeram as multidões, porque elas o consideravam profeta.
+E, procurando prendê-Lo, temeram as multidões, porque elas O consideravam profeta.
 \v Mt.22.1
 Então Jesus, respondendo, voltou a falar-lhes por parábolas, dizendo:
 \v Mt.22.2
@@ -3780,7 +3780,7 @@ queres
 \*added
 ”.
 \v Mt.26.40
-E voltou a Seus discípulos, e os achou dormindo; e disse a Pedro: “Então, nem uma hora pudestes vigiar Comigo?
+E voltou a seus discípulos, e os achou dormindo; e disse a Pedro: “Então, nem uma hora pudestes vigiar Comigo?
 \v Mt.26.41
 Vigiai e orai, para que não entreis em tentação. Em verdade, o espírito 
 \added
@@ -3858,7 +3858,7 @@ N4 não contém “convosco”
 Porém tudo isso aconteceu para que as escrituras dos profetas se cumpram”. Então todos os discípulos, 
 deixando-O, fugiram.
 \v Mt.26.57
-E os que prenderam Jesus o trouxeram a Caifás, o sumo sacerdote, onde os escribas e os anciãos estavam reunidos.
+E os que prenderam Jesus O trouxeram a Caifás, o sumo sacerdote, onde os escribas e os anciãos estavam reunidos.
 \v Mt.26.58
 E Pedro o seguia de longe, até o pátio do sumo sacerdote; e, entrando, assentou-se entre os servos, para ver o fim.
 \v Mt.26.59
@@ -4022,7 +4022,7 @@ Então soltou-lhes Barrabás; porém, havendo açoitado Jesus, entregou-o para s
 \v Mt.27.27
 E logo os soldados do governador, levando Jesus ao pretório, reuniram junto dEle toda a tropa.
 \v Mt.27.28
-E, despindo-o, o cobriram com um manto vermelho.
+E, despindo-O, O cobriram com um manto vermelho.
 \v Mt.27.29
 E, havendo tecido uma coroa de espinhos, puseram-na sobre sua cabeça, e uma cana em sua mão direita. E, ajoelhando-se 
 diante dele, zombavam dele, dizendo: “Saudações, Rei dos Judeus!”
@@ -4054,7 +4054,7 @@ minha túnica lançaram sortes”
 Salmos 22:18
 \*ref
 \v Mt.27.36
-E, sentados, ali o guardavam.
+E, sentados, ali O guardavam.
 \v Mt.27.37
 E por cima de sua cabeça puseram escrita sua acusação: ESTE É JESUS, O REI DOS JUDEUS.
 \v Mt.27.38
@@ -4073,7 +4073,7 @@ E da mesma maneira também os chefes dos sacerdotes, com os escribas, os ancião
 \v Mt.27.43
 Confiou em Deus, livre-o agora, se lhe quer bem; pois disse: ‘Sou Filho de Deus’”.
 \v Mt.27.44
-E os ladrões que estavam crucificados com ele também o insultavam.
+E os ladrões que estavam crucificados com Ele também O insultavam.
 \v Mt.27.45
 E desde a hora sexta
 \fn
@@ -4114,7 +4114,7 @@ E, saindo dos sepulcros, depois da ressurreição dEle, entraram na cidade santa
 E o centurião, e os que com ele guardavam Jesus, vendo o terremoto e as coisas que haviam sucedido, temeram muito, e 
 disseram: “Verdadeiramente este era Filho de Deus”.
 \v Mt.27.55
-E muitas mulheres, que desde a Galileia haviam seguido Jesus, e o serviam, estavam ali, olhando de longe.
+E muitas mulheres, que desde a Galileia haviam seguido Jesus, e O serviam, estavam ali, olhando de longe.
 \v Mt.27.56
 Entre elas estavam Maria Madalena, Maria mãe de Tiago e de José, e a mãe dos filhos de Zebedeu.
 \v Mt.27.57
@@ -4184,12 +4184,12 @@ ali o verão. Eis que eu vos disse.
 Então elas, saindo depressa do sepulcro, com temor e grande alegria, correram para anunciar a Seus discípulos.
 \v Mt.28.9
 E
-, estando elas indo anunciar a seus discípulos,
+, estando elas indo anunciar a Seus discípulos,
 \fn
 N4 não contém “estando elas indo anunciar a seus discípulos”
 \*fn
- eis que Jesus veio ao encontro delas, dizendo: “Saudações”. E elas, aproximando-se, abraçaram-lhe os pés, e 
-o adoraram.
+ eis que Jesus veio ao encontro delas, dizendo: “Saudações”. E elas, aproximando-se, abraçaram-Lhe os pés, e 
+O adoraram.
 \v Mt.28.10
 Jesus, então, lhes disse: “Não temais. Ide, anunciai a Meus irmãos para irem à Galileia; e lá Me verão”.
 \v Mt.28.11
@@ -4198,7 +4198,7 @@ havia acontecido.
 \v Mt.28.12
 E eles, reunindo-se com os anciãos, e formando conselho entre si, deram muito dinheiro aos soldados,
 \v Mt.28.13
-dizendo: “Contem: ‘Os discípulos dele vieram de noite, e o furtaram enquanto estávamos dormindo’.
+dizendo: “Contem: ‘Os discípulos dEle vieram de noite, e O furtaram enquanto estávamos dormindo’.
 \v Mt.28.14
 E, se isso for ouvido pelo governador, nós o convenceremos, e vos manteremos seguros”.
 \v Mt.28.15
@@ -4206,7 +4206,7 @@ E eles, tomando o dinheiro, fizeram como foram instruídos. E esse discurso foi 
 \v Mt.28.16
 E os onze discípulos partiram para a Galileia, ao monte onde Jesus lhes havia ordenado.
 \v Mt.28.17
-E quando o viram, o adoraram; mas alguns duvidaram.
+E quando O viram, O adoraram; mas alguns duvidaram.
 \v Mt.28.18
 E Jesus, aproximando-se, falou-lhes: “Todo o poder Me é dado no céu e na terra.
 \v Mt.28.19
