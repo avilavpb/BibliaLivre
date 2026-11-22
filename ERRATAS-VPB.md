@@ -427,3 +427,7 @@ Marcação usada: o bloco `\added` … `\*added` do formato f4, com cada marcado
 ### Normalização de espaços (conversor)
 
 `conversores/singleLineUSFM.js` ganhou a função `normalizeSpaces`, aplicada a cada versículo da saída USFM de linha única. Ela junta espaços duplos e tira o espaço antes de pontuação; os rótulos de Cantares ficam "Ele:". Também cola a chamada de nota `\f +` à palavra anterior, tira o espaço final de dentro do `\add` e corrige "acusá -lo" para "acusá-lo". Os arquivos f4 não foram editados para isso. Na saída TR completa, depois da mudança, sobram 0 espaços antes de pontuação e 0 espaços duplos fora das referências `\rq`.
+
+### Camada 1 – complemento 3 (1)
+
+- **Am 9.11** – Concordância de gênero: "seus brechas" → "suas brechas"
