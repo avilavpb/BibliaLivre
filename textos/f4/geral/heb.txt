@@ -1611,7 +1611,8 @@ resististes ao ponto de ter o próprio sangue derramado
 Lit. resististes ao sangue, i.e. resististes a ponto de morrer
 \*fn
 \v Hb.12.5
-mas já vos esquecestes do encorajamento que ele fala convosco como a filhos: Meu filho, não desprezes a disciplina 
+{rp|n4}mas já vos esquecestes do encorajamento que ele fala convosco como a filhos: Meu filho, não desprezes a disciplina 
+{tr}mas já vos esquecestes do encorajamento de que Ele fala convosco como a filhos: Meu filho, não desprezes a disciplina 
 {rp|n4}do Senhor, nem te canses de ser reprendido por ele;
 {tr}do Senhor, nem te canses de ser reprendido por Ele;
 \v Hb.12.6

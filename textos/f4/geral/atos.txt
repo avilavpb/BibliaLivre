@@ -1918,10 +1918,11 @@ Cristo
 \v At.13.26
 Homens irmãos, filhos da descendência de Abraão, e os que dentre vós temem a Deus, a vós é enviada a palavra desta salvação.
 \v At.13.27
-Porque os que habitavam em Jerusalém, e seus líderes, não conhecendo a este, ao condenarem 
+{rp|n4}Porque os que habitavam em Jerusalém, e seus líderes, não conhecendo a este, ao condenarem 
+{tr}Porque os que habitavam em Jerusalém, e seus líderes, não conhecendo a este, ao condenarem-
 \added
 {rp|n4}-no
-{tr}-No
+{tr}No
 \*added
 , cumpriram as vozes dos profetas, que são lidas todos os sábados.
 \v At.13.28
@@ -1932,15 +1933,16 @@ mesmo
  achando nenhum motivo para morte, pediram a Pilatos que fosse morto.
 \v At.13.29
 {rp|n4}E tendo eles cumprido todas as coisas que estavam escritas sobre ele, tirando 
-{tr}E tendo eles cumprido todas as coisas que estavam escritas sobre Ele, tirando 
+{tr}E tendo eles cumprido todas as coisas que estavam escritas sobre Ele, tirando-
 \added
 {rp|n4}-o
-{tr}-O
+{tr}O
 \*added
- do madeiro, puseram 
+{rp|n4} do madeiro, puseram 
+{tr} do madeiro, puseram-
 \added
 {rp|n4}-no
-{tr}-No
+{tr}No
 \*added
  na sepultura.
 \v At.13.30

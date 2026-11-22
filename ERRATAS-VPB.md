@@ -593,3 +593,15 @@ Marcelo decidiu um a um os 34 versículos de `revertidos34.md`. Tudo foi aplicad
 34. **Tg.1.13** — Ninguém, quando for tentado, diga: “Sou tentado por Deus”; porque Deus não é tentado pelo mal, e Ele mesmo a ninguém tenta;
 
 Sem mudança, por decisão dele: 4 (Jo 7.35), 8 (Lc 18.9), 15 (Mc 6.51). No item 16 (Mc 9.2), Marcelo indicou só "-Se". O "consigo" de "tomou consigo" (antes proposto como "Consigo") ficou como estava, à espera de confirmação.
+
+### Correções de texto decididas por Marcelo (22/11/2026)
+
+Aplicadas só no TR (n4 intocado; as versões rp/n4 não mudaram).
+
+- **Mc 2.8:** "disse-lhe" passa a "disse-lhes". Jesus fala aos escribas, e o grego TR tem αὐτοῖς. Antes da correção, o TR ainda estava no singular.
+- **Jo 9.12:** "Ele disse ele: “Não sei”" passa a "Disse ele: “Não sei”" (pronome duplicado).
+- **Jo 13.37:** "Pedro Lhe disse-Lhe" passa a "Pedro Lhe disse" (pronome duplicado).
+- **Jo 21.12:** "Jesus lhes disse-lhes" passa a "Jesus lhes disse" (pronome duplicado).
+- **Hb 12.5:** "do encorajamento que ele fala convosco" passa a "do encorajamento de que Ele fala convosco".
+- **At 13.27:** "ao condenarem -No" passa a "ao condenarem-No".
+- **At 13.29:** "tirando -O… puseram -No" passa a "tirando-O… puseram-No". Nos dois versículos, o hífen saiu do itálico, sem espaço antes. O pronome continua em itálico (\added), por ser complemento sem palavra correspondente no grego.

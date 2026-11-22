@@ -1625,7 +1625,7 @@ Ele respondeu, e disse: “Aquele homem chamado Jesus fez lama, aplicou sobre me
 Siloé, e lava-te’. E eu fui, e lavei-me, e vi”.
 \v Joao.9.12
 {rp|n4}Disseram-lhe, pois: “Onde ele está?” Ele disse ele: “Não sei”.
-{tr}Disseram-lhe, pois: “Onde Ele está?” Ele disse ele: “Não sei”.
+{tr}Disseram-lhe, pois: “Onde Ele está?” Disse ele: “Não sei”.
 \v Joao.9.13
 Levaram o que antes era cego aos fariseus.
 \v Joao.9.14
@@ -2416,7 +2416,7 @@ Um novo mandamento eu vos dou: que vós ameis uns aos outros; assim como eu vos 
 {tr}porém depois tu Me seguirás”.
 \v Joao.13.37
 {rp|n4}Pedro lhe disse-lhe: “Senhor, por que não posso te seguir agora? Por ti darei a minha vida”.
-{tr}Pedro Lhe disse-Lhe: “Senhor, por que não posso Te seguir agora? Por Ti darei a minha vida”.
+{tr}Pedro Lhe disse: “Senhor, por que não posso Te seguir agora? Por Ti darei a minha vida”.
 \v Joao.13.38
 {rp|n4}Jesus lhe respondeu: “Tu darás tua vida por mim? Em verdade, em verdade te digo, que o galo não cantará, até que tu me 
 {tr}Jesus lhe respondeu: “Tu darás tua vida por Mim? Em verdade, em verdade te digo, que o galo não cantará, até que tu Me 
@@ -3423,7 +3423,7 @@ Simão Pedro subiu, arrastou a rede para a terra, cheia de cento e cinquenta e t
 rede não se rompeu.
 \v Joao.21.12
 {rp|n4}Jesus lhes disse-lhes: “Vinde, comei”. E nenhum dos discípulos ousava lhe perguntar: “Quem és tu?”, sabendo que era 
-{tr}Jesus lhes disse-lhes: “Vinde, comei”. E nenhum dos discípulos ousava Lhe perguntar: “Quem és Tu?”, sabendo que era 
+{tr}Jesus lhes disse: “Vinde, comei”. E nenhum dos discípulos ousava Lhe perguntar: “Quem és Tu?”, sabendo que era 
 o Senhor.
 \v Joao.21.13
 Então Jesus veio, pegou o pão, e o deu a eles; e semelhantemente o peixe.
