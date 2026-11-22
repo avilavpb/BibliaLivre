@@ -536,3 +536,4 @@ Pedido de Marcelo: revisão versículo a versículo, com julgamento. Para cada p
 - **1Pedro**: 8 versículos, 11 pronomes alterados na revisão manual; 0 casos anotados (`pronomes-divinos/revisao-1pe-duvidosos.md`).
 - **2Pedro**: 1 versículos, 4 pronomes alterados na revisão manual; 0 casos anotados (`pronomes-divinos/revisao-2pe-duvidosos.md`).
 - **1João**: 17 versículos, 33 pronomes alterados na revisão manual; 3 casos anotados (`pronomes-divinos/revisao-1jn-duvidosos.md`).
+- **2João**: 1 versículos, 1 pronomes alterados na revisão manual; 1 casos anotados (`pronomes-divinos/revisao-2jn-duvidosos.md`).
