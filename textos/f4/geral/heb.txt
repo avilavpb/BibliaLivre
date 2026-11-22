@@ -35,10 +35,13 @@ O Filho
 \*added
  é o resplendor da 
 \added
-sua
+{rp|n4}sua
+{tr}Sua
 \*added
- glória, a expressa imagem da sua pessoa, e sustenta todas as coisas pela 
-{tr|rp}sua
+{rp|n4} glória, a expressa imagem da sua pessoa, e sustenta todas as coisas pela 
+{tr} glória, a expressa imagem da Sua pessoa, e sustenta todas as coisas pela 
+{rp}sua
+{tr}Sua
 {trnc}\fn
 {trnc}N4 não contém “sua”
 {trnc}\*fn
@@ -50,7 +53,8 @@ sua
 {tr|rp}lit. palavra de seu poder
 {tr|rp}\*fn
  E, depois de fazer
-{tr|n4} por si mesmo
+{n4} por si mesmo
+{tr} por Si mesmo
 {trnc}\fn
 {trnc}RP não contém “por si mesmo”
 {trnc}\*fn
@@ -72,7 +76,7 @@ Pois a qual dos anjos
 Deus
 \*added
 {rp|n4} jamais disse: “Tu és meu Filho, eu hoje te gerei”, 
-{tr} jamais disse: “Tu és Meu Filho, eu hoje te gerei”, 
+{tr} jamais disse: “Tu és Meu Filho, eu hoje Te gerei”, 
 \ref
 Salmos 2:7 
 \*ref
@@ -82,12 +86,14 @@ Salmos 2:7
 2 Samuel 7:14, 1 Crônicas 17:13 
 \*ref
 \v Hb.1.6
-E outra vez, quando introduz o primogênito ao mundo, diz: E todos os anjos de Deus o adorem. 
+{rp|n4}E outra vez, quando introduz o primogênito ao mundo, diz: E todos os anjos de Deus o adorem. 
+{tr}E outra vez, quando introduz o primogênito ao mundo, diz: E todos os anjos de Deus O adorem. 
 \ref
 Salmos 97:7 
 \*ref
 \v Hb.1.7
-Quanto aos anjos, porém, ele diz: Ele faz de seus anjos espíritos; e de seus trabalhadores, labareda de fogo; 
+{rp|n4}Quanto aos anjos, porém, ele diz: Ele faz de seus anjos espíritos; e de seus trabalhadores, labareda de fogo; 
+{tr}Quanto aos anjos, porém, Ele diz: Ele faz de Seus anjos espíritos; e de Seus trabalhadores, labareda de fogo; 
 \ref
 Salmos 104:4 
 \*ref
@@ -96,14 +102,17 @@ Mas ao Filho
 \added
 diz
 \*added
- : Ó Deus, o teu trono é para todo o sempre. Cetro de equidade é o cetro do teu Reino.
+{rp|n4} : Ó Deus, o teu trono é para todo o sempre. Cetro de equidade é o cetro do teu Reino.
+{tr} : Ó Deus, o Teu trono é para todo o sempre. Cetro de equidade é o cetro do Teu Reino.
 \v Hb.1.9
-Amaste a justiça, e odiaste a transgressão; por isso, Deus, o teu Deus, te ungiu com óleo de alegria mais que os teus companheiros. 
+{rp|n4}Amaste a justiça, e odiaste a transgressão; por isso, Deus, o teu Deus, te ungiu com óleo de alegria mais que os teus companheiros. 
+{tr}Amaste a justiça, e odiaste a transgressão; por isso, Deus, o Teu Deus, Te ungiu com óleo de alegria mais que os Teus companheiros. 
 \ref
 Salmos 45:6-7 
 \*ref
 \v Hb.1.10
-E: Tu Senhor, no princípio fundaste a terra, e os céus são obras de tuas mãos.
+{rp|n4}E: Tu Senhor, no princípio fundaste a terra, e os céus são obras de tuas mãos.
+{tr}E: Tu Senhor, no princípio fundaste a terra, e os céus são obras de Tuas mãos.
 \v Hb.1.11
 {rp|n4}Eles perecerão, mas tu continuas. Todos eles como roupa se envelhecerão;
 {tr}Eles perecerão, mas Tu continuas. Todos eles como roupa se envelhecerão;
@@ -124,7 +133,7 @@ Salmos 102:25-27
 \*ref
 \v Hb.1.13
 {rp|n4}E a qual dos anjos ele jamais disse: Senta-te à minha direita, até que eu ponha os teus inimigos como estrado de teus pés? 
-{tr}E a qual dos anjos Ele jamais disse: Senta-te à Minha direita, até que eu ponha os teus inimigos como estrado de teus pés? 
+{tr}E a qual dos anjos Ele jamais disse: Senta-Te à Minha direita, até que eu ponha os Teus inimigos como estrado de Teus pés? 
 \ref
 Salmos 110:1 
 \*ref
@@ -147,7 +156,7 @@ como nós escaparemos, se descuidarmos de tão grande salvação? Ela, que come�
 {tr}Mas em certo lugar alguém testemunhou, dizendo: O que é o homem, para que Te lembres dele? Ou o filho do homem, para que o visites?
 \v Hb.2.7
 Tu o fizeste um pouco menor que os anjos, de glória e de honra o coroaste, 
-{tr} e o estabeleceste sobre as obras das tuas mãos;
+{tr} e o estabeleceste sobre as obras das Tuas mãos;
 {trnc}\fn
 {trnc}RP, N4 não contêm “e o estabeleceste sobre as obras das tuas mãos”
 {trnc}\*fn
@@ -155,7 +164,8 @@ Tu o fizeste um pouco menor que os anjos, de glória e de honra o coroaste,
 {rp|n4}TR contém adicionalmente: “estabeleceste sobre as obras das tuas mãos” ao final do versículo
 {rp|n4}\*fn
 \v Hb.2.8
-Sujeitaste todas as coisas debaixo de seus pés. Pois ao lhe sujeitar todas as coisas, nada deixou que não fosse sujeito a ele; porém agora ainda não vemos todas as coisas sendo sujeitas a ele. 
+{rp|n4}Sujeitaste todas as coisas debaixo de seus pés. Pois ao lhe sujeitar todas as coisas, nada deixou que não fosse sujeito a ele; porém agora ainda não vemos todas as coisas sendo sujeitas a ele. 
+{tr}Sujeitaste todas as coisas debaixo de seus pés. Pois ao Lhe sujeitar todas as coisas, nada deixou que não fosse sujeito a Ele; porém agora ainda não vemos todas as coisas sendo sujeitas a Ele. 
 \ref
 Salmos 8:4-6 
 \*ref
@@ -191,7 +201,8 @@ E outra vez: Nele confiarei.
 \ref
 Isaías 8:17 
 \*ref
-E outra vez: Eis-me aqui, com os filhos que Deus me deu. 
+{rp|n4}E outra vez: Eis-me aqui, com os filhos que Deus me deu. 
+{tr}E outra vez: Eis-Me aqui, com os filhos que Deus Me deu. 
 \ref
 Ref. Isaías 8:18 
 \*ref
@@ -203,11 +214,13 @@ Portanto, uma vez que os filhos compartilham
 {trnc}\fn
 {trnc}N4 troca a ordem entre “carne” e “sangue”
 {trnc}\*fn
- também ele, semelhantemente, participou das mesmas coisas, a fim de pela morte aniquilar ao que tinha o poder da morte, isto é, o diabo;
+{rp|n4} também ele, semelhantemente, participou das mesmas coisas, a fim de pela morte aniquilar ao que tinha o poder da morte, isto é, o diabo;
+{tr} também Ele, semelhantemente, participou das mesmas coisas, a fim de pela morte aniquilar ao que tinha o poder da morte, isto é, o diabo;
 \v Hb.2.15
 e libertar a todos os que, por medo da morte, estavam sujeitos à servidão durante a vida toda.
 \v Hb.2.16
-Pois, evidentemente, não é aos anjos que ele ajuda, mas sim, ajuda à descendência
+{rp|n4}Pois, evidentemente, não é aos anjos que ele ajuda, mas sim, ajuda à descendência
+{tr}Pois, evidentemente, não é aos anjos que Ele ajuda, mas sim, ajuda à descendência
 \fn
 \key
 descendência
@@ -216,7 +229,8 @@ lit. semente
 \*fn
  de Abraão.
 \v Hb.2.17
-Por isso era necessário que em tudo ele se tornasse semelhante aos irmãos, para ser misericordioso e fiel Sumo Sacerdote nas coisas 
+{rp|n4}Por isso era necessário que em tudo ele se tornasse semelhante aos irmãos, para ser misericordioso e fiel Sumo Sacerdote nas coisas 
+{tr}Por isso era necessário que em tudo Ele se tornasse semelhante aos irmãos, para ser misericordioso e fiel Sumo Sacerdote nas coisas 
 \added
 relativas
 \*added
@@ -229,7 +243,8 @@ equiv. reconciliação, propiciação. A palavra grega se refere ao apaziguament
 \*fn
  dos pecados do povo.
 \v Hb.2.18
-Pois, naquilo em que ele mesmo sofreu ao ser tentado, ele pode socorrer aos que são tentados.
+{rp|n4}Pois, naquilo em que ele mesmo sofreu ao ser tentado, ele pode socorrer aos que são tentados.
+{tr}Pois, naquilo em que Ele mesmo sofreu ao ser tentado, Ele pode socorrer aos que são tentados.
 \v Hb.3.1
 Portanto, santos irmãos, participantes do chamado celestial, considerai o Apóstolo e Sumo Sacerdote da nossa declaração de fé, 
 {tr}Cristo Jesus
@@ -241,7 +256,7 @@ Portanto, santos irmãos, participantes do chamado celestial, considerai o Após
 {trnc}\*fn
 \v Hb.3.2
 {rp|n4}Ele é fiel àquele que o constituiu, assim como Moisés também foi em toda a casa de Deus.
-{tr}Ele é fiel àquele que o constituiu, assim como Moisés também foi em toda a sua casa.
+{tr}Ele é fiel àquele que O constituiu, assim como Moisés também foi em toda a Sua casa.
 {rp|n4}\fn
 {rp|n4}\key
 {rp|n4}casa de Deus
@@ -249,7 +264,8 @@ Portanto, santos irmãos, participantes do chamado celestial, considerai o Após
 {rp|n4}lit. sua casa. Também no v. 5
 {rp|n4}\*fn
 \v Hb.3.3
-Pois ele é estimado como digno de maior glória do que Moisés, assim como mais honra do que a casa tem quem a construiu.
+{rp|n4}Pois ele é estimado como digno de maior glória do que Moisés, assim como mais honra do que a casa tem quem a construiu.
+{tr}Pois Ele é estimado como digno de maior glória do que Moisés, assim como mais honra do que a casa tem quem a construiu.
 \v Hb.3.4
 Porque toda casa é construída por alguém; mas aquele que construiu todas as coisas é Deus.
 \v Hb.3.5
@@ -260,7 +276,8 @@ mas Cristo
 \added
 é fiel
 \*added
- como Filho sobre a sua casa. E nós somos sua casa, se até o fim mantivermos firmes a confiança e o orgulho da 
+{rp|n4} como Filho sobre a sua casa. E nós somos sua casa, se até o fim mantivermos firmes a confiança e o orgulho da 
+{tr} como Filho sobre a Sua casa. E nós somos Sua casa, se até o fim mantivermos firmes a confiança e o orgulho da 
 \added
 nossa
 \*added
@@ -308,7 +325,8 @@ i.e. ancestrais
 {rp|n4} e viram as minhas obras por quarenta anos.
 {tr} e viram as Minhas obras por quarenta anos.
 \v Hb.3.10
-Por isso me indignei contra essa geração, e disse: “Eles sempre se desviam nos corações, e não conheceram os meus caminhos”;
+{rp|n4}Por isso me indignei contra essa geração, e disse: “Eles sempre se desviam nos corações, e não conheceram os meus caminhos”;
+{tr}Por isso Me indignei contra essa geração, e disse: “Eles sempre se desviam nos corações, e não conheceram os Meus caminhos”;
 \v Hb.3.11
 {rp|n4}Então jurei na minha ira: “Eles não entrarão no meu repouso”. 
 {tr}Então jurei na Minha ira: “Eles não entrarão no Meu repouso”. 
@@ -366,7 +384,8 @@ ou: rebelaram-se
 {tr}Muitas traduções interpretam a frase na forma de perguntas: “Pois quais foram os que, mesmo ouvindo, provocaram-no [à ira] ? Não foram todos aqueles que saíram do Egito por meio de Moisés?
 {tr}\*fn
 \v Hb.3.17
-E contra quais ele se indignou por quarenta anos? Não foi contra os que pecaram, cujos corpos caíram no deserto?
+{rp|n4}E contra quais ele se indignou por quarenta anos? Não foi contra os que pecaram, cujos corpos caíram no deserto?
+{tr}E contra quais Ele se indignou por quarenta anos? Não foi contra os que pecaram, cujos corpos caíram no deserto?
 \v Hb.3.18
 {rp|n4}E a quem ele jurou que não entrariam no seu repouso, senão aos que foram desobedientes?
 {tr}E a quem Ele jurou que não entrariam no Seu repouso, senão aos que foram desobedientes?
@@ -389,9 +408,10 @@ a
  ouviram.
 \v Hb.4.3
 {rp|n4}Porque nós, os que cremos, entramos no repouso, como ele disse: Então jurei na minha ira: “Eles não entrarão no meu repouso”; ainda que as 
-{tr}Porque nós, os que cremos, entramos no repouso, como ele disse: Então jurei na Minha ira: “Eles não entrarão no Meu repouso”; ainda que as 
+{tr}Porque nós, os que cremos, entramos no repouso, como Ele disse: Então jurei na Minha ira: “Eles não entrarão no Meu repouso”; ainda que as 
 \added
-suas
+{rp|n4}suas
+{tr}Suas
 \*added
  obras já estivessem terminadas desde a fundação do mundo.
 \v Hb.4.4
@@ -422,20 +442,24 @@ lit. nele
 \*fn
  e que aqueles a quem primeiramente foi pregado o evangelho não entraram por causa da desobediência,
 \v Hb.4.7
-outra vez ele determina um certo dia, o “hoje”, dizendo por meio de Davi muito tempo depois (como já foi dito): Hoje, se ouvirdes a sua voz, não endureçais os vossos corações.
+{rp|n4}outra vez ele determina um certo dia, o “hoje”, dizendo por meio de Davi muito tempo depois (como já foi dito): Hoje, se ouvirdes a sua voz, não endureçais os vossos corações.
+{tr}outra vez Ele determina um certo dia, o “hoje”, dizendo por meio de Davi muito tempo depois (como já foi dito): Hoje, se ouvirdes a Sua voz, não endureçais os vossos corações.
 \v Hb.4.8
-Pois se Josué tivesse lhes dado repouso, ele não teria falado depois a respeito de outro dia.
+{rp|n4}Pois se Josué tivesse lhes dado repouso, ele não teria falado depois a respeito de outro dia.
+{tr}Pois se Josué tivesse lhes dado repouso, Ele não teria falado depois a respeito de outro dia.
 \v Hb.4.9
 Portanto, ainda resta um repouso como o do sábado para o povo de Deus.
 \v Hb.4.10
-Pois aquele que entrou no seu repouso também repousou das suas obras, assim como Deus das suas.
+{rp|n4}Pois aquele que entrou no seu repouso também repousou das suas obras, assim como Deus das suas.
+{tr}Pois aquele que entrou no Seu repouso também repousou das suas obras, assim como Deus das Suas.
 \v Hb.4.11
 Procuremos, pois, entrar naquele repouso; para que ninguém caia no mesmo exemplo de desobediência.
 \v Hb.4.12
 Porque a palavra de Deus é viva e eficaz, e mais afiada do que toda espada de dois gumes, e que penetra até a divisão da alma e do espírito, das juntas e das medulas, e é apta para 
 julgar os pensamentos e intenções do coração.
 \v Hb.4.13
-E não há criatura alguma encoberta diante dele; pelo contrário, todas as coisas estão nuas e expostas aos olhos 
+{rp|n4}E não há criatura alguma encoberta diante dele; pelo contrário, todas as coisas estão nuas e expostas aos olhos 
+{tr}E não há criatura alguma encoberta diante dEle; pelo contrário, todas as coisas estão nuas e expostas aos olhos 
 daquele a quem temos de prestar contas.
 \v Hb.4.14
 Visto que temos um grande Sumo Sacerdote, Jesus, o Filho de Deus, que penetrou nos céus, mantenhamos firme a 
@@ -482,7 +506,7 @@ E ninguém toma para si esta honra, a não ser aquele que é chamado por Deus, c
 {rp|n4}Assim também Cristo não glorificou a si mesmo para se fazer Sumo Sacerdote; mas sim, àquele que lhe disse: Tu és 
 {tr}Assim também Cristo não glorificou a Si mesmo para se fazer Sumo Sacerdote; mas sim, àquele que Lhe disse: Tu és 
 {rp|n4}meu Filho, eu hoje te gerei.
-{tr}Meu Filho, eu hoje te gerei.
+{tr}Meu Filho, eu hoje Te gerei.
 \v Hb.5.6
 Como também diz em outro 
 \added
@@ -493,8 +517,10 @@ texto
 Salmos 110:4 
 \*ref
 \v Hb.5.7
-Ele, nos dias de seu corpo carnal, ofereceu com grande clamor e lágrimas, tanto orações como súplicas para 
-aquele que podia o livrar da morte, e foi ouvido por causa da devoção.
+{rp|n4}Ele, nos dias de seu corpo carnal, ofereceu com grande clamor e lágrimas, tanto orações como súplicas para 
+{tr}Ele, nos dias de Seu corpo carnal, ofereceu com grande clamor e lágrimas, tanto orações como súplicas para 
+{rp|n4}aquele que podia o livrar da morte, e foi ouvido por causa da devoção.
+{tr}aquele que podia O livrar da morte, e foi ouvido por causa da devoção.
 \fn
 \key
 devoção
@@ -502,9 +528,11 @@ devoção
 ou: temor
 \*fn
 \v Hb.5.8
-Ainda que ele era o Filho, aprendeu a obediência por meio das coisas que sofreu.
+{rp|n4}Ainda que ele era o Filho, aprendeu a obediência por meio das coisas que sofreu.
+{tr}Ainda que Ele era o Filho, aprendeu a obediência por meio das coisas que sofreu.
 \v Hb.5.9
-E, depois de ter sido consumado, ele foi feito autor da eterna salvação a todos os que lhe obedecem;
+{rp|n4}E, depois de ter sido consumado, ele foi feito autor da eterna salvação a todos os que lhe obedecem;
+{tr}E, depois de ter sido consumado, Ele foi feito autor da eterna salvação a todos os que Lhe obedecem;
 \v Hb.5.10
 e nomeado por Deus como Sumo Sacerdote, segundo a ordem de Melquisedeque.
 \v Hb.5.11
@@ -765,7 +793,8 @@ Dos outros, são muitos os que se tornaram sacerdotes, pois pela morte foram imp
 {rp|n4}mas ele, porque permanece para sempre, tem um sacerdócio definitivo.
 {tr}mas Ele, porque permanece para sempre, tem um sacerdócio definitivo.
 \v Hb.7.25
-Portanto, ele também pode salvar de maneira completa os que se aproximam de Deus por meio dele, visto que ele vive para sempre para interceder por eles.
+{rp|n4}Portanto, ele também pode salvar de maneira completa os que se aproximam de Deus por meio dele, visto que ele vive para sempre para interceder por eles.
+{tr}Portanto, Ele também pode salvar de maneira completa os que se aproximam de Deus por meio dEle, visto que Ele vive para sempre para interceder por eles.
 \v Hb.7.26
 Pois nos era conveniente tal Sumo Sacerdote: santo, inocente, incontaminado, separado dos pecadores, e feito mais elevado que os céus;
 \v Hb.7.27
@@ -797,7 +826,8 @@ ou: ministro
 \v Hb.8.3
 Pois todo sumo sacerdote é constituído para apresentar tanto ofertas como sacrifícios; por isso era necessário que também este tivesse alguma coisa a oferecer.
 \v Hb.8.4
-Mas, se ele 
+{rp|n4}Mas, se ele 
+{tr}Mas, se Ele 
 \added
 ainda
 \*added
@@ -910,11 +940,13 @@ Jeremias 31:31-34
 {trnc}N4 não contém “e das suas transgressões”
 {trnc}\*fn
 \v Hb.8.13
-Quando ele disse: “Novo 
+{rp|n4}Quando ele disse: “Novo 
+{tr}Quando Ele disse: “Novo 
 \added
 pacto
 \*added
-”, ele tornou o primeiro ultrapassado. Ora, o que se torna ultrapassado e envelhece está perto de desaparecer.
+{rp|n4}”, ele tornou o primeiro ultrapassado. Ora, o que se torna ultrapassado e envelhece está perto de desaparecer.
+{tr}”, Ele tornou o primeiro ultrapassado. Ora, o que se torna ultrapassado e envelhece está perto de desaparecer.
 \v Hb.9.1
 O primeiro 
 \added
@@ -980,11 +1012,13 @@ lit. carne – também no v. 13
 \v Hb.9.11
 Mas quando veio Cristo, o Sumo Sacerdote dos bens futuros, por meio de um Tabernáculo maior e mais perfeito, não feito por mãos, isto é, não desta criação;
 \v Hb.9.12
-ele entrou de uma vez por todas no Santuário,
+{rp|n4}ele entrou de uma vez por todas no Santuário,
+{tr}Ele entrou de uma vez por todas no Santuário,
 \fn
 Há controvérsia se a referência é ao lugar Santo, ou ao Santo dos Santos
 \*fn
- e obteve uma redenção eterna, não pelo sangue de bodes e bezerros, mas sim, pelo seu próprio sangue.
+{rp|n4} e obteve uma redenção eterna, não pelo sangue de bodes e bezerros, mas sim, pelo seu próprio sangue.
+{tr} e obteve uma redenção eterna, não pelo sangue de bodes e bezerros, mas sim, pelo Seu próprio sangue.
 \v Hb.9.13
 Pois, se o sangue de 
 {tr|rp}touros e bodes
@@ -1010,7 +1044,8 @@ Pois, se o sangue de
 {trnc}\*fn
  ao Deus vivo!
 \v Hb.9.15
-E por isso ele é o Mediador de um Novo Testamento,
+{rp|n4}E por isso ele é o Mediador de um Novo Testamento,
+{tr}E por isso Ele é o Mediador de um Novo Testamento,
 \fn
 \key
 Testamento
@@ -1067,7 +1102,8 @@ entrou
 {rp|n4} para oferecer a si mesmo muitas vezes, como o sumo sacerdote entra a cada ano no santuário com sangue alheio;
 {tr} para oferecer a Si mesmo muitas vezes, como o sumo sacerdote entra a cada ano no santuário com sangue alheio;
 \v Hb.9.26
-(de outra maneira lhe seria necessário padecer muitas vezes desde a fundação do mundo), mas agora, no fim dos tempos, ele se manifestou de uma vez por todas para aniquilar o pecado pelo sacrifício de si mesmo.
+{rp|n4}(de outra maneira lhe seria necessário padecer muitas vezes desde a fundação do mundo), mas agora, no fim dos tempos, ele se manifestou de uma vez por todas para aniquilar o pecado pelo sacrifício de si mesmo.
+{tr}(de outra maneira Lhe seria necessário padecer muitas vezes desde a fundação do mundo), mas agora, no fim dos tempos, Ele se manifestou de uma vez por todas para aniquilar o pecado pelo sacrifício de Si mesmo.
 \v Hb.9.27
 E, como está ordenado aos seres humanos morrerem uma vez, e depois disso, o juízo,
 \v Hb.9.28
@@ -1098,11 +1134,13 @@ se faz
 porque é impossível que o sangue de touros e de bodes tire pecados.
 \v Hb.10.5
 {rp|n4}Por isso que, quando ele entrou no mundo, disse: Sacrifício e oferta não quiseste, mas me preparaste um corpo.
-{tr}Por isso que, quando ele entrou no mundo, disse: Sacrifício e oferta não quiseste, mas Me preparaste um corpo.
+{tr}Por isso que, quando Ele entrou no mundo, disse: Sacrifício e oferta não quiseste, mas Me preparaste um corpo.
 \v Hb.10.6
-Ofertas de queima e ofertas pelo pecado não te agradaram.
+{rp|n4}Ofertas de queima e ofertas pelo pecado não te agradaram.
+{tr}Ofertas de queima e ofertas pelo pecado não Te agradaram.
 \v Hb.10.7
-Então eu disse: “Eis-me aqui; (no rolo do livro está escrito de mim) venho para fazer a tua vontade, ó Deus”. 
+{rp|n4}Então eu disse: “Eis-me aqui; (no rolo do livro está escrito de mim) venho para fazer a tua vontade, ó Deus”. 
+{tr}Então eu disse: “Eis-Me aqui; (no rolo do livro está escrito de Mim) venho para fazer a Tua vontade, ó Deus”. 
 \ref
 Salmos 40:6-8 
 \*ref
@@ -1117,7 +1155,8 @@ Depois de ter dito acima: “
 {rp|n4} holocaustos, e ofertas pelo pecado não quiseste, nem te agradaram”, (os quais se oferecem segundo a Lei),
 {tr} holocaustos, e ofertas pelo pecado não quiseste, nem Te agradaram”, (os quais se oferecem segundo a Lei),
 \v Hb.10.9
-então disse: “Eis-me aqui, venho para fazer a tua vontade
+{rp|n4}então disse: “Eis-me aqui, venho para fazer a tua vontade
+{tr}então disse: “Eis-Me aqui, venho para fazer a Tua vontade
 {tr|rp}, ó Deus
 ”. 
 {trnc}\fn
@@ -1127,7 +1166,8 @@ então disse: “Eis-me aqui, venho para fazer a tua vontade
 \added
 Assim
 \*added
-, ele cancela
+{rp|n4}, ele cancela
+{tr}, Ele cancela
 \fn
 \key
 cancela
@@ -1206,7 +1246,8 @@ Há controvérsia se a referência é ao lugar Santo, ou ao Santo dos Santos
 \*fn
  pelo sangue de Jesus,
 \v Hb.10.20
-pelo caminho novo e vivo que ele consagrou para nós através do véu, isto é, pela sua carne;
+{rp|n4}pelo caminho novo e vivo que ele consagrou para nós através do véu, isto é, pela sua carne;
+{tr}pelo caminho novo e vivo que Ele consagrou para nós através do véu, isto é, pela Sua carne;
 \v Hb.10.21
 e já que temos um grande Sacerdote sobre a casa de Deus,
 \v Hb.10.22
@@ -1274,7 +1315,8 @@ lit. considerou profano (ou banal)
 {trnc}\fn
 {trnc}N4 não contém “diz o Senhor”
 {trnc}\*fn
- E outra vez: O Senhor julgará o seu povo. 
+{rp|n4} E outra vez: O Senhor julgará o seu povo. 
+{tr} E outra vez: O Senhor julgará o Seu povo. 
 \ref
 Deuteronômio 32:35,36 
 \*ref
@@ -1319,7 +1361,8 @@ Mas o
 {trnc}\fn
 {trnc}N4: meu justo
 {trnc}\*fn
- viverá pela fé; e se ele retroceder, a minha alma não tem prazer nele. 
+{rp|n4} viverá pela fé; e se ele retroceder, a minha alma não tem prazer nele. 
+{tr} viverá pela fé; e se ele retroceder, a Minha alma não tem prazer nele. 
 \ref
 Habacuque 2:4 
 \*ref
@@ -1366,7 +1409,8 @@ Ora, sem fé é impossível agradar
 \added
 a Deus
 \*added
-. Pois é necessário que aquele que se aproxima de Deus creia que ele existe, e que ele é recompensador dos que o buscam.
+{rp|n4}. Pois é necessário que aquele que se aproxima de Deus creia que ele existe, e que ele é recompensador dos que o buscam.
+{tr}. Pois é necessário que aquele que se aproxima de Deus creia que Ele existe, e que Ele é recompensador dos que O buscam.
 \v Hb.11.7
 Pela fé, Noé, divinamente advertido das coisas que ainda se não viam, temeu; e, para salvamento de sua família construiu a arca. Por meio da fé
 \fn
@@ -1551,10 +1595,12 @@ i.e. para que eles fossem aperfeiçoados somente conosco
 Portanto nós também, posto que estamos rodeados por uma tão grande nuvem de testemunhas, deixemos toda sobrecarga, 
 e o pecado que facilmente nos envolve, e corramos com perseverança a corrida que nos está proposta,
 \v Hb.12.2
-olhando para Jesus, Autor e aperfeiçoador da fé. Ele, pela alegria que lhe estava proposta, suportou a cruz, 
+{rp|n4}olhando para Jesus, Autor e aperfeiçoador da fé. Ele, pela alegria que lhe estava proposta, suportou a cruz, 
+{tr}olhando para Jesus, Autor e aperfeiçoador da fé. Ele, pela alegria que Lhe estava proposta, suportou a cruz, 
 desprezando a humilhação, e assentou-se à direita do trono de Deus.
 \v Hb.12.3
-Considerai, pois, aquele que suportou tal hostilidade dos pecadores contra si mesmo, para que não fiqueis exaustos, 
+{rp|n4}Considerai, pois, aquele que suportou tal hostilidade dos pecadores contra si mesmo, para que não fiqueis exaustos, 
+{tr}Considerai, pois, aquele que suportou tal hostilidade dos pecadores contra Si mesmo, para que não fiqueis exaustos, 
 nem vossas almas se debilitem.
 \v Hb.12.4
 Enquanto lutais contra o pecado, ainda não resististes ao ponto de ter o próprio sangue derramado,
@@ -1566,7 +1612,8 @@ Lit. resististes ao sangue, i.e. resististes a ponto de morrer
 \*fn
 \v Hb.12.5
 mas já vos esquecestes do encorajamento que ele fala convosco como a filhos: Meu filho, não desprezes a disciplina 
-do Senhor, nem te canses de ser reprendido por ele;
+{rp|n4}do Senhor, nem te canses de ser reprendido por ele;
+{tr}do Senhor, nem te canses de ser reprendido por Ele;
 \v Hb.12.6
 pois o Senhor disciplina a quem ama, e açoita a todo filho a quem recebe. 
 \ref
@@ -1675,7 +1722,8 @@ nos adverte
 \*added
  dos Céus.
 \v Hb.12.26
-Sua voz fez a terra tremer naquela ocasião, mas agora ele prometeu, dizendo: Ainda uma vez 
+{rp|n4}Sua voz fez a terra tremer naquela ocasião, mas agora ele prometeu, dizendo: Ainda uma vez 
+{tr}Sua voz fez a terra tremer naquela ocasião, mas agora Ele prometeu, dizendo: Ainda uma vez 
 {tr|rp}faço
 {n4}farei
  tremer
